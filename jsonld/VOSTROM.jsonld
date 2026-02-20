@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:f1f109a9-bc1a-46ea-a86c-0bcbd3768f76",
+            "@id": "_:9b8bc69f-a6e8-4e97-bfdc-c5776efce094",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/VOSTROM",
-            "spdx:timestamp": "2026-02-20T19:16:53Z",
+            "spdx:timestamp": "2026-02-20T20:53:27Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:f1f109a9-bc1a-46ea-a86c-0bcbd3768f76"
+                "@id": "_:9b8bc69f-a6e8-4e97-bfdc-c5776efce094"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

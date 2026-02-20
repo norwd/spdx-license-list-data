@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:cacb611b-e841-405e-8662-850dbed987cb",
+            "@id": "_:f87ede66-e30a-4109-ac34-a098041acf56",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://math.nist.gov/tnt/download.html",
-            "spdx:timestamp": "2026-02-20T19:17:28Z",
+            "spdx:timestamp": "2026-02-20T20:54:26Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -35,7 +35,7 @@
             "spdx:standardLicenseTemplate": "This software was developed at the National Institute of Standards and Technology (NIST) by employees of the Federal Government in the course of their official duties. Pursuant to title 17 Section 105 of the United States Code this software is not subject to copyright protection and is in the public domain. NIST assumes no responsibility whatsoever for its use by other parties, and makes no guarantees, expressed or implied, about its quality, reliability, or any other characteristic.\n\nWe would appreciate acknowledgement if the software is incorporated in redistributable libraries or applications.\n\n",
             "rdfs:comment": "This is similar in spirit to NIST-PD, but has some different disclaimer or warranties and omits the last sentence in the first paragraph of NIST-PD",
             "spdx:crossRef": {
-                "@id": "_:cacb611b-e841-405e-8662-850dbed987cb"
+                "@id": "_:f87ede66-e30a-4109-ac34-a098041acf56"
             },
             "spdx:licenseText": "This software was developed at the National Institute of Standards and Technology (NIST) by employees of the Federal Government in the course of their official duties. Pursuant to title 17 Section 105 of the United States Code this software is not subject to copyright protection and is in the public domain. NIST assumes no responsibility whatsoever for its use by other parties, and makes no guarantees, expressed or implied, about its quality, reliability, or any other characteristic.\n\nWe would appreciate acknowledgement if the software is incorporated in redistributable libraries or applications.\n",
             "spdx:name": "NIST    Public Domain Notice TNT variant",

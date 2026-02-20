@@ -1,59 +1,13 @@
 {
     "@graph": [
         {
-            "@id": "_:296a9481-8a31-4ba2-bd4a-99a8c4609e1d",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://ec.europa.eu/idabc/servlets/Doc027f.pdf?id=31096",
-            "spdx:timestamp": "2026-02-20T19:18:33Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:f3c2d845-1cdd-4580-8927-aa76e3188185",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://ec.europa.eu/idabc/en/document/7330.html",
-            "spdx:timestamp": "2026-02-20T19:18:32Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/EUPL-1.0",
             "spdx:crossRef": [
                 {
-                    "@id": "_:296a9481-8a31-4ba2-bd4a-99a8c4609e1d"
+                    "@id": "_:328261bf-4470-4ce8-a0b4-f07a3f95c290"
                 },
                 {
-                    "@id": "_:f3c2d845-1cdd-4580-8927-aa76e3188185"
+                    "@id": "_:76ac3e40-e56f-4cf4-9711-b31e971ea369"
                 }
             ],
             "rdfs:seeAlso": [
@@ -74,6 +28,52 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
+        },
+        {
+            "@id": "_:328261bf-4470-4ce8-a0b4-f07a3f95c290",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://ec.europa.eu/idabc/en/document/7330.html",
+            "spdx:timestamp": "2026-02-20T20:56:42Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:76ac3e40-e56f-4cf4-9711-b31e971ea369",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://ec.europa.eu/idabc/servlets/Doc027f.pdf?id=31096",
+            "spdx:timestamp": "2026-02-20T20:56:43Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

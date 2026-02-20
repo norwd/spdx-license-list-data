@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:12797c2c-888b-4264-b786-51c4a604e168",
+            "@id": "_:fb46163b-2019-48fb-b14c-e1e2438a58c0",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://rc.quest.com/topics/openssh/license.php#tcpwrappers",
-            "spdx:timestamp": "2026-02-20T19:20:55Z",
+            "spdx:timestamp": "2026-02-20T21:02:28Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:12797c2c-888b-4264-b786-51c4a604e168"
+                "@id": "_:fb46163b-2019-48fb-b14c-e1e2438a58c0"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

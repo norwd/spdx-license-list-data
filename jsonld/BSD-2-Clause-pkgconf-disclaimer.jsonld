@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:fcabc8be-8c9a-4853-855d-fb3e9bb2078b",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/audacious-media-player/audacious/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T19:16:48Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:66ed881a-2c46-4794-850f-3d2e237bc6cd",
+            "@id": "_:26202a58-17b3-47e7-a188-509d46fb7f14",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,9 +15,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/audacious-media-player/audacious/blob/master/src/audacious/main.cc",
-            "spdx:timestamp": "2026-02-20T19:16:47Z",
+            "spdx:timestamp": "2026-02-20T20:53:21Z",
             "spdx:order": {
                 "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:023d8daa-a3ef-402b-b467-f3aa9b19e901",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/audacious-media-player/audacious/blob/master/COPYING",
+            "spdx:timestamp": "2026-02-20T20:53:22Z",
+            "spdx:order": {
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
@@ -57,10 +57,10 @@
             "spdx:name": "BSD 2-Clause pkgconf disclaimer variant",
             "spdx:crossRef": [
                 {
-                    "@id": "_:66ed881a-2c46-4794-850f-3d2e237bc6cd"
+                    "@id": "_:023d8daa-a3ef-402b-b467-f3aa9b19e901"
                 },
                 {
-                    "@id": "_:fcabc8be-8c9a-4853-855d-fb3e9bb2078b"
+                    "@id": "_:26202a58-17b3-47e7-a188-509d46fb7f14"
                 }
             ],
             "@type": "spdx:ListedLicense",

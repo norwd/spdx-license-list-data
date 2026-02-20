@@ -1,36 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "http://spdx.org/licenses/softSurfer",
-            "spdx:licenseText": "Copyright 2001, softSurfer (www.softsurfer.com)\nThis code may be freely used and modified for any purpose                                                                                                                                \nproviding that this copyright notice is included with it.\nSoftSurfer makes no warranty for this code, and cannot be held\nliable for any real or imagined damage resulting from its use.\nUsers of this code must verify correctness for their application.\n",
-            "spdx:isOsiApproved": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "@type": "spdx:ListedLicense",
-            "spdx:name": "softSurfer License",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:53b3d125-55bb-401d-ae5b-f91ef8b4bbea"
-                },
-                {
-                    "@id": "_:4234cebd-730c-4c9f-934e-223ff4683a79"
-                }
-            ],
-            "spdx:standardLicenseTemplate": "Copyright 2001, softSurfer (www.softsurfer.com)\n\nThis code may be freely used and modified for any purpose providing that this copyright notice is included with it. SoftSurfer makes no warranty for this code, and cannot be held liable for any real or imagined damage resulting from its use. Users of this code must verify correctness for their application.\n\n",
-            "rdfs:seeAlso": [
-                "https://github.com/mm2/Little-CMS/blob/master/src/cmssm.c#L207",
-                "https://fedoraproject.org/wiki/Licensing/softSurfer"
-            ],
-            "spdx:isDeprecatedLicenseId": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:licenseTextHtml": "\n         <p>\n            Copyright 2001, softSurfer (www.softsurfer.com)\n         </p>\n\n         <p>\n            This code may be freely used and modified for any purpose\n            providing that this copyright notice is included with it.\n            SoftSurfer makes no warranty for this code, and cannot be held\n            liable for any real or imagined damage resulting from its use.\n            Users of this code must verify correctness for their application.\n         </p>\n\n      ",
-            "rdfs:comment": ""
-        },
-        {
-            "@id": "_:53b3d125-55bb-401d-ae5b-f91ef8b4bbea",
+            "@id": "_:11bd6c3a-610a-44ee-89cb-870961bb41bf",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -44,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/softSurfer",
-            "spdx:timestamp": "2026-02-20T19:20:13Z",
+            "spdx:timestamp": "2026-02-20T20:59:56Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -53,7 +24,36 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:4234cebd-730c-4c9f-934e-223ff4683a79",
+            "@id": "http://spdx.org/licenses/softSurfer",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:78dd6113-f9fe-4dbc-8abc-ea0210679c0e"
+                },
+                {
+                    "@id": "_:11bd6c3a-610a-44ee-89cb-870961bb41bf"
+                }
+            ],
+            "spdx:licenseText": "Copyright 2001, softSurfer (www.softsurfer.com)\nThis code may be freely used and modified for any purpose                                                                                                                                \nproviding that this copyright notice is included with it.\nSoftSurfer makes no warranty for this code, and cannot be held\nliable for any real or imagined damage resulting from its use.\nUsers of this code must verify correctness for their application.\n",
+            "spdx:isOsiApproved": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "@type": "spdx:ListedLicense",
+            "spdx:name": "softSurfer License",
+            "spdx:standardLicenseTemplate": "Copyright 2001, softSurfer (www.softsurfer.com)\n\nThis code may be freely used and modified for any purpose providing that this copyright notice is included with it. SoftSurfer makes no warranty for this code, and cannot be held liable for any real or imagined damage resulting from its use. Users of this code must verify correctness for their application.\n\n",
+            "rdfs:seeAlso": [
+                "https://github.com/mm2/Little-CMS/blob/master/src/cmssm.c#L207",
+                "https://fedoraproject.org/wiki/Licensing/softSurfer"
+            ],
+            "spdx:isDeprecatedLicenseId": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:licenseTextHtml": "\n         <p>\n            Copyright 2001, softSurfer (www.softsurfer.com)\n         </p>\n\n         <p>\n            This code may be freely used and modified for any purpose\n            providing that this copyright notice is included with it.\n            SoftSurfer makes no warranty for this code, and cannot be held\n            liable for any real or imagined damage resulting from its use.\n            Users of this code must verify correctness for their application.\n         </p>\n\n      ",
+            "rdfs:comment": ""
+        },
+        {
+            "@id": "_:78dd6113-f9fe-4dbc-8abc-ea0210679c0e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,7 +67,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/mm2/Little-CMS/blob/master/src/cmssm.c#L207",
-            "spdx:timestamp": "2026-02-20T19:20:13Z",
+            "spdx:timestamp": "2026-02-20T20:59:56Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

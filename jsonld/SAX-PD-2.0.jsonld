@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:bbe5f0bf-1f9e-4f5e-b798-9f5e09cd91fe"
+                "@id": "_:3ff6f10f-d17d-49ce-8992-0424dd604e99"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:bbe5f0bf-1f9e-4f5e-b798-9f5e09cd91fe",
+            "@id": "_:3ff6f10f-d17d-49ce-8992-0424dd604e99",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.saxproject.org/copying.html",
-            "spdx:timestamp": "2026-02-20T19:18:32Z",
+            "spdx:timestamp": "2026-02-20T20:56:42Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

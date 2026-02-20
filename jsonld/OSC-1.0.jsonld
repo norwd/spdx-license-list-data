@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:c18f153e-3de5-45d5-b2e9-845669487931"
+                "@id": "_:b873c782-b5e8-4961-a8c8-375ffa4d723b"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:c18f153e-3de5-45d5-b2e9-845669487931",
+            "@id": "_:b873c782-b5e8-4961-a8c8-375ffa4d723b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/osc-license-1-0",
-            "spdx:timestamp": "2026-02-20T19:19:27Z",
+            "spdx:timestamp": "2026-02-20T20:58:20Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

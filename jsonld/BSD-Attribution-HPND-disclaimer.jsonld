@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:ee75ea57-9d6e-4ce7-aa40-7b5b5067e608"
+                "@id": "_:ca20c6d5-3f48-48aa-b90f-57a3fdeebfa5"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:ee75ea57-9d6e-4ce7-aa40-7b5b5067e608",
+            "@id": "_:ca20c6d5-3f48-48aa-b90f-57a3fdeebfa5",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/cyrusimap/cyrus-sasl/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T19:20:54Z",
+            "spdx:timestamp": "2026-02-20T21:02:28Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

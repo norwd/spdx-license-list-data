@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:515bbac1-d4a9-490d-9df1-27398fab1c6f",
+            "@id": "_:db797b8d-ac80-4bae-8908-4c7c633ffbc3",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,10 +14,10 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185",
-            "spdx:timestamp": "2026-02-20T19:20:14Z",
+            "spdx:url": "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
+            "spdx:timestamp": "2026-02-20T21:00:26Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
@@ -27,10 +27,10 @@
             "@id": "http://spdx.org/licenses/hyphen-bulgarian",
             "spdx:crossRef": [
                 {
-                    "@id": "_:38ee21b4-8b42-44b9-b7de-b995b4be36cf"
+                    "@id": "_:db797b8d-ac80-4bae-8908-4c7c633ffbc3"
                 },
                 {
-                    "@id": "_:515bbac1-d4a9-490d-9df1-27398fab1c6f"
+                    "@id": "_:ef967720-70bf-47f6-8a23-ebb535296e52"
                 }
             ],
             "rdfs:seeAlso": [
@@ -52,7 +52,7 @@
             }
         },
         {
-            "@id": "_:38ee21b4-8b42-44b9-b7de-b995b4be36cf",
+            "@id": "_:ef967720-70bf-47f6-8a23-ebb535296e52",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -65,10 +65,10 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
-            "spdx:timestamp": "2026-02-20T19:20:14Z",
+            "spdx:url": "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185",
+            "spdx:timestamp": "2026-02-20T21:00:26Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",

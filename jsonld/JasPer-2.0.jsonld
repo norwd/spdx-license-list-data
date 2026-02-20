@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:af3aad01-47d4-4fcf-94eb-9f3a967e7389"
+                "@id": "_:a48402b7-054c-46c6-92ea-8369c49e3ba2"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:af3aad01-47d4-4fcf-94eb-9f3a967e7389",
+            "@id": "_:a48402b7-054c-46c6-92ea-8369c49e3ba2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.ece.uvic.ca/~mdadams/jasper/LICENSE",
-            "spdx:timestamp": "2026-02-20T19:21:09Z",
+            "spdx:timestamp": "2026-02-20T21:04:05Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

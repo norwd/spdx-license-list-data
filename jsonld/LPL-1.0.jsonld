@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:d8fa3348-8d55-4e8b-9a3d-dec9fbeeed07"
+                "@id": "_:f3731978-78f4-4dea-ae58-12cef1eb724e"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:d8fa3348-8d55-4e8b-9a3d-dec9fbeeed07",
+            "@id": "_:f3731978-78f4-4dea-ae58-12cef1eb724e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/LPL-1.0",
-            "spdx:timestamp": "2026-02-20T19:16:49Z",
+            "spdx:timestamp": "2026-02-20T20:53:22Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

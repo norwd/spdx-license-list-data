@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:cac15d27-a220-48c9-ac9c-84fa7217239f",
+            "@id": "_:976aa796-6eeb-4317-b6c0-ee383f814575",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/cddl1",
-            "spdx:timestamp": "2026-02-20T19:16:52Z",
+            "spdx:timestamp": "2026-02-20T20:53:54Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -32,10 +32,10 @@
             },
             "rdfs:seeAlso": "https://opensource.org/licenses/cddl1",
             "rdfs:comment": "This license was released: 24 January 2004.",
-            "spdx:crossRef": {
-                "@id": "_:cac15d27-a220-48c9-ac9c-84fa7217239f"
-            },
             "@type": "spdx:ListedLicense",
+            "spdx:crossRef": {
+                "@id": "_:976aa796-6eeb-4317-b6c0-ee383f814575"
+            },
             "spdx:isFsfLibre": {
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
