@@ -91,7 +91,7 @@ The name and trademarks of copyright holder(s) may NOT be used in advertising or
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://opensource.org/licenses/ECL-1.0</spdx:url>
-        <spdx:timestamp>2026-02-20T18:59:54Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:17:31Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>

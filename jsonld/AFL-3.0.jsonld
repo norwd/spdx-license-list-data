@@ -5,10 +5,10 @@
             "spdx:standardLicenseHeader": "Licensed under the Academic Free License version 3.0\n\n",
             "spdx:crossRef": [
                 {
-                    "@id": "_:429fd13b-4805-4692-910c-44024cf0ff2e"
+                    "@id": "_:dfccc023-6c93-4f60-8d21-feeac8969936"
                 },
                 {
-                    "@id": "_:c5265b68-0479-4fb9-8f59-61a4a5681b60"
+                    "@id": "_:f1b54640-b425-4ab6-9cd4-de63ddb0c417"
                 }
             ],
             "rdfs:seeAlso": [
@@ -36,30 +36,7 @@
             }
         },
         {
-            "@id": "_:429fd13b-4805-4692-910c-44024cf0ff2e",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/licenses/afl-3.0",
-            "spdx:timestamp": "2026-02-20T19:02:49Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:c5265b68-0479-4fb9-8f59-61a4a5681b60",
+            "@id": "_:dfccc023-6c93-4f60-8d21-feeac8969936",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -73,12 +50,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.rosenlaw.com/AFL3.0.htm",
-            "spdx:timestamp": "2026-02-20T19:02:49Z",
+            "spdx:timestamp": "2026-02-20T19:20:16Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:f1b54640-b425-4ab6-9cd4-de63ddb0c417",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/licenses/afl-3.0",
+            "spdx:timestamp": "2026-02-20T19:20:15Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         }
     ],

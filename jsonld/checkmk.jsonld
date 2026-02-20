@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:b83e42f5-c5e8-49c1-8702-d62322c9e4a3"
+                "@id": "_:31adb614-e921-47a7-8670-f18101447af4"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:b83e42f5-c5e8-49c1-8702-d62322c9e4a3",
+            "@id": "_:31adb614-e921-47a7-8670-f18101447af4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/libcheck/check/blob/master/checkmk/checkmk.in",
-            "spdx:timestamp": "2026-02-20T19:01:46Z",
+            "spdx:timestamp": "2026-02-20T19:19:34Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:76a0728b-81ee-4616-8e87-36c861c2f285",
+            "@id": "_:f49722da-29fb-49c1-bf8c-29b71a0d399b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.freedesktop.org/xorg/lib/libxinerama/-/blob/cc22c2f60c3862482562955116d5455263b443dc/COPYING#L44-66",
-            "spdx:timestamp": "2026-02-20T19:00:30Z",
+            "spdx:timestamp": "2026-02-20T19:17:49Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:76a0728b-81ee-4616-8e87-36c861c2f285"
+                "@id": "_:f49722da-29fb-49c1-bf8c-29b71a0d399b"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

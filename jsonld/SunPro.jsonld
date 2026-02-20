@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:e947315c-6342-4fe6-b644-3659911246f5",
+            "@id": "_:b2c0f26b-000a-4954-9372-427f17686264",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_acosh.c",
-            "spdx:timestamp": "2026-02-20T19:00:32Z",
+            "spdx:timestamp": "2026-02-20T19:18:29Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:251359d2-fc5f-468a-a9ee-63df92f08492",
+            "@id": "_:c497162e-9388-47cc-9cac-1b8505479cab",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_lgammal.c",
-            "spdx:timestamp": "2026-02-20T19:00:32Z",
+            "spdx:timestamp": "2026-02-20T19:18:29Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -48,6 +48,14 @@
         },
         {
             "@id": "http://spdx.org/licenses/SunPro",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:c497162e-9388-47cc-9cac-1b8505479cab"
+                },
+                {
+                    "@id": "_:b2c0f26b-000a-4954-9372-427f17686264"
+                }
+            ],
             "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": [
                 "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_acosh.c",
@@ -62,14 +70,6 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:251359d2-fc5f-468a-a9ee-63df92f08492"
-                },
-                {
-                    "@id": "_:e947315c-6342-4fe6-b644-3659911246f5"
-                }
-            ],
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.\";match=\".{0,5000}\">>\nDeveloped at <<var;name=\"SunOrg\";original=\"SunPro\";match=\"SunPro|SunSoft\">> , a Sun Microsystems, Inc. business.\n\nPermission to use, copy, modify, and distribute this software is freely granted, provided that this notice is preserved.\n\n",
             "spdx:licenseTextHtml": "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.\n         </span></var>\n         <p>\n            Developed at<var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern SunPro|SunSoft\"> SunPro</span></var>\n            , a Sun Microsystems, Inc. business.\n         </p>\n\n         <p>\n            Permission to use, copy, modify, and distribute this software\n            is freely granted, provided that this notice is preserved.\n         </p>\n\n      ",
             "spdx:licenseText": "Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.\n\nDeveloped at SunSoft, a Sun Microsystems, Inc. business.\nPermission to use, copy, modify, and distribute this\nsoftware is freely granted, provided that this notice \nis preserved.\n"

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:9cc0ad64-b17d-477d-9d7b-5819b7ba18f8",
+            "@id": "_:0deb8fc6-7d6b-4f66-8097-5dc3e1468e6d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html",
-            "spdx:timestamp": "2026-02-20T19:02:51Z",
+            "spdx:timestamp": "2026-02-20T19:20:16Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:784291c6-2b59-4067-b811-95f2486bbd88",
+            "@id": "_:8eca382d-088c-470d-8b48-0e8d2d71ddae",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/W3C",
-            "spdx:timestamp": "2026-02-20T19:02:51Z",
+            "spdx:timestamp": "2026-02-20T19:20:16Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -48,6 +48,14 @@
         },
         {
             "@id": "http://spdx.org/licenses/W3C",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:0deb8fc6-7d6b-4f66-8097-5dc3e1468e6d"
+                },
+                {
+                    "@id": "_:8eca382d-088c-470d-8b48-0e8d2d71ddae"
+                }
+            ],
             "rdfs:seeAlso": [
                 "https://opensource.org/licenses/W3C",
                 "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html"
@@ -57,14 +65,6 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:standardLicenseHeaderTemplate": "<<var;name=\"copyright\";original=\"Copyright (C) <<var;name=\"year\";original=\"[$date-of-software]\";match=\".+\">> World Wide Web Consortium, (Massachusetts Institute of Technology, European Research Consortium for Informatics and Mathematics, Keio University). All Rights Reserved.\";match=\".{0,5000}\">>\nThis work is distributed under the W3C® Software License in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:9cc0ad64-b17d-477d-9d7b-5819b7ba18f8"
-                },
-                {
-                    "@id": "_:784291c6-2b59-4067-b811-95f2486bbd88"
-                }
-            ],
             "rdfs:comment": "This license was released: 13 December 2002. The standard header is provided via a link from the original license page.",
             "spdx:isFsfLibre": {
                 "@value": "true",

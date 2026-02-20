@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:0f3d7601-1a0f-4189-90eb-449c8a294abe",
+            "@id": "_:c1cb95cd-fc3e-465a-afb6-7b2983e17f45",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://source.icu-project.org/repos/icu/icu/trunk/license.html",
-            "spdx:timestamp": "2026-02-20T19:00:32Z",
+            "spdx:timestamp": "2026-02-20T19:18:29Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:0f3d7601-1a0f-4189-90eb-449c8a294abe"
+                "@id": "_:c1cb95cd-fc3e-465a-afb6-7b2983e17f45"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",

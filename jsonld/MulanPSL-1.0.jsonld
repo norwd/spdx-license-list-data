@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:1f9959d0-47e6-4523-b1be-66c3ecb04116",
+            "@id": "_:5b7be9da-0998-4938-b5d5-c88feae2cd96",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,35 +15,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/yuwenlong/longphp/blob/25dfb70cc2a466dc4bb55ba30901cbce08d164b5/LICENSE",
-            "spdx:timestamp": "2026-02-20T19:00:29Z",
+            "spdx:timestamp": "2026-02-20T19:17:48Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:5201bda5-9481-4a50-9982-ce013611b3c7",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://license.coscl.org.cn/MulanPSL/",
-            "spdx:timestamp": "2026-02-20T19:01:00Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
@@ -64,19 +41,42 @@
             },
             "spdx:name": "Mulan Permissive Software License, Version 1",
             "spdx:standardLicenseHeaderTemplate": "Copyright (c) [2019] [name of copyright holder]\n\n[Software Name] is licensed under the Mulan PSL v1.\n\nYou can use this software according to the terms and conditions of the Mulan PSL v1.\n\nYou may obtain a copy of Mulan PSL v1 at:\n\nhttp://license.coscl.org.cn/MulanPSL\n\nTHIS SOFTWARE IS PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT, MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.\n\nSee the Mulan PSL v1 for more details.\n\n",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:5b7be9da-0998-4938-b5d5-c88feae2cd96"
+                },
+                {
+                    "@id": "_:9fd8313b-cdd9-44f5-8ae6-e3f48a1083be"
+                }
+            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:1f9959d0-47e6-4523-b1be-66c3ecb04116"
-                },
-                {
-                    "@id": "_:5201bda5-9481-4a50-9982-ce013611b3c7"
-                }
-            ],
             "@type": "spdx:ListedLicense"
+        },
+        {
+            "@id": "_:9fd8313b-cdd9-44f5-8ae6-e3f48a1083be",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://license.coscl.org.cn/MulanPSL/",
+            "spdx:timestamp": "2026-02-20T19:18:28Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

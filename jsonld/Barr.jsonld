@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:adcd48d6-4478-4697-ac0e-06ea1ec0677a",
+            "@id": "_:ccf0b14b-d02f-40b8-8f8c-ba1842c16ca2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Barr",
-            "spdx:timestamp": "2026-02-20T19:02:59Z",
+            "spdx:timestamp": "2026-02-20T19:20:54Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:adcd48d6-4478-4697-ac0e-06ea1ec0677a"
+                "@id": "_:ccf0b14b-d02f-40b8-8f8c-ba1842c16ca2"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

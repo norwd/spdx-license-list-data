@@ -483,7 +483,7 @@ Terms And Conditions For Copying, Distribution And Modification
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://www.latex-project.org/lppl/lppl-1-0.txt</spdx:url>
-        <spdx:timestamp>2026-02-20T18:59:46Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:16:47Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>false</spdx:match>

@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:b9f1ea39-1b15-4496-a688-0ffc191e1471",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.7-zip.org/sdk.html",
-            "spdx:timestamp": "2026-02-20T19:02:19Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:2dd84433-fd14-40bf-a7b9-dee2d50e40df",
+            "@id": "_:e681134e-374f-47a2-b5a2-767f0cef816c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/",
-            "spdx:timestamp": "2026-02-20T19:02:19Z",
+            "spdx:timestamp": "2026-02-20T19:20:12Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,15 +24,30 @@
             "@type": "spdx:CrossRef"
         },
         {
+            "@id": "_:e4573d78-9265-4f8c-9786-53956fabccd8",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://www.7-zip.org/sdk.html",
+            "spdx:timestamp": "2026-02-20T19:20:13Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/LZMA-SDK-9.22",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:2dd84433-fd14-40bf-a7b9-dee2d50e40df"
-                },
-                {
-                    "@id": "_:b9f1ea39-1b15-4496-a688-0ffc191e1471"
-                }
-            ],
             "spdx:standardLicenseTemplate": "<<beginOptional>>LICENSE\n\n-------\n\n<<endOptional>>\nLZMA SDK is written and placed in the public domain by Igor Pavlov.\n\nSome code in LZMA SDK is based on public domain code from another developers: 1) PPMd var.H (2001): Dmitry Shkarin 2) SHA-256: Wei Dai (Crypto++ library)\n\nAnyone is free to copy, modify, publish, use, compile, sell, or distribute the original LZMA SDK code, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.\n\nLZMA SDK code is compatible with open source licenses, for example, you can include it to GNU GPL or GNU LGPL code.\n\n",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -67,6 +59,14 @@
             ],
             "spdx:licenseTextHtml": "\n         <div class=\"optional-license-text\"> \n         <p>\n          LICENSE\n         </p>\n\n         <p>\n          -------\n         </p>\n\n         </div>\n        <p>\n          LZMA SDK is written and placed in the public domain by Igor Pavlov.\n        </p>\n\n        <p>\n          Some code in LZMA SDK is based on public domain code from another developers:\n            1) PPMd var.H (2001): Dmitry Shkarin\n            2) SHA-256: Wei Dai (Crypto++ library)\n         </p>\n\n         <p>\n          Anyone is free to copy, modify, publish, use, compile, sell, or distribute the\n          original LZMA SDK code, either in source code form or as a compiled binary, for\n          any purpose, commercial or non-commercial, and by any means.\n         </p>\n\n         <p>\n          LZMA SDK code is compatible with open source licenses, for example, you can\n          include it to GNU GPL or GNU LGPL code.\n         </p>\n\n      ",
             "spdx:name": "LZMA SDK License (versions 9.22 and beyond)",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:e681134e-374f-47a2-b5a2-767f0cef816c"
+                },
+                {
+                    "@id": "_:e4573d78-9265-4f8c-9786-53956fabccd8"
+                }
+            ],
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"

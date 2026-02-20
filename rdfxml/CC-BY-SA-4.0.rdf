@@ -118,21 +118,6 @@ Creative Commons may be contacted at creativecommons.org.
 &lt;&lt;endOptional&gt;&gt;</spdx:standardLicenseTemplate>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://creativecommons.org/licenses/by-sa/4.0/legalcode</spdx:url>
-        <spdx:timestamp>2026-02-20T18:59:51Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:name>Creative Commons Attribution Share Alike 4.0 International</spdx:name>
     <spdx:licenseText>Creative Commons Attribution-ShareAlike 4.0 International
 
@@ -888,5 +873,20 @@ Creative Commons may be contacted at creativecommons.org.
 
       &lt;/div&gt;
     </spdx:licenseTextHtml>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://creativecommons.org/licenses/by-sa/4.0/legalcode</spdx:url>
+        <spdx:timestamp>2026-02-20T19:16:55Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
   </spdx:ListedLicense>
 </rdf:RDF>

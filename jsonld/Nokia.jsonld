@@ -8,15 +8,15 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": {
+                "@id": "_:aaac0761-9530-4a62-a6b5-5dba8a9337e8"
+            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": "https://opensource.org/licenses/nokia",
-            "spdx:crossRef": {
-                "@id": "_:b19fc997-247a-4224-956a-0bb8eb6a5626"
-            },
             "spdx:isOsiApproved": {
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -25,7 +25,7 @@
             "spdx:name": "Nokia Open Source License"
         },
         {
-            "@id": "_:b19fc997-247a-4224-956a-0bb8eb6a5626",
+            "@id": "_:aaac0761-9530-4a62-a6b5-5dba8a9337e8",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -39,7 +39,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/nokia",
-            "spdx:timestamp": "2026-02-20T18:59:47Z",
+            "spdx:timestamp": "2026-02-20T19:16:48Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:792610b7-f713-4142-a708-918da347b167",
+            "@id": "_:78212a30-b6e3-458e-99a2-a8a5e3df0e2a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -11,23 +11,20 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.smlnj.org/license.html",
-            "spdx:timestamp": "2026-02-20T19:04:34Z",
+            "spdx:timestamp": "2026-02-20T19:21:11Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         },
         {
             "@id": "http://spdx.org/licenses/StandardML-NJ",
-            "spdx:crossRef": {
-                "@id": "_:792610b7-f713-4142-a708-918da347b167"
-            },
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -37,6 +34,9 @@
             "spdx:name": "Standard ML of New Jersey License",
             "rdfs:seeAlso": "https://www.smlnj.org/license.html",
             "@type": "spdx:ListedLicense",
+            "spdx:crossRef": {
+                "@id": "_:78212a30-b6e3-458e-99a2-a8a5e3df0e2a"
+            },
             "spdx:licenseText": "STANDARD ML OF NEW JERSEY COPYRIGHT NOTICE, LICENSE AND DISCLAIMER.\n\nCopyright (c) 2001-2011 by The Fellowship of SML/NJ\nCopyright (c) 1989-2001 by Lucent Technologies\n\nPermission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies and that both the copyright notice and this permission notice and warranty disclaimer appear in supporting documentation, and that the name of Lucent Technologies, Bell Labs or any Lucent entity not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission.\n\nLucent disclaims all warranties with regard to this software, including all implied warranties of merchantability and fitness. In no event shall Lucent be liable for any special, indirect or consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.\n\n",
             "rdfs:comment": "DEPRECATED: Duplicate license, use identifier: SMLNJ",
             "spdx:isDeprecatedLicenseId": {

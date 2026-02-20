@@ -1,6 +1,29 @@
 {
     "@graph": [
         {
+            "@id": "_:10d09fb9-1c06-43a9-b5a3-164fccd87b6f",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/licenses/EFL-1.0",
+            "spdx:timestamp": "2026-02-20T19:16:51Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/EFL-1.0",
             "rdfs:seeAlso": [
                 "http://www.eiffel-nice.org/license/forum.txt",
@@ -8,10 +31,10 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:17b2217f-db44-4ed4-b5fa-6e49aaf98f10"
+                    "@id": "_:10d09fb9-1c06-43a9-b5a3-164fccd87b6f"
                 },
                 {
-                    "@id": "_:14ca59bc-da69-4806-abf0-a98cfe467f80"
+                    "@id": "_:0b32a851-c2c8-4ea0-be3b-05086227f5fe"
                 }
             ],
             "spdx:isOsiApproved": {
@@ -30,7 +53,7 @@
             }
         },
         {
-            "@id": "_:17b2217f-db44-4ed4-b5fa-6e49aaf98f10",
+            "@id": "_:0b32a851-c2c8-4ea0-be3b-05086227f5fe",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -44,35 +67,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.eiffel-nice.org/license/forum.txt",
-            "spdx:timestamp": "2026-02-20T18:59:47Z",
+            "spdx:timestamp": "2026-02-20T19:16:48Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:14ca59bc-da69-4806-abf0-a98cfe467f80",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/licenses/EFL-1.0",
-            "spdx:timestamp": "2026-02-20T18:59:53Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         }
     ],

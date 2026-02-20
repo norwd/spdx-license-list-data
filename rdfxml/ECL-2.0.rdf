@@ -507,6 +507,8 @@ or implied. See the License for the specific language governing
 permissions and limitations under the License.
 
 &lt;&lt;endOptional&gt;&gt;</spdx:standardLicenseTemplate>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -516,14 +518,12 @@ permissions and limitations under the License.
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://opensource.org/licenses/ECL-2.0</spdx:url>
-        <spdx:timestamp>2026-02-20T18:59:54Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:17:30Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >false</spdx:isDeprecatedLicenseId>
     <spdx:standardLicenseHeaderHtml>
          &lt;p&gt;Copyright &lt;var class="replaceable-license-text"&gt;&lt;span title="can be replaced with the pattern .+"&gt; [yyyy] [name of copyright owner]&lt;/span&gt;&lt;/var&gt; Licensed under the
         &lt;br /&gt;

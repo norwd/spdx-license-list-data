@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:9b3a5fa7-144b-4282-8805-7f4eeb730993"
+                "@id": "_:2f1a8ea1-a0cc-4110-8632-6337a49e7b84"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:9b3a5fa7-144b-4282-8805-7f4eeb730993",
+            "@id": "_:2f1a8ea1-a0cc-4110-8632-6337a49e7b84",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.isc.org/isc-projects/bind9/blob/master/COPYRIGHT#L366",
-            "spdx:timestamp": "2026-02-20T19:03:31Z",
+            "spdx:timestamp": "2026-02-20T19:20:59Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -12,10 +12,10 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:841f1384-a04e-454c-96bc-1236bf66d73e"
+                    "@id": "_:5e7169f1-7acf-4e9a-82d4-03dd2be09a7a"
                 },
                 {
-                    "@id": "_:205723e4-98eb-444c-b1da-01565a60fe60"
+                    "@id": "_:f9d33e2d-0535-41d6-bec8-fa8d639a4159"
                 }
             ],
             "@type": "spdx:ListedLicense",
@@ -29,7 +29,7 @@
             "spdx:name": "Minpack License"
         },
         {
-            "@id": "_:841f1384-a04e-454c-96bc-1236bf66d73e",
+            "@id": "_:5e7169f1-7acf-4e9a-82d4-03dd2be09a7a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -43,7 +43,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.com/libeigen/eigen/-/blob/master/COPYING.MINPACK",
-            "spdx:timestamp": "2026-02-20T19:01:41Z",
+            "spdx:timestamp": "2026-02-20T19:19:26Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -52,7 +52,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:205723e4-98eb-444c-b1da-01565a60fe60",
+            "@id": "_:f9d33e2d-0535-41d6-bec8-fa8d639a4159",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -62,16 +62,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.netlib.org/minpack/disclaimer",
-            "spdx:timestamp": "2026-02-20T19:02:12Z",
+            "spdx:timestamp": "2026-02-20T19:19:27Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:07e1a5fb-d57c-4535-8483-874617bc0933"
+                "@id": "_:8e6b7f40-b4dc-41b7-b287-61ecbc2ec68a"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:07e1a5fb-d57c-4535-8483-874617bc0933",
+            "@id": "_:8e6b7f40-b4dc-41b7-b287-61ecbc2ec68a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.db.net/downloads/wwl+db-1.3.tgz",
-            "spdx:timestamp": "2026-02-20T19:00:24Z",
+            "spdx:timestamp": "2026-02-20T19:17:42Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

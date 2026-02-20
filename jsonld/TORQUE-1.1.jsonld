@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:18df556a-f9b9-481c-895c-77f86e9a523a"
+                "@id": "_:8c7dd787-230e-4f2f-8f75-9b6650b5cb76"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:18df556a-f9b9-481c-895c-77f86e9a523a",
+            "@id": "_:8c7dd787-230e-4f2f-8f75-9b6650b5cb76",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/TORQUEv1.1",
-            "spdx:timestamp": "2026-02-20T19:01:42Z",
+            "spdx:timestamp": "2026-02-20T19:19:26Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

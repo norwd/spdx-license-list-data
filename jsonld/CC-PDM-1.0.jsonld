@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:0331499f-3398-4588-a876-13444d5db9c6",
+            "@id": "_:0bf071d7-ed9a-4193-b3ae-733498b1d890",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://creativecommons.org/publicdomain/mark/1.0/",
-            "spdx:timestamp": "2026-02-20T18:59:46Z",
+            "spdx:timestamp": "2026-02-20T19:16:47Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:4d729b7c-b7f7-4216-88d1-71843b4745dd",
+            "@id": "_:2ed38586-8e26-4f22-886c-ff5ed05fcc60",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://creativecommons.org/share-your-work/cclicenses/",
-            "spdx:timestamp": "2026-02-20T18:59:46Z",
+            "spdx:timestamp": "2026-02-20T19:16:47Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -48,18 +48,18 @@
         },
         {
             "@id": "http://spdx.org/licenses/CC-PDM-1.0",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:2ed38586-8e26-4f22-886c-ff5ed05fcc60"
+                },
+                {
+                    "@id": "_:0bf071d7-ed9a-4193-b3ae-733498b1d890"
+                }
+            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:0331499f-3398-4588-a876-13444d5db9c6"
-                },
-                {
-                    "@id": "_:4d729b7c-b7f7-4216-88d1-71843b4745dd"
-                }
-            ],
             "rdfs:seeAlso": [
                 "https://creativecommons.org/share-your-work/cclicenses/",
                 "https://creativecommons.org/publicdomain/mark/1.0/"

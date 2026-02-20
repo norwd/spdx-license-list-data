@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:2ba5eb9d-a7b5-477c-87f4-5912e41dda2c"
+                "@id": "_:d22ec700-7848-4ebb-919e-291408b7d4d9"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:2ba5eb9d-a7b5-477c-87f4-5912e41dda2c",
+            "@id": "_:d22ec700-7848-4ebb-919e-291408b7d4d9",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Intel_ACPI_Software_License_Agreement",
-            "spdx:timestamp": "2026-02-20T19:01:06Z",
+            "spdx:timestamp": "2026-02-20T19:18:37Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

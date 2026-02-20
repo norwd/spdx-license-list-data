@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:69f5d4a0-eef4-46b6-9e5d-874264f60dad"
+                "@id": "_:fd16b096-6fc4-4035-86bc-55d94846382d"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:69f5d4a0-eef4-46b6-9e5d-874264f60dad",
+            "@id": "_:fd16b096-6fc4-4035-86bc-55d94846382d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Mup",
-            "spdx:timestamp": "2026-02-20T19:04:35Z",
+            "spdx:timestamp": "2026-02-20T19:21:22Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

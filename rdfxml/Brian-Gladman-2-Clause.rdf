@@ -17,11 +17,11 @@
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html</spdx:url>
-        <spdx:timestamp>2026-02-20T19:02:57Z</spdx:timestamp>
+        <spdx:url>https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L140-L156</spdx:url>
+        <spdx:timestamp>2026-02-20T19:20:53Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>true</spdx:match>
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:crossRef>
@@ -32,11 +32,11 @@
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L140-L156</spdx:url>
-        <spdx:timestamp>2026-02-20T19:02:57Z</spdx:timestamp>
+        <spdx:url>https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html</spdx:url>
+        <spdx:timestamp>2026-02-20T19:20:53Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
+        >1</spdx:order>
+        <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:licenseText>Copyright (C) 1998-2013, Brian Gladman, Worcester, UK. All

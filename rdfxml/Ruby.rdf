@@ -69,7 +69,7 @@ For the list of those files and their copying conditions, see the file LEGAL.
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://www.ruby-lang.org/en/about/license.txt</spdx:url>
-        <spdx:timestamp>2026-02-20T19:01:06Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:18:36Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>

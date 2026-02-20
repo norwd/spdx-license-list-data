@@ -122,7 +122,6 @@ The Standard is defined as the following:
 OpenOffice.org XML File Format Specification, located at http://xml.openoffice.org
 OpenOffice.org Application Programming Interface Specification, located at http://api.openoffice.org
 </spdx:licenseText>
-    <rdfs:seeAlso>http://www.openoffice.org/licenses/sissl_license.html</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -132,7 +131,7 @@ OpenOffice.org Application Programming Interface Specification, located at http:
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://opensource.org/licenses/SISSL</spdx:url>
-        <spdx:timestamp>2026-02-20T18:59:42Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:16:44Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>N/A</spdx:match>
@@ -147,12 +146,13 @@ OpenOffice.org Application Programming Interface Specification, located at http:
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://www.openoffice.org/licenses/sissl_license.html</spdx:url>
-        <spdx:timestamp>2026-02-20T18:59:43Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:16:44Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <rdfs:seeAlso>http://www.openoffice.org/licenses/sissl_license.html</rdfs:seeAlso>
     <rdfs:seeAlso>https://opensource.org/licenses/SISSL</rdfs:seeAlso>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt;Sun Industry Standards Source License - Version 1.1
 

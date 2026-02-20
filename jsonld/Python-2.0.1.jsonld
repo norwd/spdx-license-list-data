@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:dff92315-cbaf-4974-b0aa-8d003108a978",
+            "@id": "_:c113baa5-6dd7-43cf-98dd-b18574f428c0",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,9 +15,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://docs.python.org/3/license.html",
-            "spdx:timestamp": "2026-02-20T18:59:58Z",
+            "spdx:timestamp": "2026-02-20T19:17:40Z",
             "spdx:order": {
                 "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:eb1fb479-cf82-4e0e-8028-e0eb7a22b958",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/python/cpython/blob/main/LICENSE",
+            "spdx:timestamp": "2026-02-20T19:17:40Z",
+            "spdx:order": {
+                "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
@@ -34,13 +57,13 @@
             "rdfs:comment": "For Python release 1.6.1, apparently the CNRI-Python license part of the stack was replaced with CNRI-Python-GPL-Compatible",
             "spdx:crossRef": [
                 {
-                    "@id": "_:01a9b19c-fda3-4ffe-90f8-ec847febeb7a"
+                    "@id": "_:bf5814c2-6409-46dd-b398-85f858dae071"
                 },
                 {
-                    "@id": "_:9231876e-0bb6-4c7e-b5a1-867175e18cba"
+                    "@id": "_:c113baa5-6dd7-43cf-98dd-b18574f428c0"
                 },
                 {
-                    "@id": "_:dff92315-cbaf-4974-b0aa-8d003108a978"
+                    "@id": "_:eb1fb479-cf82-4e0e-8028-e0eb7a22b958"
                 }
             ],
             "@type": "spdx:ListedLicense",
@@ -57,30 +80,7 @@
             "spdx:name": "Python License 2.0.1"
         },
         {
-            "@id": "_:01a9b19c-fda3-4ffe-90f8-ec847febeb7a",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/python/cpython/blob/main/LICENSE",
-            "spdx:timestamp": "2026-02-20T18:59:59Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:9231876e-0bb6-4c7e-b5a1-867175e18cba",
+            "@id": "_:bf5814c2-6409-46dd-b398-85f858dae071",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -94,7 +94,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.python.org/download/releases/2.0.1/license/",
-            "spdx:timestamp": "2026-02-20T18:59:58Z",
+            "spdx:timestamp": "2026-02-20T19:17:40Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

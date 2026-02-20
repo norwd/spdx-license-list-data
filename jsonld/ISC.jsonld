@@ -1,29 +1,6 @@
 {
     "@graph": [
         {
-            "@id": "_:bdd63646-d0ca-4293-84d5-4487033434ad",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/licenses/ISC",
-            "spdx:timestamp": "2026-02-20T19:02:51Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/ISC",
             "spdx:licenseText": "ISC License:\n\nCopyright (c) 2004-2010 by Internet Systems Consortium, Inc. (\"ISC\")\nCopyright (c) 1995-2003 by Internet Software Consortium\n\nPermission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND ISC DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL ISC BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.\n",
             "spdx:licenseTextHtml": "\n      <div class=\"optional-license-text\"> \n         <p><var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern (The )?ISC License( \\(ISC[L]?\\))?:?\"> ISC License</span></var></p>\n\n      </div>\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n         <p>&lt;copyright notice&gt;</p>\n\n      </span></div>\n\n      <p>Permission to use, copy, modify, and<var class=\"optional-license-text\"> /or</var> distribute this software for any purpose with or without fee is\n         hereby granted, provided that the above copyright notice and this permission notice appear in all\n         copies.</p>\n\n      <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot; AND <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .+\"> THE AUTHOR</span></var> DISCLAIMS ALL\n         WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND\n         FITNESS. IN NO EVENT SHALL <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .+\"> THE AUTHOR</span></var> BE LIABLE FOR ANY\n         SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF\n         USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING\n         OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</p>\n\n    ",
@@ -39,13 +16,13 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:bf521d83-6913-4d39-b328-1d906e94a230"
+                    "@id": "_:e6af5e3a-13b8-4246-be9a-1fdc42ba4ea6"
                 },
                 {
-                    "@id": "_:2553a908-8550-406b-b743-a2c1d75c32b5"
+                    "@id": "_:a5322247-8f3f-4f4d-956c-964d3a167765"
                 },
                 {
-                    "@id": "_:bdd63646-d0ca-4293-84d5-4487033434ad"
+                    "@id": "_:6eba3415-c345-43c2-b45f-dfdc8133bf3e"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -61,30 +38,7 @@
             "spdx:name": "ISC License"
         },
         {
-            "@id": "_:bf521d83-6913-4d39-b328-1d906e94a230",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.isc.org/licenses/",
-            "spdx:timestamp": "2026-02-20T19:02:52Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:2553a908-8550-406b-b743-a2c1d75c32b5",
+            "@id": "_:e6af5e3a-13b8-4246-be9a-1fdc42ba4ea6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -98,12 +52,58 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.isc.org/downloads/software-support-policy/isc-license/",
-            "spdx:timestamp": "2026-02-20T19:02:52Z",
+            "spdx:timestamp": "2026-02-20T19:20:16Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:a5322247-8f3f-4f4d-956c-964d3a167765",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://www.isc.org/licenses/",
+            "spdx:timestamp": "2026-02-20T19:20:16Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:6eba3415-c345-43c2-b45f-dfdc8133bf3e",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/licenses/ISC",
+            "spdx:timestamp": "2026-02-20T19:20:16Z",
+            "spdx:order": {
+                "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         }
     ],

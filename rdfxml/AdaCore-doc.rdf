@@ -10,27 +10,8 @@
     <spdx:standardLicenseTemplate>This document may be copied, in whole or in part, in any form or by any means, as is or with alterations, provided that (1) alterations are clearly marked as alterations and (2) this copyright notice is included unmodified in any copy.
 
 </spdx:standardLicenseTemplate>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://github.com/AdaCore/gnatcoll-db/blob/master/docs/index.rst</spdx:url>
-        <spdx:timestamp>2026-02-20T19:00:39Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >2</spdx:order>
-        <spdx:match>false</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
-    <rdfs:seeAlso>https://github.com/AdaCore/gnatcoll-core/blob/master/docs/index.rst</rdfs:seeAlso>
-    <spdx:licenseText>This document may be copied, in whole or in part, in any form or by any means, as is or with alterations, provided that (1) alterations are clearly marked as alterations and (2) this copyright notice is included unmodified in any copy.
-</spdx:licenseText>
-    <spdx:name>AdaCore Doc License</spdx:name>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -40,12 +21,18 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://github.com/AdaCore/xmlada/blob/master/docs/index.rst</spdx:url>
-        <spdx:timestamp>2026-02-20T19:00:40Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:18:34Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <rdfs:seeAlso>https://github.com/AdaCore/gnatcoll-core/blob/master/docs/index.rst</rdfs:seeAlso>
+    <spdx:licenseText>This document may be copied, in whole or in part, in any form or by any means, as is or with alterations, provided that (1) alterations are clearly marked as alterations and (2) this copyright notice is included unmodified in any copy.
+</spdx:licenseText>
+    <spdx:name>AdaCore Doc License</spdx:name>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -55,14 +42,12 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://github.com/AdaCore/gnatcoll-core/blob/master/docs/index.rst</spdx:url>
-        <spdx:timestamp>2026-02-20T19:00:39Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:18:33Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >false</spdx:isDeprecatedLicenseId>
     <spdx:licenseTextHtml>
          &lt;p&gt;
             This document may be copied, in whole or in part, in any form
@@ -72,5 +57,20 @@
          &lt;/p&gt;
 
       </spdx:licenseTextHtml>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://github.com/AdaCore/gnatcoll-db/blob/master/docs/index.rst</spdx:url>
+        <spdx:timestamp>2026-02-20T19:18:33Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >2</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
   </spdx:ListedLicense>
 </rdf:RDF>

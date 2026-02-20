@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:7f156fee-e350-4160-a792-9c5d38fdf209"
+                "@id": "_:7f2ceea1-c6d4-454f-bf80-68d84d4aa291"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:7f156fee-e350-4160-a792-9c5d38fdf209",
+            "@id": "_:7f2ceea1-c6d4-454f-bf80-68d84d4aa291",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://epics.anl.gov/license/open.php",
-            "spdx:timestamp": "2026-02-20T19:01:06Z",
+            "spdx:timestamp": "2026-02-20T19:18:35Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

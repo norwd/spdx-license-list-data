@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:bc357245-4744-4058-bb66-6ec5686b8a14",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.gnu.org/licenses/lgpl+gpl-3.0.txt",
-            "spdx:timestamp": "2026-02-20T19:02:57Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:0521455b-efb2-43af-9f40-668e82859228",
+            "@id": "_:1c411780-5f30-4300-aa2d-cb016cbabf77",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/LGPL-3.0",
-            "spdx:timestamp": "2026-02-20T19:02:57Z",
+            "spdx:timestamp": "2026-02-20T19:20:54Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:c2470f67-fc27-480e-ba41-0a38ae45ed8c",
+            "@id": "_:a7d3db29-7366-4a75-9f9d-7ed0911e451c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -61,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
-            "spdx:timestamp": "2026-02-20T19:02:57Z",
+            "spdx:timestamp": "2026-02-20T19:20:54Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -70,19 +47,42 @@
             "@type": "spdx:CrossRef"
         },
         {
+            "@id": "_:ae20613a-c37f-40a7-9740-a88a49d58943",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://www.gnu.org/licenses/lgpl+gpl-3.0.txt",
+            "spdx:timestamp": "2026-02-20T19:20:54Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/LGPL-3.0+",
+            "rdfs:comment": "The identifier \"LGPL-3.0+\" has been deprecated; LGPL-3.0-or-later is the preferred identifier to indicate version 3.0 or any later version of the LGPL.",
             "spdx:crossRef": [
                 {
-                    "@id": "_:c2470f67-fc27-480e-ba41-0a38ae45ed8c"
+                    "@id": "_:ae20613a-c37f-40a7-9740-a88a49d58943"
                 },
                 {
-                    "@id": "_:0521455b-efb2-43af-9f40-668e82859228"
+                    "@id": "_:a7d3db29-7366-4a75-9f9d-7ed0911e451c"
                 },
                 {
-                    "@id": "_:bc357245-4744-4058-bb66-6ec5686b8a14"
+                    "@id": "_:1c411780-5f30-4300-aa2d-cb016cbabf77"
                 }
             ],
-            "rdfs:comment": "The identifier \"LGPL-3.0+\" has been deprecated; LGPL-3.0-or-later is the preferred identifier to indicate version 3.0 or any later version of the LGPL.",
             "rdfs:seeAlso": [
                 "https://www.gnu.org/licenses/lgpl+gpl-3.0.txt",
                 "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
