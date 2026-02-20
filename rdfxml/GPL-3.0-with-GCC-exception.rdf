@@ -148,13 +148,6 @@ The availability of this Exception does not imply any general presumption that t
 
 </spdx:licenseText>
     <rdfs:comment>DEPRECATED: Use license expression including main license, "WITH" operator, and identifier: GCC-exception-3.1</rdfs:comment>
-    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >true</spdx:isDeprecatedLicenseId>
-    <spdx:name>GNU General Public License v3.0 w/GCC Runtime Library exception</spdx:name>
-    <spdx:deprecatedVersion>2.0rc2</spdx:deprecatedVersion>
-    <rdfs:seeAlso>https://www.gnu.org/licenses/gcc-exception-3.1.html</rdfs:seeAlso>
-    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >true</spdx:isOsiApproved>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -164,12 +157,19 @@ The availability of this Exception does not imply any general presumption that t
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://www.gnu.org/licenses/gcc-exception-3.1.html</spdx:url>
-        <spdx:timestamp>2026-02-20T16:15:31Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:03:01Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isDeprecatedLicenseId>
+    <spdx:name>GNU General Public License v3.0 w/GCC Runtime Library exception</spdx:name>
+    <spdx:deprecatedVersion>2.0rc2</spdx:deprecatedVersion>
+    <rdfs:seeAlso>https://www.gnu.org/licenses/gcc-exception-3.1.html</rdfs:seeAlso>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isOsiApproved>
     <spdx:standardLicenseTemplate>insert GPL v3 text here
 
 &lt;&lt;beginOptional&gt;&gt;GCC RUNTIME LIBRARY EXCEPTION

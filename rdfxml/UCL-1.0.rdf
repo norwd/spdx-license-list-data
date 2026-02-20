@@ -61,6 +61,21 @@ This Upstream Compatibility License (the "License") applies to any original work
 </spdx:licenseText>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://opensource.org/licenses/UCL-1.0</spdx:url>
+        <spdx:timestamp>2026-02-20T18:59:49Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:licenseTextHtml>
       &lt;div class="optional-license-text"&gt; 
          &lt;p&gt;Upstream Compatibility License v. 1.0 (UCL-1.0)&lt;/p&gt;
@@ -289,21 +304,6 @@ This Upstream Compatibility License (the "License") applies to any original work
       
 &lt;/ul&gt;
     </spdx:licenseTextHtml>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://opensource.org/licenses/UCL-1.0</spdx:url>
-        <spdx:timestamp>2026-02-20T16:06:10Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isOsiApproved>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt;Upstream Compatibility License v. 1.0 (UCL-1.0)

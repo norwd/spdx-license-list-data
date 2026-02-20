@@ -15,14 +15,14 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": {
-                "@id": "_:95ed9dd1-099f-405d-8be6-c180351475c0"
-            },
             "@type": "spdx:ListedLicense",
+            "spdx:crossRef": {
+                "@id": "_:72b4328c-0e74-4b1d-95f1-aa94d899cdf5"
+            },
             "rdfs:comment": "This is similar to Mackerras-3-Clause-acknowledgment but has the binary clause and removes the acknowledgement clause. The grants are similar to BSD-3-Clause, but with a different disclaimer."
         },
         {
-            "@id": "_:95ed9dd1-099f-405d-8be6-c180351475c0",
+            "@id": "_:72b4328c-0e74-4b1d-95f1-aa94d899cdf5",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/ppp-project/ppp/blob/master/pppd/chap_ms.c#L6-L28",
-            "spdx:timestamp": "2026-02-20T16:05:32Z",
+            "spdx:timestamp": "2026-02-20T18:59:44Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

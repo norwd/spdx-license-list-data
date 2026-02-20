@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:8001d417-4d20-4d90-a7a0-945fdf046f4d",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://git.openldap.org/openldap/openldap/-/blob/master/COPYRIGHT#L55-63",
-            "spdx:timestamp": "2026-02-20T16:08:24Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:6a563667-df9b-4e6f-9916-c1b220fd0813",
+            "@id": "_:3748f163-08d4-4c88-a571-82a5106cf833",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,9 +15,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=libiberty/strcasecmp.c;h=131d81c2ce7881fa48c363dc5bf5fb302c61ce0b;hb=HEAD",
-            "spdx:timestamp": "2026-02-20T16:08:24Z",
+            "spdx:timestamp": "2026-02-20T19:00:27Z",
             "spdx:order": {
                 "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:c3e9daea-06a4-4905-a10b-71a3e812e8e0",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://git.openldap.org/openldap/openldap/-/blob/master/COPYRIGHT#L55-63",
+            "spdx:timestamp": "2026-02-20T19:00:27Z",
+            "spdx:order": {
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
@@ -54,10 +54,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:8001d417-4d20-4d90-a7a0-945fdf046f4d"
+                    "@id": "_:3748f163-08d4-4c88-a571-82a5106cf833"
                 },
                 {
-                    "@id": "_:6a563667-df9b-4e6f-9916-c1b220fd0813"
+                    "@id": "_:c3e9daea-06a4-4905-a10b-71a3e812e8e0"
                 }
             ],
             "@type": "spdx:ListedLicense",

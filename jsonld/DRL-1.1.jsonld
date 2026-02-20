@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:d024783b-9e5a-4ba7-b4c2-42da61bc0500"
+                "@id": "_:7409d555-8680-48e6-ab6d-0cd24775324e"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:d024783b-9e5a-4ba7-b4c2-42da61bc0500",
+            "@id": "_:7409d555-8680-48e6-ab6d-0cd24775324e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/SigmaHQ/Detection-Rule-License/blob/6ec7fbde6101d101b5b5d1fcb8f9b69fbc76c04a/LICENSE.Detection.Rules.md",
-            "spdx:timestamp": "2026-02-20T16:16:27Z",
+            "spdx:timestamp": "2026-02-20T19:04:34Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

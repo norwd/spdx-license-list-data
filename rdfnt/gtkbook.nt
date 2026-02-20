@@ -1,27 +1,27 @@
-_:Bf804045aX2D4a57X2D48c6X2D93abX2D40caec44f121 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bf804045aX2D4a57X2D48c6X2D93abX2D40caec44f121 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bf804045aX2D4a57X2D48c6X2D93abX2D40caec44f121 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bf804045aX2D4a57X2D48c6X2D93abX2D40caec44f121 <http://spdx.org/rdf/terms#url> "https://github.com/oetiker/rrdtool-1.x/blob/master/src/plbasename.c#L8-L11" .
-_:Bf804045aX2D4a57X2D48c6X2D93abX2D40caec44f121 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T16:06:40Z" .
-_:Bf804045aX2D4a57X2D48c6X2D93abX2D40caec44f121 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bf804045aX2D4a57X2D48c6X2D93abX2D40caec44f121 <http://spdx.org/rdf/terms#match> "false" .
-_:Bf804045aX2D4a57X2D48c6X2D93abX2D40caec44f121 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bf5c067ecX2D9880X2D4710X2D85c9X2Da12f1693c5c9 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bf5c067ecX2D9880X2D4710X2D85c9X2Da12f1693c5c9 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bf5c067ecX2D9880X2D4710X2D85c9X2Da12f1693c5c9 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bf5c067ecX2D9880X2D4710X2D85c9X2Da12f1693c5c9 <http://spdx.org/rdf/terms#url> "https://github.com/slogan621/gtkbook" .
+_:Bf5c067ecX2D9880X2D4710X2D85c9X2Da12f1693c5c9 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T18:59:52Z" .
+_:Bf5c067ecX2D9880X2D4710X2D85c9X2Da12f1693c5c9 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bf5c067ecX2D9880X2D4710X2D85c9X2Da12f1693c5c9 <http://spdx.org/rdf/terms#match> "true" .
+_:Bf5c067ecX2D9880X2D4710X2D85c9X2Da12f1693c5c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/gtkbook> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://github.com/slogan621/gtkbook" .
 <http://spdx.org/licenses/gtkbook> <http://spdx.org/rdf/terms#licenseText> "Copyright 2005 Syd Logan, All Rights Reserved\n\nThis code is distributed without warranty. You are free to use\nthis code for any purpose, however, if this code is republished or\nredistributed in its original form, as hardcopy or electronically,\nthen you must include this copyright notice along with the code.\n" .
 <http://spdx.org/licenses/gtkbook> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://github.com/oetiker/rrdtool-1.x/blob/master/src/plbasename.c#L8-L11" .
 <http://spdx.org/licenses/gtkbook> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright 2005 Syd Logan, All Rights Reserved\";match=\".{0,5000}\">>\nThis code is distributed without warranty. You are free to use this code for any purpose, however, if this code is republished or redistributed in its original form, as hardcopy or electronically, then you must include this copyright notice along with the code.\n\n" .
 <http://spdx.org/licenses/gtkbook> <http://spdx.org/rdf/terms#name> "gtkbook License" .
-<http://spdx.org/licenses/gtkbook> <http://spdx.org/rdf/terms#crossRef> _:Bf804045aX2D4a57X2D48c6X2D93abX2D40caec44f121 .
+<http://spdx.org/licenses/gtkbook> <http://spdx.org/rdf/terms#crossRef> _:Bf5c067ecX2D9880X2D4710X2D85c9X2Da12f1693c5c9 .
 <http://spdx.org/licenses/gtkbook> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright 2005 Syd Logan, All Rights Reserved\n         </span></var>\n         <p>\n            This code is distributed without warranty. You are free to use\n            this code for any purpose, however, if this code is republished or\n            redistributed in its original form, as hardcopy or electronically,\n            then you must include this copyright notice along with the code.\n         </p>\n\n      " .
 <http://spdx.org/licenses/gtkbook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/gtkbook> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/gtkbook> <http://spdx.org/rdf/terms#crossRef> _:Bd05e3284X2D65acX2D45daX2Db2dbX2D9143a2df122c .
+<http://spdx.org/licenses/gtkbook> <http://spdx.org/rdf/terms#crossRef> _:B87887e24X2D4ddaX2D48d8X2D9326X2D77460f9519e0 .
 <http://spdx.org/licenses/gtkbook> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd05e3284X2D65acX2D45daX2Db2dbX2D9143a2df122c <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd05e3284X2D65acX2D45daX2Db2dbX2D9143a2df122c <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd05e3284X2D65acX2D45daX2Db2dbX2D9143a2df122c <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd05e3284X2D65acX2D45daX2Db2dbX2D9143a2df122c <http://spdx.org/rdf/terms#url> "https://github.com/slogan621/gtkbook" .
-_:Bd05e3284X2D65acX2D45daX2Db2dbX2D9143a2df122c <http://spdx.org/rdf/terms#timestamp> "2026-02-20T16:06:41Z" .
-_:Bd05e3284X2D65acX2D45daX2Db2dbX2D9143a2df122c <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bd05e3284X2D65acX2D45daX2Db2dbX2D9143a2df122c <http://spdx.org/rdf/terms#match> "true" .
-_:Bd05e3284X2D65acX2D45daX2Db2dbX2D9143a2df122c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B87887e24X2D4ddaX2D48d8X2D9326X2D77460f9519e0 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B87887e24X2D4ddaX2D48d8X2D9326X2D77460f9519e0 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B87887e24X2D4ddaX2D48d8X2D9326X2D77460f9519e0 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B87887e24X2D4ddaX2D48d8X2D9326X2D77460f9519e0 <http://spdx.org/rdf/terms#url> "https://github.com/oetiker/rrdtool-1.x/blob/master/src/plbasename.c#L8-L11" .
+_:B87887e24X2D4ddaX2D48d8X2D9326X2D77460f9519e0 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T18:59:51Z" .
+_:B87887e24X2D4ddaX2D48d8X2D9326X2D77460f9519e0 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B87887e24X2D4ddaX2D48d8X2D9326X2D77460f9519e0 <http://spdx.org/rdf/terms#match> "false" .
+_:B87887e24X2D4ddaX2D48d8X2D9326X2D77460f9519e0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

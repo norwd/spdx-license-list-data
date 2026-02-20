@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:61d23a0d-cf9f-4324-989d-1f90aadac008"
+                "@id": "_:a35e5b9c-ee13-4127-aa6e-f9e2d72a0e49"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:61d23a0d-cf9f-4324-989d-1f90aadac008",
+            "@id": "_:a35e5b9c-ee13-4127-aa6e-f9e2d72a0e49",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/ZlibWithAcknowledgement",
-            "spdx:timestamp": "2026-02-20T16:12:18Z",
+            "spdx:timestamp": "2026-02-20T19:01:45Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

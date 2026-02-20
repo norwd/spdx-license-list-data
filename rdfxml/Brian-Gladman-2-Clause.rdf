@@ -17,8 +17,23 @@
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
+        <spdx:url>https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html</spdx:url>
+        <spdx:timestamp>2026-02-20T19:02:57Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:match>true</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
         <spdx:url>https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L140-L156</spdx:url>
-        <spdx:timestamp>2026-02-20T16:14:29Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:02:57Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>false</spdx:match>
@@ -85,20 +100,5 @@ binary distributions include the above copyright notice, this list of conditions
 This software is provided 'as is' with no explicit or implied warranties in respect of its operation, including, but not limited to, correctness and fitness for purpose.
 
 </spdx:standardLicenseTemplate>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html</spdx:url>
-        <spdx:timestamp>2026-02-20T16:14:29Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>true</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
   </spdx:ListedLicense>
 </rdf:RDF>

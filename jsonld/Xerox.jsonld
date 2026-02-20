@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:4b810213-df94-400d-9672-6edb6d7a1b1e"
+                "@id": "_:81bff270-924d-4f58-a006-bcd3ad67ea10"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:4b810213-df94-400d-9672-6edb6d7a1b1e",
+            "@id": "_:81bff270-924d-4f58-a006-bcd3ad67ea10",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Xerox",
-            "spdx:timestamp": "2026-02-20T16:14:29Z",
+            "spdx:timestamp": "2026-02-20T19:02:59Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

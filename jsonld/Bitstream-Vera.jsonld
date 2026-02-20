@@ -4,10 +4,10 @@
             "@id": "http://spdx.org/licenses/Bitstream-Vera",
             "spdx:crossRef": [
                 {
-                    "@id": "_:097405b6-31ee-40c9-82da-01d7cc7d9e16"
+                    "@id": "_:87118873-471c-4115-ba3e-2b0bba6cb659"
                 },
                 {
-                    "@id": "_:4ce9fda7-5a5b-45a4-b380-cf52e876efd5"
+                    "@id": "_:4b309227-5eec-4a2e-b79f-920531043051"
                 }
             ],
             "rdfs:seeAlso": [
@@ -29,30 +29,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:097405b6-31ee-40c9-82da-01d7cc7d9e16",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://docubrain.com/sites/default/files/licenses/bitstream-vera.html",
-            "spdx:timestamp": "2026-02-20T16:16:23Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:4ce9fda7-5a5b-45a4-b380-cf52e876efd5",
+            "@id": "_:87118873-471c-4115-ba3e-2b0bba6cb659",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,12 +43,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://web.archive.org/web/20080207013128/http://www.gnome.org/fonts/",
-            "spdx:timestamp": "2026-02-20T16:16:23Z",
+            "spdx:timestamp": "2026-02-20T19:04:06Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:4b309227-5eec-4a2e-b79f-920531043051",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://docubrain.com/sites/default/files/licenses/bitstream-vera.html",
+            "spdx:timestamp": "2026-02-20T19:04:06Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

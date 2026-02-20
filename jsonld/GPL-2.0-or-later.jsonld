@@ -16,13 +16,13 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:5f406d33-c9ed-46f4-89c7-5a86ea8ecb2c"
+                    "@id": "_:f419e40b-09c8-4f70-ac25-dc05d582b8b2"
                 },
                 {
-                    "@id": "_:88fc64ad-d0b4-408e-9bb8-3d91f352069a"
+                    "@id": "_:651a94b7-a52d-4b50-9a47-f6711969869c"
                 },
                 {
-                    "@id": "_:0168faef-f552-41af-aca0-98fb1065494e"
+                    "@id": "_:7a0c42e2-f08a-4fb1-94ca-932f1e1fb0b8"
                 }
             ],
             "spdx:standardLicenseHeader": "<one line to give the program's name and an idea of what it does.>\nCopyright (C) <yyyy> <name of author>\n\nThis program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA .\n\n",
@@ -41,7 +41,7 @@
             }
         },
         {
-            "@id": "_:5f406d33-c9ed-46f4-89c7-5a86ea8ecb2c",
+            "@id": "_:f419e40b-09c8-4f70-ac25-dc05d582b8b2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -55,7 +55,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
-            "spdx:timestamp": "2026-02-20T16:13:51Z",
+            "spdx:timestamp": "2026-02-20T19:02:49Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -64,30 +64,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:88fc64ad-d0b4-408e-9bb8-3d91f352069a",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/openjdk/jdk/blob/6162e2c5213c5dd7c1127fd9616b543efa898962/LICENSE",
-            "spdx:timestamp": "2026-02-20T16:13:52Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:0168faef-f552-41af-aca0-98fb1065494e",
+            "@id": "_:651a94b7-a52d-4b50-9a47-f6711969869c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -101,12 +78,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/GPL-2.0",
-            "spdx:timestamp": "2026-02-20T16:13:52Z",
+            "spdx:timestamp": "2026-02-20T19:02:49Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:7a0c42e2-f08a-4fb1-94ca-932f1e1fb0b8",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/openjdk/jdk/blob/6162e2c5213c5dd7c1127fd9616b543efa898962/LICENSE",
+            "spdx:timestamp": "2026-02-20T19:02:49Z",
+            "spdx:order": {
+                "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         }
     ],

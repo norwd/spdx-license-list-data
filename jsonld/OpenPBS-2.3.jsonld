@@ -1,14 +1,37 @@
 {
     "@graph": [
         {
+            "@id": "_:2b498aec-49c6-4422-ba2c-7aa103f3a7db",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/adaptivecomputing/torque/blob/master/PBS_License.txt",
+            "spdx:timestamp": "2026-02-20T19:01:43Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/OpenPBS-2.3",
             "spdx:name": "OpenPBS v2.3 Software License",
             "spdx:crossRef": [
                 {
-                    "@id": "_:33ae76f1-da2c-477f-a64d-5468c30cccf1"
+                    "@id": "_:2b498aec-49c6-4422-ba2c-7aa103f3a7db"
                 },
                 {
-                    "@id": "_:3a90458e-bc04-4d28-ba1f-d8d6b3032623"
+                    "@id": "_:3129bcbd-dba8-483a-81c6-cf18b82002d8"
                 }
             ],
             "@type": "spdx:ListedLicense",
@@ -29,30 +52,7 @@
             }
         },
         {
-            "@id": "_:33ae76f1-da2c-477f-a64d-5468c30cccf1",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/adaptivecomputing/torque/blob/master/PBS_License.txt",
-            "spdx:timestamp": "2026-02-20T16:11:48Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:3a90458e-bc04-4d28-ba1f-d8d6b3032623",
+            "@id": "_:3129bcbd-dba8-483a-81c6-cf18b82002d8",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.mcs.anl.gov/research/projects/openpbs/PBS_License.txt",
-            "spdx:timestamp": "2026-02-20T16:11:48Z",
+            "spdx:timestamp": "2026-02-20T19:01:43Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

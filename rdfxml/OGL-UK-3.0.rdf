@@ -5,6 +5,8 @@
     xmlns:ptr="http://www.w3.org/2009/pointers#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/OGL-UK-3.0">
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,14 +16,12 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/</spdx:url>
-        <spdx:timestamp>2026-02-20T16:07:48Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T18:59:56Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >false</spdx:isDeprecatedLicenseId>
     <rdfs:comment>A Welsh translation of this license is available: http://www.nationalarchives.gov.uk/doc/open-government-licence-cymraeg/version/3/</rdfs:comment>
     <spdx:licenseText>Open Government Licence v3.0
 

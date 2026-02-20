@@ -7,7 +7,7 @@
             "rdfs:comment": "The PHP License v3.01 is essentially the same as v3.0, with the exception of a couple word differences and updated url in section 6.",
             "rdfs:seeAlso": "http://www.php.net/license/3_01.txt",
             "spdx:crossRef": {
-                "@id": "_:b565e51b-0183-47ea-83be-4db9cd04ec1d"
+                "@id": "_:c0db20a4-d3ce-40d4-b6b0-ec538674d1ee"
             },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -26,7 +26,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:b565e51b-0183-47ea-83be-4db9cd04ec1d",
+            "@id": "_:c0db20a4-d3ce-40d4-b6b0-ec538674d1ee",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -40,7 +40,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.php.net/license/3_01.txt",
-            "spdx:timestamp": "2026-02-20T16:10:09Z",
+            "spdx:timestamp": "2026-02-20T19:00:37Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:5d8f206a-b877-47b8-9e5e-bf51546f849f",
+            "@id": "_:a452a249-f3bf-4f2c-80bb-74fe3abafd3d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://web.archive.org/web/20181003101040/https://www.proofpoint.com/sites/default/files/sendmail-license.pdf",
-            "spdx:timestamp": "2026-02-20T16:15:01Z",
+            "spdx:timestamp": "2026-02-20T19:03:20Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:4f72f7e5-3401-4b48-8054-9db025d36871",
+            "@id": "_:8b69a06b-57b1-45ea-bf73-e68db7b774d1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -34,16 +34,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.proofpoint.com/sites/default/files/sendmail-license.pdf",
-            "spdx:timestamp": "2026-02-20T16:15:01Z",
+            "spdx:timestamp": "2026-02-20T19:03:30Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
@@ -54,10 +54,10 @@
             "spdx:name": "Sendmail License 8.23",
             "spdx:crossRef": [
                 {
-                    "@id": "_:5d8f206a-b877-47b8-9e5e-bf51546f849f"
+                    "@id": "_:8b69a06b-57b1-45ea-bf73-e68db7b774d1"
                 },
                 {
-                    "@id": "_:4f72f7e5-3401-4b48-8054-9db025d36871"
+                    "@id": "_:a452a249-f3bf-4f2c-80bb-74fe3abafd3d"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {

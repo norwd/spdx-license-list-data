@@ -9,13 +9,13 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:f0a792d8-6c16-4375-bc52-0dca698b45f1"
+                    "@id": "_:0aa3fe44-39b0-486f-97d6-feee60542932"
                 },
                 {
-                    "@id": "_:4d5d378d-1b3e-487e-91a0-41f9bd221689"
+                    "@id": "_:f95d955f-412f-4e7d-b3c1-edd9fa4ac66e"
                 },
                 {
-                    "@id": "_:3560d1f8-74b3-482b-89f6-a1ec06be3f6e"
+                    "@id": "_:5b9db09e-84bc-4339-b13d-9aa433ae9165"
                 }
             ],
             "rdfs:seeAlso": [
@@ -33,53 +33,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:f0a792d8-6c16-4375-bc52-0dca698b45f1",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html",
-            "spdx:timestamp": "2026-02-20T16:09:10Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:4d5d378d-1b3e-487e-91a0-41f9bd221689",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L66-L98",
-            "spdx:timestamp": "2026-02-20T16:09:10Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:3560d1f8-74b3-482b-89f6-a1ec06be3f6e",
+            "@id": "_:0aa3fe44-39b0-486f-97d6-feee60542932",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -93,12 +47,58 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing:MIT#OpenVision_Variant",
-            "spdx:timestamp": "2026-02-20T16:09:05Z",
+            "spdx:timestamp": "2026-02-20T19:00:28Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:f95d955f-412f-4e7d-b3c1-edd9fa4ac66e",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html",
+            "spdx:timestamp": "2026-02-20T19:00:28Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:5b9db09e-84bc-4339-b13d-9aa433ae9165",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L66-L98",
+            "spdx:timestamp": "2026-02-20T19:00:29Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         }
     ],

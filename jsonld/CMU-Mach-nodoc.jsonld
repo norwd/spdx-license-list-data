@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:3d8a89e5-bcd3-47bb-b5f1-c518794a427c",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L718-L728",
-            "spdx:timestamp": "2026-02-20T16:05:35Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:b363d44a-3c9e-4f1d-9685-7fa25582d3f4",
+            "@id": "_:80a39289-a8c5-42f5-beab-2653a2bed262",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html",
-            "spdx:timestamp": "2026-02-20T16:05:34Z",
+            "spdx:timestamp": "2026-02-20T18:59:45Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -49,6 +26,14 @@
         {
             "@id": "http://spdx.org/licenses/CMU-Mach-nodoc",
             "@type": "spdx:ListedLicense",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:80a39289-a8c5-42f5-beab-2653a2bed262"
+                },
+                {
+                    "@id": "_:e3939bf8-85e6-44ce-a709-7803cc1edeb1"
+                }
+            ],
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright (C) 2002 Naval Research Laboratory (NRL/CCS)\";match=\".{0,5000}\">>\nPermission to use, copy, modify and distribute this software and its documentation is hereby granted, provided that both the copyright notice and this permission notice appear in all copies of the software, derivative works or modified versions, and any portions thereof.\n\nNRL ALLOWS FREE USE OF THIS SOFTWARE IN ITS \"AS IS\" CONDITION AND DISCLAIMS ANY LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.\n\n",
             "rdfs:seeAlso": [
                 "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L718-L728",
@@ -63,17 +48,32 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:3d8a89e5-bcd3-47bb-b5f1-c518794a427c"
-                },
-                {
-                    "@id": "_:b363d44a-3c9e-4f1d-9685-7fa25582d3f4"
-                }
-            ],
             "spdx:name": "CMU    Mach - no notices-in-documentation variant",
             "rdfs:comment": "This is similar to CMU-Mach but omits the obligation that both notices appear in supporting documentation and omits the request to return improvements or extensions back to the copyright holder.",
             "spdx:licenseText": "Copyright (C) 2002 Naval Research Laboratory (NRL/CCS)\n\nPermission to use, copy, modify and distribute this software and\nits documentation is hereby granted, provided that both the\ncopyright notice and this permission notice appear in all copies of\nthe software, derivative works or modified versions, and any\nportions thereof.\n\nNRL ALLOWS FREE USE OF THIS SOFTWARE IN ITS \"AS IS\" CONDITION AND\nDISCLAIMS ANY LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER\nRESULTING FROM THE USE OF THIS SOFTWARE.\n"
+        },
+        {
+            "@id": "_:e3939bf8-85e6-44ce-a709-7803cc1edeb1",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L718-L728",
+            "spdx:timestamp": "2026-02-20T18:59:46Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

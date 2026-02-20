@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:bf81de68-ece9-40c4-b2a2-6807af67bfe8"
+                "@id": "_:c92a860d-c392-4b0a-864d-cea134ba5a67"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:bf81de68-ece9-40c4-b2a2-6807af67bfe8",
+            "@id": "_:c92a860d-c392-4b0a-864d-cea134ba5a67",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.govdata.de/dl-de/zero-2-0",
-            "spdx:timestamp": "2026-02-20T16:05:39Z",
+            "spdx:timestamp": "2026-02-20T18:59:47Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

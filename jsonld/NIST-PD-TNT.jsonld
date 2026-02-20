@@ -1,34 +1,11 @@
 {
     "@graph": [
         {
-            "@id": "_:42319e98-cba5-47d4-b341-ee95d70ca70b",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://math.nist.gov/tnt/download.html",
-            "spdx:timestamp": "2026-02-20T16:07:17Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/NIST-PD-TNT",
-            "spdx:crossRef": {
-                "@id": "_:42319e98-cba5-47d4-b341-ee95d70ca70b"
-            },
             "@type": "spdx:ListedLicense",
+            "spdx:crossRef": {
+                "@id": "_:0a92c29c-b20a-4d0f-9e4a-74c550b17d68"
+            },
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -43,6 +20,29 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
+        },
+        {
+            "@id": "_:0a92c29c-b20a-4d0f-9e4a-74c550b17d68",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://math.nist.gov/tnt/download.html",
+            "spdx:timestamp": "2026-02-20T18:59:53Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

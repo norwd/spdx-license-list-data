@@ -53,21 +53,6 @@ Unless required by applicable law or agreed to in writing, software distributed 
       &lt;/p&gt;
 
     </spdx:standardLicenseHeaderHtml>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://github.com/PixarAnimationStudios/OpenSubdiv/blob/v3_5_0/opensubdiv/version.cpp#L2-L22</spdx:url>
-        <spdx:timestamp>2026-02-20T16:15:46Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >2</spdx:order>
-        <spdx:match>false</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:standardLicenseHeader>Copyright &lt;year&gt; &lt;name of author&gt;
 Licensed under the Apache License, Version 2.0 (the "Apache License") with the following modification; you may not use this file except in compliance with the Apache License and the following modification to it: Section 6. Trademarks. is deleted and replaced with:
 
@@ -148,6 +133,21 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
    Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
    
    </spdx:standardLicenseTemplate>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://github.com/PixarAnimationStudios/OpenSubdiv/raw/v3_5_0/LICENSE.txt</spdx:url>
+        <spdx:timestamp>2026-02-20T19:04:03Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>true</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:licenseText>
                                Modified Apache 2.0 License
 
@@ -324,21 +324,6 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
       of your accepting any such warranty or additional liability.
 
 </spdx:licenseText>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://github.com/PixarAnimationStudios/OpenSubdiv/raw/v3_5_0/LICENSE.txt</spdx:url>
-        <spdx:timestamp>2026-02-20T16:15:47Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>true</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <rdfs:comment>This license is essentially Apache-2.0 with modifications to section 6.
 
 </rdfs:comment>
@@ -353,9 +338,24 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://graphics.pixar.com/opensubdiv/docs/license.html</spdx:url>
-        <spdx:timestamp>2026-02-20T16:15:47Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:04:03Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://github.com/PixarAnimationStudios/OpenSubdiv/blob/v3_5_0/opensubdiv/version.cpp#L2-L22</spdx:url>
+        <spdx:timestamp>2026-02-20T19:04:02Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >2</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>

@@ -1,19 +1,21 @@
-_:B22b227b7X2D6e35X2D483eX2Da8beX2Df032219605a6 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B22b227b7X2D6e35X2D483eX2Da8beX2Df032219605a6 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B22b227b7X2D6e35X2D483eX2Da8beX2Df032219605a6 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B22b227b7X2D6e35X2D483eX2Da8beX2Df032219605a6 <http://spdx.org/rdf/terms#url> "https://gitlab.com/agmartin/linuxdoc-tools/-/blob/master/iso-entities/COPYING?ref_type=heads" .
-_:B22b227b7X2D6e35X2D483eX2Da8beX2Df032219605a6 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T16:09:18Z" .
-_:B22b227b7X2D6e35X2D483eX2Da8beX2Df032219605a6 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B22b227b7X2D6e35X2D483eX2Da8beX2Df032219605a6 <http://spdx.org/rdf/terms#match> "false" .
-_:B22b227b7X2D6e35X2D483eX2Da8beX2Df032219605a6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:Bd47e1ca7X2Dc1cbX2D42fdX2Da39fX2De28d28fa3abc <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd47e1ca7X2Dc1cbX2D42fdX2Da39fX2De28d28fa3abc <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd47e1ca7X2Dc1cbX2D42fdX2Da39fX2De28d28fa3abc <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd47e1ca7X2Dc1cbX2D42fdX2Da39fX2De28d28fa3abc <http://spdx.org/rdf/terms#url> "https://www.itu.int/ITU-T/formal-language/itu-t/t/t173/1997/ISOMHEG-sir.html" .
-_:Bd47e1ca7X2Dc1cbX2D42fdX2Da39fX2De28d28fa3abc <http://spdx.org/rdf/terms#timestamp> "2026-02-20T16:09:17Z" .
-_:Bd47e1ca7X2Dc1cbX2D42fdX2Da39fX2De28d28fa3abc <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bd47e1ca7X2Dc1cbX2D42fdX2Da39fX2De28d28fa3abc <http://spdx.org/rdf/terms#match> "true" .
-_:Bd47e1ca7X2Dc1cbX2D42fdX2Da39fX2De28d28fa3abc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Ba37465bcX2D329eX2D473dX2Dab56X2D1396eb7062cf <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Ba37465bcX2D329eX2D473dX2Dab56X2D1396eb7062cf <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Ba37465bcX2D329eX2D473dX2Dab56X2D1396eb7062cf <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Ba37465bcX2D329eX2D473dX2Dab56X2D1396eb7062cf <http://spdx.org/rdf/terms#url> "https://www.itu.int/ITU-T/formal-language/itu-t/t/t173/1997/ISOMHEG-sir.html" .
+_:Ba37465bcX2D329eX2D473dX2Dab56X2D1396eb7062cf <http://spdx.org/rdf/terms#timestamp> "2026-02-20T19:00:34Z" .
+_:Ba37465bcX2D329eX2D473dX2Dab56X2D1396eb7062cf <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Ba37465bcX2D329eX2D473dX2Dab56X2D1396eb7062cf <http://spdx.org/rdf/terms#match> "true" .
+_:Ba37465bcX2D329eX2D473dX2Dab56X2D1396eb7062cf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B2893f286X2Dec37X2D4767X2D8796X2D60d1efa28d5b <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B2893f286X2Dec37X2D4767X2D8796X2D60d1efa28d5b <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B2893f286X2Dec37X2D4767X2D8796X2D60d1efa28d5b <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B2893f286X2Dec37X2D4767X2D8796X2D60d1efa28d5b <http://spdx.org/rdf/terms#url> "https://gitlab.com/agmartin/linuxdoc-tools/-/blob/master/iso-entities/COPYING?ref_type=heads" .
+_:B2893f286X2Dec37X2D4767X2D8796X2D60d1efa28d5b <http://spdx.org/rdf/terms#timestamp> "2026-02-20T19:00:35Z" .
+_:B2893f286X2Dec37X2D4767X2D8796X2D60d1efa28d5b <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B2893f286X2Dec37X2D4767X2D8796X2D60d1efa28d5b <http://spdx.org/rdf/terms#match> "false" .
+_:B2893f286X2Dec37X2D4767X2D8796X2D60d1efa28d5b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/ISO-permission> <http://spdx.org/rdf/terms#crossRef> _:Ba37465bcX2D329eX2D473dX2Dab56X2D1396eb7062cf .
+<http://spdx.org/licenses/ISO-permission> <http://spdx.org/rdf/terms#crossRef> _:B2893f286X2Dec37X2D4767X2D8796X2D60d1efa28d5b .
 <http://spdx.org/licenses/ISO-permission> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/ISO-permission> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"(C) International Organization for Standardization 1986\";match=\".{0,5000}\">>\nPermission to copy in any form is granted for use with conforming <<var;name=\"name\";original=\"SGML systems\";match=\"SGML systems|to MHEG-3 engines\">> and applications as defined <<var;name=\"defined\";original=\"in ISO 8879,\";match=\"in ISO 8879,|by this Recommendation\">> provided this notice is included in all copies.\n\n" .
 <http://spdx.org/licenses/ISO-permission> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://gitlab.com/agmartin/linuxdoc-tools/-/blob/master/iso-entities/COPYING?ref_type=heads" .
@@ -21,8 +23,6 @@ _:Bd47e1ca7X2Dc1cbX2D42fdX2Da39fX2De28d28fa3abc <http://www.w3.org/1999/02/22-rd
 <http://spdx.org/licenses/ISO-permission> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
 <http://spdx.org/licenses/ISO-permission> <http://spdx.org/rdf/terms#licenseText> "(C) International Organization for Standardization 1986\nPermission to copy in any form is granted for use with\nconforming SGML systems and applications as defined \nin ISO 8879, provided this notice is included in all copies.\n" .
 <http://spdx.org/licenses/ISO-permission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-<http://spdx.org/licenses/ISO-permission> <http://spdx.org/rdf/terms#crossRef> _:Bd47e1ca7X2Dc1cbX2D42fdX2Da39fX2De28d28fa3abc .
 <http://spdx.org/licenses/ISO-permission> <http://spdx.org/rdf/terms#name> "ISO permission notice" .
 <http://spdx.org/licenses/ISO-permission> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/ISO-permission> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://www.itu.int/ITU-T/formal-language/itu-t/t/t173/1997/ISOMHEG-sir.html" .
-<http://spdx.org/licenses/ISO-permission> <http://spdx.org/rdf/terms#crossRef> _:B22b227b7X2D6e35X2D483eX2Da8beX2Df032219605a6 .

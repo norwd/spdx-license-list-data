@@ -7,7 +7,7 @@
             "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": "http://www.mozilla.org/MPL/NPL/1.0/",
             "spdx:crossRef": {
-                "@id": "_:f2bad8d6-1453-47b6-9ca2-530d1a61fa49"
+                "@id": "_:cea02620-123e-485b-b4ae-3e25ab4e6450"
             },
             "spdx:isFsfLibre": {
                 "@value": "true",
@@ -25,7 +25,7 @@
             }
         },
         {
-            "@id": "_:f2bad8d6-1453-47b6-9ca2-530d1a61fa49",
+            "@id": "_:cea02620-123e-485b-b4ae-3e25ab4e6450",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -39,7 +39,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.mozilla.org/MPL/NPL/1.0/",
-            "spdx:timestamp": "2026-02-20T16:07:17Z",
+            "spdx:timestamp": "2026-02-20T18:59:53Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

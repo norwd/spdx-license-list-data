@@ -4,25 +4,25 @@
 <http://spdx.org/licenses/HPND-export2-US> <http://spdx.org/rdf/terms#name> "HPND with US Government export control and 2 disclaimers" .
 <http://spdx.org/licenses/HPND-export2-US> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html" .
 <http://spdx.org/licenses/HPND-export2-US> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-<http://spdx.org/licenses/HPND-export2-US> <http://spdx.org/rdf/terms#crossRef> _:Be32cdba9X2D4192X2D4508X2Db35aX2Dfedd33a7b5d1 .
+<http://spdx.org/licenses/HPND-export2-US> <http://spdx.org/rdf/terms#crossRef> _:Ba77eedfdX2Deff5X2D45a6X2D8373X2D0269b03e38af .
 <http://spdx.org/licenses/HPND-export2-US> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L111-L133" .
 <http://spdx.org/licenses/HPND-export2-US> <http://www.w3.org/2000/01/rdf-schema#comment> "This license is very similar to HPND-export-US, but adds a second disclaimer." .
 <http://spdx.org/licenses/HPND-export2-US> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright 2004-2008 Apple Inc. All Rights Reserved.\";match=\".{0,5000}\">>\nExport of this software from the United States of America may require a specific license from the United States Government. It is the responsibility of any person or organization contemplating export to obtain such a license before exporting.\n\nWITHIN THAT CONSTRAINT, permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation, and that the name of <<var;name=\"copyrightHolder0\";original=\"Apple Inc.\";match=\".*\">> not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. <<var;name=\"copyrightHolder1\";original=\"Apple Inc.\";match=\".*\">> . makes no representations about the suitability of this software for any purpose. It is provided \"as is\" without express or implied warranty.\n\nTHIS SOFTWARE IS PROVIDED \"AS IS\" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n\n" .
-<http://spdx.org/licenses/HPND-export2-US> <http://spdx.org/rdf/terms#crossRef> _:Bead682e9X2D2965X2D461eX2Da839X2D04a533b5321c .
+<http://spdx.org/licenses/HPND-export2-US> <http://spdx.org/rdf/terms#crossRef> _:Bad76a666X2Dbb14X2D472eX2Dad92X2D457734dede98 .
 <http://spdx.org/licenses/HPND-export2-US> <http://spdx.org/rdf/terms#licenseText> "Copyright 2004-2008 Apple Inc.  All Rights Reserved.\n\n   Export of this software from the United States of America may\n   require a specific license from the United States Government.\n   It is the responsibility of any person or organization\n   contemplating export to obtain such a license before exporting.\n\nWITHIN THAT CONSTRAINT, permission to use, copy, modify, and\ndistribute this software and its documentation for any purpose and\nwithout fee is hereby granted, provided that the above copyright\nnotice appear in all copies and that both that copyright notice and\nthis permission notice appear in supporting documentation, and that\nthe name of Apple Inc. not be used in advertising or publicity\npertaining to distribution of the software without specific,\nwritten prior permission.  Apple Inc. makes no representations\nabout the suitability of this software for any purpose.  It is\nprovided \"as is\" without express or implied warranty.\n\nTHIS SOFTWARE IS PROVIDED \"AS IS\" AND WITHOUT ANY EXPRESS OR\nIMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED\nWARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n" .
-_:Be32cdba9X2D4192X2D4508X2Db35aX2Dfedd33a7b5d1 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Be32cdba9X2D4192X2D4508X2Db35aX2Dfedd33a7b5d1 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Be32cdba9X2D4192X2D4508X2Db35aX2Dfedd33a7b5d1 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Be32cdba9X2D4192X2D4508X2Db35aX2Dfedd33a7b5d1 <http://spdx.org/rdf/terms#url> "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html" .
-_:Be32cdba9X2D4192X2D4508X2Db35aX2Dfedd33a7b5d1 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T16:07:49Z" .
-_:Be32cdba9X2D4192X2D4508X2Db35aX2Dfedd33a7b5d1 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Be32cdba9X2D4192X2D4508X2Db35aX2Dfedd33a7b5d1 <http://spdx.org/rdf/terms#match> "true" .
-_:Be32cdba9X2D4192X2D4508X2Db35aX2Dfedd33a7b5d1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:Bead682e9X2D2965X2D461eX2Da839X2D04a533b5321c <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bead682e9X2D2965X2D461eX2Da839X2D04a533b5321c <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bead682e9X2D2965X2D461eX2Da839X2D04a533b5321c <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bead682e9X2D2965X2D461eX2Da839X2D04a533b5321c <http://spdx.org/rdf/terms#url> "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L111-L133" .
-_:Bead682e9X2D2965X2D461eX2Da839X2D04a533b5321c <http://spdx.org/rdf/terms#timestamp> "2026-02-20T16:07:49Z" .
-_:Bead682e9X2D2965X2D461eX2Da839X2D04a533b5321c <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bead682e9X2D2965X2D461eX2Da839X2D04a533b5321c <http://spdx.org/rdf/terms#match> "false" .
-_:Bead682e9X2D2965X2D461eX2Da839X2D04a533b5321c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bad76a666X2Dbb14X2D472eX2Dad92X2D457734dede98 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bad76a666X2Dbb14X2D472eX2Dad92X2D457734dede98 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bad76a666X2Dbb14X2D472eX2Dad92X2D457734dede98 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bad76a666X2Dbb14X2D472eX2Dad92X2D457734dede98 <http://spdx.org/rdf/terms#url> "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html" .
+_:Bad76a666X2Dbb14X2D472eX2Dad92X2D457734dede98 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T18:59:57Z" .
+_:Bad76a666X2Dbb14X2D472eX2Dad92X2D457734dede98 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bad76a666X2Dbb14X2D472eX2Dad92X2D457734dede98 <http://spdx.org/rdf/terms#match> "true" .
+_:Bad76a666X2Dbb14X2D472eX2Dad92X2D457734dede98 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Ba77eedfdX2Deff5X2D45a6X2D8373X2D0269b03e38af <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Ba77eedfdX2Deff5X2D45a6X2D8373X2D0269b03e38af <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Ba77eedfdX2Deff5X2D45a6X2D8373X2D0269b03e38af <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Ba77eedfdX2Deff5X2D45a6X2D8373X2D0269b03e38af <http://spdx.org/rdf/terms#url> "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L111-L133" .
+_:Ba77eedfdX2Deff5X2D45a6X2D8373X2D0269b03e38af <http://spdx.org/rdf/terms#timestamp> "2026-02-20T18:59:57Z" .
+_:Ba77eedfdX2Deff5X2D45a6X2D8373X2D0269b03e38af <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Ba77eedfdX2Deff5X2D45a6X2D8373X2D0269b03e38af <http://spdx.org/rdf/terms#match> "false" .
+_:Ba77eedfdX2Deff5X2D45a6X2D8373X2D0269b03e38af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

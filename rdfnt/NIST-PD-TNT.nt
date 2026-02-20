@@ -1,13 +1,5 @@
-_:B42319e98X2Dcba5X2D47d4X2Db341X2Dee95d70ca70b <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B42319e98X2Dcba5X2D47d4X2Db341X2Dee95d70ca70b <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B42319e98X2Dcba5X2D47d4X2Db341X2Dee95d70ca70b <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B42319e98X2Dcba5X2D47d4X2Db341X2Dee95d70ca70b <http://spdx.org/rdf/terms#url> "https://math.nist.gov/tnt/download.html" .
-_:B42319e98X2Dcba5X2D47d4X2Db341X2Dee95d70ca70b <http://spdx.org/rdf/terms#timestamp> "2026-02-20T16:07:17Z" .
-_:B42319e98X2Dcba5X2D47d4X2Db341X2Dee95d70ca70b <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B42319e98X2Dcba5X2D47d4X2Db341X2Dee95d70ca70b <http://spdx.org/rdf/terms#match> "true" .
-_:B42319e98X2Dcba5X2D47d4X2Db341X2Dee95d70ca70b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-<http://spdx.org/licenses/NIST-PD-TNT> <http://spdx.org/rdf/terms#crossRef> _:B42319e98X2Dcba5X2D47d4X2Db341X2Dee95d70ca70b .
 <http://spdx.org/licenses/NIST-PD-TNT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
+<http://spdx.org/licenses/NIST-PD-TNT> <http://spdx.org/rdf/terms#crossRef> _:B0a92c29cX2Db20aX2D4d0fX2D9e4aX2D74c550b17d68 .
 <http://spdx.org/licenses/NIST-PD-TNT> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/NIST-PD-TNT> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            This software was developed at the National Institute of\n            Standards and Technology (NIST) by employees of the Federal\n            Government in the course of their official duties. Pursuant to\n            title 17 Section 105 of the United States Code this software\n            is not subject to copyright protection and is in the public\n            domain. NIST assumes no responsibility whatsoever for its use\n            by other parties, and makes no guarantees, expressed or implied,\n            about its quality, reliability, or any other characteristic.\n         </p>\n\n         <p>\n            We would appreciate acknowledgement if the software is\n            incorporated in redistributable libraries or applications.\n         </p>\n\n      " .
 <http://spdx.org/licenses/NIST-PD-TNT> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://math.nist.gov/tnt/download.html" .
@@ -16,3 +8,11 @@ _:B42319e98X2Dcba5X2D47d4X2Db341X2Dee95d70ca70b <http://www.w3.org/1999/02/22-rd
 <http://spdx.org/licenses/NIST-PD-TNT> <http://spdx.org/rdf/terms#licenseText> "This software was developed at the National Institute of Standards and Technology (NIST) by employees of the Federal Government in the course of their official duties. Pursuant to title 17 Section 105 of the United States Code this software is not subject to copyright protection and is in the public domain. NIST assumes no responsibility whatsoever for its use by other parties, and makes no guarantees, expressed or implied, about its quality, reliability, or any other characteristic.\n\nWe would appreciate acknowledgement if the software is incorporated in redistributable libraries or applications.\n" .
 <http://spdx.org/licenses/NIST-PD-TNT> <http://spdx.org/rdf/terms#name> "NIST    Public Domain Notice TNT variant" .
 <http://spdx.org/licenses/NIST-PD-TNT> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B0a92c29cX2Db20aX2D4d0fX2D9e4aX2D74c550b17d68 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B0a92c29cX2Db20aX2D4d0fX2D9e4aX2D74c550b17d68 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B0a92c29cX2Db20aX2D4d0fX2D9e4aX2D74c550b17d68 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B0a92c29cX2Db20aX2D4d0fX2D9e4aX2D74c550b17d68 <http://spdx.org/rdf/terms#url> "https://math.nist.gov/tnt/download.html" .
+_:B0a92c29cX2Db20aX2D4d0fX2D9e4aX2D74c550b17d68 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T18:59:53Z" .
+_:B0a92c29cX2Db20aX2D4d0fX2D9e4aX2D74c550b17d68 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B0a92c29cX2Db20aX2D4d0fX2D9e4aX2D74c550b17d68 <http://spdx.org/rdf/terms#match> "true" .
+_:B0a92c29cX2Db20aX2D4d0fX2D9e4aX2D74c550b17d68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

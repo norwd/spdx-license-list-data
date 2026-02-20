@@ -1,26 +1,26 @@
 {
     "@graph": [
         {
-            "@id": "_:7e74d762-301f-4706-be6e-67c823efd775",
+            "@id": "_:cb17d779-b11b-4ddf-934c-62c651c0a4d5",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isValid": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "http://research.cs.wisc.edu/condor/license.html#condor",
-            "spdx:timestamp": "2026-02-20T16:15:01Z",
+            "spdx:url": "http://web.archive.org/web/20111123062036/http://research.cs.wisc.edu/condor/license.html#condor",
+            "spdx:timestamp": "2026-02-20T19:03:20Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
@@ -37,10 +37,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:cb255439-c33d-43bd-acec-2d43e439dd40"
+                    "@id": "_:fad85b65-b37a-4140-8415-cbadd740b764"
                 },
                 {
-                    "@id": "_:7e74d762-301f-4706-be6e-67c823efd775"
+                    "@id": "_:cb17d779-b11b-4ddf-934c-62c651c0a4d5"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -57,26 +57,26 @@
             }
         },
         {
-            "@id": "_:cb255439-c33d-43bd-acec-2d43e439dd40",
+            "@id": "_:fad85b65-b37a-4140-8415-cbadd740b764",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isValid": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "http://web.archive.org/web/20111123062036/http://research.cs.wisc.edu/condor/license.html#condor",
-            "spdx:timestamp": "2026-02-20T16:15:01Z",
+            "spdx:url": "http://research.cs.wisc.edu/condor/license.html#condor",
+            "spdx:timestamp": "2026-02-20T19:03:20Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         }
     ],

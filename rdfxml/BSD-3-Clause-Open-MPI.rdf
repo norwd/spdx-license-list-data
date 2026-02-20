@@ -66,10 +66,25 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://www.open-mpi.org/community/license.php</spdx:url>
-        <spdx:timestamp>2026-02-20T16:13:23Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:02:52Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+        <spdx:url>http://www.netlib.org/lapack/LICENSE.txt</spdx:url>
+        <spdx:timestamp>2026-02-20T19:03:22Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <rdfs:seeAlso>http://www.netlib.org/lapack/LICENSE.txt</rdfs:seeAlso>
@@ -114,20 +129,5 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
         OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.&lt;/p&gt;
 
     </spdx:licenseTextHtml>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>http://www.netlib.org/lapack/LICENSE.txt</spdx:url>
-        <spdx:timestamp>2026-02-20T16:13:23Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>true</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
   </spdx:ListedLicense>
 </rdf:RDF>

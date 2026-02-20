@@ -269,7 +269,7 @@ On the date above, in accordance with the Business Source License, use of this s
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://mariadb.com/bsl11/</spdx:url>
-        <spdx:timestamp>2026-02-20T16:10:43Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:01:10Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>false</spdx:match>

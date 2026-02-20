@@ -68,21 +68,6 @@
 
       </spdx:licenseTextHtml>
     <rdfs:seeAlso>https://gitlab.syncad.com/hive/dhive/-/blob/master/LICENSE</rdfs:seeAlso>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://gitlab.syncad.com/hive/dhive/-/blob/master/LICENSE</spdx:url>
-        <spdx:timestamp>2026-02-20T16:08:21Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <rdfs:seeAlso>https://github.com/greymass/swift-eosio/blob/master/LICENSE</rdfs:seeAlso>
     <spdx:licenseText>Copyright (c) year copyright holder. All Rights Reserved.
 
@@ -127,8 +112,23 @@ YOU ACKNOWLEDGE THAT THIS SOFTWARE IS NOT DESIGNED, LICENSED OR INTENDED FOR USE
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
+        <spdx:url>https://gitlab.syncad.com/hive/dhive/-/blob/master/LICENSE</spdx:url>
+        <spdx:timestamp>2026-02-20T19:00:24Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
         <spdx:url>https://github.com/greymass/swift-eosio/blob/master/LICENSE</spdx:url>
-        <spdx:timestamp>2026-02-20T16:08:21Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T19:00:24Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>false</spdx:match>

@@ -1,23 +1,23 @@
 {
     "@graph": [
         {
-            "@id": "_:6fbcb074-70fb-46e9-b251-24460d94252e",
+            "@id": "_:f88b8816-70a6-4b35-ba65-38dac4b0cd85",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isValid": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://opensource.org/licenses/OSL-3.0",
-            "spdx:timestamp": "2026-02-20T16:11:18Z",
+            "spdx:url": "https://web.archive.org/web/20120101081418/http://rosenlaw.com:80/OSL3.0.htm",
+            "spdx:timestamp": "2026-02-20T19:01:41Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",
@@ -50,32 +50,32 @@
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": [
                 {
-                    "@id": "_:6fbcb074-70fb-46e9-b251-24460d94252e"
+                    "@id": "_:f88b8816-70a6-4b35-ba65-38dac4b0cd85"
                 },
                 {
-                    "@id": "_:430a1409-64da-4926-985c-c0098454ec5a"
+                    "@id": "_:c758d0c8-b6a6-408b-b6f0-a38af5d52d08"
                 }
             ],
             "spdx:name": "Open Software License 3.0"
         },
         {
-            "@id": "_:430a1409-64da-4926-985c-c0098454ec5a",
+            "@id": "_:c758d0c8-b6a6-408b-b6f0-a38af5d52d08",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isValid": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://web.archive.org/web/20120101081418/http://rosenlaw.com:80/OSL3.0.htm",
-            "spdx:timestamp": "2026-02-20T16:11:18Z",
+            "spdx:url": "https://opensource.org/licenses/OSL-3.0",
+            "spdx:timestamp": "2026-02-20T19:01:41Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",

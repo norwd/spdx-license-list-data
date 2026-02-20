@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:6d333000-481d-493f-a369-c416e1737964",
+            "@id": "_:0ecb6ef1-3b11-4ef7-b149-dfb41ab6171d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/GNOME/gcr/blob/master/docs/COPYING",
-            "spdx:timestamp": "2026-02-20T16:08:21Z",
+            "spdx:timestamp": "2026-02-20T19:00:24Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:6d333000-481d-493f-a369-c416e1737964"
+                "@id": "_:0ecb6ef1-3b11-4ef7-b149-dfb41ab6171d"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

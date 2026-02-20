@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:dccae7d5-a9bb-4bcc-b6ea-569a65f7a669"
+                "@id": "_:86140715-82c2-423a-a384-297cc09cbb3f"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:dccae7d5-a9bb-4bcc-b6ea-569a65f7a669",
+            "@id": "_:86140715-82c2-423a-a384-297cc09cbb3f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/tats/w3m/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T16:07:52Z",
+            "spdx:timestamp": "2026-02-20T19:00:23Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

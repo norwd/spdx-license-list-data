@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:f804045a-4a57-48c6-93ab-40caec44f121",
+            "@id": "_:f5c067ec-9880-4710-85c9-a12f1693c5c9",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,13 +14,13 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://github.com/oetiker/rrdtool-1.x/blob/master/src/plbasename.c#L8-L11",
-            "spdx:timestamp": "2026-02-20T16:06:40Z",
+            "spdx:url": "https://github.com/slogan621/gtkbook",
+            "spdx:timestamp": "2026-02-20T18:59:52Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         },
         {
@@ -34,10 +34,10 @@
             "spdx:name": "gtkbook License",
             "spdx:crossRef": [
                 {
-                    "@id": "_:f804045a-4a57-48c6-93ab-40caec44f121"
+                    "@id": "_:f5c067ec-9880-4710-85c9-a12f1693c5c9"
                 },
                 {
-                    "@id": "_:d05e3284-65ac-45da-b2db-9143a2df122c"
+                    "@id": "_:87887e24-4dda-48d8-9326-77460f9519e0"
                 }
             ],
             "spdx:licenseTextHtml": "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright 2005 Syd Logan, All Rights Reserved\n         </span></var>\n         <p>\n            This code is distributed without warranty. You are free to use\n            this code for any purpose, however, if this code is republished or\n            redistributed in its original form, as hardcopy or electronically,\n            then you must include this copyright notice along with the code.\n         </p>\n\n      ",
@@ -52,7 +52,7 @@
             }
         },
         {
-            "@id": "_:d05e3284-65ac-45da-b2db-9143a2df122c",
+            "@id": "_:87887e24-4dda-48d8-9326-77460f9519e0",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -65,13 +65,13 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://github.com/slogan621/gtkbook",
-            "spdx:timestamp": "2026-02-20T16:06:41Z",
+            "spdx:url": "https://github.com/oetiker/rrdtool-1.x/blob/master/src/plbasename.c#L8-L11",
+            "spdx:timestamp": "2026-02-20T18:59:51Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "true",
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         }
     ],

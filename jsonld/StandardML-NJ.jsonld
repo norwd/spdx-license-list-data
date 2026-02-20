@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:ac7fdb96-80ad-456f-8ce8-80f926440c08",
+            "@id": "_:792610b7-f713-4142-a708-918da347b167",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -11,22 +11,22 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.smlnj.org/license.html",
-            "spdx:timestamp": "2026-02-20T16:16:21Z",
+            "spdx:timestamp": "2026-02-20T19:04:34Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "true",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
             "@id": "http://spdx.org/licenses/StandardML-NJ",
             "spdx:crossRef": {
-                "@id": "_:ac7fdb96-80ad-456f-8ce8-80f926440c08"
+                "@id": "_:792610b7-f713-4142-a708-918da347b167"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
