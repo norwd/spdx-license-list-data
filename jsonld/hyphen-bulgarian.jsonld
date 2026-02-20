@@ -1,36 +1,13 @@
 {
     "@graph": [
         {
-            "@id": "_:03c399da-30cd-4a44-8eae-77ebe4414b96",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
-            "spdx:timestamp": "2026-02-20T15:26:26Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/hyphen-bulgarian",
             "spdx:crossRef": [
                 {
-                    "@id": "_:86e58582-b090-4a14-8e23-ac3b5c4a7389"
+                    "@id": "_:f2dca24d-4e6b-47ac-a811-3439d292100f"
                 },
                 {
-                    "@id": "_:03c399da-30cd-4a44-8eae-77ebe4414b96"
+                    "@id": "_:31e8ba4f-8d47-4f9d-8cde-aba98dff334c"
                 }
             ],
             "rdfs:seeAlso": [
@@ -52,7 +29,30 @@
             }
         },
         {
-            "@id": "_:86e58582-b090-4a14-8e23-ac3b5c4a7389",
+            "@id": "_:f2dca24d-4e6b-47ac-a811-3439d292100f",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
+            "spdx:timestamp": "2026-02-20T15:43:32Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:31e8ba4f-8d47-4f9d-8cde-aba98dff334c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185",
-            "spdx:timestamp": "2026-02-20T15:26:27Z",
+            "spdx:timestamp": "2026-02-20T15:43:32Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

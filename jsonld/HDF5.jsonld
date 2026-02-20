@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:06f77833-063a-4893-9be9-4b01ad2922d7"
+                "@id": "_:67b5ea3d-984a-4e38-99d2-d2e2f23d5e2c"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:06f77833-063a-4893-9be9-4b01ad2922d7",
+            "@id": "_:67b5ea3d-984a-4e38-99d2-d2e2f23d5e2c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/HDFGroup/hdf5/?tab=License-1-ov-file#readme",
-            "spdx:timestamp": "2026-02-20T15:23:41Z",
+            "spdx:timestamp": "2026-02-20T15:40:28Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

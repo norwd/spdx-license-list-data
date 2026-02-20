@@ -1,29 +1,6 @@
 {
     "@graph": [
         {
-            "@id": "_:62a2a208-5e48-440f-9081-d6e9dc398094",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/seanmiddleditch/libtelnet/blob/develop/COPYING",
-            "spdx:timestamp": "2026-02-20T15:25:04Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/Unlicense-libtelnet",
             "rdfs:comment": "This is license contains a small part of the Unlicense, but is much shorter.",
             "spdx:isDeprecatedLicenseId": {
@@ -41,8 +18,31 @@
             },
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:62a2a208-5e48-440f-9081-d6e9dc398094"
+                "@id": "_:d5c8f113-f235-4b77-b777-10d66133e1f8"
             }
+        },
+        {
+            "@id": "_:d5c8f113-f235-4b77-b777-10d66133e1f8",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/seanmiddleditch/libtelnet/blob/develop/COPYING",
+            "spdx:timestamp": "2026-02-20T15:41:23Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

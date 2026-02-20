@@ -6,13 +6,13 @@
 <http://spdx.org/licenses/Xnet> <http://spdx.org/rdf/terms#name> "X.Net License" .
 <http://spdx.org/licenses/Xnet> <http://www.w3.org/2000/01/rdf-schema#comment> "This license is the same as MIT, but with a choice of law clause. This License has been voluntarily deprecated by its author." .
 <http://spdx.org/licenses/Xnet> <http://spdx.org/rdf/terms#licenseTextHtml> "\n      <div class=\"optional-license-text\"> \n         <p>The X.Net, Inc. License</p>\n\n      </div>\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n         <p>Copyright (c) 2000-2001 X.Net, Inc. Lafayette, California, USA</p>\n\n      </span></div>\n\n      <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and\n         associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction,\n         including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,\n         and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,\n         subject to the following conditions:</p>\n\n      <p>The above copyright notice and this permission notice shall be included in all copies or substantial\n         portions of the Software.</p>\n\n      <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT\n         LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN\n         NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\n         WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\n         SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>\n\n      <p>This agreement shall be governed in all respects by the laws of the State of California and by the laws\n         of the United States of America.</p>\n\n    " .
+<http://spdx.org/licenses/Xnet> <http://spdx.org/rdf/terms#crossRef> _:Bb35e8cc9X2D5443X2D4409X2Db05aX2Dd7848ea89026 .
 <http://spdx.org/licenses/Xnet> <http://spdx.org/rdf/terms#isOsiApproved> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/Xnet> <http://spdx.org/rdf/terms#crossRef> _:B42fdf6e7X2D07a9X2D4a2aX2D8cc7X2Dd60a1f4bd0af .
-_:B42fdf6e7X2D07a9X2D4a2aX2D8cc7X2Dd60a1f4bd0af <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B42fdf6e7X2D07a9X2D4a2aX2D8cc7X2Dd60a1f4bd0af <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B42fdf6e7X2D07a9X2D4a2aX2D8cc7X2Dd60a1f4bd0af <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B42fdf6e7X2D07a9X2D4a2aX2D8cc7X2Dd60a1f4bd0af <http://spdx.org/rdf/terms#url> "https://opensource.org/licenses/Xnet" .
-_:B42fdf6e7X2D07a9X2D4a2aX2D8cc7X2Dd60a1f4bd0af <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:26:11Z" .
-_:B42fdf6e7X2D07a9X2D4a2aX2D8cc7X2Dd60a1f4bd0af <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B42fdf6e7X2D07a9X2D4a2aX2D8cc7X2Dd60a1f4bd0af <http://spdx.org/rdf/terms#match> "N/A" .
-_:B42fdf6e7X2D07a9X2D4a2aX2D8cc7X2Dd60a1f4bd0af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bb35e8cc9X2D5443X2D4409X2Db05aX2Dd7848ea89026 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bb35e8cc9X2D5443X2D4409X2Db05aX2Dd7848ea89026 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bb35e8cc9X2D5443X2D4409X2Db05aX2Dd7848ea89026 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bb35e8cc9X2D5443X2D4409X2Db05aX2Dd7848ea89026 <http://spdx.org/rdf/terms#url> "https://opensource.org/licenses/Xnet" .
+_:Bb35e8cc9X2D5443X2D4409X2Db05aX2Dd7848ea89026 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:42:51Z" .
+_:Bb35e8cc9X2D5443X2D4409X2Db05aX2Dd7848ea89026 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bb35e8cc9X2D5443X2D4409X2Db05aX2Dd7848ea89026 <http://spdx.org/rdf/terms#match> "N/A" .
+_:Bb35e8cc9X2D5443X2D4409X2Db05aX2Dd7848ea89026 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

@@ -14,10 +14,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:367862b2-1799-47c5-8744-f9f57545eff4"
+                    "@id": "_:82b3a2c2-65e7-42e4-90f4-1091c6a7dfc6"
                 },
                 {
-                    "@id": "_:79e4b3b7-d7d9-454f-a4d7-1acc14e0e57a"
+                    "@id": "_:f36bf1e4-2da5-40fb-800e-bf652504c7cf"
                 }
             ],
             "spdx:licenseText": "Copyright (c) 1987 Regents of the University of California. All rights reserved. \n\nRedistribution and use in source and binary forms are permitted provided \nthat the above copyright notice and this paragraph are duplicated in all \nsuch forms and that any documentation, advertising materials, and other \nmaterials related to such distribution and use acknowledge that the software \nwas developed by the University of California, Berkeley. The name of the \nUniversity may not be used to endorse or promote products derived from this \nsoftware without specific prior written permission. THIS SOFTWARE IS PROVIDED \n``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT \nLIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "@id": "_:367862b2-1799-47c5-8744-f9f57545eff4",
+            "@id": "_:82b3a2c2-65e7-42e4-90f4-1091c6a7dfc6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -43,7 +43,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/389ds/389-ds-base/blob/main/ldap/include/sysexits-compat.h#L15",
-            "spdx:timestamp": "2026-02-20T15:26:57Z",
+            "spdx:timestamp": "2026-02-20T15:43:33Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -52,7 +52,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:79e4b3b7-d7d9-454f-a4d7-1acc14e0e57a",
+            "@id": "_:f36bf1e4-2da5-40fb-800e-bf652504c7cf",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://git.savannah.gnu.org/cgit/indent.git/tree/doc/indent.texi?id=a74c6b4ee49397cf330b333da1042bffa60ed14f#n1788",
-            "spdx:timestamp": "2026-02-20T15:26:56Z",
+            "spdx:timestamp": "2026-02-20T15:44:03Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

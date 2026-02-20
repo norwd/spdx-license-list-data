@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:fcfe4df3-2d45-4536-9277-14fda0d1e07c",
+            "@id": "_:834631c1-0968-47cc-ace8-f824ba2a0eb4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://hstechdocs.helpsystems.com/manuals/globalscape/archive/cuteftp6/open_ssl_license_agreement.htm",
-            "spdx:timestamp": "2026-02-20T15:26:23Z",
+            "spdx:timestamp": "2026-02-20T15:43:28Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:017717d6-cab3-40d9-b136-16b3c521bc6b",
+            "@id": "_:a71cfb31-22d7-4b47-86c0-4a60c2433708",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://library.netapp.com/ecm/ecm_download_file/ECMP1196395",
-            "spdx:timestamp": "2026-02-20T15:26:24Z",
+            "spdx:timestamp": "2026-02-20T15:43:28Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -52,19 +52,19 @@
                 "https://hstechdocs.helpsystems.com/manuals/globalscape/archive/cuteftp6/open_ssl_license_agreement.htm",
                 "https://library.netapp.com/ecm/ecm_download_file/ECMP1196395"
             ],
-            "spdx:crossRef": [
-                {
-                    "@id": "_:017717d6-cab3-40d9-b136-16b3c521bc6b"
-                },
-                {
-                    "@id": "_:fcfe4df3-2d45-4536-9277-14fda0d1e07c"
-                }
-            ],
             "rdfs:comment": "This is the first license in the OpenSSL two-license stack as a standalone option.",
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": [
+                {
+                    "@id": "_:a71cfb31-22d7-4b47-86c0-4a60c2433708"
+                },
+                {
+                    "@id": "_:834631c1-0968-47cc-ace8-f824ba2a0eb4"
+                }
+            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"

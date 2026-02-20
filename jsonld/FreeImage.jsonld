@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:b8e6fd58-6b13-4ab4-a340-a6507cd41218",
+            "@id": "_:c319ae9a-cc63-4662-835f-1fd7c3d5e29d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://freeimage.sourceforge.net/freeimage-license.txt",
-            "spdx:timestamp": "2026-02-20T15:25:07Z",
+            "spdx:timestamp": "2026-02-20T15:41:30Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,6 +25,9 @@
         },
         {
             "@id": "http://spdx.org/licenses/FreeImage",
+            "spdx:crossRef": {
+                "@id": "_:c319ae9a-cc63-4662-835f-1fd7c3d5e29d"
+            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -39,9 +42,6 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:name": "FreeImage Public License v1.0",
-            "spdx:crossRef": {
-                "@id": "_:b8e6fd58-6b13-4ab4-a340-a6507cd41218"
-            },
             "@type": "spdx:ListedLicense"
         }
     ],

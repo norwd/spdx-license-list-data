@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:ec433874-c68d-4401-8d32-c22294c9246e"
+                "@id": "_:a253aadb-4904-4dae-8c93-22d52e3f109d"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:ec433874-c68d-4401-8d32-c22294c9246e",
+            "@id": "_:a253aadb-4904-4dae-8c93-22d52e3f109d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceware.org/git/?p=newlib-cygwin.git;a=blob;f=newlib/libc/string/strsignal.c;hb=HEAD#l35",
-            "spdx:timestamp": "2026-02-20T15:23:46Z",
+            "spdx:timestamp": "2026-02-20T15:40:31Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

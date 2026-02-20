@@ -8,6 +8,21 @@
     <spdx:standardLicenseHeader>Licensed under the Academic Free License version 3.0
 
 </spdx:standardLicenseHeader>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>http://www.rosenlaw.com/AFL3.0.htm</spdx:url>
+        <spdx:timestamp>2026-02-20T15:43:33Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <rdfs:seeAlso>http://www.rosenlaw.com/AFL3.0.htm</rdfs:seeAlso>
     <spdx:licenseText>Academic Free License (“AFL”) v. 3.0
 
@@ -55,6 +70,8 @@ This Academic Free License (the "License") applies to any original work of autho
 </spdx:licenseText>
     <spdx:name>Academic Free License v3.0</spdx:name>
     <rdfs:seeAlso>https://opensource.org/licenses/afl-3.0</rdfs:seeAlso>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isOsiApproved>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -62,16 +79,14 @@ This Academic Free License (the "License") applies to any original work of autho
         <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>http://www.rosenlaw.com/AFL3.0.htm</spdx:url>
-        <spdx:timestamp>2026-02-20T15:26:28Z</spdx:timestamp>
+        >false</spdx:isLive>
+        <spdx:url>https://opensource.org/licenses/afl-3.0</spdx:url>
+        <spdx:timestamp>2026-02-20T15:43:32Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
+        >1</spdx:order>
+        <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >true</spdx:isOsiApproved>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt;Academic Free License ("AFL") v. 3.0
 
 &lt;&lt;endOptional&gt;&gt;&lt;&lt;beginOptional&gt;&gt; This Academic Free License (the "License") applies to any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following licensing notice adjacent to the copyright notice for the Original Work:
@@ -106,21 +121,6 @@ Licensed under the Academic Free License version 3.0
          &lt;p&gt;Licensed under the Academic Free License version 3.0&lt;/p&gt;
 
          </spdx:standardLicenseHeaderHtml>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://opensource.org/licenses/afl-3.0</spdx:url>
-        <spdx:timestamp>2026-02-20T15:26:28Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:licenseTextHtml>
       &lt;div class="optional-license-text"&gt; 
          &lt;p&gt;Academic Free License (&amp;quot;AFL&amp;quot;) v. 3.0&lt;/p&gt;

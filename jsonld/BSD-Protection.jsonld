@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:963f14d7-1197-4b6f-9c52-31e380dae849"
+                "@id": "_:5972aa28-539a-4bfe-be41-b25530317aef"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:963f14d7-1197-4b6f-9c52-31e380dae849",
+            "@id": "_:5972aa28-539a-4bfe-be41-b25530317aef",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/BSD_Protection_License",
-            "spdx:timestamp": "2026-02-20T15:25:40Z",
+            "spdx:timestamp": "2026-02-20T15:42:02Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

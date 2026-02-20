@@ -7,22 +7,22 @@
                 "https://github.com/ivmai/libatomic_ops/blob/master/LICENSE",
                 "https://github.com/uim/libgcroots/blob/master/COPYING"
             ],
+            "spdx:crossRef": [
+                {
+                    "@id": "_:86cd1993-45e2-49fe-b154-b8e2682f96b8"
+                },
+                {
+                    "@id": "_:1b706db6-5770-4ba6-96fd-b16e7e0ee18c"
+                },
+                {
+                    "@id": "_:c0d0ebac-4274-438a-a47a-87a5a9b7a9da"
+                }
+            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:name": "Boehm-Demers-Weiser GC License",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:eaf2d4fc-3f82-4782-aaa2-d9514408c9bc"
-                },
-                {
-                    "@id": "_:6cfaaafa-bd32-4ffd-966f-62d3bcb17af3"
-                },
-                {
-                    "@id": "_:fd431fd1-ac12-402b-a6f4-3ebfc6255825"
-                }
-            ],
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -33,7 +33,7 @@
             "spdx:licenseText": "Copyright (c) ...\n\nTHIS MATERIAL IS PROVIDED AS IS, WITH ABSOLUTELY NO WARRANTY EXPRESSED\nOR IMPLIED.  ANY USE IS AT YOUR OWN RISK.\n\nPermission is hereby granted to use or copy this program\nfor any purpose,  provided the above notices are retained on all copies.\nPermission to modify the code and to distribute modified code is granted,\nprovided the above notices are retained, and a notice that the code was\nmodified is included with the above copyright notice.\n\nA few files have other copyright holders.\n"
         },
         {
-            "@id": "_:eaf2d4fc-3f82-4782-aaa2-d9514408c9bc",
+            "@id": "_:86cd1993-45e2-49fe-b154-b8e2682f96b8",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -47,7 +47,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/uim/libgcroots/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T15:25:02Z",
+            "spdx:timestamp": "2026-02-20T15:41:21Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -56,7 +56,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:6cfaaafa-bd32-4ffd-966f-62d3bcb17af3",
+            "@id": "_:1b706db6-5770-4ba6-96fd-b16e7e0ee18c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -70,7 +70,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing:MIT#Another_Minimal_variant_(found_in_libatomic_ops)",
-            "spdx:timestamp": "2026-02-20T15:25:01Z",
+            "spdx:timestamp": "2026-02-20T15:41:20Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -79,7 +79,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:fd431fd1-ac12-402b-a6f4-3ebfc6255825",
+            "@id": "_:c0d0ebac-4274-438a-a47a-87a5a9b7a9da",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -93,7 +93,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/ivmai/libatomic_ops/blob/master/LICENSE",
-            "spdx:timestamp": "2026-02-20T15:25:01Z",
+            "spdx:timestamp": "2026-02-20T15:41:21Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

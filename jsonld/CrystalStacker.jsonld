@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:af8d4d4a-df26-433a-83c6-9469fc53a815"
+                "@id": "_:03132081-7183-4e2d-80ff-5fc88b09a3e7"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:af8d4d4a-df26-433a-83c6-9469fc53a815",
+            "@id": "_:03132081-7183-4e2d-80ff-5fc88b09a3e7",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing:CrystalStacker?rd=Licensing/CrystalStacker",
-            "spdx:timestamp": "2026-02-20T15:26:25Z",
+            "spdx:timestamp": "2026-02-20T15:43:30Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -2,15 +2,15 @@
     "@graph": [
         {
             "@id": "http://spdx.org/licenses/OLFL-1.3",
-            "spdx:name": "Open Logistics Foundation License Version 1.3",
             "spdx:crossRef": [
                 {
-                    "@id": "_:5b07b90f-a503-456c-8ab2-e98c66213da7"
+                    "@id": "_:7d05f801-dcee-45d5-a92e-050e5d5e5f2f"
                 },
                 {
-                    "@id": "_:cf2e1461-f749-4293-ae0d-56f8f21af80e"
+                    "@id": "_:d6680dde-19f4-43f4-9efe-50cbb38a2515"
                 }
             ],
+            "spdx:name": "Open Logistics Foundation License Version 1.3",
             "rdfs:seeAlso": [
                 "https://opensource.org/license/olfl-1-3/",
                 "https://openlogisticsfoundation.org/licenses/"
@@ -30,30 +30,7 @@
             }
         },
         {
-            "@id": "_:5b07b90f-a503-456c-8ab2-e98c66213da7",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/license/olfl-1-3/",
-            "spdx:timestamp": "2026-02-20T15:24:24Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:cf2e1461-f749-4293-ae0d-56f8f21af80e",
+            "@id": "_:7d05f801-dcee-45d5-a92e-050e5d5e5f2f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,12 +44,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://openlogisticsfoundation.org/licenses/",
-            "spdx:timestamp": "2026-02-20T15:24:25Z",
+            "spdx:timestamp": "2026-02-20T15:40:35Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:d6680dde-19f4-43f4-9efe-50cbb38a2515",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/license/olfl-1-3/",
+            "spdx:timestamp": "2026-02-20T15:40:34Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         }
     ],

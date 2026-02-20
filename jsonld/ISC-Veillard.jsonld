@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:8c7a7503-b010-443e-97ee-840db0199ba4",
+            "@id": "_:f7a3347b-5f18-4311-97dc-44f55976fd0e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceforge.net/p/ctrio/git/ci/master/tree/README",
-            "spdx:timestamp": "2026-02-20T15:26:21Z",
+            "spdx:timestamp": "2026-02-20T15:43:24Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:143ea74a-eb2b-4d3b-b8c6-d26e02ecb332",
+            "@id": "_:0ce98106-978f-42d4-a8f2-2b6594aef289",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/GNOME/libxml2/blob/master/dict.c",
-            "spdx:timestamp": "2026-02-20T15:26:21Z",
+            "spdx:timestamp": "2026-02-20T15:43:24Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,47 +47,24 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:ef41d253-f539-43e1-b2ea-b350b2b75f2a",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://raw.githubusercontent.com/GNOME/libxml2/4c2e7c651f6c2f0d1a74f350cbda95f7df3e7017/hash.c",
-            "spdx:timestamp": "2026-02-20T15:26:21Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/ISC-Veillard",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:0ce98106-978f-42d4-a8f2-2b6594aef289"
+                },
+                {
+                    "@id": "_:510faa09-b396-45e0-847b-4e5289e45f7b"
+                },
+                {
+                    "@id": "_:f7a3347b-5f18-4311-97dc-44f55976fd0e"
+                }
+            ],
             "spdx:name": "ISC Veillard variant",
             "rdfs:comment": "This license uses the same grant as ISC, but a different disclaimer paragraph. It appears to originate from the Trio printf library.",
             "rdfs:seeAlso": [
                 "https://raw.githubusercontent.com/GNOME/libxml2/4c2e7c651f6c2f0d1a74f350cbda95f7df3e7017/hash.c",
                 "https://sourceforge.net/p/ctrio/git/ci/master/tree/README",
                 "https://github.com/GNOME/libxml2/blob/master/dict.c"
-            ],
-            "spdx:crossRef": [
-                {
-                    "@id": "_:8c7a7503-b010-443e-97ee-840db0199ba4"
-                },
-                {
-                    "@id": "_:143ea74a-eb2b-4d3b-b8c6-d26e02ecb332"
-                },
-                {
-                    "@id": "_:ef41d253-f539-43e1-b2ea-b350b2b75f2a"
-                }
             ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -101,6 +78,29 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "@type": "spdx:ListedLicense"
+        },
+        {
+            "@id": "_:510faa09-b396-45e0-847b-4e5289e45f7b",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://raw.githubusercontent.com/GNOME/libxml2/4c2e7c651f6c2f0d1a74f350cbda95f7df3e7017/hash.c",
+            "spdx:timestamp": "2026-02-20T15:43:23Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:5e924d83-fcab-4d5b-a052-c7bcc40c8cbf",
+            "@id": "_:165c5110-b71c-45ae-8ba1-60a6463a4046",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -11,16 +11,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://git.enlightenment.org/legacy/imlib2.git/tree/COPYING",
-            "spdx:timestamp": "2026-02-20T15:27:12Z",
+            "spdx:url": "http://trac.enlightenment.org/e/browser/trunk/imlib2/COPYING",
+            "spdx:timestamp": "2026-02-20T15:44:22Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
@@ -33,10 +33,10 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:5e924d83-fcab-4d5b-a052-c7bcc40c8cbf"
+                    "@id": "_:30b92e66-d723-48fb-8cd3-f3d70e2858f9"
                 },
                 {
-                    "@id": "_:28af2bdc-b402-4f88-97b1-92fb2cc3913c"
+                    "@id": "_:165c5110-b71c-45ae-8ba1-60a6463a4046"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -56,7 +56,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:28af2bdc-b402-4f88-97b1-92fb2cc3913c",
+            "@id": "_:30b92e66-d723-48fb-8cd3-f3d70e2858f9",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,16 +66,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "http://trac.enlightenment.org/e/browser/trunk/imlib2/COPYING",
-            "spdx:timestamp": "2026-02-20T15:27:12Z",
+            "spdx:url": "https://git.enlightenment.org/legacy/imlib2.git/tree/COPYING",
+            "spdx:timestamp": "2026-02-20T15:44:22Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         }
     ],

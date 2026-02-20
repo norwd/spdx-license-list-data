@@ -1,6 +1,29 @@
 {
     "@graph": [
         {
+            "@id": "_:537e74ff-94f9-490d-bddb-c71026d4ac27",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://www.eclipse.org/legal/epl-2.0",
+            "spdx:timestamp": "2026-02-20T15:43:35Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/EPL-2.0",
             "rdfs:seeAlso": [
                 "https://www.eclipse.org/legal/epl-v20.html",
@@ -10,16 +33,16 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:dfe2167d-c75e-4af4-8767-ee5ba1119a23"
+                    "@id": "_:2d5ff76d-6cfa-4f16-825c-eacb038e6cf6"
                 },
                 {
-                    "@id": "_:95230d36-c4cb-4d40-85a3-d31c21fd26e5"
+                    "@id": "_:537e74ff-94f9-490d-bddb-c71026d4ac27"
                 },
                 {
-                    "@id": "_:ad26abba-644d-428b-b191-739f3f3ab9a0"
+                    "@id": "_:94f8b651-30e1-4eb1-a317-671a8a5d135a"
                 },
                 {
-                    "@id": "_:cf476c59-80a0-4d09-a559-ab4c9e476446"
+                    "@id": "_:14c9aa83-be05-467e-ba85-285854cdb1fa"
                 }
             ],
             "spdx:isFsfLibre": {
@@ -42,76 +65,7 @@
             }
         },
         {
-            "@id": "_:dfe2167d-c75e-4af4-8767-ee5ba1119a23",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://projects.eclipse.org/license/epl-2.0",
-            "spdx:timestamp": "2026-02-20T15:26:32Z",
-            "spdx:order": {
-                "@value": "3",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:95230d36-c4cb-4d40-85a3-d31c21fd26e5",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.opensource.org/licenses/EPL-2.0",
-            "spdx:timestamp": "2026-02-20T15:26:31Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:ad26abba-644d-428b-b191-739f3f3ab9a0",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.eclipse.org/legal/epl-2.0",
-            "spdx:timestamp": "2026-02-20T15:26:32Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:cf476c59-80a0-4d09-a559-ab4c9e476446",
+            "@id": "_:2d5ff76d-6cfa-4f16-825c-eacb038e6cf6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -125,12 +79,58 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.eclipse.org/legal/epl-v20.html",
-            "spdx:timestamp": "2026-02-20T15:26:31Z",
+            "spdx:timestamp": "2026-02-20T15:43:37Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:94f8b651-30e1-4eb1-a317-671a8a5d135a",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://www.opensource.org/licenses/EPL-2.0",
+            "spdx:timestamp": "2026-02-20T15:43:35Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:14c9aa83-be05-467e-ba85-285854cdb1fa",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://projects.eclipse.org/license/epl-2.0",
+            "spdx:timestamp": "2026-02-20T15:43:37Z",
+            "spdx:order": {
+                "@value": "3",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         }
     ],

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:958820d4-0c82-4588-b7b1-93a121aa4a14",
+            "@id": "_:20397233-f86d-44a7-9220-2877f6e2fc8e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Borceux",
-            "spdx:timestamp": "2026-02-20T15:23:45Z",
+            "spdx:timestamp": "2026-02-20T15:40:30Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:958820d4-0c82-4588-b7b1-93a121aa4a14"
+                "@id": "_:20397233-f86d-44a7-9220-2877f6e2fc8e"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

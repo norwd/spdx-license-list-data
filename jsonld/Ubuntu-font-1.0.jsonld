@@ -8,10 +8,10 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:8280a03c-320f-4611-9f9a-dcd433775b0d"
+                    "@id": "_:79054e72-2d8f-40f6-a1da-7f70a51b2f61"
                 },
                 {
-                    "@id": "_:349f81f9-c368-4d87-984e-a6d0d35d7b90"
+                    "@id": "_:c726e64a-0aa8-462a-bdbc-738be0485e65"
                 }
             ],
             "spdx:standardLicenseHeader": "",
@@ -33,7 +33,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:8280a03c-320f-4611-9f9a-dcd433775b0d",
+            "@id": "_:79054e72-2d8f-40f6-a1da-7f70a51b2f61",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -47,7 +47,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://assets.ubuntu.com/v1/81e5605d-ubuntu-font-licence-1.0.txt",
-            "spdx:timestamp": "2026-02-20T15:25:04Z",
+            "spdx:timestamp": "2026-02-20T15:41:23Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -56,7 +56,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:349f81f9-c368-4d87-984e-a6d0d35d7b90",
+            "@id": "_:c726e64a-0aa8-462a-bdbc-738be0485e65",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -70,7 +70,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://ubuntu.com/legal/font-licence",
-            "spdx:timestamp": "2026-02-20T15:25:05Z",
+            "spdx:timestamp": "2026-02-20T15:41:24Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -1,5 +1,5 @@
 # License List
-The following licenses have been generated from the license list version f008670
+The following licenses have been generated from the license list version dd9d589
 
 ## Licenses with Short Identifiers
 
@@ -535,6 +535,7 @@ The following licenses have been generated from the license list version f008670
 | Open Public License v1.0                                                                  | [OPL-1.0][]                              |      |           |
 | United    Kingdom Open Parliament Licence v3.0                                            | [OPL-UK-3.0][]                           |      |           |
 | Open Publication License v1.0                                                             | [OPUBL-1.0][]                            |      |           |
+| OSC License 1.0                                                                           | [OSC-1.0][]                              | Y    |           |
 | OSET Public License version 2.1                                                           | [OSET-PL-2.1][]                          | Y    |           |
 | Open Software License 1.0                                                                 | [OSL-1.0][]                              | Y    | Y         |
 | Open Software License 1.1                                                                 | [OSL-1.1][]                              |      | Y         |
@@ -1384,6 +1385,7 @@ The following licenses have been generated from the license list version f008670
 [OPL-1.0]: text/OPL-1.0.txt
 [OPL-UK-3.0]: text/OPL-UK-3.0.txt
 [OPUBL-1.0]: text/OPUBL-1.0.txt
+[OSC-1.0]: text/OSC-1.0.txt
 [OSET-PL-2.1]: text/OSET-PL-2.1.txt
 [OSL-1.0]: text/OSL-1.0.txt
 [OSL-1.1]: text/OSL-1.1.txt

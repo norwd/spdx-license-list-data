@@ -1,32 +1,9 @@
 {
     "@graph": [
         {
-            "@id": "_:8b4f7384-4c93-4cc5-ac03-f38a07ab2eb2",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/licenses/ECL-2.0",
-            "spdx:timestamp": "2026-02-20T15:24:24Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/ECL-2.0",
             "spdx:crossRef": {
-                "@id": "_:8b4f7384-4c93-4cc5-ac03-f38a07ab2eb2"
+                "@id": "_:9d318bd1-a68c-41b1-a689-00a0d55f76f6"
             },
             "rdfs:seeAlso": "https://opensource.org/licenses/ECL-2.0",
             "@type": "spdx:ListedLicense",
@@ -50,6 +27,29 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
+        },
+        {
+            "@id": "_:9d318bd1-a68c-41b1-a689-00a0d55f76f6",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/licenses/ECL-2.0",
+            "spdx:timestamp": "2026-02-20T15:40:34Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

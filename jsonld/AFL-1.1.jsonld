@@ -2,14 +2,6 @@
     "@graph": [
         {
             "@id": "http://spdx.org/licenses/AFL-1.1",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:c8b60d07-0277-4def-811c-eabbaa413e69"
-                },
-                {
-                    "@id": "_:ccf32b2e-bd84-45ed-8907-1e6cd1678d6c"
-                }
-            ],
             "spdx:standardLicenseHeader": "\"Licensed under the Academic Free License version 1.1.\"\n\n",
             "rdfs:comment": "This license has been superseded by later versions.",
             "spdx:isFsfLibre": {
@@ -21,6 +13,14 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": [
+                {
+                    "@id": "_:c06a0a29-64d2-4c2b-b56c-f89315abbf89"
+                },
+                {
+                    "@id": "_:70667f9b-282e-44c7-9181-d5a36dabc5b9"
+                }
+            ],
             "rdfs:seeAlso": [
                 "http://wayback.archive.org/web/20021004124254/http://www.opensource.org/licenses/academic.php",
                 "http://opensource.linux-mirror.org/licenses/afl-1.1.txt"
@@ -37,30 +37,7 @@
             "spdx:standardLicenseHeaderTemplate": "<<beginOptional>>\"<<endOptional>>Licensed under the Academic Free License version 1.1.<<beginOptional>>\"<<endOptional>>\n\n"
         },
         {
-            "@id": "_:c8b60d07-0277-4def-811c-eabbaa413e69",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://wayback.archive.org/web/20021004124254/http://www.opensource.org/licenses/academic.php",
-            "spdx:timestamp": "2026-02-20T15:24:24Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:ccf32b2e-bd84-45ed-8907-1e6cd1678d6c",
+            "@id": "_:c06a0a29-64d2-4c2b-b56c-f89315abbf89",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -74,9 +51,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://opensource.linux-mirror.org/licenses/afl-1.1.txt",
-            "spdx:timestamp": "2026-02-20T15:24:24Z",
+            "spdx:timestamp": "2026-02-20T15:40:34Z",
             "spdx:order": {
                 "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:70667f9b-282e-44c7-9181-d5a36dabc5b9",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://wayback.archive.org/web/20021004124254/http://www.opensource.org/licenses/academic.php",
+            "spdx:timestamp": "2026-02-20T15:40:34Z",
+            "spdx:order": {
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",

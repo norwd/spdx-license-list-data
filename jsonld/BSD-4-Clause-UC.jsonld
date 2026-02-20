@@ -16,13 +16,13 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:f9f914a8-fbdd-427f-8190-5cf586aa06ae"
-            },
-            "@type": "spdx:ListedLicense"
+                "@id": "_:b81f80e8-8d0f-4fe7-8ce8-a2ad81bf7acd"
+            }
         },
         {
-            "@id": "_:f9f914a8-fbdd-427f-8190-5cf586aa06ae",
+            "@id": "_:b81f80e8-8d0f-4fe7-8ce8-a2ad81bf7acd",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.freebsd.org/copyright/license.html",
-            "spdx:timestamp": "2026-02-20T15:25:40Z",
+            "spdx:timestamp": "2026-02-20T15:42:03Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

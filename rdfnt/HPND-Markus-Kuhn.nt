@@ -1,27 +1,27 @@
-_:B90df8d90X2D9c82X2D4143X2Dbb76X2D9f24b2b4417f <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B90df8d90X2D9c82X2D4143X2Dbb76X2D9f24b2b4417f <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B90df8d90X2D9c82X2D4143X2Dbb76X2D9f24b2b4417f <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B90df8d90X2D9c82X2D4143X2Dbb76X2D9f24b2b4417f <http://spdx.org/rdf/terms#url> "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=readline/readline/support/wcwidth.c;h=0f5ec995796f4813abbcf4972aec0378ab74722a;hb=HEAD#l55" .
-_:B90df8d90X2D9c82X2D4143X2Dbb76X2D9f24b2b4417f <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:26:12Z" .
-_:B90df8d90X2D9c82X2D4143X2Dbb76X2D9f24b2b4417f <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B90df8d90X2D9c82X2D4143X2Dbb76X2D9f24b2b4417f <http://spdx.org/rdf/terms#match> "false" .
-_:B90df8d90X2D9c82X2D4143X2Dbb76X2D9f24b2b4417f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B99a3e5e0X2Dcc55X2D466aX2Da6e4X2D080e51f9f49d <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B99a3e5e0X2Dcc55X2D466aX2Da6e4X2D080e51f9f49d <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B99a3e5e0X2Dcc55X2D466aX2Da6e4X2D080e51f9f49d <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B99a3e5e0X2Dcc55X2D466aX2Da6e4X2D080e51f9f49d <http://spdx.org/rdf/terms#url> "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=readline/readline/support/wcwidth.c;h=0f5ec995796f4813abbcf4972aec0378ab74722a;hb=HEAD#l55" .
+_:B99a3e5e0X2Dcc55X2D466aX2Da6e4X2D080e51f9f49d <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:42:52Z" .
+_:B99a3e5e0X2Dcc55X2D466aX2Da6e4X2D080e51f9f49d <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B99a3e5e0X2Dcc55X2D466aX2Da6e4X2D080e51f9f49d <http://spdx.org/rdf/terms#match> "false" .
+_:B99a3e5e0X2Dcc55X2D466aX2Da6e4X2D080e51f9f49d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/HPND-Markus-Kuhn> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/HPND-Markus-Kuhn> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=readline/readline/support/wcwidth.c;h=0f5ec995796f4813abbcf4972aec0378ab74722a;hb=HEAD#l55" .
-<http://spdx.org/licenses/HPND-Markus-Kuhn> <http://spdx.org/rdf/terms#crossRef> _:B90df8d90X2D9c82X2D4143X2Dbb76X2D9f24b2b4417f .
 <http://spdx.org/licenses/HPND-Markus-Kuhn> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/HPND-Markus-Kuhn> <http://spdx.org/rdf/terms#licenseTextHtml> "\n\t <p>\n\t\tPermission to use, copy, modify, and distribute this software\n\t\tfor any purpose and without fee is hereby granted. The author\n\t\tdisclaims all warranties with regard to this software.\n         </p>\n\n      " .
 <http://spdx.org/licenses/HPND-Markus-Kuhn> <http://spdx.org/rdf/terms#standardLicenseTemplate> "Permission to use, copy, modify, and distribute this software for any purpose and without fee is hereby granted. The author disclaims all warranties with regard to this software.\n\n" .
-<http://spdx.org/licenses/HPND-Markus-Kuhn> <http://spdx.org/rdf/terms#crossRef> _:Bb16c8a22X2Da75cX2D41e7X2Da04dX2Dcd19e1e29122 .
+<http://spdx.org/licenses/HPND-Markus-Kuhn> <http://spdx.org/rdf/terms#crossRef> _:B99a3e5e0X2Dcc55X2D466aX2Da6e4X2D080e51f9f49d .
 <http://spdx.org/licenses/HPND-Markus-Kuhn> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://www.cl.cam.ac.uk/~mgk25/ucs/wcwidth.c" .
 <http://spdx.org/licenses/HPND-Markus-Kuhn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/HPND-Markus-Kuhn> <http://spdx.org/rdf/terms#name> "Historical Permission Notice and Disclaimer - Markus Kuhn variant" .
 <http://spdx.org/licenses/HPND-Markus-Kuhn> <http://spdx.org/rdf/terms#licenseText> "Permission to use, copy, modify, and distribute this software\nfor any purpose and without fee is hereby granted. The author\ndisclaims all warranties with regard to this software.\n" .
-_:Bb16c8a22X2Da75cX2D41e7X2Da04dX2Dcd19e1e29122 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb16c8a22X2Da75cX2D41e7X2Da04dX2Dcd19e1e29122 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb16c8a22X2Da75cX2D41e7X2Da04dX2Dcd19e1e29122 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb16c8a22X2Da75cX2D41e7X2Da04dX2Dcd19e1e29122 <http://spdx.org/rdf/terms#url> "https://www.cl.cam.ac.uk/~mgk25/ucs/wcwidth.c" .
-_:Bb16c8a22X2Da75cX2D41e7X2Da04dX2Dcd19e1e29122 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:26:12Z" .
-_:Bb16c8a22X2Da75cX2D41e7X2Da04dX2Dcd19e1e29122 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bb16c8a22X2Da75cX2D41e7X2Da04dX2Dcd19e1e29122 <http://spdx.org/rdf/terms#match> "false" .
-_:Bb16c8a22X2Da75cX2D41e7X2Da04dX2Dcd19e1e29122 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/HPND-Markus-Kuhn> <http://spdx.org/rdf/terms#crossRef> _:Beb955dccX2Da525X2D43b3X2D83bbX2D1ae7bbaa5a52 .
+_:Beb955dccX2Da525X2D43b3X2D83bbX2D1ae7bbaa5a52 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Beb955dccX2Da525X2D43b3X2D83bbX2D1ae7bbaa5a52 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Beb955dccX2Da525X2D43b3X2D83bbX2D1ae7bbaa5a52 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Beb955dccX2Da525X2D43b3X2D83bbX2D1ae7bbaa5a52 <http://spdx.org/rdf/terms#url> "https://www.cl.cam.ac.uk/~mgk25/ucs/wcwidth.c" .
+_:Beb955dccX2Da525X2D43b3X2D83bbX2D1ae7bbaa5a52 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:42:52Z" .
+_:Beb955dccX2Da525X2D43b3X2D83bbX2D1ae7bbaa5a52 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Beb955dccX2Da525X2D43b3X2D83bbX2D1ae7bbaa5a52 <http://spdx.org/rdf/terms#match> "false" .
+_:Beb955dccX2Da525X2D43b3X2D83bbX2D1ae7bbaa5a52 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

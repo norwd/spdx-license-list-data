@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:2175802d-c477-475e-9f22-c1a86e62b795",
+            "@id": "_:2d8eedf9-40cc-4c30-b2f4-062d0822e444",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/aws/mit-0",
-            "spdx:timestamp": "2026-02-20T15:25:02Z",
+            "spdx:timestamp": "2026-02-20T15:41:21Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:de708544-e692-4de3-b617-82909e6b8557",
+            "@id": "_:0b97091b-39a2-4bc7-ac9f-4fe9bf7cee2d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://romanrm.net/mit-zero",
-            "spdx:timestamp": "2026-02-20T15:25:03Z",
+            "spdx:timestamp": "2026-02-20T15:41:22Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -48,17 +48,6 @@
         },
         {
             "@id": "http://spdx.org/licenses/MIT-0",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:2175802d-c477-475e-9f22-c1a86e62b795"
-                },
-                {
-                    "@id": "_:1e60e9ab-b11c-4af2-9ef5-28a0648a2526"
-                },
-                {
-                    "@id": "_:de708544-e692-4de3-b617-82909e6b8557"
-                }
-            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,6 +56,17 @@
                 "https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE",
                 "https://github.com/aws/mit-0",
                 "https://romanrm.net/mit-zero"
+            ],
+            "spdx:crossRef": [
+                {
+                    "@id": "_:0b97091b-39a2-4bc7-ac9f-4fe9bf7cee2d"
+                },
+                {
+                    "@id": "_:2d8eedf9-40cc-4c30-b2f4-062d0822e444"
+                },
+                {
+                    "@id": "_:6e03585d-77be-427b-a916-fe16d8d8bcf6"
+                }
             ],
             "spdx:name": "MIT No Attribution",
             "@type": "spdx:ListedLicense",
@@ -80,7 +80,7 @@
             "spdx:licenseTextHtml": "\n      <div class=\"optional-license-text\"> \n        <p><var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern The MIT-Zero License|MIT No Attribution|\"> MIT No Attribution</span></var></p>\n\n      </div>\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n        <p>\n          Copyright &lt;YEAR&gt; &lt;COPYRIGHT HOLDER&gt;\n        </p>\n\n      </span></div>\n\n      <p>\n        Permission is hereby granted, free of charge, to any person obtaining a copy of this\n        software and associated documentation files (the &quot;Software&quot;), to deal in the Software\n        without restriction, including without limitation the rights to use, copy, modify,\n        merge, publish, distribute, sublicense, and/or sell copies of the Software, and to\n        permit persons to whom the Software is furnished to do so.\n      </p>\n\n      <p>\n        THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,\n        INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A\n        PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT\n        HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\n        OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\n        SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n      </p>\n\n    "
         },
         {
-            "@id": "_:1e60e9ab-b11c-4af2-9ef5-28a0648a2526",
+            "@id": "_:6e03585d-77be-427b-a916-fe16d8d8bcf6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -94,7 +94,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE",
-            "spdx:timestamp": "2026-02-20T15:25:03Z",
+            "spdx:timestamp": "2026-02-20T15:41:21Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

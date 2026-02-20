@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:49a9edc2-005d-4465-b35d-a6dee0e2fec3",
+            "@id": "_:944d2397-ae0a-4b94-91f0-c67f5a4bbafa",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html",
-            "spdx:timestamp": "2026-02-20T15:26:22Z",
+            "spdx:timestamp": "2026-02-20T15:43:24Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -42,10 +42,10 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:standardLicenseHeaderTemplate": "<<var;name=\"description\";original=\"<one line to give the program's name and a brief idea of what it does.>\";match=\".+\">>\nCopyright (C) <<var;name=\"copyright\";original=\"19yy <name of author>\";match=\".+\">>\n\nThis program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 1, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.\n\n",
-            "spdx:standardLicenseHeader": "<one line to give the program's name and a brief idea of what it does.>\nCopyright (C) 19yy <name of author>\n\nThis program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 1, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.\n\n",
             "spdx:crossRef": {
-                "@id": "_:49a9edc2-005d-4465-b35d-a6dee0e2fec3"
-            }
+                "@id": "_:944d2397-ae0a-4b94-91f0-c67f5a4bbafa"
+            },
+            "spdx:standardLicenseHeader": "<one line to give the program's name and a brief idea of what it does.>\nCopyright (C) 19yy <name of author>\n\nThis program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 1, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.\n\n"
         }
     ],
     "@context": {

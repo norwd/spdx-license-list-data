@@ -1,29 +1,6 @@
 {
     "@graph": [
         {
-            "@id": "_:b3720649-157e-4a12-b736-d669b5449795",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/zdohnal/hplip/blob/master/COPYING#L939",
-            "spdx:timestamp": "2026-02-20T15:25:09Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/BSD-3-Clause-HP",
             "spdx:name": "Hewlett-Packard BSD variant license",
             "rdfs:seeAlso": "https://github.com/zdohnal/hplip/blob/master/COPYING#L939",
@@ -41,8 +18,31 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:b3720649-157e-4a12-b736-d669b5449795"
+                "@id": "_:300b047a-a9ff-4f04-89c8-f1e6f490f6b0"
             }
+        },
+        {
+            "@id": "_:300b047a-a9ff-4f04-89c8-f1e6f490f6b0",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/zdohnal/hplip/blob/master/COPYING#L939",
+            "spdx:timestamp": "2026-02-20T15:42:00Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

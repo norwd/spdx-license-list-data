@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:b939d82a-248d-4f41-a381-c6f5563d77d8",
+            "@id": "_:540d1210-77c6-441d-8de7-8d2d3730109c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://ctan.org/license/knuth",
-            "spdx:timestamp": "2026-02-20T15:26:12Z",
+            "spdx:timestamp": "2026-02-20T15:43:22Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -40,7 +40,7 @@
             "rdfs:seeAlso": "https://ctan.org/license/knuth",
             "rdfs:comment": "This license is very similar to Wsuipa.",
             "spdx:crossRef": {
-                "@id": "_:b939d82a-248d-4f41-a381-c6f5563d77d8"
+                "@id": "_:540d1210-77c6-441d-8de7-8d2d3730109c"
             },
             "spdx:licenseTextHtml": "\n         <p>\n            This software is copyrighted. Unlimited copying and redistribution\n            of this package and/or its individual files are permitted\n            as long as there are no modifications. Modifications, and\n            redistribution of modifications, are also permitted, but\n            only if the resulting package and/or files are renamed.\n         </p>\n\n      "
         }

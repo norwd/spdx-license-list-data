@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:469d359a-63f4-4f28-a189-f5cb9567a561"
+                "@id": "_:a87735d7-0776-40e5-a142-de08edc66519"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:469d359a-63f4-4f28-a189-f5cb9567a561",
+            "@id": "_:a87735d7-0776-40e5-a142-de08edc66519",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://cdla.io/permissive-1-0",
-            "spdx:timestamp": "2026-02-20T15:23:40Z",
+            "spdx:timestamp": "2026-02-20T15:40:27Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

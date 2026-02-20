@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:dbb9cb77-ad0c-4c0e-b0e6-655344ce09eb"
+                "@id": "_:507bebad-8938-4b06-b4c7-5871f9c33539"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:dbb9cb77-ad0c-4c0e-b0e6-655344ce09eb",
+            "@id": "_:507bebad-8938-4b06-b4c7-5871f9c33539",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/Perl/perl5/blob/blead/util.c#L6136",
-            "spdx:timestamp": "2026-02-20T15:26:25Z",
+            "spdx:timestamp": "2026-02-20T15:43:29Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

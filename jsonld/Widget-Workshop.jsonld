@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:947b2a39-01f7-484c-8f4b-633e4bf1ad04",
+            "@id": "_:f6334fd7-2620-45cc-8b4d-0150f2e1f0bb",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/novnc/noVNC/blob/master/core/crypto/des.js#L24",
-            "spdx:timestamp": "2026-02-20T15:27:11Z",
+            "spdx:timestamp": "2026-02-20T15:44:21Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:947b2a39-01f7-484c-8f4b-633e4bf1ad04"
+                "@id": "_:f6334fd7-2620-45cc-8b4d-0150f2e1f0bb"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

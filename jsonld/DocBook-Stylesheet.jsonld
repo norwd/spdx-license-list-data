@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:5a79789e-d46e-4a96-aff1-9763b725817d"
+                "@id": "_:eff3a6fd-e36f-4873-8168-a6e430a4f435"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:5a79789e-d46e-4a96-aff1-9763b725817d",
+            "@id": "_:eff3a6fd-e36f-4873-8168-a6e430a4f435",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.docbook.org/xml/5.0/docbook-5.0.zip",
-            "spdx:timestamp": "2026-02-20T15:27:11Z",
+            "spdx:timestamp": "2026-02-20T15:44:21Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

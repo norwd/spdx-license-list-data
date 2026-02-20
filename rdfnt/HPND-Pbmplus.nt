@@ -1,6 +1,14 @@
+_:B559df819X2Dc8f2X2D4a60X2Da8c0X2D19349b14a8ff <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B559df819X2Dc8f2X2D4a60X2Da8c0X2D19349b14a8ff <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B559df819X2Dc8f2X2D4a60X2Da8c0X2D19349b14a8ff <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B559df819X2Dc8f2X2D4a60X2Da8c0X2D19349b14a8ff <http://spdx.org/rdf/terms#url> "https://sourceforge.net/p/netpbm/code/HEAD/tree/super_stable/netpbm.c#l8" .
+_:B559df819X2Dc8f2X2D4a60X2Da8c0X2D19349b14a8ff <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:44:22Z" .
+_:B559df819X2Dc8f2X2D4a60X2Da8c0X2D19349b14a8ff <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B559df819X2Dc8f2X2D4a60X2Da8c0X2D19349b14a8ff <http://spdx.org/rdf/terms#match> "N/A" .
+_:B559df819X2Dc8f2X2D4a60X2Da8c0X2D19349b14a8ff <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/HPND-Pbmplus> <http://spdx.org/rdf/terms#crossRef> _:B559df819X2Dc8f2X2D4a60X2Da8c0X2D19349b14a8ff .
 <http://spdx.org/licenses/HPND-Pbmplus> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://sourceforge.net/p/netpbm/code/HEAD/tree/super_stable/netpbm.c#l8" .
 <http://spdx.org/licenses/HPND-Pbmplus> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n                Copyright (C) 1991 by Jef Poskanzer.\n        </span></var>\n\n         <p>\n                Permission to use, copy, modify, and distribute this software\n                and its documentation for any purpose and without fee is hereby\n                granted, provided that the above copyright notice appear in all copies\n                and that both that copyright notice and this permission\n                notice appear in supporting documentation. This software\n                is provided &quot;as is&quot; without express or implied warranty.\n         </p>\n\n      " .
-<http://spdx.org/licenses/HPND-Pbmplus> <http://spdx.org/rdf/terms#crossRef> _:Babca1973X2D1201X2D4c2cX2Da331X2D26fb3d3dae48 .
 <http://spdx.org/licenses/HPND-Pbmplus> <http://spdx.org/rdf/terms#name> "Historical Permission Notice and Disclaimer - Pbmplus variant" .
 <http://spdx.org/licenses/HPND-Pbmplus> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/HPND-Pbmplus> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
@@ -8,11 +16,3 @@
 <http://spdx.org/licenses/HPND-Pbmplus> <http://spdx.org/rdf/terms#licenseText> "Copyright (C) 1991 by Jef Poskanzer.\n\nPermission to use, copy, modify, and distribute this software and its\ndocumentation for any purpose and without fee is hereby granted, provided\nthat the above copyright notice appear in all copies and that both that\ncopyright notice and this permission notice appear in supporting\ndocumentation.  This software is provided \"as is\" without express or\nimplied warranty.\n" .
 <http://spdx.org/licenses/HPND-Pbmplus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/HPND-Pbmplus> <http://www.w3.org/2000/01/rdf-schema#comment> "This license is nearly a match for HPND, but omits first sentence of third clause regarding no reps, and only includes the second sentence regarding \"as is\". In the original HPND that entire clause is optional." .
-_:Babca1973X2D1201X2D4c2cX2Da331X2D26fb3d3dae48 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Babca1973X2D1201X2D4c2cX2Da331X2D26fb3d3dae48 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Babca1973X2D1201X2D4c2cX2Da331X2D26fb3d3dae48 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Babca1973X2D1201X2D4c2cX2Da331X2D26fb3d3dae48 <http://spdx.org/rdf/terms#url> "https://sourceforge.net/p/netpbm/code/HEAD/tree/super_stable/netpbm.c#l8" .
-_:Babca1973X2D1201X2D4c2cX2Da331X2D26fb3d3dae48 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:27:12Z" .
-_:Babca1973X2D1201X2D4c2cX2Da331X2D26fb3d3dae48 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Babca1973X2D1201X2D4c2cX2Da331X2D26fb3d3dae48 <http://spdx.org/rdf/terms#match> "N/A" .
-_:Babca1973X2D1201X2D4c2cX2Da331X2D26fb3d3dae48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

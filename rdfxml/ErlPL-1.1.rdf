@@ -5,9 +5,9 @@
     xmlns:ptr="http://www.w3.org/2009/pointers#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/ErlPL-1.1">
-    <spdx:name>Erlang Public License v1.1</spdx:name>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
+    <spdx:name>Erlang Public License v1.1</spdx:name>
     <spdx:licenseText>ERLANG PUBLIC LICENSE Version 1.1
 
 1. Definitions.
@@ -484,21 +484,6 @@ The Initial Developer of the Original Code is Ericsson Utvecklings AB. Portions 
         Copyright 1999, Ericsson Utvecklings AB. All Rights Reserved.&amp;apos;&amp;apos;&lt;/p&gt;
 
     </spdx:licenseTextHtml>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>http://www.erlang.org/EPLICENSE</spdx:url>
-        <spdx:timestamp>2026-02-20T15:27:20Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>true</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
     <rdfs:comment>This Erlang License is a derivative work of the Mozilla Public License, Version 1.0. It contains terms which differ from the Mozilla Public License, Version 1.0.</rdfs:comment>
@@ -566,5 +551,20 @@ The Initial Developer of the Original Code is Ericsson Utvecklings AB. Portions 
 
 </spdx:standardLicenseTemplate>
     <rdfs:seeAlso>http://www.erlang.org/EPLICENSE</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>http://www.erlang.org/EPLICENSE</spdx:url>
+        <spdx:timestamp>2026-02-20T15:44:28Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>true</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
   </spdx:ListedLicense>
 </rdf:RDF>

@@ -1,11 +1,11 @@
-_:B885fd985X2D3a6aX2D4caaX2D9687X2Dc4d066b359ef <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B885fd985X2D3a6aX2D4caaX2D9687X2Dc4d066b359ef <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B885fd985X2D3a6aX2D4caaX2D9687X2Dc4d066b359ef <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B885fd985X2D3a6aX2D4caaX2D9687X2Dc4d066b359ef <http://spdx.org/rdf/terms#url> "http://www.freebsd.org/copyright/freebsd-license.html" .
-_:B885fd985X2D3a6aX2D4caaX2D9687X2Dc4d066b359ef <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:26:34Z" .
-_:B885fd985X2D3a6aX2D4caaX2D9687X2Dc4d066b359ef <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B885fd985X2D3a6aX2D4caaX2D9687X2Dc4d066b359ef <http://spdx.org/rdf/terms#match> "false" .
-_:B885fd985X2D3a6aX2D4caaX2D9687X2Dc4d066b359ef <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B1665b786X2Dc89dX2D4a6dX2Dae9eX2Da36f63d17067 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B1665b786X2Dc89dX2D4a6dX2Dae9eX2Da36f63d17067 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B1665b786X2Dc89dX2D4a6dX2Dae9eX2Da36f63d17067 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B1665b786X2Dc89dX2D4a6dX2Dae9eX2Da36f63d17067 <http://spdx.org/rdf/terms#url> "http://www.freebsd.org/copyright/freebsd-license.html" .
+_:B1665b786X2Dc89dX2D4a6dX2Dae9eX2Da36f63d17067 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:43:40Z" .
+_:B1665b786X2Dc89dX2D4a6dX2Dae9eX2Da36f63d17067 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B1665b786X2Dc89dX2D4a6dX2Dae9eX2Da36f63d17067 <http://spdx.org/rdf/terms#match> "false" .
+_:B1665b786X2Dc89dX2D4a6dX2Dae9eX2Da36f63d17067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/BSD-2-Clause-FreeBSD> <http://spdx.org/rdf/terms#isFsfLibre> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/BSD-2-Clause-FreeBSD> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/BSD-2-Clause-FreeBSD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
@@ -16,5 +16,5 @@ _:B885fd985X2D3a6aX2D4caaX2D9687X2Dc4d066b359ef <http://www.w3.org/1999/02/22-rd
 <http://spdx.org/licenses/BSD-2-Clause-FreeBSD> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/BSD-2-Clause-FreeBSD> <http://spdx.org/rdf/terms#name> "BSD 2-Clause FreeBSD License" .
 <http://spdx.org/licenses/BSD-2-Clause-FreeBSD> <http://www.w3.org/2000/01/rdf-schema#comment> "This license was deprecated because BSD-2-Clause-Views has been added, as a more generalized version; and because FreeBSD project community members have indicated that the final sentence is not part of that project's code license." .
-<http://spdx.org/licenses/BSD-2-Clause-FreeBSD> <http://spdx.org/rdf/terms#crossRef> _:B885fd985X2D3a6aX2D4caaX2D9687X2Dc4d066b359ef .
 <http://spdx.org/licenses/BSD-2-Clause-FreeBSD> <http://spdx.org/rdf/terms#deprecatedVersion> "3.10" .
+<http://spdx.org/licenses/BSD-2-Clause-FreeBSD> <http://spdx.org/rdf/terms#crossRef> _:B1665b786X2Dc89dX2D4a6dX2Dae9eX2Da36f63d17067 .

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:959f6763-ee11-4bfb-aa01-3e6b460bf7b1",
+            "@id": "_:59cb2c25-de35-43b6-9268-b7d31f609e0c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/Naumen",
-            "spdx:timestamp": "2026-02-20T15:27:13Z",
+            "spdx:timestamp": "2026-02-20T15:44:23Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:959f6763-ee11-4bfb-aa01-3e6b460bf7b1"
+                "@id": "_:59cb2c25-de35-43b6-9268-b7d31f609e0c"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",

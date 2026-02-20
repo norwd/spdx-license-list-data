@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:9e90e6a9-4c2b-40ae-b42c-f30c1246b19b",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/licenses/OPL-2.1",
-            "spdx:timestamp": "2026-02-20T15:26:23Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:d2163665-8a2a-47fa-91b4-cf06fabee295",
+            "@id": "_:af229b4b-05c9-402c-b606-f842abc8e8b1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.osetfoundation.org/public-license",
-            "spdx:timestamp": "2026-02-20T15:26:23Z",
+            "spdx:timestamp": "2026-02-20T15:43:27Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,19 +24,42 @@
             "@type": "spdx:CrossRef"
         },
         {
+            "@id": "_:63a35b26-4311-4196-af1c-d27c4b550039",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/licenses/OPL-2.1",
+            "spdx:timestamp": "2026-02-20T15:43:26Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/OSET-PL-2.1",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:d2163665-8a2a-47fa-91b4-cf06fabee295"
-                },
-                {
-                    "@id": "_:9e90e6a9-4c2b-40ae-b42c-f30c1246b19b"
-                }
-            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": [
+                {
+                    "@id": "_:63a35b26-4311-4196-af1c-d27c4b550039"
+                },
+                {
+                    "@id": "_:af229b4b-05c9-402c-b606-f842abc8e8b1"
+                }
+            ],
             "rdfs:seeAlso": [
                 "https://opensource.org/licenses/OPL-2.1",
                 "http://www.osetfoundation.org/public-license"

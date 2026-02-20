@@ -41,7 +41,7 @@ Permission to use, copy, modify, and distribute these programs and their documen
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://opensource.org/licenses/Multics</spdx:url>
-        <spdx:timestamp>2026-02-20T15:26:38Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T15:43:41Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:434e6e05-439d-41c6-9b41-7c6fad7ffa08",
+            "@id": "_:2561350e-c3b8-436f-b04f-0c8c5c60180f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.opensource.apple.com/source/tcl/tcl-5/tcl/generic/regfronts.c",
-            "spdx:timestamp": "2026-02-20T15:23:41Z",
+            "spdx:timestamp": "2026-02-20T15:40:27Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:434e6e05-439d-41c6-9b41-7c6fad7ffa08"
+                "@id": "_:2561350e-c3b8-436f-b04f-0c8c5c60180f"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
