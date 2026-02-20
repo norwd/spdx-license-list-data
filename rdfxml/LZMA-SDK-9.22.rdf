@@ -63,12 +63,12 @@ LZMA SDK code is compatible with open source licenses, for example, you can incl
         <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/</spdx:url>
-        <spdx:timestamp>2026-02-20T15:19:50Z</spdx:timestamp>
+        >true</spdx:isLive>
+        <spdx:url>https://www.7-zip.org/sdk.html</spdx:url>
+        <spdx:timestamp>2026-02-20T15:26:25Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>N/A</spdx:match>
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:name>LZMA SDK License (versions 9.22 and beyond)</spdx:name>
@@ -79,12 +79,12 @@ LZMA SDK code is compatible with open source licenses, for example, you can incl
         <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://www.7-zip.org/sdk.html</spdx:url>
-        <spdx:timestamp>2026-02-20T15:19:51Z</spdx:timestamp>
+        >false</spdx:isLive>
+        <spdx:url>https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/</spdx:url>
+        <spdx:timestamp>2026-02-20T15:26:25Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
+        >1</spdx:order>
+        <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"

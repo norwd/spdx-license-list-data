@@ -14,7 +14,7 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://www.ietf.org/rfc/rfc1952.txt</spdx:url>
-        <spdx:timestamp>2026-02-20T15:17:56Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T15:24:32Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>true</spdx:match>
@@ -39,21 +39,6 @@
 
       </spdx:licenseTextHtml>
     <rdfs:seeAlso>https://github.com/Cyan4973/xxHash/blob/dev/doc/xxhash_spec.md</rdfs:seeAlso>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://github.com/Cyan4973/xxHash/blob/dev/doc/xxhash_spec.md</spdx:url>
-        <spdx:timestamp>2026-02-20T15:17:56Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
     <rdfs:seeAlso>https://www.ietf.org/rfc/rfc1952.txt</rdfs:seeAlso>
@@ -64,6 +49,21 @@ Permission is granted to copy and distribute this document for any purpose and w
 </spdx:standardLicenseTemplate>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://github.com/Cyan4973/xxHash/blob/dev/doc/xxhash_spec.md</spdx:url>
+        <spdx:timestamp>2026-02-20T15:24:32Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:licenseText>Copyright (c) 1996 L. Peter Deutsch
 
 Permission is granted to copy and distribute this

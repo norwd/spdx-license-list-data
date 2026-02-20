@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:1e8d2979-a93b-48f5-98fc-5837f39e9ddf",
+            "@id": "_:9ba1eb20-d253-4490-bcfa-7dcb1187a4fd",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt",
-            "spdx:timestamp": "2026-02-20T15:20:47Z",
+            "spdx:timestamp": "2026-02-20T15:26:40Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -30,7 +30,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:1e8d2979-a93b-48f5-98fc-5837f39e9ddf"
+                "@id": "_:9ba1eb20-d253-4490-bcfa-7dcb1187a4fd"
             },
             "rdfs:comment": "This license was released March 2000. The identifier GFDL-1.1-only-invariants should only be used when there are Invariant Sections, Front-Cover Texts or Back-Cover Texts. See GFDL-1.1-only and GFDL-1.1-only-no-invariants for alternatives.",
             "spdx:isDeprecatedLicenseId": {

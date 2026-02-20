@@ -1,7 +1,30 @@
 {
     "@graph": [
         {
-            "@id": "_:cfca02c2-9023-4557-a963-56791ead1016",
+            "@id": "_:8c7a7503-b010-443e-97ee-840db0199ba4",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://sourceforge.net/p/ctrio/git/ci/master/tree/README",
+            "spdx:timestamp": "2026-02-20T15:26:21Z",
+            "spdx:order": {
+                "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:143ea74a-eb2b-4d3b-b8c6-d26e02ecb332",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/GNOME/libxml2/blob/master/dict.c",
-            "spdx:timestamp": "2026-02-20T15:19:43Z",
+            "spdx:timestamp": "2026-02-20T15:26:21Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +47,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:b07e4f11-8d5f-4f68-9767-c066c5132eb0",
+            "@id": "_:ef41d253-f539-43e1-b2ea-b350b2b75f2a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +61,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://raw.githubusercontent.com/GNOME/libxml2/4c2e7c651f6c2f0d1a74f350cbda95f7df3e7017/hash.c",
-            "spdx:timestamp": "2026-02-20T15:19:43Z",
+            "spdx:timestamp": "2026-02-20T15:26:21Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -55,22 +78,22 @@
                 "https://sourceforge.net/p/ctrio/git/ci/master/tree/README",
                 "https://github.com/GNOME/libxml2/blob/master/dict.c"
             ],
+            "spdx:crossRef": [
+                {
+                    "@id": "_:8c7a7503-b010-443e-97ee-840db0199ba4"
+                },
+                {
+                    "@id": "_:143ea74a-eb2b-4d3b-b8c6-d26e02ecb332"
+                },
+                {
+                    "@id": "_:ef41d253-f539-43e1-b2ea-b350b2b75f2a"
+                }
+            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:licenseTextHtml": "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n             Copyright (C) 2003-2012 Daniel Veillard.\n        </span></var>\n        <p>\n            Permission to use, copy,\n            modify, and distribute this software for any purpose with or\n            without fee is hereby granted, provided that the above copyright\n            notice and this permission notice appear in all copies. THIS\n            SOFTWARE IS PROVIDED &quot;AS IS&quot; AND WITHOUT ANY EXPRESS OR IMPLIED\n            WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES\n            OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE AUTHORS\n            AND CONTRIBUTORS ACCEPT NO RESPONSIBILITY IN ANY CONCEIVABLE MANNER.\n         </p>\n\n      ",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:cfca02c2-9023-4557-a963-56791ead1016"
-                },
-                {
-                    "@id": "_:b07e4f11-8d5f-4f68-9767-c066c5132eb0"
-                },
-                {
-                    "@id": "_:01624aa8-677c-46b7-9c2e-40843964c20a"
-                }
-            ],
             "spdx:licenseText": "Copyright (C) 2003-2012 Daniel Veillard. \nPermission to use, copy,\nmodify, and distribute this software for any purpose with or\nwithout fee is hereby granted, provided that the above copyright\nnotice and this permission notice appear in all copies. THIS\nSOFTWARE IS PROVIDED \"AS IS\" AND WITHOUT ANY EXPRESS OR IMPLIED\nWARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES\nOF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE AUTHORS\nAND CONTRIBUTORS ACCEPT NO RESPONSIBILITY IN ANY CONCEIVABLE MANNER.\n",
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright (C) 2003-2012 Daniel Veillard.\";match=\".{0,5000}\">>\nPermission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies. THIS SOFTWARE IS PROVIDED \"AS IS\" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE AUTHORS AND CONTRIBUTORS ACCEPT NO RESPONSIBILITY IN ANY CONCEIVABLE MANNER.\n\n",
             "spdx:isOsiApproved": {
@@ -78,29 +101,6 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "@type": "spdx:ListedLicense"
-        },
-        {
-            "@id": "_:01624aa8-677c-46b7-9c2e-40843964c20a",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://sourceforge.net/p/ctrio/git/ci/master/tree/README",
-            "spdx:timestamp": "2026-02-20T15:19:44Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

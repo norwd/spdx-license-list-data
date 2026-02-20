@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:dc444d25-3b1d-4254-90e6-eb6b4c8c1def",
+            "@id": "_:85e24765-9a73-4389-82ff-017ceb3eed5c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.wtfpl.net/about/",
-            "spdx:timestamp": "2026-02-20T15:19:51Z",
+            "spdx:timestamp": "2026-02-20T15:26:25Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -29,10 +29,10 @@
             "spdx:standardLicenseTemplate": "<<beginOptional>>DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE\nVersion 2, December 2004\n\n<<endOptional>>\nCopyright (C) 2004 Sam Hocevar <sam@hocevar.net>\n\nEveryone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.\n\nDO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE\nTERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\n   <<var;name=\"bullet\";original=\"0.\";match=\".{0,20}\">> You just DO WHAT THE FUCK YOU WANT TO.",
             "spdx:crossRef": [
                 {
-                    "@id": "_:dc444d25-3b1d-4254-90e6-eb6b4c8c1def"
+                    "@id": "_:462ef09b-0f30-42e1-9e61-b5990598f3fb"
                 },
                 {
-                    "@id": "_:e56d0801-843a-4f5d-aea5-b16053e1f4b0"
+                    "@id": "_:85e24765-9a73-4389-82ff-017ceb3eed5c"
                 }
             ],
             "spdx:licenseText": "DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE\nVersion 2, December 2004\n\nCopyright (C) 2004 Sam Hocevar <sam@hocevar.net>\n\nEveryone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.\n\nDO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE\nTERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\n  0. You just DO WHAT THE FUCK YOU WANT TO.\n",
@@ -56,7 +56,7 @@
             }
         },
         {
-            "@id": "_:e56d0801-843a-4f5d-aea5-b16053e1f4b0",
+            "@id": "_:462ef09b-0f30-42e1-9e61-b5990598f3fb",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -70,7 +70,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://sam.zoy.org/wtfpl/COPYING",
-            "spdx:timestamp": "2026-02-20T15:19:52Z",
+            "spdx:timestamp": "2026-02-20T15:26:26Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

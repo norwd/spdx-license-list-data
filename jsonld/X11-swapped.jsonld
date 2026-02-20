@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:c64c1a84-54b0-487d-b422-1df407006063",
+            "@id": "_:b13ceb35-1335-4715-874b-d553758c12bd",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/fedeinthemix/chez-srfi/blob/master/srfi/LICENSE",
-            "spdx:timestamp": "2026-02-20T15:20:47Z",
+            "spdx:timestamp": "2026-02-20T15:26:40Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -41,7 +41,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:c64c1a84-54b0-487d-b422-1df407006063"
+                "@id": "_:b13ceb35-1335-4715-874b-d553758c12bd"
             }
         }
     ],

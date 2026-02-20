@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:ab168b38-df65-4e22-8e29-00e4a1ca4daf",
+            "@id": "_:ac2f5f8f-e8d4-4854-9752-f928fa19bbeb",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.jpl.nasa.gov/jpl-image-use-policy",
-            "spdx:timestamp": "2026-02-20T15:17:22Z",
+            "spdx:timestamp": "2026-02-20T15:23:39Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:ab168b38-df65-4e22-8e29-00e4a1ca4daf"
+                "@id": "_:ac2f5f8f-e8d4-4854-9752-f928fa19bbeb"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

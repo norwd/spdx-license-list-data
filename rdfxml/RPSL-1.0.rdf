@@ -13,10 +13,10 @@
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
-        <spdx:url>https://helixcommunity.org/content/rpsl</spdx:url>
-        <spdx:timestamp>2026-02-20T15:17:22Z</spdx:timestamp>
+        <spdx:url>https://opensource.org/licenses/RPSL-1.0</spdx:url>
+        <spdx:timestamp>2026-02-20T15:23:39Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
+        >1</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
@@ -382,10 +382,10 @@ RealNetworks "Licensor Trademark Policy" forbids any use of Licensor Trademarks 
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
-        <spdx:url>https://opensource.org/licenses/RPSL-1.0</spdx:url>
-        <spdx:timestamp>2026-02-20T15:17:22Z</spdx:timestamp>
+        <spdx:url>https://helixcommunity.org/content/rpsl</spdx:url>
+        <spdx:timestamp>2026-02-20T15:23:39Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
+        >0</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>

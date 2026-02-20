@@ -1,15 +1,30 @@
 {
     "@graph": [
         {
+            "@id": "_:36a45550-d3b8-4fb3-b676-72d67154ac60",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://web.archive.org/web/20150926120323/http://fairlicense.org/",
+            "spdx:timestamp": "2026-02-20T15:23:37Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/Fair",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:3fee8cc6-bde6-498b-85b5-79a3d10450d2"
-                },
-                {
-                    "@id": "_:9b4f0105-4819-4193-85cf-48e4a15bd5b4"
-                }
-            ],
             "rdfs:seeAlso": [
                 "https://opensource.org/licenses/Fair",
                 "https://web.archive.org/web/20150926120323/http://fairlicense.org/"
@@ -26,33 +41,18 @@
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            }
+            },
+            "spdx:crossRef": [
+                {
+                    "@id": "_:55486e98-733c-4767-894e-7d6612bcfb24"
+                },
+                {
+                    "@id": "_:36a45550-d3b8-4fb3-b676-72d67154ac60"
+                }
+            ]
         },
         {
-            "@id": "_:3fee8cc6-bde6-498b-85b5-79a3d10450d2",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://web.archive.org/web/20150926120323/http://fairlicense.org/",
-            "spdx:timestamp": "2026-02-20T15:17:19Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:9b4f0105-4819-4193-85cf-48e4a15bd5b4",
+            "@id": "_:55486e98-733c-4767-894e-7d6612bcfb24",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/Fair",
-            "spdx:timestamp": "2026-02-20T15:17:19Z",
+            "spdx:timestamp": "2026-02-20T15:23:37Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

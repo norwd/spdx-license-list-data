@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:7473e96a-0cab-4484-86ed-942012013995",
+            "@id": "_:1ba62107-f24b-40a6-bb33-e153c4444900",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
-            "spdx:timestamp": "2026-02-20T15:17:32Z",
+            "spdx:timestamp": "2026-02-20T15:24:24Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:5049712c-4dc0-4dd0-9629-0b11660a7c78",
+            "@id": "_:a78ea215-0648-4562-9c66-ee5fa7437a6d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/GPL-3.0",
-            "spdx:timestamp": "2026-02-20T15:17:32Z",
+            "spdx:timestamp": "2026-02-20T15:24:24Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -55,19 +55,19 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": [
+                {
+                    "@id": "_:a78ea215-0648-4562-9c66-ee5fa7437a6d"
+                },
+                {
+                    "@id": "_:1ba62107-f24b-40a6-bb33-e153c4444900"
+                }
+            ],
             "spdx:isFsfLibre": {
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:standardLicenseHeaderTemplate": "Copyright (C) <<var;name=\"copyright\";original=\"<year> <name of author>\";match=\".+\">>\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.\n\n",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:5049712c-4dc0-4dd0-9629-0b11660a7c78"
-                },
-                {
-                    "@id": "_:7473e96a-0cab-4484-86ed-942012013995"
-                }
-            ],
             "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": [
                 "https://opensource.org/licenses/GPL-3.0",

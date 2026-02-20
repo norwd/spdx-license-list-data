@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:35d9e78e-452d-4c48-91d7-456f23206f9f",
+            "@id": "_:62a2a208-5e48-440f-9081-d6e9dc398094",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/seanmiddleditch/libtelnet/blob/develop/COPYING",
-            "spdx:timestamp": "2026-02-20T15:18:30Z",
+            "spdx:timestamp": "2026-02-20T15:25:04Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,9 +25,6 @@
         },
         {
             "@id": "http://spdx.org/licenses/Unlicense-libtelnet",
-            "spdx:crossRef": {
-                "@id": "_:35d9e78e-452d-4c48-91d7-456f23206f9f"
-            },
             "rdfs:comment": "This is license contains a small part of the Unlicense, but is much shorter.",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -42,7 +39,10 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "@type": "spdx:ListedLicense"
+            "@type": "spdx:ListedLicense",
+            "spdx:crossRef": {
+                "@id": "_:62a2a208-5e48-440f-9081-d6e9dc398094"
+            }
         }
     ],
     "@context": {

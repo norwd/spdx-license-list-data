@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:047c9a66-2367-4e49-bc9f-26493c2902d6",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/libjpeg-turbo/libjpeg-turbo/blob/main/README.ijg#L117-L161",
-            "spdx:timestamp": "2026-02-20T15:17:27Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:6b6c920b-546c-46d2-8d73-d96a5428597c",
+            "@id": "_:6fe8c3c5-4b93-47ea-ae63-e0e650fa9a5d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/vstroebel/jpeg-encoder/blob/main/src/fdct.rs#L1-L72",
-            "spdx:timestamp": "2026-02-20T15:17:27Z",
+            "spdx:timestamp": "2026-02-20T15:23:46Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:30d24766-03fe-4619-a6d3-d7da9695f50b",
+            "@id": "_:8efea477-18c2-4a06-82a8-a2df3c386ad1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -61,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://dev.w3.org/cvsweb/Amaya/libjpeg/Attic/README?rev=1.2",
-            "spdx:timestamp": "2026-02-20T15:17:27Z",
+            "spdx:timestamp": "2026-02-20T15:23:46Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -70,7 +47,41 @@
             "@type": "spdx:CrossRef"
         },
         {
+            "@id": "_:f3d2b2cc-7954-4e58-9d36-ef239d01e593",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/libjpeg-turbo/libjpeg-turbo/blob/main/README.ijg#L117-L161",
+            "spdx:timestamp": "2026-02-20T15:23:46Z",
+            "spdx:order": {
+                "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/IJG",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:f3d2b2cc-7954-4e58-9d36-ef239d01e593"
+                },
+                {
+                    "@id": "_:8efea477-18c2-4a06-82a8-a2df3c386ad1"
+                },
+                {
+                    "@id": "_:6fe8c3c5-4b93-47ea-ae63-e0e650fa9a5d"
+                }
+            ],
             "rdfs:seeAlso": [
                 "https://github.com/vstroebel/jpeg-encoder/blob/main/src/fdct.rs#L1-L72",
                 "http://dev.w3.org/cvsweb/Amaya/libjpeg/Attic/README?rev=1.2",
@@ -83,17 +94,6 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:6b6c920b-546c-46d2-8d73-d96a5428597c"
-                },
-                {
-                    "@id": "_:30d24766-03fe-4619-a6d3-d7da9695f50b"
-                },
-                {
-                    "@id": "_:047c9a66-2367-4e49-bc9f-26493c2902d6"
-                }
-            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"

@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:91e1fd41-378d-467b-b2e1-0a5766cc86c2"
+                "@id": "_:486363dc-314b-4535-b9dc-e53b021960f2"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:91e1fd41-378d-467b-b2e1-0a5766cc86c2",
+            "@id": "_:486363dc-314b-4535-b9dc-e53b021960f2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/SWL",
-            "spdx:timestamp": "2026-02-20T15:17:51Z",
+            "spdx:timestamp": "2026-02-20T15:24:28Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

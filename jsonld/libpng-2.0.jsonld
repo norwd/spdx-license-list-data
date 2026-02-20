@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:8d612363-5385-451e-b36e-2aafe9ea2708"
+                "@id": "_:343c5912-15e4-4822-9b10-f06458fae58a"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:8d612363-5385-451e-b36e-2aafe9ea2708",
+            "@id": "_:343c5912-15e4-4822-9b10-f06458fae58a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.libpng.org/pub/png/src/libpng-LICENSE.txt",
-            "spdx:timestamp": "2026-02-20T15:19:08Z",
+            "spdx:timestamp": "2026-02-20T15:25:38Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

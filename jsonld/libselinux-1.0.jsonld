@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:d3736675-ff0d-498f-8422-0e23154e1549"
+                "@id": "_:a79701ef-ae4f-4a28-8e4b-446c32a314d6"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:d3736675-ff0d-498f-8422-0e23154e1549",
+            "@id": "_:a79701ef-ae4f-4a28-8e4b-446c32a314d6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/SELinuxProject/selinux/blob/master/libselinux/LICENSE",
-            "spdx:timestamp": "2026-02-20T15:19:08Z",
+            "spdx:timestamp": "2026-02-20T15:25:38Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:b20310a5-10d5-446f-9ba2-d9b2e373deb0"
+                "@id": "_:0304edec-5210-47c1-9c59-c021fc73d25e"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:b20310a5-10d5-446f-9ba2-d9b2e373deb0",
+            "@id": "_:0304edec-5210-47c1-9c59-c021fc73d25e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/NTP",
-            "spdx:timestamp": "2026-02-20T15:18:26Z",
+            "spdx:timestamp": "2026-02-20T15:25:01Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

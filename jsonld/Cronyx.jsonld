@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:e7d60f53-2308-405e-9f56-89c88b09a956",
+            "@id": "_:b9c8a3f8-21d5-4b3a-a699-95b947b05284",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,17 +14,17 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://gitlab.freedesktop.org/xorg/font/screen-cyrillic/-/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T15:17:37Z",
+            "spdx:url": "https://gitlab.freedesktop.org/xorg/font/misc-cyrillic/-/blob/master/COPYING",
+            "spdx:timestamp": "2026-02-20T15:24:26Z",
             "spdx:order": {
-                "@value": "3",
+                "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:4976e2f0-805b-4f04-a028-d9ab0709920e",
+            "@id": "_:8dccd3ed-52a8-4597-bd70-ffbbffb03cf3",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.freedesktop.org/xorg/font/alias/-/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T15:17:39Z",
+            "spdx:timestamp": "2026-02-20T15:24:30Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -63,16 +63,16 @@
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"This package contains a set of Russian fonts for X11 Release 6. Copyright (C) 1994-1995 Cronyx Ltd. Changes Copyright (C) 1996 by Sergey Vovk Changes Copyright (C) 1999-2000 by Serge Winitzki Changes Copyright (C) 1996-2000 by Andrey A. Chernov, Moscow, Russia.  \";match=\".{0,5000}\">>\nThis software may be used, modified, copied, distributed<<beginOptional>> ,<<endOptional>> and sold, in both source and binary form provided that the<<beginOptional>> above<<endOptional>> copyright and these terms are retained. Under no circumstances is the author responsible for the proper functioning of this software, nor does the author assume any responsibility for damages incurred with its use.\n\n",
             "spdx:crossRef": [
                 {
-                    "@id": "_:615a977e-8ca5-44a6-b08a-f147217d5dda"
+                    "@id": "_:b9c8a3f8-21d5-4b3a-a699-95b947b05284"
                 },
                 {
-                    "@id": "_:4976e2f0-805b-4f04-a028-d9ab0709920e"
+                    "@id": "_:8dccd3ed-52a8-4597-bd70-ffbbffb03cf3"
                 },
                 {
-                    "@id": "_:9b5793a7-4311-41e3-9c81-f19597f8a6d2"
+                    "@id": "_:eb4a2f0c-f41d-4501-899d-0d0cf6a1ebd5"
                 },
                 {
-                    "@id": "_:e7d60f53-2308-405e-9f56-89c88b09a956"
+                    "@id": "_:f060e30b-9807-4031-b45a-bc125da7df28"
                 }
             ],
             "spdx:licenseText": "This package contains a set of Russian fonts for X11 Release 6.\nCopyright (C) 1994-1995 Cronyx Ltd.\nChanges Copyright (C) 1996 by Sergey Vovk\nChanges Copyright (C) 1999-2000 by Serge Winitzki\nChanges Copyright (C) 1996-2000 by Andrey A. Chernov, Moscow, Russia.\n\nThis software may be used, modified, copied, distributed, and sold,\nin both source and binary form provided that the copyright\nand these terms are retained. Under no circumstances is the author\nresponsible for the proper functioning of this software, nor does\nthe author assume any responsibility for damages incurred with its use.\n",
@@ -83,7 +83,30 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:615a977e-8ca5-44a6-b08a-f147217d5dda",
+            "@id": "_:eb4a2f0c-f41d-4501-899d-0d0cf6a1ebd5",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://gitlab.freedesktop.org/xorg/font/screen-cyrillic/-/blob/master/COPYING",
+            "spdx:timestamp": "2026-02-20T15:24:29Z",
+            "spdx:order": {
+                "@value": "3",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:f060e30b-9807-4031-b45a-bc125da7df28",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -97,32 +120,9 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.freedesktop.org/xorg/font/cronyx-cyrillic/-/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T15:17:36Z",
+            "spdx:timestamp": "2026-02-20T15:24:27Z",
             "spdx:order": {
                 "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:9b5793a7-4311-41e3-9c81-f19597f8a6d2",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://gitlab.freedesktop.org/xorg/font/misc-cyrillic/-/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T15:17:35Z",
-            "spdx:order": {
-                "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",

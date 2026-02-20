@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:37951e48-09d2-42bb-95ff-1a4d9a615455"
+                "@id": "_:4daf5da3-994a-45ec-8a9c-d8907118ffb6"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:37951e48-09d2-42bb-95ff-1a4d9a615455",
+            "@id": "_:4daf5da3-994a-45ec-8a9c-d8907118ffb6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://git.openldap.org/openldap/openldap/-/blob/master/COPYRIGHT?ref_type=heads#L39-51",
-            "spdx:timestamp": "2026-02-20T15:21:26Z",
+            "spdx:timestamp": "2026-02-20T15:27:16Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

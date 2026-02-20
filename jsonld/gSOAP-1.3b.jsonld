@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:37a231fd-6b80-4173-957e-169830530f76"
+                "@id": "_:83d76f8d-defa-470f-a714-f0610e08610a"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:37a231fd-6b80-4173-957e-169830530f76",
+            "@id": "_:83d76f8d-defa-470f-a714-f0610e08610a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.cs.fsu.edu/~engelen/license.html",
-            "spdx:timestamp": "2026-02-20T15:20:13Z",
+            "spdx:timestamp": "2026-02-20T15:26:32Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

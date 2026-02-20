@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:5b665ba9-280d-4fb3-87d9-c79a60776b8a",
+            "@id": "_:5a1f813b-6b94-459e-a8b8-cb28164d01d8",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Wsuipa",
-            "spdx:timestamp": "2026-02-20T15:19:37Z",
+            "spdx:timestamp": "2026-02-20T15:26:16Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:5b665ba9-280d-4fb3-87d9-c79a60776b8a"
+                "@id": "_:5a1f813b-6b94-459e-a8b8-cb28164d01d8"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

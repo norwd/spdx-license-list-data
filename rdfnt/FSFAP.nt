@@ -1,4 +1,3 @@
-<http://spdx.org/licenses/FSFAP> <http://spdx.org/rdf/terms#crossRef> _:Ba5ccbed1X2D0d4aX2D49cfX2Dbff3X2D6416e7ee6330 .
 <http://spdx.org/licenses/FSFAP> <http://spdx.org/rdf/terms#name> "FSF All Permissive License" .
 <http://spdx.org/licenses/FSFAP> <http://spdx.org/rdf/terms#licenseText> "Copying and distribution of this file, with or without modification, are permitted in any medium without royalty provided the copyright notice and this notice are preserved.  This file is offered as-is, without any warranty.\n" .
 <http://spdx.org/licenses/FSFAP> <http://spdx.org/rdf/terms#standardLicenseTemplate> "Copying and distribution of this file, with or without modification, are permitted in any medium without royalty provided the copyright notice and this notice are preserved. This file is offered as-is, without <<var;name=\"warranty\";original=\"any warranty\";match=\"warranty of any kind|any warranty\">> .\n\n" .
@@ -6,13 +5,14 @@
 <http://spdx.org/licenses/FSFAP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/FSFAP> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/FSFAP> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html" .
+<http://spdx.org/licenses/FSFAP> <http://spdx.org/rdf/terms#crossRef> _:Bf03bc852X2Dfdb4X2D4ca0X2DafffX2D5e6083b5c3ea .
 <http://spdx.org/licenses/FSFAP> <http://spdx.org/rdf/terms#isFsfLibre> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/FSFAP> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Ba5ccbed1X2D0d4aX2D49cfX2Dbff3X2D6416e7ee6330 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Ba5ccbed1X2D0d4aX2D49cfX2Dbff3X2D6416e7ee6330 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Ba5ccbed1X2D0d4aX2D49cfX2Dbff3X2D6416e7ee6330 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Ba5ccbed1X2D0d4aX2D49cfX2Dbff3X2D6416e7ee6330 <http://spdx.org/rdf/terms#url> "https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html" .
-_:Ba5ccbed1X2D0d4aX2D49cfX2Dbff3X2D6416e7ee6330 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:17:27Z" .
-_:Ba5ccbed1X2D0d4aX2D49cfX2Dbff3X2D6416e7ee6330 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Ba5ccbed1X2D0d4aX2D49cfX2Dbff3X2D6416e7ee6330 <http://spdx.org/rdf/terms#match> "N/A" .
-_:Ba5ccbed1X2D0d4aX2D49cfX2Dbff3X2D6416e7ee6330 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bf03bc852X2Dfdb4X2D4ca0X2DafffX2D5e6083b5c3ea <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bf03bc852X2Dfdb4X2D4ca0X2DafffX2D5e6083b5c3ea <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bf03bc852X2Dfdb4X2D4ca0X2DafffX2D5e6083b5c3ea <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bf03bc852X2Dfdb4X2D4ca0X2DafffX2D5e6083b5c3ea <http://spdx.org/rdf/terms#url> "https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html" .
+_:Bf03bc852X2Dfdb4X2D4ca0X2DafffX2D5e6083b5c3ea <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:23:46Z" .
+_:Bf03bc852X2Dfdb4X2D4ca0X2DafffX2D5e6083b5c3ea <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bf03bc852X2Dfdb4X2D4ca0X2DafffX2D5e6083b5c3ea <http://spdx.org/rdf/terms#match> "N/A" .
+_:Bf03bc852X2Dfdb4X2D4ca0X2DafffX2D5e6083b5c3ea <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

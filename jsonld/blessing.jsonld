@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:5339ec2a-4c69-46a2-828c-5fb4cc4cfd5c",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.sqlite.org/src/artifact/e33a4df7e32d742a?ln=4-9",
-            "spdx:timestamp": "2026-02-20T15:20:54Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:1e8f7ea1-cbc2-4866-ab8c-81f5a53a388c",
+            "@id": "_:f5ab2ce7-dbf3-4318-b008-72e65abf642d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sqlite.org/src/artifact/df5091916dbb40e6",
-            "spdx:timestamp": "2026-02-20T15:20:55Z",
+            "spdx:timestamp": "2026-02-20T15:27:09Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -53,26 +30,49 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:5339ec2a-4c69-46a2-828c-5fb4cc4cfd5c"
-                },
-                {
-                    "@id": "_:1e8f7ea1-cbc2-4866-ab8c-81f5a53a388c"
-                }
-            ],
             "rdfs:seeAlso": [
                 "https://www.sqlite.org/src/artifact/e33a4df7e32d742a?ln=4-9",
                 "https://sqlite.org/src/artifact/df5091916dbb40e6"
             ],
             "@type": "spdx:ListedLicense",
             "spdx:licenseText": "The author disclaims copyright to this source code. In place of a legal notice, here is a blessing:\n\nMay you do good and not evil.\nMay you find forgiveness for yourself and forgive others.\nMay you share freely, never taking more than you give.\n",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:f5ab2ce7-dbf3-4318-b008-72e65abf642d"
+                },
+                {
+                    "@id": "_:94c4efea-e4a8-4b7e-a8c4-f3232343c422"
+                }
+            ],
             "spdx:licenseTextHtml": "\n        <p>The author disclaims copyright to this source code. In place of a legal notice, here is a blessing:</p>\n\n<ul style=\"list-style:none\">\n            \n<li><p>May you do good and not evil.</p>\n</li>\n            \n<li><p>May you find forgiveness for yourself and forgive others.</p>\n</li>\n            \n<li><p>May you share freely, never taking more than you give.</p>\n</li>\n        \n</ul>\n    ",
             "spdx:name": "SQLite Blessing",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
+        },
+        {
+            "@id": "_:94c4efea-e4a8-4b7e-a8c4-f3232343c422",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://www.sqlite.org/src/artifact/e33a4df7e32d742a?ln=4-9",
+            "spdx:timestamp": "2026-02-20T15:27:10Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {
