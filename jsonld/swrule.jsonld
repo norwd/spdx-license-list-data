@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:85a005ff-1e23-4025-987e-095a63b73087"
+                "@id": "_:fa00df7a-ab17-444b-87d5-49d60387e33f"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:85a005ff-1e23-4025-987e-095a63b73087",
+            "@id": "_:fa00df7a-ab17-444b-87d5-49d60387e33f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://ctan.math.utah.edu/ctan/tex-archive/macros/generic/misc/swrule.sty",
-            "spdx:timestamp": "2026-01-30T09:03:03Z",
+            "spdx:timestamp": "2026-02-20T12:42:37Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

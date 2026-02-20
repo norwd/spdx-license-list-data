@@ -1,5 +1,5 @@
 # License List
-The following licenses have been generated from the license list version 297da51
+The following licenses have been generated from the license list version 489a107
 
 ## Licenses with Short Identifiers
 
@@ -775,6 +775,7 @@ The following licenses have been generated from the license list version 297da51
 | Solderpad Hardware License v2.0                       | [SHL-2.0][]                              |
 | Solderpad Hardware License v2.1                       | [SHL-2.1][]                              |
 | Simple Library Usage Exception                        | [Simple-Library-Usage-exception][]       |
+| sqlitestudio OpenSSL exception                        | [sqlitestudio-OpenSSL-exception][]       |
 | stunnel Exception                                     | [stunnel-exception][]                    |
 | SWI exception                                         | [SWI-exception][]                        |
 | Swift Exception                                       | [Swift-exception][]                      |
@@ -1621,6 +1622,7 @@ The following licenses have been generated from the license list version 297da51
 [SHL-2.0]: text/SHL-2.0.txt
 [SHL-2.1]: text/SHL-2.1.txt
 [Simple-Library-Usage-exception]: text/Simple-Library-Usage-exception.txt
+[sqlitestudio-OpenSSL-exception]: text/sqlitestudio-OpenSSL-exception.txt
 [stunnel-exception]: text/stunnel-exception.txt
 [SWI-exception]: text/SWI-exception.txt
 [Swift-exception]: text/Swift-exception.txt

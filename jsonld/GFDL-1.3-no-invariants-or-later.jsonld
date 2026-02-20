@@ -7,9 +7,6 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": {
-                "@id": "_:729454bd-b1ba-4990-baeb-191297f04839"
-            },
             "spdx:standardLicenseHeader": "Copyright (c) YEAR YOUR NAME . Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled \"GNU Free Documentation License\".",
             "@type": "spdx:ListedLicense",
             "rdfs:comment": "This license was released 3 November 2008. The identifier GFDL-1.3-or-later-no-invariants should only be used when there are no Invariant Sections, Front-Cover Texts or Back-Cover Texts. See GFDL-1.3-or-later and GFDL-1.3-or-later-invariants for alternatives.",
@@ -21,11 +18,14 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": {
+                "@id": "_:5dec88f6-4382-4d37-bbac-2a82a73e75ef"
+            },
             "spdx:standardLicenseHeaderTemplate": "Copyright (c) <<var;name=\"copyright\";original=\"YEAR YOUR NAME\";match=\".+\">> . Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled \"GNU Free Documentation License\".",
             "spdx:standardLicenseHeaderHtml": "\n      Copyright (c) <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .+\"> YEAR YOUR NAME</span></var>. Permission is granted to copy,\n      distribute and/or modify this document under the terms of the GNU\n      Free Documentation License, Version 1.3 or any later version published\n      by the Free Software Foundation; with no Invariant Sections,\n      no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is\n      included in the section entitled &quot;GNU Free Documentation License&quot;.\n    "
         },
         {
-            "@id": "_:729454bd-b1ba-4990-baeb-191297f04839",
+            "@id": "_:5dec88f6-4382-4d37-bbac-2a82a73e75ef",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -39,7 +39,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/fdl-1.3.txt",
-            "spdx:timestamp": "2026-01-30T09:04:24Z",
+            "spdx:timestamp": "2026-02-20T12:44:36Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

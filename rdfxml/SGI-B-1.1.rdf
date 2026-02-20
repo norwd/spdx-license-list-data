@@ -382,21 +382,6 @@ Original Code. The Original Code is:&lt;&lt;beginOptional&gt;&gt; [&lt;&lt;endOp
     </spdx:licenseTextHtml>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>http://oss.sgi.com/projects/FreeB/</spdx:url>
-        <spdx:timestamp>2026-01-30T09:05:59Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:licenseText>SGI FREE SOFTWARE LICENSE B
 (Version 1.1 02/22/2000)
 
@@ -544,6 +529,21 @@ Original Code. The Original Code is: [ name of software , version number , and r
 Additional Notice Provisions: [ such additional provisions, if any, as appear in the Notice in the Original Code under the heading "Additional Notice Provisions"] 
 
 </spdx:standardLicenseHeader>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+        <spdx:url>http://oss.sgi.com/projects/FreeB/</spdx:url>
+        <spdx:timestamp>2026-02-20T12:46:36Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <rdfs:seeAlso>http://oss.sgi.com/projects/FreeB/</rdfs:seeAlso>
     <spdx:name>SGI Free Software License B v1.1</spdx:name>
     <spdx:standardLicenseHeaderHtml>

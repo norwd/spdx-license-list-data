@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:71cea383-f52e-43a6-b521-e3f5106e0929"
+                "@id": "_:815b433d-8bcf-4dfd-87f4-601fdecdf9d1"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:71cea383-f52e-43a6-b521-e3f5106e0929",
+            "@id": "_:815b433d-8bcf-4dfd-87f4-601fdecdf9d1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://mirror.las.iastate.edu/tex-archive/graphics/metapost/contrib/macros/slideshow/slideshow.mp",
-            "spdx:timestamp": "2026-01-30T09:02:57Z",
+            "spdx:timestamp": "2026-02-20T12:42:32Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

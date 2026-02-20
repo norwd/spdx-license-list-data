@@ -16,13 +16,13 @@
             },
             "rdfs:seeAlso": "https://sourceware.org/cgit/binutils-gdb/tree/include/coff/symconst.h#n11",
             "spdx:crossRef": {
-                "@id": "_:b6ba1358-2543-4ab9-ae17-3296a57d12ee"
+                "@id": "_:cb95ea7a-6082-46bd-a7a8-b75079bdbe14"
             },
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"(C) Copyright 1984 by Third Eye Software, Inc.  \";match=\".{0,5000}\">>\nThird Eye Software, Inc. grants reproduction and use rights to all parties, PROVIDED that this comment is maintained in the copy.\n\nThird Eye makes no claims about the applicability of this symbol table to a particular use.\n\n",
             "rdfs:comment": "This is a variant to MIPS license with extra paragraph."
         },
         {
-            "@id": "_:b6ba1358-2543-4ab9-ae17-3296a57d12ee",
+            "@id": "_:cb95ea7a-6082-46bd-a7a8-b75079bdbe14",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceware.org/cgit/binutils-gdb/tree/include/coff/symconst.h#n11",
-            "spdx:timestamp": "2026-01-30T09:03:17Z",
+            "spdx:timestamp": "2026-02-20T12:43:00Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -13,7 +13,7 @@
             "spdx:standardLicenseHeader": "Copyright [yyyy] [name of copyright owner] Copyright and related rights are licensed under the Solderpad Hardware License, Version 0.51 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://solderpad.org/licenses/SHL-0.51. Unless required by applicable law or agreed to in writing, software, hardware and materials distributed under this License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.\n\n",
             "spdx:name": "Solderpad Hardware License, Version 0.51",
             "spdx:crossRef": {
-                "@id": "_:f296265d-387a-4771-852e-f485abe391a2"
+                "@id": "_:f84e3100-a42d-4e7a-8dee-c4c4e42ca38e"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -25,7 +25,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:f296265d-387a-4771-852e-f485abe391a2",
+            "@id": "_:f84e3100-a42d-4e7a-8dee-c4c4e42ca38e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -39,7 +39,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://solderpad.org/licenses/SHL-0.51/",
-            "spdx:timestamp": "2026-01-30T09:03:58Z",
+            "spdx:timestamp": "2026-02-20T12:44:34Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

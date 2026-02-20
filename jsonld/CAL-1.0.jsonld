@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:0c5cac7f-5b45-4762-ab2b-325e371cc418",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/licenses/CAL-1.0",
-            "spdx:timestamp": "2026-01-30T09:02:56Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:deb53d78-f62f-468b-be26-9ed51bd46571",
+            "@id": "_:d328850f-eecd-477d-bc12-9c1ac617aa92",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,12 +15,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://cryptographicautonomylicense.com/license-text.html",
-            "spdx:timestamp": "2026-01-30T09:02:56Z",
+            "spdx:timestamp": "2026-02-20T12:42:32Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:feffe543-353b-446d-85fe-22ff88d4c8e5",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/licenses/CAL-1.0",
+            "spdx:timestamp": "2026-02-20T12:42:31Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
@@ -54,10 +54,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:0c5cac7f-5b45-4762-ab2b-325e371cc418"
+                    "@id": "_:feffe543-353b-446d-85fe-22ff88d4c8e5"
                 },
                 {
-                    "@id": "_:deb53d78-f62f-468b-be26-9ed51bd46571"
+                    "@id": "_:d328850f-eecd-477d-bc12-9c1ac617aa92"
                 }
             ],
             "rdfs:seeAlso": [

@@ -94,10 +94,10 @@ YOU ACKNOWLEDGE THAT THIS SOFTWARE IS NOT DESIGNED, LICENSED OR INTENDED FOR USE
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://gitlab.syncad.com/hive/dhive/-/blob/master/LICENSE</spdx:url>
-        <spdx:timestamp>2026-01-30T09:03:12Z</spdx:timestamp>
+        <spdx:url>https://github.com/greymass/swift-eosio/blob/master/LICENSE</spdx:url>
+        <spdx:timestamp>2026-02-20T12:42:52Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
+        >1</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
@@ -117,8 +117,6 @@ YOU ACKNOWLEDGE THAT THIS SOFTWARE IS NOT DESIGNED, LICENSED OR INTENDED FOR USE
     <spdx:name>BSD 3-Clause No Military License</spdx:name>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
-    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >false</spdx:isDeprecatedLicenseId>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -127,12 +125,14 @@ YOU ACKNOWLEDGE THAT THIS SOFTWARE IS NOT DESIGNED, LICENSED OR INTENDED FOR USE
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://github.com/greymass/swift-eosio/blob/master/LICENSE</spdx:url>
-        <spdx:timestamp>2026-01-30T09:03:12Z</spdx:timestamp>
+        <spdx:url>https://gitlab.syncad.com/hive/dhive/-/blob/master/LICENSE</spdx:url>
+        <spdx:timestamp>2026-02-20T12:42:52Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
+        >0</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
   </spdx:ListedLicense>
 </rdf:RDF>

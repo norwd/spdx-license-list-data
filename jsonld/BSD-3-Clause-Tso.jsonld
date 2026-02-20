@@ -10,7 +10,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:de7b0e2e-16d0-4533-9237-d4ddf2318b8b"
+                "@id": "_:d15d60ba-f2a1-465c-a4b8-4d2fb60843af"
             },
             "@type": "spdx:ListedLicense",
             "rdfs:comment": "This is very similar to BSD-3-Clause, but uses different language in the first clause and has some varying language in the disclaimer.",
@@ -22,7 +22,7 @@
             }
         },
         {
-            "@id": "_:de7b0e2e-16d0-4533-9237-d4ddf2318b8b",
+            "@id": "_:d15d60ba-f2a1-465c-a4b8-4d2fb60843af",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.x.org/archive/current/doc/xorg-docs/License.html#Theodore_Tso",
-            "spdx:timestamp": "2026-01-30T09:05:58Z",
+            "spdx:timestamp": "2026-02-20T12:46:34Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

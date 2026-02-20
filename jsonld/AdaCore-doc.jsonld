@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:8f27b606-b335-4cfb-90ec-2c9646044f52",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/AdaCore/gnatcoll-db/blob/master/docs/index.rst",
-            "spdx:timestamp": "2026-01-30T09:03:53Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:a63676e5-3049-46bf-b5d8-5af33cbe5edc",
+            "@id": "_:58f7e3f4-0031-41ea-acfd-c385c451418e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/AdaCore/gnatcoll-core/blob/master/docs/index.rst",
-            "spdx:timestamp": "2026-01-30T09:03:53Z",
+            "spdx:timestamp": "2026-02-20T12:43:14Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,7 +24,30 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:57dc0c24-1294-4dd5-b1c5-e46a8d43a347",
+            "@id": "_:4f551fc4-9abe-4d6c-8ffd-2adce3f4e9a1",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/AdaCore/gnatcoll-db/blob/master/docs/index.rst",
+            "spdx:timestamp": "2026-02-20T12:43:13Z",
+            "spdx:order": {
+                "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:22a068e7-2940-4b3e-bb47-fb6c773f1d98",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -61,7 +61,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/AdaCore/xmlada/blob/master/docs/index.rst",
-            "spdx:timestamp": "2026-01-30T09:03:53Z",
+            "spdx:timestamp": "2026-02-20T12:43:14Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -80,13 +80,13 @@
             "spdx:standardLicenseTemplate": "This document may be copied, in whole or in part, in any form or by any means, as is or with alterations, provided that (1) alterations are clearly marked as alterations and (2) this copyright notice is included unmodified in any copy.\n\n",
             "spdx:crossRef": [
                 {
-                    "@id": "_:57dc0c24-1294-4dd5-b1c5-e46a8d43a347"
+                    "@id": "_:58f7e3f4-0031-41ea-acfd-c385c451418e"
                 },
                 {
-                    "@id": "_:8f27b606-b335-4cfb-90ec-2c9646044f52"
+                    "@id": "_:22a068e7-2940-4b3e-bb47-fb6c773f1d98"
                 },
                 {
-                    "@id": "_:a63676e5-3049-46bf-b5d8-5af33cbe5edc"
+                    "@id": "_:4f551fc4-9abe-4d6c-8ffd-2adce3f4e9a1"
                 }
             ],
             "spdx:isOsiApproved": {

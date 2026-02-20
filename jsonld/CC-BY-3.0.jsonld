@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:c3090f98-7525-4cb3-9e8d-24f1b544a39d"
+                "@id": "_:822dc5e7-a16a-423b-982b-f75b7769785d"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:c3090f98-7525-4cb3-9e8d-24f1b544a39d",
+            "@id": "_:822dc5e7-a16a-423b-982b-f75b7769785d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://creativecommons.org/licenses/by/3.0/legalcode",
-            "spdx:timestamp": "2026-01-30T09:02:57Z",
+            "spdx:timestamp": "2026-02-20T12:42:32Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -12,7 +12,7 @@
             "spdx:standardLicenseTemplate": "This file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. This file is offered as-is, without any warranty.\n\n",
             "spdx:licenseTextHtml": "\n         <p>\n            This file is free software; the Free Software Foundation\n            gives unlimited permission to copy and/or distribute it,\n            with or without modifications, as long as this notice is preserved.\n            This file is offered as-is, without any warranty.\n         </p>\n\n      ",
             "spdx:crossRef": {
-                "@id": "_:6ae42991-50f9-4ced-a9cf-25e1f9e8d6c3"
+                "@id": "_:6ffb9058-7542-4916-a798-9c8fb95ff0f6"
             },
             "rdfs:seeAlso": "https://git.savannah.gnu.org/cgit/gnulib.git/tree/modules/COPYING?id=7b08932179d0d6b017f7df01a2ddf6e096b038e3",
             "@type": "spdx:ListedLicense",
@@ -22,7 +22,7 @@
             }
         },
         {
-            "@id": "_:6ae42991-50f9-4ced-a9cf-25e1f9e8d6c3",
+            "@id": "_:6ffb9058-7542-4916-a798-9c8fb95ff0f6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://git.savannah.gnu.org/cgit/gnulib.git/tree/modules/COPYING?id=7b08932179d0d6b017f7df01a2ddf6e096b038e3",
-            "spdx:timestamp": "2026-01-30T09:03:54Z",
+            "spdx:timestamp": "2026-02-20T12:43:14Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

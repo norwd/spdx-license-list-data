@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:f97d71ee-a16a-4576-8c73-a991f4459101",
+            "@id": "_:5e40ea5b-42d8-48b9-a495-101573c2b111",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/BSD#AMPASBSD",
-            "spdx:timestamp": "2026-01-30T09:03:49Z",
+            "spdx:timestamp": "2026-02-20T12:43:01Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:f97d71ee-a16a-4576-8c73-a991f4459101"
+                "@id": "_:5e40ea5b-42d8-48b9-a495-101573c2b111"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

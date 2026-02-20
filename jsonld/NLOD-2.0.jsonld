@@ -13,7 +13,7 @@
             "rdfs:comment": "Norwegian translation available here: http://data.norge.no/nlod/no/2.0",
             "spdx:name": "Norwegian Licence for Open Government Data (NLOD) 2.0",
             "spdx:crossRef": {
-                "@id": "_:a0f4ad42-f656-45e3-a65a-77cdc172382b"
+                "@id": "_:ae7fa0b1-5d80-476e-b9b7-2da1dfc9c064"
             },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -22,7 +22,7 @@
             "rdfs:seeAlso": "http://data.norge.no/nlod/en/2.0"
         },
         {
-            "@id": "_:a0f4ad42-f656-45e3-a65a-77cdc172382b",
+            "@id": "_:ae7fa0b1-5d80-476e-b9b7-2da1dfc9c064",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://data.norge.no/nlod/en/2.0",
-            "spdx:timestamp": "2026-01-30T09:04:01Z",
+            "spdx:timestamp": "2026-02-20T12:44:36Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -856,7 +856,6 @@ If your document contains nontrivial examples of program code, we recommend rele
       and no Back-Cover Texts. A copy of the license is included
       in the section entitled &amp;quot;GNU Free Documentation License&amp;quot;.
     </spdx:standardLicenseHeaderHtml>
-    <rdfs:seeAlso>https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -866,12 +865,13 @@ If your document contains nontrivial examples of program code, we recommend rele
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt</spdx:url>
-        <spdx:timestamp>2026-01-30T09:02:59Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T12:42:33Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <rdfs:seeAlso>https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt</rdfs:seeAlso>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
   </spdx:ListedLicense>

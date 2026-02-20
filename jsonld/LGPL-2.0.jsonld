@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:7f774194-4519-456c-b8d6-59a35c61e8d0",
+            "@id": "_:b605097a-e7d3-46bd-8828-677f22c69712",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.0-standalone.html",
-            "spdx:timestamp": "2026-01-30T09:03:59Z",
+            "spdx:timestamp": "2026-02-20T12:44:35Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,10 +25,10 @@
         },
         {
             "@id": "http://spdx.org/licenses/LGPL-2.0",
-            "spdx:crossRef": {
-                "@id": "_:7f774194-4519-456c-b8d6-59a35c61e8d0"
-            },
             "spdx:name": "GNU Library General Public License v2 only",
+            "spdx:crossRef": {
+                "@id": "_:b605097a-e7d3-46bd-8828-677f22c69712"
+            },
             "spdx:isOsiApproved": {
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"

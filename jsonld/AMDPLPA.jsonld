@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:2bdb21e8-159e-4e98-826b-e03eb362653e",
+            "@id": "_:e37686fe-f413-49b4-baed-98fbed7e869b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/AMD_plpa_map_License",
-            "spdx:timestamp": "2026-01-30T09:05:57Z",
+            "spdx:timestamp": "2026-02-20T12:46:33Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:2bdb21e8-159e-4e98-826b-e03eb362653e"
+                "@id": "_:e37686fe-f413-49b4-baed-98fbed7e869b"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

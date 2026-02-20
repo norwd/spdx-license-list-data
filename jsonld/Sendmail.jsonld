@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:a8d6be24-2a9c-4b0e-9bf0-848bdd984977",
+            "@id": "_:076f35d2-8d3f-4e26-8127-39f2f1bb4331",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://web.archive.org/web/20160322142305/https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf",
-            "spdx:timestamp": "2026-01-30T09:05:58Z",
+            "spdx:timestamp": "2026-02-20T12:46:35Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:78811351-4b93-4dd1-a888-19ed1e32728e",
+            "@id": "_:4a866209-6c45-418f-98a5-306d8b416d87",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.sendmail.com/pdfs/open_source/sendmail_license.pdf",
-            "spdx:timestamp": "2026-01-30T09:05:58Z",
+            "spdx:timestamp": "2026-02-20T12:46:35Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -50,10 +50,10 @@
             "@id": "http://spdx.org/licenses/Sendmail",
             "spdx:crossRef": [
                 {
-                    "@id": "_:78811351-4b93-4dd1-a888-19ed1e32728e"
+                    "@id": "_:4a866209-6c45-418f-98a5-306d8b416d87"
                 },
                 {
-                    "@id": "_:a8d6be24-2a9c-4b0e-9bf0-848bdd984977"
+                    "@id": "_:076f35d2-8d3f-4e26-8127-39f2f1bb4331"
                 }
             ],
             "rdfs:seeAlso": [
