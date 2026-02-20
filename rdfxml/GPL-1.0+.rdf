@@ -492,7 +492,7 @@ Version 1, February 1989
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html</spdx:url>
-        <spdx:timestamp>2026-02-20T12:45:36Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T13:35:01Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>

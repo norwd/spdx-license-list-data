@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:457b760e-010c-4305-a028-b9bd03530d3c",
+            "@id": "_:b984beab-e44c-4f3c-9fa1-4c2d2a0dac4a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/Distrotech/hdparm/blob/4517550db29a91420fb2b020349523b1b4512df2/LICENSE.TXT",
-            "spdx:timestamp": "2026-02-20T12:43:02Z",
+            "spdx:timestamp": "2026-02-20T13:32:48Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:457b760e-010c-4305-a028-b9bd03530d3c"
+                "@id": "_:b984beab-e44c-4f3c-9fa1-4c2d2a0dac4a"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

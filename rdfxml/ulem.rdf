@@ -40,7 +40,7 @@ for any purpose provided that this copyright notice is left intact.
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://mirrors.ctan.org/macros/latex/contrib/ulem/README</spdx:url>
-        <spdx:timestamp>2026-02-20T12:43:14Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T13:32:57Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>

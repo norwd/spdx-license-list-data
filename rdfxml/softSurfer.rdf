@@ -13,10 +13,10 @@
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://github.com/mm2/Little-CMS/blob/master/src/cmssm.c#L207</spdx:url>
-        <spdx:timestamp>2026-02-20T12:45:43Z</spdx:timestamp>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing/softSurfer</spdx:url>
+        <spdx:timestamp>2026-02-20T13:35:17Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
+        >1</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
@@ -52,6 +52,7 @@ This code may be freely used and modified for any purpose providing that this co
          &lt;/p&gt;
 
       </spdx:licenseTextHtml>
+    <rdfs:comment></rdfs:comment>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -60,14 +61,13 @@ This code may be freely used and modified for any purpose providing that this co
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://fedoraproject.org/wiki/Licensing/softSurfer</spdx:url>
-        <spdx:timestamp>2026-02-20T12:45:42Z</spdx:timestamp>
+        <spdx:url>https://github.com/mm2/Little-CMS/blob/master/src/cmssm.c#L207</spdx:url>
+        <spdx:timestamp>2026-02-20T13:35:16Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
+        >0</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <rdfs:comment></rdfs:comment>
     <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing/softSurfer</rdfs:seeAlso>
   </spdx:ListedLicense>
 </rdf:RDF>

@@ -19,13 +19,13 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:name": "Vim License",
+            "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:d24faf33-cb0e-4d78-b5b2-1a4efba23704"
-            },
-            "@type": "spdx:ListedLicense"
+                "@id": "_:7410c8c6-fc5d-43f3-9dec-ff1bb54400e5"
+            }
         },
         {
-            "@id": "_:d24faf33-cb0e-4d78-b5b2-1a4efba23704",
+            "@id": "_:7410c8c6-fc5d-43f3-9dec-ff1bb54400e5",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -39,7 +39,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://vimdoc.sourceforge.net/htmldoc/uganda.html",
-            "spdx:timestamp": "2026-02-20T12:43:09Z",
+            "spdx:timestamp": "2026-02-20T13:32:50Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

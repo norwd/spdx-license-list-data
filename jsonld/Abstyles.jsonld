@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:b31e0b9b-02bb-4058-aec9-591bcf952083"
+                "@id": "_:f927e4b5-7124-41c3-a403-02a4a1276d0f"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:b31e0b9b-02bb-4058-aec9-591bcf952083",
+            "@id": "_:f927e4b5-7124-41c3-a403-02a4a1276d0f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Abstyles",
-            "spdx:timestamp": "2026-02-20T12:42:31Z",
+            "spdx:timestamp": "2026-02-20T13:31:35Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

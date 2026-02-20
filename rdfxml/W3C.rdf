@@ -50,7 +50,6 @@ This formulation of W3C's notice and license became active on December 31 2002. 
 &lt;&lt;endOptional&gt;&gt;</spdx:standardLicenseTemplate>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isOsiApproved>
-    <rdfs:seeAlso>http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -60,27 +59,13 @@ This formulation of W3C's notice and license became active on December 31 2002. 
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://opensource.org/licenses/W3C</spdx:url>
-        <spdx:timestamp>2026-02-20T12:45:46Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T13:35:20Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html</spdx:url>
-        <spdx:timestamp>2026-02-20T12:45:46Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>true</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
+    <rdfs:seeAlso>http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html</rdfs:seeAlso>
     <spdx:licenseTextHtml>
       &lt;div class="optional-license-text"&gt; 
          &lt;p&gt;W3C SOFTWARE NOTICE AND LICENSE&lt;/p&gt;
@@ -137,6 +122,21 @@ This formulation of W3C's notice and license became active on December 31 2002. 
 
       &lt;/div&gt;
     </spdx:licenseTextHtml>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html</spdx:url>
+        <spdx:timestamp>2026-02-20T13:35:19Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>true</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:standardLicenseHeader>Copyright (C) [$date-of-software] World Wide Web Consortium, (Massachusetts Institute of Technology, European Research Consortium for Informatics and Mathematics, Keio University). All Rights Reserved.
 This work is distributed under the W3C® Software License in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 

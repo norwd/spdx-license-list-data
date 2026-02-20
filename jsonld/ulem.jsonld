@@ -18,11 +18,11 @@
             "rdfs:seeAlso": "https://mirrors.ctan.org/macros/latex/contrib/ulem/README",
             "spdx:name": "ulem License",
             "spdx:crossRef": {
-                "@id": "_:7272a7c4-b528-4cd8-bab8-7de1f54f4e1d"
+                "@id": "_:64e0db4c-5e54-4eb3-a525-32bb7f8151ed"
             }
         },
         {
-            "@id": "_:7272a7c4-b528-4cd8-bab8-7de1f54f4e1d",
+            "@id": "_:64e0db4c-5e54-4eb3-a525-32bb7f8151ed",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://mirrors.ctan.org/macros/latex/contrib/ulem/README",
-            "spdx:timestamp": "2026-02-20T12:43:14Z",
+            "spdx:timestamp": "2026-02-20T13:32:57Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

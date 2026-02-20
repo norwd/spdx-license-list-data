@@ -1,29 +1,6 @@
 {
     "@graph": [
         {
-            "@id": "_:c4dd2a9d-b6c4-4c6d-8649-19a4cf814fd6",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://www.antlr2.org/license.html",
-            "spdx:timestamp": "2026-02-20T12:44:36Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/ANTLR-PD",
             "spdx:name": "ANTLR Software Rights Notice",
             "@type": "spdx:ListedLicense",
@@ -37,12 +14,35 @@
             },
             "rdfs:seeAlso": "http://www.antlr2.org/license.html",
             "spdx:crossRef": {
-                "@id": "_:c4dd2a9d-b6c4-4c6d-8649-19a4cf814fd6"
+                "@id": "_:68ca95cc-901e-4e01-8816-ff49f1111ec0"
             },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
+        },
+        {
+            "@id": "_:68ca95cc-901e-4e01-8816-ff49f1111ec0",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://www.antlr2.org/license.html",
+            "spdx:timestamp": "2026-02-20T13:34:58Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

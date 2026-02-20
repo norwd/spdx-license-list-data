@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:5699500e-00a1-480b-aff0-d8dcef0b2579",
+            "@id": "_:624aa5eb-d9e1-4eef-bde8-cc6cc4c579eb",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/openssh/openssh-portable/blob/master/openbsd-compat/bsd-snprintf.c#L2",
-            "spdx:timestamp": "2026-02-20T12:42:34Z",
+            "spdx:timestamp": "2026-02-20T13:31:38Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:5699500e-00a1-480b-aff0-d8dcef0b2579"
+                "@id": "_:624aa5eb-d9e1-4eef-bde8-cc6cc4c579eb"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

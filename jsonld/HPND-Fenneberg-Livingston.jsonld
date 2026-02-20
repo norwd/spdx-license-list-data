@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:5b5abc67-daa7-4b14-85bb-5fd82bd2026a",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/radcli/radcli/blob/master/COPYRIGHT#L34",
-            "spdx:timestamp": "2026-02-20T12:46:18Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:9c3a5bf4-834c-431e-86ac-444a7d185326",
+            "@id": "_:e1c8cda2-66e5-4f95-bb17-5fdcc6ac0687",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/FreeRADIUS/freeradius-client/blob/master/COPYRIGHT#L32",
-            "spdx:timestamp": "2026-02-20T12:46:17Z",
+            "spdx:timestamp": "2026-02-20T13:35:52Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -54,15 +31,15 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright <year> <copyright holder>  \";match=\".{0,5000}\">>\nPermission to use, copy, modify, and distribute this software for any purpose and without fee is hereby granted, provided that this copyright and permission notice appear on all copies and supporting documentation, the name of <<var;name=\"copyrightHolder0\";original=\"<copyright holder>\";match=\".*\">> not be used in advertising or publicity pertaining to distribution of the program without specific prior permission, and notice be given in supporting documentation that copying and distribution is by permission of <<var;name=\"copyrightHolder1\";original=\"<copyright holder>\";match=\".*\">> . <<var;name=\"copyrightHolder2\";original=\"<copyright holder>\";match=\".*\">> makes no representations about the suitability of this software for any purpose. It is provided \"as is\" without express or implied warranty.\n\n",
+            "spdx:licenseTextHtml": "\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n         <p>Copyright &lt;year&gt; &lt;copyright holder&gt;</p>\n\n      </span></div>\n\n      <p>\n        Permission to use, copy, modify, and distribute this software for any\n        purpose and without fee is hereby granted, provided that this copyright\n        and permission notice appear on all copies and supporting documentation,\n        the name of <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .*\"> &lt;copyright holder&gt;</span></var> not be used in advertising or\n        publicity pertaining to distribution of the program without specific\n        prior permission, and notice be given in supporting documentation that\n        copying and distribution is by permission of <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .*\"> &lt;copyright holder&gt;</span></var>.\n\n        <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .*\"> &lt;copyright holder&gt;</span></var> makes no representations about the suitability\n        of this software for any purpose. It is provided &quot;as is&quot; without express\n        or implied warranty.\n      </p>\n\n    ",
             "spdx:crossRef": [
                 {
-                    "@id": "_:9c3a5bf4-834c-431e-86ac-444a7d185326"
+                    "@id": "_:e1c8cda2-66e5-4f95-bb17-5fdcc6ac0687"
                 },
                 {
-                    "@id": "_:5b5abc67-daa7-4b14-85bb-5fd82bd2026a"
+                    "@id": "_:05f53f93-d453-4e2a-b6cd-bcecd359de3a"
                 }
             ],
-            "spdx:licenseTextHtml": "\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n         <p>Copyright &lt;year&gt; &lt;copyright holder&gt;</p>\n\n      </span></div>\n\n      <p>\n        Permission to use, copy, modify, and distribute this software for any\n        purpose and without fee is hereby granted, provided that this copyright\n        and permission notice appear on all copies and supporting documentation,\n        the name of <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .*\"> &lt;copyright holder&gt;</span></var> not be used in advertising or\n        publicity pertaining to distribution of the program without specific\n        prior permission, and notice be given in supporting documentation that\n        copying and distribution is by permission of <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .*\"> &lt;copyright holder&gt;</span></var>.\n\n        <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .*\"> &lt;copyright holder&gt;</span></var> makes no representations about the suitability\n        of this software for any purpose. It is provided &quot;as is&quot; without express\n        or implied warranty.\n      </p>\n\n    ",
             "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": [
                 "https://github.com/radcli/radcli/blob/master/COPYRIGHT#L34",
@@ -74,6 +51,29 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:name": "Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant"
+        },
+        {
+            "@id": "_:05f53f93-d453-4e2a-b6cd-bcecd359de3a",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/radcli/radcli/blob/master/COPYRIGHT#L34",
+            "spdx:timestamp": "2026-02-20T13:35:51Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

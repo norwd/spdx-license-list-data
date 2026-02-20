@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:3b1595b9-69d7-4786-8245-0d8f552aa46f",
+            "@id": "_:44bc56cd-8ef7-4028-84ea-ee0e41c03b4b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,10 +14,10 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_acosh.c",
-            "spdx:timestamp": "2026-02-20T12:43:03Z",
+            "spdx:url": "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_lgammal.c",
+            "spdx:timestamp": "2026-02-20T13:32:50Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
@@ -25,18 +25,18 @@
         },
         {
             "@id": "http://spdx.org/licenses/SunPro",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:0188175e-82c2-4191-bc08-041ab7f23bcb"
-                },
-                {
-                    "@id": "_:3b1595b9-69d7-4786-8245-0d8f552aa46f"
-                }
-            ],
             "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": [
                 "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_acosh.c",
                 "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_lgammal.c"
+            ],
+            "spdx:crossRef": [
+                {
+                    "@id": "_:e600bbac-cfbf-44a8-8654-16ef9ae5af30"
+                },
+                {
+                    "@id": "_:44bc56cd-8ef7-4028-84ea-ee0e41c03b4b"
+                }
             ],
             "spdx:name": "SunPro License",
             "spdx:isDeprecatedLicenseId": {
@@ -52,7 +52,7 @@
             "spdx:licenseText": "Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.\n\nDeveloped at SunSoft, a Sun Microsystems, Inc. business.\nPermission to use, copy, modify, and distribute this\nsoftware is freely granted, provided that this notice \nis preserved.\n"
         },
         {
-            "@id": "_:0188175e-82c2-4191-bc08-041ab7f23bcb",
+            "@id": "_:e600bbac-cfbf-44a8-8654-16ef9ae5af30",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -65,10 +65,10 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_lgammal.c",
-            "spdx:timestamp": "2026-02-20T12:43:03Z",
+            "spdx:url": "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_acosh.c",
+            "spdx:timestamp": "2026-02-20T13:32:51Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",

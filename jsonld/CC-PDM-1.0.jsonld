@@ -12,10 +12,10 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:f56654db-7684-450b-b4a6-114b99c81e7c"
+                    "@id": "_:faafea15-c79f-47c2-9ba6-ad84a895a709"
                 },
                 {
-                    "@id": "_:d9eae330-27aa-437d-97b8-c52c1dbcd4bc"
+                    "@id": "_:f573954a-046a-45f1-9002-fedad0a568e2"
                 }
             ],
             "rdfs:comment": "As per Creative Commons, this is intended to provide a standard way to mark works that are no longer restricted by copyright to be marked as such in a standard and simple way. See https://creativecommons.org/public-domain/pdm/ for more information.",
@@ -30,30 +30,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:f56654db-7684-450b-b4a6-114b99c81e7c",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://creativecommons.org/publicdomain/mark/1.0/",
-            "spdx:timestamp": "2026-02-20T12:42:32Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:d9eae330-27aa-437d-97b8-c52c1dbcd4bc",
+            "@id": "_:faafea15-c79f-47c2-9ba6-ad84a895a709",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,12 +44,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://creativecommons.org/share-your-work/cclicenses/",
-            "spdx:timestamp": "2026-02-20T12:42:32Z",
+            "spdx:timestamp": "2026-02-20T13:31:36Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:f573954a-046a-45f1-9002-fedad0a568e2",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://creativecommons.org/publicdomain/mark/1.0/",
+            "spdx:timestamp": "2026-02-20T13:31:36Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

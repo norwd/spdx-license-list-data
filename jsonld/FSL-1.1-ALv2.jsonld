@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:096dd055-e23c-4f38-994e-294ee05332fb",
+            "@id": "_:de87e67e-dc0d-4b7d-a63d-69f57a8bff2b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fsl.software/FSL-1.1-ALv2.template.md",
-            "spdx:timestamp": "2026-02-20T12:45:41Z",
+            "spdx:timestamp": "2026-02-20T13:35:05Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -29,10 +29,10 @@
             "rdfs:seeAlso": "https://fsl.software/FSL-1.1-ALv2.template.md",
             "spdx:name": "Functional Source License, Version 1.1, ALv2 Future License",
             "rdfs:comment": "",
-            "spdx:crossRef": {
-                "@id": "_:096dd055-e23c-4f38-994e-294ee05332fb"
-            },
             "@type": "spdx:ListedLicense",
+            "spdx:crossRef": {
+                "@id": "_:de87e67e-dc0d-4b7d-a63d-69f57a8bff2b"
+            },
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"

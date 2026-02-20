@@ -10,7 +10,7 @@
             "rdfs:comment": "This license was released 29 February 2000.",
             "spdx:name": "Open LDAP Public License v2.1",
             "spdx:crossRef": {
-                "@id": "_:0b1b4994-23e2-486e-b221-e3da27f1a3be"
+                "@id": "_:2e32bfe2-0e77-4ad0-a081-6aeb7fb57d3a"
             },
             "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": "http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=b0d176738e96a0d3b9f85cb51e140a86f21be715",
@@ -22,7 +22,7 @@
             }
         },
         {
-            "@id": "_:0b1b4994-23e2-486e-b221-e3da27f1a3be",
+            "@id": "_:2e32bfe2-0e77-4ad0-a081-6aeb7fb57d3a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=b0d176738e96a0d3b9f85cb51e140a86f21be715",
-            "spdx:timestamp": "2026-02-20T12:45:43Z",
+            "spdx:timestamp": "2026-02-20T13:35:16Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

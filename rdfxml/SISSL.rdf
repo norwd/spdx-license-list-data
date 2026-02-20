@@ -123,6 +123,7 @@ OpenOffice.org XML File Format Specification, located at http://xml.openoffice.o
 OpenOffice.org Application Programming Interface Specification, located at http://api.openoffice.org
 </spdx:licenseText>
     <rdfs:seeAlso>http://www.openoffice.org/licenses/sissl_license.html</rdfs:seeAlso>
+    <rdfs:seeAlso>https://opensource.org/licenses/SISSL</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -132,13 +133,27 @@ OpenOffice.org Application Programming Interface Specification, located at http:
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://opensource.org/licenses/SISSL</spdx:url>
-        <spdx:timestamp>2026-02-20T12:42:28Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T13:31:32Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <rdfs:seeAlso>https://opensource.org/licenses/SISSL</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>http://www.openoffice.org/licenses/sissl_license.html</spdx:url>
+        <spdx:timestamp>2026-02-20T13:31:33Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>true</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt;Sun Industry Standards Source License - Version 1.1
 
 &lt;&lt;endOptional&gt;&gt;
@@ -245,21 +260,6 @@ Contributor(s): _______________________________________
 </spdx:standardLicenseHeader>
     <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isFsfLibre>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>http://www.openoffice.org/licenses/sissl_license.html</spdx:url>
-        <spdx:timestamp>2026-02-20T12:42:29Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>true</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:standardLicenseHeaderTemplate>&lt;&lt;beginOptional&gt;&gt;"&lt;&lt;endOptional&gt;&gt;The contents of this file are subject to the Sun Standards License Version 1.1 (the "License"); You may not use this file except in compliance with the License. You may obtain a copy of the License at &lt;&lt;var;name="source";original="_______________________________";match=".+"&gt;&gt; .
 
 Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:74a17808-37d1-45fb-a2b4-5ccad34788e2",
+            "@id": "_:dc4d5480-13e2-419e-b788-f5f5bad542d2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -11,31 +11,31 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gcc.gnu.org/git/?p=gcc.git;a=blob;f=gcc/libgcc1.c;h=762f5143fc6eed57b6797c82710f3538aa52b40b;hb=cb143a3ce4fb417c68f5fa2691a1b1b1053dfba9#l10",
-            "spdx:timestamp": "2026-02-20T12:43:00Z",
+            "spdx:timestamp": "2026-02-20T13:32:49Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
             "@id": "http://spdx.org/licenses/GPL-2.0-with-GCC-exception",
             "@type": "spdx:ListedLicense",
             "spdx:licenseText": "insert GPL v2 license text here\n\nGCC Linking Exception\n\nIn addition to the permissions in the GNU General Public License, the Free Software Foundation gives you unlimited permission to link the compiled version of this file into combinations with other programs, and to distribute those combinations without any restriction coming from the use of this file. (The General Public License restrictions do apply in other respects; for example, they cover modification of the file, and distribution when not linked into a combine executable.\n\n",
+            "spdx:crossRef": {
+                "@id": "_:dc4d5480-13e2-419e-b788-f5f5bad542d2"
+            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "rdfs:seeAlso": "https://gcc.gnu.org/git/?p=gcc.git;a=blob;f=gcc/libgcc1.c;h=762f5143fc6eed57b6797c82710f3538aa52b40b;hb=cb143a3ce4fb417c68f5fa2691a1b1b1053dfba9#l10",
             "spdx:standardLicenseTemplate": "insert GPL v2 license text here\n\nGCC Linking Exception\n\nIn addition to the permissions in the GNU General Public License, the Free Software Foundation gives you unlimited permission to link the compiled version of this file into combinations with other programs, and to distribute those combinations without any restriction coming from the use of this file. (The General Public License restrictions do apply in other respects; for example, they cover modification of the file, and distribution when not linked into a combine executable.\n\n",
-            "spdx:crossRef": {
-                "@id": "_:74a17808-37d1-45fb-a2b4-5ccad34788e2"
-            },
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"

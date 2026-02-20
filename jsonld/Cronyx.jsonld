@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:543fa4c0-5d69-4239-8669-f0f4e225c87b",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://gitlab.freedesktop.org/xorg/font/cronyx-cyrillic/-/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T12:42:43Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:a8eed73c-3222-4460-b98c-4f5ef64b5b97",
+            "@id": "_:96a25f7b-072e-4b6d-8f6d-e18109447d96",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.freedesktop.org/xorg/font/screen-cyrillic/-/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T12:42:44Z",
+            "spdx:timestamp": "2026-02-20T13:31:50Z",
             "spdx:order": {
                 "@value": "3",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -60,16 +37,16 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:087ff63e-c579-4072-b106-235950ef7de3"
+                    "@id": "_:9133b404-84d1-4cb5-9b03-f401c78356df"
                 },
                 {
-                    "@id": "_:543fa4c0-5d69-4239-8669-f0f4e225c87b"
+                    "@id": "_:65b60c39-7224-455d-8cf2-79bc2b6f32f6"
                 },
                 {
-                    "@id": "_:a8eed73c-3222-4460-b98c-4f5ef64b5b97"
+                    "@id": "_:96a25f7b-072e-4b6d-8f6d-e18109447d96"
                 },
                 {
-                    "@id": "_:c0143f57-7778-4ab1-abf2-32a54e195a12"
+                    "@id": "_:64d6fb2d-34b7-47dc-85de-ef3f5cdb000b"
                 }
             ],
             "spdx:name": "Cronyx License",
@@ -83,7 +60,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:087ff63e-c579-4072-b106-235950ef7de3",
+            "@id": "_:9133b404-84d1-4cb5-9b03-f401c78356df",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -96,17 +73,17 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://gitlab.freedesktop.org/xorg/font/misc-cyrillic/-/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T12:42:42Z",
+            "spdx:url": "https://gitlab.freedesktop.org/xorg/font/cronyx-cyrillic/-/blob/master/COPYING",
+            "spdx:timestamp": "2026-02-20T13:31:49Z",
             "spdx:order": {
-                "@value": "2",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:c0143f57-7778-4ab1-abf2-32a54e195a12",
+            "@id": "_:65b60c39-7224-455d-8cf2-79bc2b6f32f6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -120,9 +97,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.freedesktop.org/xorg/font/alias/-/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T12:42:45Z",
+            "spdx:timestamp": "2026-02-20T13:31:51Z",
             "spdx:order": {
                 "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:64d6fb2d-34b7-47dc-85de-ef3f5cdb000b",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://gitlab.freedesktop.org/xorg/font/misc-cyrillic/-/blob/master/COPYING",
+            "spdx:timestamp": "2026-02-20T13:31:47Z",
+            "spdx:order": {
+                "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",

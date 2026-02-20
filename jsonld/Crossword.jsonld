@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:edffd969-1ee5-40fc-8e14-38c95f624a99"
+                "@id": "_:682929b7-54fc-4e41-b7f3-8f6272edb11e"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:edffd969-1ee5-40fc-8e14-38c95f624a99",
+            "@id": "_:682929b7-54fc-4e41-b7f3-8f6272edb11e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Crossword",
-            "spdx:timestamp": "2026-02-20T12:47:36Z",
+            "spdx:timestamp": "2026-02-20T13:37:11Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

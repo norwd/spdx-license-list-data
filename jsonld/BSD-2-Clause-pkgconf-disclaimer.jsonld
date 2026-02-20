@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:40ac6d29-f7cc-4930-a82d-3d137355671c",
+            "@id": "_:c0210883-fd8a-4cb5-a6a6-cb0a46d941b0",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/audacious-media-player/audacious/blob/master/src/audacious/main.cc",
-            "spdx:timestamp": "2026-02-20T12:42:32Z",
+            "spdx:timestamp": "2026-02-20T13:31:36Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:fc3be6b9-f462-4e8f-a398-837281d658b5",
+            "@id": "_:44b3830f-3dc7-4240-965a-a92866252888",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/audacious-media-player/audacious/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T12:42:32Z",
+            "spdx:timestamp": "2026-02-20T13:31:37Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -50,10 +50,10 @@
             "@id": "http://spdx.org/licenses/BSD-2-Clause-pkgconf-disclaimer",
             "spdx:crossRef": [
                 {
-                    "@id": "_:fc3be6b9-f462-4e8f-a398-837281d658b5"
+                    "@id": "_:c0210883-fd8a-4cb5-a6a6-cb0a46d941b0"
                 },
                 {
-                    "@id": "_:40ac6d29-f7cc-4930-a82d-3d137355671c"
+                    "@id": "_:44b3830f-3dc7-4240-965a-a92866252888"
                 }
             ],
             "spdx:licenseText": "Copyright © 2001-2025 Audacious developers and others\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice,\n   this list of conditions, and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright notice,\n   this list of conditions, and the following disclaimer in the\n   documentation provided with the distribution.\n\nThis software is provided “as is” and without any warranty, express or\nimplied.  In no event shall the authors be liable for any damages arising\nfrom the use of this software.\n",

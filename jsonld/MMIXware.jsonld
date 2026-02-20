@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:1a78cc50-5dc1-4b60-a8ed-4a77e2697f3f",
+            "@id": "_:16f37121-fb4c-4d4b-a156-38320ccdb4fc",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.lrz.de/mmix/mmixware/-/blob/master/boilerplate.w",
-            "spdx:timestamp": "2026-02-20T12:43:46Z",
+            "spdx:timestamp": "2026-02-20T13:33:30Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:1a78cc50-5dc1-4b60-a8ed-4a77e2697f3f"
+                "@id": "_:16f37121-fb4c-4d4b-a156-38320ccdb4fc"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

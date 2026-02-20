@@ -11,7 +11,7 @@
             "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": "https://github.com/CommunitySpecification/1.0/blob/master/1._Community_Specification_License-v1.md",
             "spdx:crossRef": {
-                "@id": "_:603e2996-bfc1-48f2-b953-96ede4d1c1e1"
+                "@id": "_:da68d339-2df1-4dff-bf1f-c7ddc18a521b"
             },
             "rdfs:comment": "Supporting materials are available at https://github.com/CommunitySpecification/1.0.",
             "spdx:isDeprecatedLicenseId": {
@@ -22,7 +22,7 @@
             "spdx:name": "Community Specification License 1.0"
         },
         {
-            "@id": "_:603e2996-bfc1-48f2-b953-96ede4d1c1e1",
+            "@id": "_:da68d339-2df1-4dff-bf1f-c7ddc18a521b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/CommunitySpecification/1.0/blob/master/1._Community_Specification_License-v1.md",
-            "spdx:timestamp": "2026-02-20T12:45:36Z",
+            "spdx:timestamp": "2026-02-20T13:35:00Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

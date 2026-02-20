@@ -3,26 +3,26 @@
 <http://spdx.org/licenses/Linux-man-pages-copyleft-2-para> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/Linux-man-pages-copyleft-2-para> <http://spdx.org/rdf/terms#standardLicenseTemplate> "Permission is granted to make and distribute verbatim copies of this manual provided the copyright notice and this permission notice are preserved on all copies.\n\nPermission is granted to copy and distribute modified versions of this manual under the conditions for verbatim copying, provided that the entire resulting derived work is distributed under the terms of a permission notice identical to this one.\n\n" .
 <http://spdx.org/licenses/Linux-man-pages-copyleft-2-para> <http://spdx.org/rdf/terms#licenseText> "Permission is granted to make and distribute verbatim copies of this\nmanual provided the copyright notice and this permission notice are\npreserved on all copies.\n\nPermission is granted to copy and distribute modified versions of this\nmanual under the conditions for verbatim copying, provided that the\nentire resulting derived work is distributed under the terms of a\npermission notice identical to this one.\n" .
+<http://spdx.org/licenses/Linux-man-pages-copyleft-2-para> <http://spdx.org/rdf/terms#crossRef> _:Bf9c7c8d0X2D02f6X2D4521X2Da0cfX2Dbc47a767abb2 .
 <http://spdx.org/licenses/Linux-man-pages-copyleft-2-para> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/move_pages.2#n5" .
 <http://spdx.org/licenses/Linux-man-pages-copyleft-2-para> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
-<http://spdx.org/licenses/Linux-man-pages-copyleft-2-para> <http://spdx.org/rdf/terms#crossRef> _:Bcdeee0abX2Df8dbX2D4b95X2Dbc44X2Dc61805b08ebb .
 <http://spdx.org/licenses/Linux-man-pages-copyleft-2-para> <http://spdx.org/rdf/terms#name> "Linux man-pages Copyleft - 2 paragraphs" .
 <http://spdx.org/licenses/Linux-man-pages-copyleft-2-para> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            Permission is granted to make and distribute verbatim\n            copies of this manual provided the copyright notice\n            and this permission notice are preserved on all copies.\n         </p>\n\n         <p>\n            Permission is granted to copy and distribute modified versions\n            of this manual under the conditions for verbatim copying,\n            provided that the entire resulting derived work is distributed\n            under the terms of a permission notice identical to this one.\n         </p>\n\n      " .
-<http://spdx.org/licenses/Linux-man-pages-copyleft-2-para> <http://spdx.org/rdf/terms#crossRef> _:Bf8185be1X2De65dX2D4a72X2D9d00X2D483e26ad0dd6 .
+<http://spdx.org/licenses/Linux-man-pages-copyleft-2-para> <http://spdx.org/rdf/terms#crossRef> _:Bfab8baa4X2D9f3bX2D493bX2D892bX2Df038a60bd071 .
 <http://spdx.org/licenses/Linux-man-pages-copyleft-2-para> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/migrate_pages.2#n8" .
-_:Bf8185be1X2De65dX2D4a72X2D9d00X2D483e26ad0dd6 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bf8185be1X2De65dX2D4a72X2D9d00X2D483e26ad0dd6 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bf8185be1X2De65dX2D4a72X2D9d00X2D483e26ad0dd6 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bf8185be1X2De65dX2D4a72X2D9d00X2D483e26ad0dd6 <http://spdx.org/rdf/terms#url> "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/migrate_pages.2#n8" .
-_:Bf8185be1X2De65dX2D4a72X2D9d00X2D483e26ad0dd6 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T12:46:31Z" .
-_:Bf8185be1X2De65dX2D4a72X2D9d00X2D483e26ad0dd6 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bf8185be1X2De65dX2D4a72X2D9d00X2D483e26ad0dd6 <http://spdx.org/rdf/terms#match> "false" .
-_:Bf8185be1X2De65dX2D4a72X2D9d00X2D483e26ad0dd6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:Bcdeee0abX2Df8dbX2D4b95X2Dbc44X2Dc61805b08ebb <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bcdeee0abX2Df8dbX2D4b95X2Dbc44X2Dc61805b08ebb <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bcdeee0abX2Df8dbX2D4b95X2Dbc44X2Dc61805b08ebb <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bcdeee0abX2Df8dbX2D4b95X2Dbc44X2Dc61805b08ebb <http://spdx.org/rdf/terms#url> "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/move_pages.2#n5" .
-_:Bcdeee0abX2Df8dbX2D4b95X2Dbc44X2Dc61805b08ebb <http://spdx.org/rdf/terms#timestamp> "2026-02-20T12:46:31Z" .
-_:Bcdeee0abX2Df8dbX2D4b95X2Dbc44X2Dc61805b08ebb <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bcdeee0abX2Df8dbX2D4b95X2Dbc44X2Dc61805b08ebb <http://spdx.org/rdf/terms#match> "false" .
-_:Bcdeee0abX2Df8dbX2D4b95X2Dbc44X2Dc61805b08ebb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bf9c7c8d0X2D02f6X2D4521X2Da0cfX2Dbc47a767abb2 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bf9c7c8d0X2D02f6X2D4521X2Da0cfX2Dbc47a767abb2 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bf9c7c8d0X2D02f6X2D4521X2Da0cfX2Dbc47a767abb2 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bf9c7c8d0X2D02f6X2D4521X2Da0cfX2Dbc47a767abb2 <http://spdx.org/rdf/terms#url> "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/move_pages.2#n5" .
+_:Bf9c7c8d0X2D02f6X2D4521X2Da0cfX2Dbc47a767abb2 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T13:36:31Z" .
+_:Bf9c7c8d0X2D02f6X2D4521X2Da0cfX2Dbc47a767abb2 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bf9c7c8d0X2D02f6X2D4521X2Da0cfX2Dbc47a767abb2 <http://spdx.org/rdf/terms#match> "false" .
+_:Bf9c7c8d0X2D02f6X2D4521X2Da0cfX2Dbc47a767abb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bfab8baa4X2D9f3bX2D493bX2D892bX2Df038a60bd071 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bfab8baa4X2D9f3bX2D493bX2D892bX2Df038a60bd071 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bfab8baa4X2D9f3bX2D493bX2D892bX2Df038a60bd071 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bfab8baa4X2D9f3bX2D493bX2D892bX2Df038a60bd071 <http://spdx.org/rdf/terms#url> "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/migrate_pages.2#n8" .
+_:Bfab8baa4X2D9f3bX2D493bX2D892bX2Df038a60bd071 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T13:36:31Z" .
+_:Bfab8baa4X2D9f3bX2D493bX2D892bX2Df038a60bd071 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bfab8baa4X2D9f3bX2D493bX2D892bX2Df038a60bd071 <http://spdx.org/rdf/terms#match> "false" .
+_:Bfab8baa4X2D9f3bX2D493bX2D892bX2Df038a60bd071 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

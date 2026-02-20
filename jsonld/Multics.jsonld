@@ -16,13 +16,13 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "rdfs:seeAlso": "https://opensource.org/licenses/Multics",
-            "spdx:name": "Multics License",
             "spdx:crossRef": {
-                "@id": "_:4f447687-7422-46e9-b089-9da1c2ecb033"
-            }
+                "@id": "_:acd98863-41c9-42c6-b701-4ff346ae5069"
+            },
+            "spdx:name": "Multics License"
         },
         {
-            "@id": "_:4f447687-7422-46e9-b089-9da1c2ecb033",
+            "@id": "_:acd98863-41c9-42c6-b701-4ff346ae5069",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/Multics",
-            "spdx:timestamp": "2026-02-20T12:46:25Z",
+            "spdx:timestamp": "2026-02-20T13:35:55Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

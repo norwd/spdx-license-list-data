@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:58f6fb4a-8893-4bbe-8958-6e680b2f7090"
+                "@id": "_:20f6b21f-f7b3-4fe1-8793-7988a93c9fd3"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:58f6fb4a-8893-4bbe-8958-6e680b2f7090",
+            "@id": "_:20f6b21f-f7b3-4fe1-8793-7988a93c9fd3",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://metacpan.org/pod/Exporter::Tidy#LICENSE",
-            "spdx:timestamp": "2026-02-20T12:44:35Z",
+            "spdx:timestamp": "2026-02-20T13:34:22Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
