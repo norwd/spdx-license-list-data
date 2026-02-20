@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:722d601d-02a2-4007-afd0-ca74320f5c09"
+                "@id": "_:829b9e80-ff75-4229-ac2f-ad869e12e7c9"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:722d601d-02a2-4007-afd0-ca74320f5c09",
+            "@id": "_:829b9e80-ff75-4229-ac2f-ad869e12e7c9",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/psfrag",
-            "spdx:timestamp": "2026-02-20T15:08:00Z",
+            "spdx:timestamp": "2026-02-20T15:17:40Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:677504ce-4614-4a88-9477-21f68f466020",
+            "@id": "_:536e7faa-a158-4a87-8e15-28ba2b1ceabd",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.itu.int/ITU-T/formal-language/itu-t/t/t173/1997/ISOMHEG-sir.html",
-            "spdx:timestamp": "2026-02-20T15:08:26Z",
+            "spdx:timestamp": "2026-02-20T15:18:48Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:e3c3ffa7-eef1-4d5a-949a-92617df9e1df",
+            "@id": "_:3c1f6b6d-982e-4647-a468-9059a04d499f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.com/agmartin/linuxdoc-tools/-/blob/master/iso-entities/COPYING?ref_type=heads",
-            "spdx:timestamp": "2026-02-20T15:08:27Z",
+            "spdx:timestamp": "2026-02-20T15:18:49Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -50,10 +50,10 @@
             "@id": "http://spdx.org/licenses/ISO-permission",
             "spdx:crossRef": [
                 {
-                    "@id": "_:677504ce-4614-4a88-9477-21f68f466020"
+                    "@id": "_:3c1f6b6d-982e-4647-a468-9059a04d499f"
                 },
                 {
-                    "@id": "_:e3c3ffa7-eef1-4d5a-949a-92617df9e1df"
+                    "@id": "_:536e7faa-a158-4a87-8e15-28ba2b1ceabd"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:5769fc94-ae48-4740-bfb6-1cc2e62c18c9",
+            "@id": "_:47128b31-7c2f-461e-923e-74c5080fa1cb",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://mariadb.com/bsl11/",
-            "spdx:timestamp": "2026-02-20T15:08:50Z",
+            "spdx:timestamp": "2026-02-20T15:19:08Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -43,7 +43,7 @@
             "spdx:standardLicenseHeader": "Copyright (C) yyyy name of author\nUse of this software is govered by the Business Source License included in the LICENSE.TXT file and at www.mariadb.com/bsl11.\n\nChange Date:\n\nOn the date above, in accordance with the Business Source License, use of this software will be governed by the open source license specified in the LICENSE.TXT file.\n\n",
             "spdx:name": "Business Source License 1.1",
             "spdx:crossRef": {
-                "@id": "_:5769fc94-ae48-4740-bfb6-1cc2e62c18c9"
+                "@id": "_:47128b31-7c2f-461e-923e-74c5080fa1cb"
             },
             "rdfs:seeAlso": "https://mariadb.com/bsl11/"
         }

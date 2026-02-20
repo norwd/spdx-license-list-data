@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:cafb9217-9dde-47ac-a65a-8b943f1559cf",
+            "@id": "_:8851ed4f-8c24-4ec4-bf33-ffd144ea2fdc",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.docbook.org/xml/simple/1.1/docbook-simple-1.1.zip",
-            "spdx:timestamp": "2026-02-20T15:07:45Z",
+            "spdx:timestamp": "2026-02-20T15:17:25Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,12 +25,12 @@
         },
         {
             "@id": "http://spdx.org/licenses/DocBook-DTD",
-            "spdx:crossRef": {
-                "@id": "_:cafb9217-9dde-47ac-a65a-8b943f1559cf"
-            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:crossRef": {
+                "@id": "_:8851ed4f-8c24-4ec4-bf33-ffd144ea2fdc"
             },
             "rdfs:comment": "This license is very similar to DocBook-Schema, but includes some exceptions to the different labeling of a modified version.",
             "spdx:name": "DocBook DTD License",

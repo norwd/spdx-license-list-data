@@ -1,58 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "http://spdx.org/licenses/hyphen-bulgarian",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:6e17678d-8f35-40eb-8d2d-1a25f53c1788"
-                },
-                {
-                    "@id": "_:a944f7c6-d12f-42a4-96da-38913ff353d0"
-                }
-            ],
-            "rdfs:seeAlso": [
-                "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
-                "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185"
-            ],
-            "@type": "spdx:ListedLicense",
-            "spdx:name": "hyphen-bulgarian License",
-            "spdx:isDeprecatedLicenseId": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:licenseTextHtml": "\n         <p>\n            This software may be used, modified, copied, distributed, and\n            sold, both in source and binary form provided that the above\n            copyright notice and these terms are retained. The name of the\n            author may not be used to endorse or promote products derived\n            from this software without prior permission. THIS SOFTWARE\n            IS <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern PROVIDES|PROVIDED\"> PROVIDED</span></var>\n            &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES ARE\n            DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY\n            DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE.\n         </p>\n\n      ",
-            "spdx:standardLicenseTemplate": "This software may be used, modified, copied, distributed, and sold, both in source and binary form provided that the above copyright notice and these terms are retained. The name of the author may not be used to endorse or promote products derived from this software without prior permission. THIS SOFTWARE IS <<var;name=\"provided\";original=\"PROVIDED\";match=\"PROVIDES|PROVIDED\">> \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE.\n\n",
-            "spdx:licenseText": "This software may be used, modified, copied, distributed, and sold,\nboth in source and binary form provided that the above copyright\nnotice and these terms are retained. The name of the author may not\nbe used to endorse or promote products derived from this software\nwithout prior permission.  THIS SOFTWARE IS PROVIDES \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED.  IN NO EVENT\nSHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES ARISING IN ANY WAY OUT\nOF THE USE OF THIS SOFTWARE.\n",
-            "spdx:isOsiApproved": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            }
-        },
-        {
-            "@id": "_:6e17678d-8f35-40eb-8d2d-1a25f53c1788",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
-            "spdx:timestamp": "2026-02-20T15:10:43Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:a944f7c6-d12f-42a4-96da-38913ff353d0",
+            "@id": "_:d5271b7c-523b-420e-93b2-855f021441d4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,13 +15,64 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185",
-            "spdx:timestamp": "2026-02-20T15:10:44Z",
+            "spdx:timestamp": "2026-02-20T15:19:54Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
             "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:b81075cb-aa75-48a5-bf9d-a2c5dfe49ff2",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
+            "spdx:timestamp": "2026-02-20T15:19:53Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "http://spdx.org/licenses/hyphen-bulgarian",
+            "rdfs:seeAlso": [
+                "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
+                "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185"
+            ],
+            "@type": "spdx:ListedLicense",
+            "spdx:name": "hyphen-bulgarian License",
+            "spdx:isDeprecatedLicenseId": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:crossRef": [
+                {
+                    "@id": "_:b81075cb-aa75-48a5-bf9d-a2c5dfe49ff2"
+                },
+                {
+                    "@id": "_:d5271b7c-523b-420e-93b2-855f021441d4"
+                }
+            ],
+            "spdx:licenseTextHtml": "\n         <p>\n            This software may be used, modified, copied, distributed, and\n            sold, both in source and binary form provided that the above\n            copyright notice and these terms are retained. The name of the\n            author may not be used to endorse or promote products derived\n            from this software without prior permission. THIS SOFTWARE\n            IS <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern PROVIDES|PROVIDED\"> PROVIDED</span></var>\n            &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES ARE\n            DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY\n            DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE.\n         </p>\n\n      ",
+            "spdx:standardLicenseTemplate": "This software may be used, modified, copied, distributed, and sold, both in source and binary form provided that the above copyright notice and these terms are retained. The name of the author may not be used to endorse or promote products derived from this software without prior permission. THIS SOFTWARE IS <<var;name=\"provided\";original=\"PROVIDED\";match=\"PROVIDES|PROVIDED\">> \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE.\n\n",
+            "spdx:licenseText": "This software may be used, modified, copied, distributed, and sold,\nboth in source and binary form provided that the above copyright\nnotice and these terms are retained. The name of the author may not\nbe used to endorse or promote products derived from this software\nwithout prior permission.  THIS SOFTWARE IS PROVIDES \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED.  IN NO EVENT\nSHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES ARISING IN ANY WAY OUT\nOF THE USE OF THIS SOFTWARE.\n",
+            "spdx:isOsiApproved": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            }
         }
     ],
     "@context": {

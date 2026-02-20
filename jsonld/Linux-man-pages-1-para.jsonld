@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:7d55eed0-46c9-440d-a718-37acf41bff7f",
+            "@id": "_:40ffc2d5-4a5d-46fe-bc17-17a1df03fbd2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/getcpu.2#n4",
-            "spdx:timestamp": "2026-02-20T15:08:50Z",
+            "spdx:timestamp": "2026-02-20T15:19:09Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:7d55eed0-46c9-440d-a718-37acf41bff7f"
+                "@id": "_:40ffc2d5-4a5d-46fe-bc17-17a1df03fbd2"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

@@ -7,6 +7,21 @@
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/3D-Slicer-1.0">
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://github.com/Slicer/Slicer/blob/main/License.txt</spdx:url>
+        <spdx:timestamp>2026-02-20T15:17:33Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:licenseTextHtml>
 		&lt;var class="optional-license-text"&gt; 
 			3D Slicer Contribution and Software License Agreement (&amp;quot;Agreement&amp;quot;)&lt;br /&gt;
@@ -225,21 +240,6 @@
 		respect to Slicer.&lt;/p&gt;
 
 	</spdx:licenseTextHtml>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://github.com/Slicer/Slicer/blob/main/License.txt</spdx:url>
-        <spdx:timestamp>2026-02-20T15:07:51Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>false</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
     <spdx:crossRef>
@@ -251,7 +251,7 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://slicer.org/LICENSE</spdx:url>
-        <spdx:timestamp>2026-02-20T15:07:51Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T15:17:32Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>false</spdx:match>

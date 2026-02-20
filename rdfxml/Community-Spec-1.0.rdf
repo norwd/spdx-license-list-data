@@ -5,21 +5,6 @@
     xmlns:ptr="http://www.w3.org/2009/pointers#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/Community-Spec-1.0">
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://github.com/CommunitySpecification/1.0/blob/master/1._Community_Specification_License-v1.md</spdx:url>
-        <spdx:timestamp>2026-02-20T15:09:54Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt;Community Specification License 1.0
 
 &lt;&lt;endOptional&gt;&gt;
@@ -857,6 +842,21 @@ https://creativecommons.org/licenses/by/4.0/.
 
 SPDX-License-Identifier: CC-BY-4.0
 </spdx:licenseText>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://github.com/CommunitySpecification/1.0/blob/master/1._Community_Specification_License-v1.md</spdx:url>
+        <spdx:timestamp>2026-02-20T15:19:44Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:name>Community Specification License 1.0</spdx:name>
   </spdx:ListedLicense>
 </rdf:RDF>

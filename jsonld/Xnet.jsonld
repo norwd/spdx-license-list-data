@@ -6,7 +6,7 @@
             "rdfs:seeAlso": "https://opensource.org/licenses/Xnet",
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:b5ad283c-d52a-4d87-86f9-b6cb4c62b9e0"
+                "@id": "_:b8b2c3bc-dc3e-47bc-ac1e-d38f3b14526f"
             },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -22,7 +22,7 @@
             }
         },
         {
-            "@id": "_:b5ad283c-d52a-4d87-86f9-b6cb4c62b9e0",
+            "@id": "_:b8b2c3bc-dc3e-47bc-ac1e-d38f3b14526f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/Xnet",
-            "spdx:timestamp": "2026-02-20T15:09:51Z",
+            "spdx:timestamp": "2026-02-20T15:19:36Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

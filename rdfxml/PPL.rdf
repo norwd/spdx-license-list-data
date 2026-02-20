@@ -16,7 +16,7 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://www.networkcultures.org/_uploads/%233notebook_telekommunist.pdf</spdx:url>
-        <spdx:timestamp>2026-02-20T15:12:00Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T15:21:22Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>false</spdx:match>
@@ -133,7 +133,7 @@ EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LI
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://wiki.p2pfoundation.net/Peer_Production_License</spdx:url>
-        <spdx:timestamp>2026-02-20T15:12:01Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T15:21:23Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>

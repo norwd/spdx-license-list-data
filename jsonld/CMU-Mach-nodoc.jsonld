@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:645d1c85-a4dc-4274-bc7e-7cdcc1006270",
+            "@id": "_:862c5dc9-5b9b-459f-943c-a8533157a3ff",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html",
-            "spdx:timestamp": "2026-02-20T15:07:41Z",
+            "spdx:timestamp": "2026-02-20T15:17:20Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -26,14 +26,6 @@
         {
             "@id": "http://spdx.org/licenses/CMU-Mach-nodoc",
             "@type": "spdx:ListedLicense",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:645d1c85-a4dc-4274-bc7e-7cdcc1006270"
-                },
-                {
-                    "@id": "_:a336259a-078d-48cf-ba73-3060e9703587"
-                }
-            ],
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright (C) 2002 Naval Research Laboratory (NRL/CCS)\";match=\".{0,5000}\">>\nPermission to use, copy, modify and distribute this software and its documentation is hereby granted, provided that both the copyright notice and this permission notice appear in all copies of the software, derivative works or modified versions, and any portions thereof.\n\nNRL ALLOWS FREE USE OF THIS SOFTWARE IN ITS \"AS IS\" CONDITION AND DISCLAIMS ANY LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.\n\n",
             "rdfs:seeAlso": [
                 "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L718-L728",
@@ -48,12 +40,20 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": [
+                {
+                    "@id": "_:60b9d9d6-1951-4aed-b261-fc3f0bb6c55f"
+                },
+                {
+                    "@id": "_:862c5dc9-5b9b-459f-943c-a8533157a3ff"
+                }
+            ],
             "spdx:name": "CMU    Mach - no notices-in-documentation variant",
             "rdfs:comment": "This is similar to CMU-Mach but omits the obligation that both notices appear in supporting documentation and omits the request to return improvements or extensions back to the copyright holder.",
             "spdx:licenseText": "Copyright (C) 2002 Naval Research Laboratory (NRL/CCS)\n\nPermission to use, copy, modify and distribute this software and\nits documentation is hereby granted, provided that both the\ncopyright notice and this permission notice appear in all copies of\nthe software, derivative works or modified versions, and any\nportions thereof.\n\nNRL ALLOWS FREE USE OF THIS SOFTWARE IN ITS \"AS IS\" CONDITION AND\nDISCLAIMS ANY LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER\nRESULTING FROM THE USE OF THIS SOFTWARE.\n"
         },
         {
-            "@id": "_:a336259a-078d-48cf-ba73-3060e9703587",
+            "@id": "_:60b9d9d6-1951-4aed-b261-fc3f0bb6c55f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,7 +67,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L718-L728",
-            "spdx:timestamp": "2026-02-20T15:07:42Z",
+            "spdx:timestamp": "2026-02-20T15:17:21Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

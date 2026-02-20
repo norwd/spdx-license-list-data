@@ -1,53 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:592142b6-f92d-4aa2-aa42-e7ffc71ea227",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/AdaCore/gnatcoll-core/blob/master/docs/index.rst",
-            "spdx:timestamp": "2026-02-20T15:08:29Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:d3973a14-bc8c-45aa-8ccc-2a7ac5319235",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/AdaCore/gnatcoll-db/blob/master/docs/index.rst",
-            "spdx:timestamp": "2026-02-20T15:08:28Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:4e9421e3-69eb-43eb-9b12-f7ff1dc7de62",
+            "@id": "_:8f41dcd7-b83c-4cc7-8b70-6107b4116cdc",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -61,9 +15,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/AdaCore/xmlada/blob/master/docs/index.rst",
-            "spdx:timestamp": "2026-02-20T15:08:29Z",
+            "spdx:timestamp": "2026-02-20T15:18:55Z",
             "spdx:order": {
                 "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:9351752a-6e36-4190-9de8-e2b5e68e634c",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/AdaCore/gnatcoll-core/blob/master/docs/index.rst",
+            "spdx:timestamp": "2026-02-20T15:18:54Z",
+            "spdx:order": {
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
@@ -78,28 +55,51 @@
                 "https://github.com/AdaCore/gnatcoll-core/blob/master/docs/index.rst"
             ],
             "spdx:standardLicenseTemplate": "This document may be copied, in whole or in part, in any form or by any means, as is or with alterations, provided that (1) alterations are clearly marked as alterations and (2) this copyright notice is included unmodified in any copy.\n\n",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:9351752a-6e36-4190-9de8-e2b5e68e634c"
+                },
+                {
+                    "@id": "_:8f41dcd7-b83c-4cc7-8b70-6107b4116cdc"
+                },
+                {
+                    "@id": "_:51e810c1-d4ea-4a2e-b270-7dd987d03176"
+                }
+            ],
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:licenseText": "This document may be copied, in whole or in part, in any form or by any means, as is or with alterations, provided that (1) alterations are clearly marked as alterations and (2) this copyright notice is included unmodified in any copy.\n",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:592142b6-f92d-4aa2-aa42-e7ffc71ea227"
-                },
-                {
-                    "@id": "_:d3973a14-bc8c-45aa-8ccc-2a7ac5319235"
-                },
-                {
-                    "@id": "_:4e9421e3-69eb-43eb-9b12-f7ff1dc7de62"
-                }
-            ],
             "spdx:name": "AdaCore Doc License",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:licenseTextHtml": "\n         <p>\n            This document may be copied, in whole or in part, in any form\n            or by any means, as is or with alterations, provided that\n            (1) alterations are clearly marked as alterations and (2)\n            this copyright notice is included unmodified in any copy.\n         </p>\n\n      "
+        },
+        {
+            "@id": "_:51e810c1-d4ea-4a2e-b270-7dd987d03176",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/AdaCore/gnatcoll-db/blob/master/docs/index.rst",
+            "spdx:timestamp": "2026-02-20T15:18:54Z",
+            "spdx:order": {
+                "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

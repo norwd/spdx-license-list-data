@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:c7f76789-2a9e-4848-bf42-9f82ddfa6fdc"
+                "@id": "_:3c82dd26-d266-429c-9d7e-dce1ee0375a0"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:c7f76789-2a9e-4848-bf42-9f82ddfa6fdc",
+            "@id": "_:3c82dd26-d266-429c-9d7e-dce1ee0375a0",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.info-zip.org/license.html",
-            "spdx:timestamp": "2026-02-20T15:08:49Z",
+            "spdx:timestamp": "2026-02-20T15:19:08Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

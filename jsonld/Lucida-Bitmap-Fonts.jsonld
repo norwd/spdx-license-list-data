@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:1fce4f83-5b88-498b-a648-34007be30cd9"
+                "@id": "_:95ceaa40-4887-4ae6-ba2d-fbf20c2e5462"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:1fce4f83-5b88-498b-a648-34007be30cd9",
+            "@id": "_:95ceaa40-4887-4ae6-ba2d-fbf20c2e5462",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.freedesktop.org/xorg/font/bh-100dpi/-/blob/master/COPYING?ref_type=heads",
-            "spdx:timestamp": "2026-02-20T15:11:19Z",
+            "spdx:timestamp": "2026-02-20T15:20:42Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

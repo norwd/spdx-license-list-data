@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:f8ccba7c-b639-4264-9646-cb8c0b03bf46",
+            "@id": "_:247e2d63-5e41-44ed-9bff-3bcec66ea5a9",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://javaee.github.io/glassfish/LICENSE",
-            "spdx:timestamp": "2026-02-20T15:12:28Z",
+            "spdx:timestamp": "2026-02-20T15:21:50Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:3d70e144-29c2-4bc7-adf3-2709e8371219",
+            "@id": "_:f6b158e2-c960-4fa4-8589-a9342f381f7d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://glassfish.java.net/public/CDDL+GPL_1_1.html",
-            "spdx:timestamp": "2026-02-20T15:12:28Z",
+            "spdx:timestamp": "2026-02-20T15:21:50Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -54,10 +54,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:f8ccba7c-b639-4264-9646-cb8c0b03bf46"
+                    "@id": "_:f6b158e2-c960-4fa4-8589-a9342f381f7d"
                 },
                 {
-                    "@id": "_:3d70e144-29c2-4bc7-adf3-2709e8371219"
+                    "@id": "_:247e2d63-5e41-44ed-9bff-3bcec66ea5a9"
                 }
             ],
             "spdx:name": "Common Development and Distribution License 1.1",

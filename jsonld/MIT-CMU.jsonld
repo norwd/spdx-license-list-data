@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:f0628f5c-af3f-448f-bfe7-bfb263964ca8",
+            "@id": "_:08d86b35-b356-46c4-8ccf-9a82ab41950b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#CMU_Style",
-            "spdx:timestamp": "2026-02-20T15:08:50Z",
+            "spdx:timestamp": "2026-02-20T15:19:09Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:9b28f6eb-8bc7-4f70-be33-dc86723ce87a",
+            "@id": "_:9b314b4c-33f2-4b73-95d6-ad2bf698963f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/python-pillow/Pillow/blob/fffb426092c8db24a5f4b6df243a8a3c01fb63cd/LICENSE",
-            "spdx:timestamp": "2026-02-20T15:08:51Z",
+            "spdx:timestamp": "2026-02-20T15:19:10Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -48,6 +48,14 @@
         },
         {
             "@id": "http://spdx.org/licenses/MIT-CMU",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:08d86b35-b356-46c4-8ccf-9a82ab41950b"
+                },
+                {
+                    "@id": "_:9b314b4c-33f2-4b73-95d6-ad2bf698963f"
+                }
+            ],
             "spdx:licenseText": "<copyright notice>\n\nBy obtaining, using, and/or copying this software and/or its associated documentation, you agree that you have read, understood, and will comply with the following terms and conditions:\n\nPermission to use, copy, modify, and distribute this software and its associated documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appears in all copies, and that both that copyright notice and this permission notice appear in supporting documentation, and that the name of the copyright holder not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission.\n\nTHE COPYRIGHT HOLDER DISCLAIM ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM THE LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.\n",
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -58,14 +66,6 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:9b28f6eb-8bc7-4f70-be33-dc86723ce87a"
-                },
-                {
-                    "@id": "_:f0628f5c-af3f-448f-bfe7-bfb263964ca8"
-                }
-            ],
             "rdfs:seeAlso": [
                 "https://github.com/python-pillow/Pillow/blob/fffb426092c8db24a5f4b6df243a8a3c01fb63cd/LICENSE",
                 "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#CMU_Style"

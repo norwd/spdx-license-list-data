@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:d8bcc6ec-96f1-4606-9fc4-fc807746b024",
+            "@id": "_:4133a915-f571-4c9b-83ba-5117450e662e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.tcl.tk/software/tcltk/license.html",
-            "spdx:timestamp": "2026-02-20T15:07:44Z",
+            "spdx:timestamp": "2026-02-20T15:17:23Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,10 +34,10 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:d8bcc6ec-96f1-4606-9fc4-fc807746b024"
+                    "@id": "_:4133a915-f571-4c9b-83ba-5117450e662e"
                 },
                 {
-                    "@id": "_:f7d744f1-be33-4246-ac29-77cb42e855ba"
+                    "@id": "_:c5163944-35f3-409f-ab48-6175af792f79"
                 }
             ],
             "spdx:name": "TCL/TK License",
@@ -52,7 +52,7 @@
             }
         },
         {
-            "@id": "_:f7d744f1-be33-4246-ac29-77cb42e855ba",
+            "@id": "_:c5163944-35f3-409f-ab48-6175af792f79",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/TCL",
-            "spdx:timestamp": "2026-02-20T15:07:43Z",
+            "spdx:timestamp": "2026-02-20T15:17:23Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

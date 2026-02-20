@@ -1,36 +1,13 @@
 {
     "@graph": [
         {
-            "@id": "_:f23ceb4c-2644-47f9-8e63-c36067f224df",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/licenses/0BSD",
-            "spdx:timestamp": "2026-02-20T15:10:10Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/0BSD",
             "spdx:crossRef": [
                 {
-                    "@id": "_:fc25d41e-af90-4a67-83eb-d0eb7afbb3d5"
+                    "@id": "_:75fcedf0-0938-4734-9bb2-7c19ff32392b"
                 },
                 {
-                    "@id": "_:f23ceb4c-2644-47f9-8e63-c36067f224df"
+                    "@id": "_:87207512-85ce-4070-9d59-db2b1118c990"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -52,7 +29,7 @@
             "spdx:standardLicenseTemplate": "<<beginOptional>><<var;name=\"title\";original=\"BSD Zero Clause License\";match=\"(BSD Zero[ -]Clause|Zero[ -]Clause BSD)( License)?( \\(0BSD\\))?\">>\n\n<<endOptional>> <<var;name=\"copyright\";original=\"Copyright (C) YEAR by AUTHOR EMAIL  \";match=\".{0,5000}\">>\nPermission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.\n\n"
         },
         {
-            "@id": "_:fc25d41e-af90-4a67-83eb-d0eb7afbb3d5",
+            "@id": "_:75fcedf0-0938-4734-9bb2-7c19ff32392b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -62,13 +39,36 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://landley.net/toybox/license.html",
-            "spdx:timestamp": "2026-02-20T15:10:10Z",
+            "spdx:timestamp": "2026-02-20T15:19:47Z",
             "spdx:order": {
                 "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:87207512-85ce-4070-9d59-db2b1118c990",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/licenses/0BSD",
+            "spdx:timestamp": "2026-02-20T15:19:47Z",
+            "spdx:order": {
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",

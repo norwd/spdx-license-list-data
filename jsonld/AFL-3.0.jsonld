@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:8fc7d360-404f-42a8-b692-8385b9128aa4",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://www.rosenlaw.com/AFL3.0.htm",
-            "spdx:timestamp": "2026-02-20T15:10:44Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:35ac2da3-a452-41b9-8b6e-1e2ab3972f02",
+            "@id": "_:60ce4970-e9aa-496d-ab06-1ead1d07d09a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/afl-3.0",
-            "spdx:timestamp": "2026-02-20T15:10:45Z",
+            "spdx:timestamp": "2026-02-20T15:20:07Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,14 +24,37 @@
             "@type": "spdx:CrossRef"
         },
         {
+            "@id": "_:e3cdda94-695f-4d69-bc35-51b469da82f8",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://www.rosenlaw.com/AFL3.0.htm",
+            "spdx:timestamp": "2026-02-20T15:20:07Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/AFL-3.0",
             "spdx:standardLicenseHeader": "Licensed under the Academic Free License version 3.0\n\n",
             "spdx:crossRef": [
                 {
-                    "@id": "_:8fc7d360-404f-42a8-b692-8385b9128aa4"
+                    "@id": "_:e3cdda94-695f-4d69-bc35-51b469da82f8"
                 },
                 {
-                    "@id": "_:35ac2da3-a452-41b9-8b6e-1e2ab3972f02"
+                    "@id": "_:60ce4970-e9aa-496d-ab06-1ead1d07d09a"
                 }
             ],
             "rdfs:seeAlso": [

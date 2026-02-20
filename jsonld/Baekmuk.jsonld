@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:756a1f8a-aff8-494a-a703-d2096ac69696"
+                "@id": "_:7a230f9d-c96c-4fac-ac39-d81083921161"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:756a1f8a-aff8-494a-a703-d2096ac69696",
+            "@id": "_:7a230f9d-c96c-4fac-ac39-d81083921161",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing:Baekmuk?rd=Licensing/Baekmuk",
-            "spdx:timestamp": "2026-02-20T15:11:22Z",
+            "spdx:timestamp": "2026-02-20T15:20:46Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

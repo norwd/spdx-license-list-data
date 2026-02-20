@@ -161,21 +161,6 @@ be appreciated.
 </spdx:licenseText>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>http://www.libpng.org/pub/png/src/libpng-LICENSE.txt</spdx:url>
-        <spdx:timestamp>2026-02-20T15:10:11Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>true</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
     <rdfs:comment>This is similar but has some different text than libpng.</rdfs:comment>
@@ -346,5 +331,20 @@ be appreciated.
                &lt;/p&gt;
 
       </spdx:licenseTextHtml>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>http://www.libpng.org/pub/png/src/libpng-LICENSE.txt</spdx:url>
+        <spdx:timestamp>2026-02-20T15:19:49Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>true</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
   </spdx:ListedLicense>
 </rdf:RDF>

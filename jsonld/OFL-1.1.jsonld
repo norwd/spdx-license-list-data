@@ -2,15 +2,15 @@
     "@graph": [
         {
             "@id": "http://spdx.org/licenses/OFL-1.1",
-            "spdx:name": "SIL Open Font License 1.1",
             "spdx:crossRef": [
                 {
-                    "@id": "_:4770dcbc-1bcc-4df3-8d82-ead096697bcd"
+                    "@id": "_:d1c36ca7-4b80-4635-89f5-e19ec2c60d70"
                 },
                 {
-                    "@id": "_:63dfc3a4-4947-40db-85a2-090b647d0f9d"
+                    "@id": "_:842a9298-7fea-4b29-a43f-b4928c94e12b"
                 }
             ],
+            "spdx:name": "SIL Open Font License 1.1",
             "spdx:isOsiApproved": {
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -34,7 +34,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:4770dcbc-1bcc-4df3-8d82-ead096697bcd",
+            "@id": "_:d1c36ca7-4b80-4635-89f5-e19ec2c60d70",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -48,7 +48,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/OFL-1.1",
-            "spdx:timestamp": "2026-02-20T15:10:13Z",
+            "spdx:timestamp": "2026-02-20T15:19:53Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -57,7 +57,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:63dfc3a4-4947-40db-85a2-090b647d0f9d",
+            "@id": "_:842a9298-7fea-4b29-a43f-b4928c94e12b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -71,7 +71,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web",
-            "spdx:timestamp": "2026-02-20T15:10:13Z",
+            "spdx:timestamp": "2026-02-20T15:19:53Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

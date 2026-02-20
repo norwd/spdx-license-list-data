@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:b0270808-c378-4d0e-8347-59236cf7af19"
+                "@id": "_:2a1da9e6-972a-4802-a8e6-95fd10be045f"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:b0270808-c378-4d0e-8347-59236cf7af19",
+            "@id": "_:2a1da9e6-972a-4802-a8e6-95fd10be045f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License",
-            "spdx:timestamp": "2026-02-20T15:07:50Z",
+            "spdx:timestamp": "2026-02-20T15:17:32Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

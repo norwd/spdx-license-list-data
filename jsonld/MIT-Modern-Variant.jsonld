@@ -14,13 +14,13 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:b9e4c873-09a6-403c-9610-e964c56ae978"
+                    "@id": "_:9097798e-0821-454d-878f-bb0b831f2c8c"
                 },
                 {
-                    "@id": "_:c21b6dd0-33b0-4978-ab14-92ae56939d56"
+                    "@id": "_:a4950e74-5552-45d1-8454-22d9c6e8bb7e"
                 },
                 {
-                    "@id": "_:b91858b8-3419-4f1c-a015-8e98030107da"
+                    "@id": "_:a6bf02a8-408a-4cf6-b127-64fedc7db61e"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -34,7 +34,7 @@
             "spdx:name": "MIT License Modern Variant"
         },
         {
-            "@id": "_:b9e4c873-09a6-403c-9610-e964c56ae978",
+            "@id": "_:9097798e-0821-454d-878f-bb0b831f2c8c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -48,7 +48,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://ptolemy.berkeley.edu/copyright.htm",
-            "spdx:timestamp": "2026-02-20T15:08:12Z",
+            "spdx:timestamp": "2026-02-20T15:17:55Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -57,7 +57,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:c21b6dd0-33b0-4978-ab14-92ae56939d56",
+            "@id": "_:a4950e74-5552-45d1-8454-22d9c6e8bb7e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -71,7 +71,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://pirlwww.lpl.arizona.edu/resources/guide/software/PerlTk/Tixlic.html",
-            "spdx:timestamp": "2026-02-20T15:08:13Z",
+            "spdx:timestamp": "2026-02-20T15:17:56Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -80,7 +80,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:b91858b8-3419-4f1c-a015-8e98030107da",
+            "@id": "_:a6bf02a8-408a-4cf6-b127-64fedc7db61e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -94,7 +94,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing:MIT#Modern_Variants",
-            "spdx:timestamp": "2026-02-20T15:08:12Z",
+            "spdx:timestamp": "2026-02-20T15:17:56Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

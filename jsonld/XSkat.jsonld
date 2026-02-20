@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:4d3d233d-a25b-439b-a7b3-50844d86a730",
+            "@id": "_:1de112e3-f7f4-4580-8d8a-92390c5e42ea",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/XSkat_License",
-            "spdx:timestamp": "2026-02-20T15:11:26Z",
+            "spdx:timestamp": "2026-02-20T15:20:49Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:4d3d233d-a25b-439b-a7b3-50844d86a730"
+                "@id": "_:1de112e3-f7f4-4580-8d8a-92390c5e42ea"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

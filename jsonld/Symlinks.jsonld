@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:7d665083-5553-43b3-900a-ec4679ec20e3",
+            "@id": "_:c21bfa80-4071-4874-84c4-e2de5bfe452b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.mail-archive.com/debian-bugs-rc@lists.debian.org/msg11494.html",
-            "spdx:timestamp": "2026-02-20T15:10:44Z",
+            "spdx:timestamp": "2026-02-20T15:20:06Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:7d665083-5553-43b3-900a-ec4679ec20e3"
+                "@id": "_:c21bfa80-4071-4874-84c4-e2de5bfe452b"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

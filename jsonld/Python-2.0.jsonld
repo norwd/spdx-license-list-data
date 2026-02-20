@@ -17,16 +17,16 @@
             "@type": "spdx:ListedLicense",
             "spdx:name": "Python License 2.0",
             "rdfs:comment": "This is the overall Python license as published on the OSI website, which is comprised of several licenses.",
+            "spdx:crossRef": {
+                "@id": "_:026628e2-976d-482e-a68b-48d653ee598b"
+            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:crossRef": {
-                "@id": "_:b132bbb1-4ec0-4b7d-93c7-9782434571ea"
             }
         },
         {
-            "@id": "_:b132bbb1-4ec0-4b7d-93c7-9782434571ea",
+            "@id": "_:026628e2-976d-482e-a68b-48d653ee598b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -40,7 +40,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/Python-2.0",
-            "spdx:timestamp": "2026-02-20T15:07:49Z",
+            "spdx:timestamp": "2026-02-20T15:17:31Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

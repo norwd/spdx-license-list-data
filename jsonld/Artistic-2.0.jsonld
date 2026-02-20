@@ -1,7 +1,30 @@
 {
     "@graph": [
         {
-            "@id": "_:33a55304-311f-453f-bf48-62eb63295cf9",
+            "@id": "_:52b0b758-f755-46b2-a3db-a121152427fc",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://www.perlfoundation.org/artistic_license_2_0",
+            "spdx:timestamp": "2026-02-20T15:21:18Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:b8dcf19d-2ce0-449a-af26-b5791b88ab02",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,35 +38,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.perlfoundation.org/artistic-license-20.html",
-            "spdx:timestamp": "2026-02-20T15:11:29Z",
+            "spdx:timestamp": "2026-02-20T15:21:18Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:eb26ecb9-9277-40a5-a5c3-b3ef1b407578",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/licenses/artistic-license-2.0",
-            "spdx:timestamp": "2026-02-20T15:11:29Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
@@ -56,13 +56,13 @@
             "spdx:name": "Artistic License 2.0",
             "spdx:crossRef": [
                 {
-                    "@id": "_:9c3b5459-b7c2-497c-9615-94f5a6b47ef7"
+                    "@id": "_:b8dcf19d-2ce0-449a-af26-b5791b88ab02"
                 },
                 {
-                    "@id": "_:eb26ecb9-9277-40a5-a5c3-b3ef1b407578"
+                    "@id": "_:52b0b758-f755-46b2-a3db-a121152427fc"
                 },
                 {
-                    "@id": "_:33a55304-311f-453f-bf48-62eb63295cf9"
+                    "@id": "_:de62be26-2a76-414c-b9a9-1aaa1947e50a"
                 }
             ],
             "rdfs:seeAlso": [
@@ -84,7 +84,7 @@
             }
         },
         {
-            "@id": "_:9c3b5459-b7c2-497c-9615-94f5a6b47ef7",
+            "@id": "_:de62be26-2a76-414c-b9a9-1aaa1947e50a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -94,16 +94,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "http://www.perlfoundation.org/artistic_license_2_0",
-            "spdx:timestamp": "2026-02-20T15:11:29Z",
+            "spdx:url": "https://opensource.org/licenses/artistic-license-2.0",
+            "spdx:timestamp": "2026-02-20T15:21:17Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         }
     ],

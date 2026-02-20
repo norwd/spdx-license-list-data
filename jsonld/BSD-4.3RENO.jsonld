@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:e0341cba-3808-4abc-be2e-4f59525632ce",
+            "@id": "_:c3c6686d-69b3-4754-a2ef-b7b35bee9b95",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,10 +14,10 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=libiberty/strcasecmp.c;h=131d81c2ce7881fa48c363dc5bf5fb302c61ce0b;hb=HEAD",
-            "spdx:timestamp": "2026-02-20T15:08:12Z",
+            "spdx:url": "https://git.openldap.org/openldap/openldap/-/blob/master/COPYRIGHT#L55-63",
+            "spdx:timestamp": "2026-02-20T15:17:56Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
@@ -44,15 +44,15 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:e0341cba-3808-4abc-be2e-4f59525632ce"
+                    "@id": "_:c3c6686d-69b3-4754-a2ef-b7b35bee9b95"
                 },
                 {
-                    "@id": "_:a4f92974-925f-4b13-a41f-8530fc6e7458"
+                    "@id": "_:111c681a-d18f-4b71-9279-fb1e098c4626"
                 }
             ]
         },
         {
-            "@id": "_:a4f92974-925f-4b13-a41f-8530fc6e7458",
+            "@id": "_:111c681a-d18f-4b71-9279-fb1e098c4626",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -65,10 +65,10 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://git.openldap.org/openldap/openldap/-/blob/master/COPYRIGHT#L55-63",
-            "spdx:timestamp": "2026-02-20T15:08:12Z",
+            "spdx:url": "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=libiberty/strcasecmp.c;h=131d81c2ce7881fa48c363dc5bf5fb302c61ce0b;hb=HEAD",
+            "spdx:timestamp": "2026-02-20T15:17:56Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",

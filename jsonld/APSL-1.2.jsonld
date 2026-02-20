@@ -1,34 +1,11 @@
 {
     "@graph": [
         {
-            "@id": "_:6cacd4df-5f81-4fbb-8c93-94ee274ab8c3",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://www.samurajdata.se/opensource/mirror/licenses/apsl.php",
-            "spdx:timestamp": "2026-02-20T15:11:23Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/APSL-1.2",
             "spdx:name": "Apple Public Source License 1.2",
             "rdfs:seeAlso": "http://www.samurajdata.se/opensource/mirror/licenses/apsl.php",
             "spdx:crossRef": {
-                "@id": "_:6cacd4df-5f81-4fbb-8c93-94ee274ab8c3"
+                "@id": "_:f8cb48a7-d35a-4962-a947-367957c4eb2d"
             },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -43,6 +20,29 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
+        },
+        {
+            "@id": "_:f8cb48a7-d35a-4962-a947-367957c4eb2d",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://www.samurajdata.se/opensource/mirror/licenses/apsl.php",
+            "spdx:timestamp": "2026-02-20T15:20:47Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {
