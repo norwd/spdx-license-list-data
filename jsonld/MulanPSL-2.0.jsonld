@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:43d93896-fa45-4a78-877d-7cec6bf67a04",
+            "@id": "_:ad17094b-3dd8-494e-aee6-b4dc13b204e4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://license.coscl.org.cn/MulanPSL2",
-            "spdx:timestamp": "2026-02-20T13:37:43Z",
+            "spdx:timestamp": "2026-02-20T15:13:01Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,12 +25,12 @@
         },
         {
             "@id": "http://spdx.org/licenses/MulanPSL-2.0",
-            "spdx:crossRef": {
-                "@id": "_:43d93896-fa45-4a78-877d-7cec6bf67a04"
-            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:crossRef": {
+                "@id": "_:ad17094b-3dd8-494e-aee6-b4dc13b204e4"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",

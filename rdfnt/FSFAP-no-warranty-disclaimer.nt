@@ -5,14 +5,14 @@
 <http://spdx.org/licenses/FSFAP-no-warranty-disclaimer> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/FSFAP-no-warranty-disclaimer> <http://spdx.org/rdf/terms#licenseText> "Copyright (C) 2008 Micah J. Cowan\n\nCopying and distribution of this file, with or without modification,\nare permitted in any medium without royalty provided the copyright\nnotice and this notice are preserved.\n" .
 <http://spdx.org/licenses/FSFAP-no-warranty-disclaimer> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright (C) 2008 Micah J. Cowan\";match=\".{0,5000}\">>\nCopying and distribution of this file, with or without modification, are permitted in any medium without royalty provided the copyright notice and this notice are preserved.\n\n" .
-<http://spdx.org/licenses/FSFAP-no-warranty-disclaimer> <http://spdx.org/rdf/terms#crossRef> _:B5e84ef0fX2D6176X2D4649X2D85cbX2Df99c97682083 .
 <http://spdx.org/licenses/FSFAP-no-warranty-disclaimer> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://spdx.org/licenses/FSFAP-no-warranty-disclaimer> <http://spdx.org/rdf/terms#crossRef> _:B3d231df1X2D9abdX2D4949X2D850fX2D6d40fee73355 .
 <http://spdx.org/licenses/FSFAP-no-warranty-disclaimer> <http://spdx.org/rdf/terms#name> "FSF All Permissive License (without Warranty)" .
-_:B5e84ef0fX2D6176X2D4649X2D85cbX2Df99c97682083 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B5e84ef0fX2D6176X2D4649X2D85cbX2Df99c97682083 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B5e84ef0fX2D6176X2D4649X2D85cbX2Df99c97682083 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B5e84ef0fX2D6176X2D4649X2D85cbX2Df99c97682083 <http://spdx.org/rdf/terms#url> "https://git.savannah.gnu.org/cgit/wget.git/tree/util/trunc.c?h=v1.21.3&id=40747a11e44ced5a8ac628a41f879ced3e2ebce9#n6" .
-_:B5e84ef0fX2D6176X2D4649X2D85cbX2Df99c97682083 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T13:32:14Z" .
-_:B5e84ef0fX2D6176X2D4649X2D85cbX2Df99c97682083 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B5e84ef0fX2D6176X2D4649X2D85cbX2Df99c97682083 <http://spdx.org/rdf/terms#match> "false" .
-_:B5e84ef0fX2D6176X2D4649X2D85cbX2Df99c97682083 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B3d231df1X2D9abdX2D4949X2D850fX2D6d40fee73355 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B3d231df1X2D9abdX2D4949X2D850fX2D6d40fee73355 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B3d231df1X2D9abdX2D4949X2D850fX2D6d40fee73355 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B3d231df1X2D9abdX2D4949X2D850fX2D6d40fee73355 <http://spdx.org/rdf/terms#url> "https://git.savannah.gnu.org/cgit/wget.git/tree/util/trunc.c?h=v1.21.3&id=40747a11e44ced5a8ac628a41f879ced3e2ebce9#n6" .
+_:B3d231df1X2D9abdX2D4949X2D850fX2D6d40fee73355 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:08:10Z" .
+_:B3d231df1X2D9abdX2D4949X2D850fX2D6d40fee73355 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B3d231df1X2D9abdX2D4949X2D850fX2D6d40fee73355 <http://spdx.org/rdf/terms#match> "true" .
+_:B3d231df1X2D9abdX2D4949X2D850fX2D6d40fee73355 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

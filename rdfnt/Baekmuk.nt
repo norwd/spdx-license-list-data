@@ -1,17 +1,17 @@
-_:B874110b5X2D1667X2D404fX2Db6c3X2D5180afd4881d <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B874110b5X2D1667X2D404fX2Db6c3X2D5180afd4881d <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B874110b5X2D1667X2D404fX2Db6c3X2D5180afd4881d <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B874110b5X2D1667X2D404fX2Db6c3X2D5180afd4881d <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing:Baekmuk?rd=Licensing/Baekmuk" .
-_:B874110b5X2D1667X2D404fX2Db6c3X2D5180afd4881d <http://spdx.org/rdf/terms#timestamp> "2026-02-20T13:36:26Z" .
-_:B874110b5X2D1667X2D404fX2Db6c3X2D5180afd4881d <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B874110b5X2D1667X2D404fX2Db6c3X2D5180afd4881d <http://spdx.org/rdf/terms#match> "true" .
-_:B874110b5X2D1667X2D404fX2Db6c3X2D5180afd4881d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#licenseText> "Copyright (c) 1986-2002 Kim Jeong-Hwan All rights reserved.\n         \nPermission to use, copy, modify and distribute this font\nis hereby granted, provided that both the copyright notice\nand this permission notice appear in all copies of the\nfont, derivative works or modified versions, and that the\nfollowing acknowledgement appear in supporting documentation:\nBaekmuk Batang, Baekmuk Dotum, Baekmuk Gulim, and Baekmuk\nHeadline are registered trademarks owned by Kim Jeong-Hwan.\n" .
 <http://spdx.org/licenses/Baekmuk> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://fedoraproject.org/wiki/Licensing:Baekmuk?rd=Licensing/Baekmuk" .
 <http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            Copyright (c) 1986-2002 Kim Jeong-Hwan All rights reserved.\n         </p>\n\n         <p>\n            Permission to use, copy, modify and distribute this font\n            is hereby granted, provided that both the copyright notice\n            and this permission notice appear in all copies of the\n            font, derivative works or modified versions, and that the\n            following acknowledgement appear in supporting documentation:\n            Baekmuk Batang, Baekmuk Dotum, Baekmuk Gulim, and Baekmuk\n            Headline are registered trademarks owned by Kim Jeong-Hwan.\n         </p>\n\n      " .
 <http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#standardLicenseTemplate> "Copyright (c) 1986-2002 Kim Jeong-Hwan All rights reserved.\n\nPermission to use, copy, modify and distribute this font is hereby granted, provided that both the copyright notice and this permission notice appear in all copies of the font, derivative works or modified versions, and that the following acknowledgement appear in supporting documentation: Baekmuk Batang, Baekmuk Dotum, Baekmuk Gulim, and Baekmuk Headline are registered trademarks owned by Kim Jeong-Hwan.\n\n" .
 <http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#crossRef> _:B874110b5X2D1667X2D404fX2Db6c3X2D5180afd4881d .
+<http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#crossRef> _:B756a1f8aX2Daff8X2D494aX2Da703X2Dd2096ac69696 .
 <http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#name> "Baekmuk License" .
 <http://spdx.org/licenses/Baekmuk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
+_:B756a1f8aX2Daff8X2D494aX2Da703X2Dd2096ac69696 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B756a1f8aX2Daff8X2D494aX2Da703X2Dd2096ac69696 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B756a1f8aX2Daff8X2D494aX2Da703X2Dd2096ac69696 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B756a1f8aX2Daff8X2D494aX2Da703X2Dd2096ac69696 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing:Baekmuk?rd=Licensing/Baekmuk" .
+_:B756a1f8aX2Daff8X2D494aX2Da703X2Dd2096ac69696 <http://spdx.org/rdf/terms#timestamp> "2026-02-20T15:11:22Z" .
+_:B756a1f8aX2Daff8X2D494aX2Da703X2Dd2096ac69696 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B756a1f8aX2Daff8X2D494aX2Da703X2Dd2096ac69696 <http://spdx.org/rdf/terms#match> "true" .
+_:B756a1f8aX2Daff8X2D494aX2Da703X2Dd2096ac69696 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

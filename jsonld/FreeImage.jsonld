@@ -7,7 +7,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:fc52bc63-ce08-4d97-93d9-7469d77a7feb"
+                "@id": "_:407f6e73-f42e-43c9-89b6-53171ea1927c"
             },
             "rdfs:seeAlso": "http://freeimage.sourceforge.net/freeimage-license.txt",
             "rdfs:comment": "This is similar to MPL-1.0, but for the names, choice of law, and jurisdiction",
@@ -22,7 +22,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:fc52bc63-ce08-4d97-93d9-7469d77a7feb",
+            "@id": "_:407f6e73-f42e-43c9-89b6-53171ea1927c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://freeimage.sourceforge.net/freeimage-license.txt",
-            "spdx:timestamp": "2026-02-20T13:32:58Z",
+            "spdx:timestamp": "2026-02-20T15:08:30Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

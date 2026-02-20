@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:20ecefa2-9b06-4da0-8ab3-c2e36ba95b70",
+            "@id": "_:6cacd4df-5f81-4fbb-8c93-94ee274ab8c3",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.samurajdata.se/opensource/mirror/licenses/apsl.php",
-            "spdx:timestamp": "2026-02-20T13:36:27Z",
+            "spdx:timestamp": "2026-02-20T15:11:23Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -28,7 +28,7 @@
             "spdx:name": "Apple Public Source License 1.2",
             "rdfs:seeAlso": "http://www.samurajdata.se/opensource/mirror/licenses/apsl.php",
             "spdx:crossRef": {
-                "@id": "_:20ecefa2-9b06-4da0-8ab3-c2e36ba95b70"
+                "@id": "_:6cacd4df-5f81-4fbb-8c93-94ee274ab8c3"
             },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",

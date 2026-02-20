@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:77f8dd91-8edb-493c-b8db-b5a665a75859",
+            "@id": "_:b8775bb9-9744-45a1-b6a5-330e09f780f7",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Rdisc_License",
-            "spdx:timestamp": "2026-02-20T13:31:52Z",
+            "spdx:timestamp": "2026-02-20T15:07:58Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:77f8dd91-8edb-493c-b8db-b5a665a75859"
+                "@id": "_:b8775bb9-9744-45a1-b6a5-330e09f780f7"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

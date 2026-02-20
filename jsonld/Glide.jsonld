@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:1375e679-0c35-4b53-a4fd-ef4880665842"
+                "@id": "_:79270fd7-8d2d-4f14-a30c-785ea828c74f"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:1375e679-0c35-4b53-a4fd-ef4880665842",
+            "@id": "_:79270fd7-8d2d-4f14-a30c-785ea828c74f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.users.on.net/~triforce/glidexp/COPYING.txt",
-            "spdx:timestamp": "2026-02-20T13:37:40Z",
+            "spdx:timestamp": "2026-02-20T15:13:00Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

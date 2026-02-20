@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:df2d63d3-b071-49ea-a1ac-a0a00711f37d",
+            "@id": "_:1a4c1f1c-40ea-4840-bc5a-e793fca92ac8",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://metacpan.org/release/JUERD/Exporter-Tidy-0.09/view/Tidy.pm#LICENSE",
-            "spdx:timestamp": "2026-02-20T13:35:00Z",
+            "spdx:timestamp": "2026-02-20T15:09:53Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:ca7a6f0f-1c19-4d40-a306-c09b35d3bec0",
+            "@id": "_:b2dd1f42-306b-48d8-9329-140d4685d91f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://metacpan.org/pod/Net::MQTT::Simple#LICENSE",
-            "spdx:timestamp": "2026-02-20T13:35:00Z",
+            "spdx:timestamp": "2026-02-20T15:09:54Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -55,21 +55,21 @@
                 "https://metacpan.org/pod/Qmail::Deliverable::Client#LICENSE",
                 "https://metacpan.org/pod/Net::MQTT::Simple#LICENSE"
             ],
+            "spdx:crossRef": [
+                {
+                    "@id": "_:1a4c1f1c-40ea-4840-bc5a-e793fca92ac8"
+                },
+                {
+                    "@id": "_:b2dd1f42-306b-48d8-9329-140d4685d91f"
+                },
+                {
+                    "@id": "_:15991789-173a-4df8-a428-b229e2046106"
+                }
+            ],
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:ca7a6f0f-1c19-4d40-a306-c09b35d3bec0"
-                },
-                {
-                    "@id": "_:06c9c54e-8e4b-4089-a836-93b8c89c29b8"
-                },
-                {
-                    "@id": "_:df2d63d3-b071-49ea-a1ac-a0a00711f37d"
-                }
-            ],
             "spdx:licenseTextHtml": "\n         <p>\n            This software may be redistributed under the terms of the GPL, LGPL,\n            modified BSD, or Artistic license, or any of the other OSI approved\n            licenses listed at http://www.opensource.org/licenses/alphabetical.\n            Distribution is allowed under all of these licenses, or any smaller\n            subset of multiple or just one of these licenses.\n         </p>\n\n         <p>\n            When using a packaged version, please refer to the package metadata to see\n            under which license terms it was distributed. Alternatively, a distributor\n            may choose to replace the LICENSE section of the documentation and/or\n            include a LICENSE file to reflect the license(s) they chose to redistribute\n            under.\n         </p>\n\n      ",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -80,7 +80,7 @@
             "rdfs:comment": "This is similar in spirit to any-OSI, but has some more specific text. It is used in several Perl modules."
         },
         {
-            "@id": "_:06c9c54e-8e4b-4089-a836-93b8c89c29b8",
+            "@id": "_:15991789-173a-4df8-a428-b229e2046106",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -94,7 +94,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://metacpan.org/pod/Qmail::Deliverable::Client#LICENSE",
-            "spdx:timestamp": "2026-02-20T13:34:59Z",
+            "spdx:timestamp": "2026-02-20T15:09:53Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

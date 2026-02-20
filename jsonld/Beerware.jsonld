@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:8d7edac9-fe0e-4629-9ec9-372b1ac2fb42",
+            "@id": "_:afabd54b-04bf-459c-924d-1865552a74bf",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Beerware",
-            "spdx:timestamp": "2026-02-20T13:35:07Z",
+            "spdx:timestamp": "2026-02-20T15:10:11Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:e1d7a190-6fe1-41b7-a5bf-5d01c18bf737",
+            "@id": "_:4b274e46-9e15-4691-b834-7c2290029be3",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://people.freebsd.org/~phk/",
-            "spdx:timestamp": "2026-02-20T13:35:05Z",
+            "spdx:timestamp": "2026-02-20T15:10:11Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -48,6 +48,14 @@
         },
         {
             "@id": "http://spdx.org/licenses/Beerware",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:afabd54b-04bf-459c-924d-1865552a74bf"
+                },
+                {
+                    "@id": "_:4b274e46-9e15-4691-b834-7c2290029be3"
+                }
+            ],
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -64,15 +72,7 @@
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:e1d7a190-6fe1-41b7-a5bf-5d01c18bf737"
-                },
-                {
-                    "@id": "_:8d7edac9-fe0e-4629-9ec9-372b1ac2fb42"
-                }
-            ]
+            }
         }
     ],
     "@context": {

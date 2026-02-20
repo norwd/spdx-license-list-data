@@ -1,9 +1,32 @@
 {
     "@graph": [
         {
+            "@id": "_:1dbd4579-8dec-477b-b3cb-305e320c60e8",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://pages.cs.wisc.edu/~ghost/doc/AFPL/6.01/Public.htm",
+            "spdx:timestamp": "2026-02-20T15:12:30Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/Aladdin",
             "spdx:crossRef": {
-                "@id": "_:6272117a-27e0-4df0-9842-08c829c8e105"
+                "@id": "_:1dbd4579-8dec-477b-b3cb-305e320c60e8"
             },
             "spdx:name": "Aladdin Free Public License",
             "rdfs:seeAlso": "http://pages.cs.wisc.edu/~ghost/doc/AFPL/6.01/Public.htm",
@@ -24,29 +47,6 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
-        },
-        {
-            "@id": "_:6272117a-27e0-4df0-9842-08c829c8e105",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://pages.cs.wisc.edu/~ghost/doc/AFPL/6.01/Public.htm",
-            "spdx:timestamp": "2026-02-20T13:37:10Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

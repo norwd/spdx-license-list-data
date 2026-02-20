@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:3f4d2b99-75c2-447d-af3a-d8fd4ff33341",
+            "@id": "_:c23314be-229f-4490-9e01-e0d948722bf4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.libpng.org/pub/png/src/libpng-LICENSE.txt",
-            "spdx:timestamp": "2026-02-20T13:35:07Z",
+            "spdx:timestamp": "2026-02-20T15:10:11Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -33,7 +33,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:3f4d2b99-75c2-447d-af3a-d8fd4ff33341"
+                "@id": "_:c23314be-229f-4490-9e01-e0d948722bf4"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

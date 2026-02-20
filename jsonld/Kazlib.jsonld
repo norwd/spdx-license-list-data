@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:479686a3-6129-4944-b6ec-f3c666a59487"
+                "@id": "_:fd2c1469-fd4d-4006-83be-9c8dbc82d393"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:479686a3-6129-4944-b6ec-f3c666a59487",
+            "@id": "_:fd2c1469-fd4d-4006-83be-9c8dbc82d393",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://git.savannah.gnu.org/cgit/kazlib.git/tree/except.c?id=0062df360c2d17d57f6af19b0e444c51feb99036",
-            "spdx:timestamp": "2026-02-20T13:32:08Z",
+            "spdx:timestamp": "2026-02-20T15:08:07Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

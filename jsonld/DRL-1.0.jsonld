@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:0446ad95-8024-46da-bf9c-66c76f581abd",
+            "@id": "_:fbce4812-ac96-4cf9-8b4d-1d7a3309780e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/Neo23x0/sigma/blob/master/LICENSE.Detection.Rules.md",
-            "spdx:timestamp": "2026-02-20T13:36:27Z",
+            "spdx:timestamp": "2026-02-20T15:11:23Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:0446ad95-8024-46da-bf9c-66c76f581abd"
+                "@id": "_:fbce4812-ac96-4cf9-8b4d-1d7a3309780e"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

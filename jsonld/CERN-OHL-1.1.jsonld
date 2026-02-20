@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:174a1ab9-1fe9-4e23-a281-240da75135b0"
+                "@id": "_:173332eb-e1a5-42f4-88b3-cb5662f4a130"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:174a1ab9-1fe9-4e23-a281-240da75135b0",
+            "@id": "_:173332eb-e1a5-42f4-88b3-cb5662f4a130",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.ohwr.org/project/licenses/wikis/cern-ohl-v1.1",
-            "spdx:timestamp": "2026-02-20T13:31:53Z",
+            "spdx:timestamp": "2026-02-20T15:07:59Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

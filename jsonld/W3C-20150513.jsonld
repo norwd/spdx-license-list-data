@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:b5cfca89-a4d6-4953-90d9-98ddf51eafe7",
+            "@id": "_:2899c3cb-32b1-49e3-a600-e65afaab2831",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document",
-            "spdx:timestamp": "2026-02-20T13:35:50Z",
+            "spdx:timestamp": "2026-02-20T15:11:17Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,30 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:95dd9a72-d822-41f8-b87e-0f2eaee4cb1b",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.w3.org/copyright/software-license-2015/",
-            "spdx:timestamp": "2026-02-20T13:35:50Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:e5da88fe-84bf-454b-afde-f419d837d03d",
+            "@id": "_:d17e2da6-2c6e-45bb-a15f-d7551d08b402",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -61,9 +38,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.w3.org/copyright/software-license-2023/",
-            "spdx:timestamp": "2026-02-20T13:35:50Z",
+            "spdx:timestamp": "2026-02-20T15:11:17Z",
             "spdx:order": {
                 "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:b9e9e7fc-8193-4a5f-b38e-fd75435573a4",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://www.w3.org/copyright/software-license-2015/",
+            "spdx:timestamp": "2026-02-20T15:11:17Z",
+            "spdx:order": {
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",
@@ -78,13 +78,13 @@
             "rdfs:comment": "This license takes effect 13 May, 2015. The changes from the previous version make clear that the license is applicable to both software and text, by changing the name and substituting \"work\" for instances of \"software and its documentation.\" It moves \"notice of changes or modifications to the files\" to the copyright notice, to make clear that the license is compatible with other liberal licenses. In 2023, W3C made minor modifications to this license as of Jan 1, 2023 (see URL above). However, those changes did not give rise to a new license under the SPDX Matching Guidelines, thus the same id can be used.",
             "spdx:crossRef": [
                 {
-                    "@id": "_:b5cfca89-a4d6-4953-90d9-98ddf51eafe7"
+                    "@id": "_:2899c3cb-32b1-49e3-a600-e65afaab2831"
                 },
                 {
-                    "@id": "_:e5da88fe-84bf-454b-afde-f419d837d03d"
+                    "@id": "_:d17e2da6-2c6e-45bb-a15f-d7551d08b402"
                 },
                 {
-                    "@id": "_:95dd9a72-d822-41f8-b87e-0f2eaee4cb1b"
+                    "@id": "_:b9e9e7fc-8193-4a5f-b38e-fd75435573a4"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {

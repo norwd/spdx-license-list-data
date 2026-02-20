@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:e2fe8759-d667-4eb4-9fce-4ba1c8b35257",
+            "@id": "_:af4b2ff7-6bfa-45a6-b689-4fe8a9c35467",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/SWI-Prolog/packages-clib/blob/master/sha1/brg_endian.h",
-            "spdx:timestamp": "2026-02-20T13:35:19Z",
+            "spdx:timestamp": "2026-02-20T15:10:45Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:e2fe8759-d667-4eb4-9fce-4ba1c8b35257"
+                "@id": "_:af4b2ff7-6bfa-45a6-b689-4fe8a9c35467"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

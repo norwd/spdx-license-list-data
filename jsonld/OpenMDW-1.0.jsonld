@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:ddf96cf5-8955-4da4-a8c0-04d7ae6ec5c1",
+            "@id": "_:89b6135d-c8d3-4997-bc97-a3383bec3d44",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://openmdw.ai/license/",
-            "spdx:timestamp": "2026-02-20T13:37:08Z",
+            "spdx:timestamp": "2026-02-20T15:12:30Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:c06c9890-ebb9-4ef1-8b38-2812f033b662",
+            "@id": "_:82453765-4da0-417b-9427-1573e7b66398",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://raw.githubusercontent.com/OpenMDW/OpenMDW/refs/heads/main/1.0/LICENSE.openmdw",
-            "spdx:timestamp": "2026-02-20T13:37:09Z",
+            "spdx:timestamp": "2026-02-20T15:12:31Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -55,15 +55,15 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:name": "OpenMDW License Agreement v1.0",
             "spdx:crossRef": [
                 {
-                    "@id": "_:ddf96cf5-8955-4da4-a8c0-04d7ae6ec5c1"
+                    "@id": "_:89b6135d-c8d3-4997-bc97-a3383bec3d44"
                 },
                 {
-                    "@id": "_:c06c9890-ebb9-4ef1-8b38-2812f033b662"
+                    "@id": "_:82453765-4da0-417b-9427-1573e7b66398"
                 }
             ],
-            "spdx:name": "OpenMDW License Agreement v1.0",
             "rdfs:seeAlso": [
                 "https://openmdw.ai/license/",
                 "https://raw.githubusercontent.com/OpenMDW/OpenMDW/refs/heads/main/1.0/LICENSE.openmdw"

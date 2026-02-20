@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:fc6ff5fe-eb43-4356-b5c5-2d803b7b9304"
+                "@id": "_:73c41abf-62a0-4c5d-b458-02368b11881b"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:fc6ff5fe-eb43-4356-b5c5-2d803b7b9304",
+            "@id": "_:73c41abf-62a0-4c5d-b458-02368b11881b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "ftp://ftp.tin.org/pub/news/utils/newsx/newsx-1.6.tar.gz",
-            "spdx:timestamp": "2026-02-20T13:31:37Z",
+            "spdx:timestamp": "2026-02-20T15:07:43Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

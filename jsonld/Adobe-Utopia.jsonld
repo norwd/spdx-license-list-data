@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:0b88c39f-2dc3-4908-9282-78bdaf334cce",
+            "@id": "_:4d8e170e-3cd8-4150-a584-dd28edb74d86",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.freedesktop.org/xorg/font/adobe-utopia-100dpi/-/blob/master/COPYING?ref_type=heads",
-            "spdx:timestamp": "2026-02-20T13:31:44Z",
+            "spdx:timestamp": "2026-02-20T15:07:49Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:0b88c39f-2dc3-4908-9282-78bdaf334cce"
+                "@id": "_:4d8e170e-3cd8-4150-a584-dd28edb74d86"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

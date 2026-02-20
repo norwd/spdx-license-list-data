@@ -2,21 +2,21 @@
     "@graph": [
         {
             "@id": "http://spdx.org/licenses/UnixCrypt",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:f029effe-9a35-4617-b56a-cbd5cb175bfb"
-                },
-                {
-                    "@id": "_:e7f78605-95ae-474e-bbbf-3adda1c11e7d"
-                },
-                {
-                    "@id": "_:2a9e0766-56df-4501-a2d0-294c3e99cfa7"
-                }
-            ],
             "rdfs:seeAlso": [
                 "https://foss.heptapod.net/python-libs/passlib/-/blob/branch/stable/LICENSE#L70",
                 "https://archive.eclipse.org/jetty/8.0.1.v20110908/xref/org/eclipse/jetty/http/security/UnixCrypt.html",
                 "https://opensource.apple.com/source/JBoss/JBoss-737/jboss-all/jetty/src/main/org/mortbay/util/UnixCrypt.java.auto.html"
+            ],
+            "spdx:crossRef": [
+                {
+                    "@id": "_:e6995f15-f386-459e-acb7-b25679922b55"
+                },
+                {
+                    "@id": "_:50b2b653-076c-452a-ab82-fda3817507a1"
+                },
+                {
+                    "@id": "_:df581f4f-c14a-43ca-8642-51002374ff6d"
+                }
             ],
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright (c) 1996 Aki Yoshida. All rights reserved.\";match=\".{0,5000}\">>\nPermission to use, copy, modify and distribute this software for non-commercial or commercial purposes and without fee is hereby granted provided that this copyright notice appears in all copies.\n\n",
             "spdx:name": "UnixCrypt License",
@@ -33,30 +33,7 @@
             }
         },
         {
-            "@id": "_:f029effe-9a35-4617-b56a-cbd5cb175bfb",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://archive.eclipse.org/jetty/8.0.1.v20110908/xref/org/eclipse/jetty/http/security/UnixCrypt.html",
-            "spdx:timestamp": "2026-02-20T13:35:04Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:e7f78605-95ae-474e-bbbf-3adda1c11e7d",
+            "@id": "_:e6995f15-f386-459e-acb7-b25679922b55",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -70,7 +47,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://foss.heptapod.net/python-libs/passlib/-/blob/branch/stable/LICENSE#L70",
-            "spdx:timestamp": "2026-02-20T13:35:03Z",
+            "spdx:timestamp": "2026-02-20T15:10:11Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -79,7 +56,30 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:2a9e0766-56df-4501-a2d0-294c3e99cfa7",
+            "@id": "_:50b2b653-076c-452a-ab82-fda3817507a1",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://archive.eclipse.org/jetty/8.0.1.v20110908/xref/org/eclipse/jetty/http/security/UnixCrypt.html",
+            "spdx:timestamp": "2026-02-20T15:10:12Z",
+            "spdx:order": {
+                "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:df581f4f-c14a-43ca-8642-51002374ff6d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -93,7 +93,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.apple.com/source/JBoss/JBoss-737/jboss-all/jetty/src/main/org/mortbay/util/UnixCrypt.java.auto.html",
-            "spdx:timestamp": "2026-02-20T13:35:02Z",
+            "spdx:timestamp": "2026-02-20T15:10:10Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -12,17 +12,17 @@
             },
             "spdx:licenseText": "Copyright (C) 2008 Micah J. Cowan\n\nCopying and distribution of this file, with or without modification,\nare permitted in any medium without royalty provided the copyright\nnotice and this notice are preserved.\n",
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright (C) 2008 Micah J. Cowan\";match=\".{0,5000}\">>\nCopying and distribution of this file, with or without modification, are permitted in any medium without royalty provided the copyright notice and this notice are preserved.\n\n",
-            "spdx:crossRef": {
-                "@id": "_:5e84ef0f-6176-4649-85cb-f99c97682083"
-            },
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": {
+                "@id": "_:3d231df1-9abd-4949-850f-6d40fee73355"
+            },
             "spdx:name": "FSF All Permissive License (without Warranty)"
         },
         {
-            "@id": "_:5e84ef0f-6176-4649-85cb-f99c97682083",
+            "@id": "_:3d231df1-9abd-4949-850f-6d40fee73355",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,12 +36,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://git.savannah.gnu.org/cgit/wget.git/tree/util/trunc.c?h=v1.21.3&id=40747a11e44ced5a8ac628a41f879ced3e2ebce9#n6",
-            "spdx:timestamp": "2026-02-20T13:32:14Z",
+            "spdx:timestamp": "2026-02-20T15:08:10Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

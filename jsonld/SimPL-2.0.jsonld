@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:95b966e8-e174-4d4f-ad8f-6b126bf23a7d",
+            "@id": "_:e2595468-6651-472a-a5d4-3508691cab88",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/SimPL-2.0",
-            "spdx:timestamp": "2026-02-20T13:32:04Z",
+            "spdx:timestamp": "2026-02-20T15:08:06Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:95b966e8-e174-4d4f-ad8f-6b126bf23a7d"
+                "@id": "_:e2595468-6651-472a-a5d4-3508691cab88"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",

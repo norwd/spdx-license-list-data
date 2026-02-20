@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:6c8e2ae7-fc80-45c4-ba4f-15c697c74a99"
+                "@id": "_:1cec2adc-fbb1-4d63-a609-4c4689274f0d"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:6c8e2ae7-fc80-45c4-ba4f-15c697c74a99",
+            "@id": "_:1cec2adc-fbb1-4d63-a609-4c4689274f0d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Saxpath_License",
-            "spdx:timestamp": "2026-02-20T13:31:38Z",
+            "spdx:timestamp": "2026-02-20T15:07:44Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

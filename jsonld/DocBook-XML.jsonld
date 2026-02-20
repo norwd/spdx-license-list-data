@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:56dc1955-7a1a-4140-adfe-7bba953e6470",
+            "@id": "_:a9660616-e4b9-4adf-8633-f7b01b523f8c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/docbook/xslt10-stylesheets/blob/efd62655c11cc8773708df7a843613fa1e932bf8/xsl/COPYING#L27",
-            "spdx:timestamp": "2026-02-20T13:36:26Z",
+            "spdx:timestamp": "2026-02-20T15:11:22Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:56dc1955-7a1a-4140-adfe-7bba953e6470"
+                "@id": "_:a9660616-e4b9-4adf-8633-f7b01b523f8c"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

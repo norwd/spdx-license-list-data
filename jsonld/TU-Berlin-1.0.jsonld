@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:89f98448-728b-4cef-b701-7733788260f3",
+            "@id": "_:931100b9-6edf-4b7e-8f8d-16bc0042778e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/swh/ladspa/blob/7bf6f3799fdba70fda297c2d8fd9f526803d9680/gsm/COPYRIGHT",
-            "spdx:timestamp": "2026-02-20T13:35:02Z",
+            "spdx:timestamp": "2026-02-20T15:10:10Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:89f98448-728b-4cef-b701-7733788260f3"
+                "@id": "_:931100b9-6edf-4b7e-8f8d-16bc0042778e"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

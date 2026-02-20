@@ -12,10 +12,10 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:faafea15-c79f-47c2-9ba6-ad84a895a709"
+                    "@id": "_:15640676-d578-4acf-85a2-8c151f10d508"
                 },
                 {
-                    "@id": "_:f573954a-046a-45f1-9002-fedad0a568e2"
+                    "@id": "_:18fc13e6-fb5c-48e8-a1b9-2477f86c8663"
                 }
             ],
             "rdfs:comment": "As per Creative Commons, this is intended to provide a standard way to mark works that are no longer restricted by copyright to be marked as such in a standard and simple way. See https://creativecommons.org/public-domain/pdm/ for more information.",
@@ -30,7 +30,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:faafea15-c79f-47c2-9ba6-ad84a895a709",
+            "@id": "_:15640676-d578-4acf-85a2-8c151f10d508",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -44,7 +44,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://creativecommons.org/share-your-work/cclicenses/",
-            "spdx:timestamp": "2026-02-20T13:31:36Z",
+            "spdx:timestamp": "2026-02-20T15:07:42Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -53,7 +53,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:f573954a-046a-45f1-9002-fedad0a568e2",
+            "@id": "_:18fc13e6-fb5c-48e8-a1b9-2477f86c8663",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,7 +67,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://creativecommons.org/publicdomain/mark/1.0/",
-            "spdx:timestamp": "2026-02-20T13:31:36Z",
+            "spdx:timestamp": "2026-02-20T15:07:42Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

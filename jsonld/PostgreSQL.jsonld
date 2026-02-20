@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:863d7ed9-4d4d-4eb3-b23b-a68f4ac8fc0d",
+            "@id": "_:b5ff8240-81f5-43be-a033-b30b56295978",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.postgresql.org/about/licence",
-            "spdx:timestamp": "2026-02-20T13:37:10Z",
+            "spdx:timestamp": "2026-02-20T15:12:31Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,15 +25,15 @@
         },
         {
             "@id": "http://spdx.org/licenses/PostgreSQL",
-            "@type": "spdx:ListedLicense",
             "spdx:crossRef": [
                 {
-                    "@id": "_:b699a118-1e7d-419f-8f41-ac2d5966a39a"
+                    "@id": "_:58c05df7-27d6-4a51-98b3-0954f290bb3e"
                 },
                 {
-                    "@id": "_:863d7ed9-4d4d-4eb3-b23b-a68f4ac8fc0d"
+                    "@id": "_:b5ff8240-81f5-43be-a033-b30b56295978"
                 }
             ],
+            "@type": "spdx:ListedLicense",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -52,7 +52,7 @@
             "spdx:name": "PostgreSQL License"
         },
         {
-            "@id": "_:b699a118-1e7d-419f-8f41-ac2d5966a39a",
+            "@id": "_:58c05df7-27d6-4a51-98b3-0954f290bb3e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/PostgreSQL",
-            "spdx:timestamp": "2026-02-20T13:37:10Z",
+            "spdx:timestamp": "2026-02-20T15:12:32Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

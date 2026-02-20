@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:3fd929a0-05d9-48d0-abfe-e4e9247e01bd"
+                "@id": "_:e7d4d05e-f047-4108-9b61-0ad78763c72b"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:3fd929a0-05d9-48d0-abfe-e4e9247e01bd",
+            "@id": "_:e7d4d05e-f047-4108-9b61-0ad78763c72b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Threeparttable",
-            "spdx:timestamp": "2026-02-20T13:37:06Z",
+            "spdx:timestamp": "2026-02-20T15:12:29Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -1,33 +1,10 @@
 {
     "@graph": [
         {
-            "@id": "_:46f8bfe8-cfd3-44b2-900e-f4f8d9da8f08",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://math.nist.gov/tnt/download.html",
-            "spdx:timestamp": "2026-02-20T13:31:43Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/NIST-PD-TNT",
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:46f8bfe8-cfd3-44b2-900e-f4f8d9da8f08"
+                "@id": "_:9e765c40-0d36-466f-a20e-9b01b3d78cda"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -43,6 +20,29 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
+        },
+        {
+            "@id": "_:9e765c40-0d36-466f-a20e-9b01b3d78cda",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://math.nist.gov/tnt/download.html",
+            "spdx:timestamp": "2026-02-20T15:07:48Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {
