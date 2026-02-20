@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:dfaad1be-cfd2-47f4-aa62-42217cbea67c",
+            "@id": "_:d8fb8227-ca8d-475e-8f32-a04790ccbaa4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://android.googlesource.com/platform/external/dng_sdk/+/refs/heads/master/source/dng_lossless_jpeg.cpp#16",
-            "spdx:timestamp": "2026-02-20T15:43:23Z",
+            "spdx:timestamp": "2026-02-20T16:11:48Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:04bda87e-ec08-4517-bc73-f2c28facfd51",
+            "@id": "_:12a48fb3-1f5d-437f-9feb-a2bc7cc99aef",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.mssl.ucl.ac.uk/~mcrw/src/20050920/proto.h",
-            "spdx:timestamp": "2026-02-20T15:43:23Z",
+            "spdx:timestamp": "2026-02-20T16:11:48Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,7 +47,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:09dc3336-4429-4205-bf8e-586ddad65e9e",
+            "@id": "_:52724570-b98f-49e2-8bc1-b2489bac9947",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -61,7 +61,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.freedesktop.org/libopenraw/libopenraw/blob/master/lib/ljpegdecompressor.cpp#L32",
-            "spdx:timestamp": "2026-02-20T15:43:24Z",
+            "spdx:timestamp": "2026-02-20T16:11:50Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -71,17 +71,6 @@
         },
         {
             "@id": "http://spdx.org/licenses/Cornell-Lossless-JPEG",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:09dc3336-4429-4205-bf8e-586ddad65e9e"
-                },
-                {
-                    "@id": "_:04bda87e-ec08-4517-bc73-f2c28facfd51"
-                },
-                {
-                    "@id": "_:dfaad1be-cfd2-47f4-aa62-42217cbea67c"
-                }
-            ],
             "rdfs:seeAlso": [
                 "https://gitlab.freedesktop.org/libopenraw/libopenraw/blob/master/lib/ljpegdecompressor.cpp#L32",
                 "https://www.mssl.ucl.ac.uk/~mcrw/src/20050920/proto.h",
@@ -91,6 +80,17 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": [
+                {
+                    "@id": "_:52724570-b98f-49e2-8bc1-b2489bac9947"
+                },
+                {
+                    "@id": "_:12a48fb3-1f5d-437f-9feb-a2bc7cc99aef"
+                },
+                {
+                    "@id": "_:d8fb8227-ca8d-475e-8f32-a04790ccbaa4"
+                }
+            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"

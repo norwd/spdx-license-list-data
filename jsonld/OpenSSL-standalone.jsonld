@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:834631c1-0968-47cc-ace8-f824ba2a0eb4",
+            "@id": "_:9d0d6e8e-2210-4c0c-b9eb-aab3a6983add",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://hstechdocs.helpsystems.com/manuals/globalscape/archive/cuteftp6/open_ssl_license_agreement.htm",
-            "spdx:timestamp": "2026-02-20T15:43:28Z",
+            "spdx:timestamp": "2026-02-20T16:12:50Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:a71cfb31-22d7-4b47-86c0-4a60c2433708",
+            "@id": "_:a08d5048-9494-49a6-85ac-03f9ac983d8e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://library.netapp.com/ecm/ecm_download_file/ECMP1196395",
-            "spdx:timestamp": "2026-02-20T15:43:28Z",
+            "spdx:timestamp": "2026-02-20T16:12:50Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -59,10 +59,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:a71cfb31-22d7-4b47-86c0-4a60c2433708"
+                    "@id": "_:a08d5048-9494-49a6-85ac-03f9ac983d8e"
                 },
                 {
-                    "@id": "_:834631c1-0968-47cc-ace8-f824ba2a0eb4"
+                    "@id": "_:9d0d6e8e-2210-4c0c-b9eb-aab3a6983add"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {

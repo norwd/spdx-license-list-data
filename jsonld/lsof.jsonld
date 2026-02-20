@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:0bc22e1c-2538-4eb8-8d59-48283d09f58b",
+            "@id": "_:f0904119-877b-452b-8cb4-697392f5d367",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/lsof-org/lsof/blob/master/COPYING",
-            "spdx:timestamp": "2026-02-20T15:44:22Z",
+            "spdx:timestamp": "2026-02-20T16:15:50Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:0bc22e1c-2538-4eb8-8d59-48283d09f58b"
+                "@id": "_:f0904119-877b-452b-8cb4-697392f5d367"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

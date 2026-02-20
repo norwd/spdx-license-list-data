@@ -8,6 +8,21 @@
     <rdfs:comment>This license is similar to Cube and zlib, but adds an acknowledgment requirement.</rdfs:comment>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://github.com/krzyzanowskim/CryptoSwift/blob/main/LICENSE</spdx:url>
+        <spdx:timestamp>2026-02-20T16:16:26Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <rdfs:seeAlso>https://github.com/krzyzanowskim/CryptoSwift/blob/main/LICENSE</rdfs:seeAlso>
     <spdx:licenseText>Copyright (C) 2014-3099 Marcin Krzyżanowski
 This software is provided 'as-is', without any express or implied warranty.
@@ -32,21 +47,6 @@ Permission is granted to anyone to use this software for any purpose,including c
    &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
    &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; This notice may not be removed or altered from any source or binary distribution.
    &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; Redistributions of any form whatsoever must retain the following acknowledgment: 'This product includes software developed by the "Marcin Krzyzanowski" (http://krzyzanowskim.com/).'</spdx:standardLicenseTemplate>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://github.com/krzyzanowskim/CryptoSwift/blob/main/LICENSE</spdx:url>
-        <spdx:timestamp>2026-02-20T15:45:11Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:name>CryptoSwift License</spdx:name>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>

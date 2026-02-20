@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:ebba6846-842a-471c-b0fc-73b9c60b7b8b"
+                "@id": "_:e5434a8e-320a-4412-b335-9f5a7284a342"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:ebba6846-842a-471c-b0fc-73b9c60b7b8b",
+            "@id": "_:e5434a8e-320a-4412-b335-9f5a7284a342",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/MakeIndex",
-            "spdx:timestamp": "2026-02-20T15:40:22Z",
+            "spdx:timestamp": "2026-02-20T16:05:33Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

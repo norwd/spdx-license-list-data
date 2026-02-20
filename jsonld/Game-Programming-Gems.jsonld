@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:f3f640d5-0397-4450-b64b-8e0e0aba91fe",
+            "@id": "_:1a3fd4e6-0e12-4921-a980-1cd54f02e83f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/OGRECave/ogre/blob/master/OgreMain/include/OgreSingleton.h#L28C3-L35C46",
-            "spdx:timestamp": "2026-02-20T15:41:28Z",
+            "spdx:timestamp": "2026-02-20T16:09:17Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:f3f640d5-0397-4450-b64b-8e0e0aba91fe"
+                "@id": "_:1a3fd4e6-0e12-4921-a980-1cd54f02e83f"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

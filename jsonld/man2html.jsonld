@@ -10,13 +10,13 @@
             "spdx:standardLicenseTemplate": "Permission is granted to distribute, modify and use this program as long as this comment is not removed or changed.\n\n",
             "spdx:crossRef": [
                 {
-                    "@id": "_:c1ff8f5e-f326-4600-a584-ce2312399db6"
+                    "@id": "_:5c178c2c-b0db-4aad-9af5-9770bcec6919"
                 },
                 {
-                    "@id": "_:0e8651f8-9b4e-44ff-91e0-47adbf195b85"
+                    "@id": "_:dc48c1b8-23f4-4dc1-92ea-7a35bcb92212"
                 },
                 {
-                    "@id": "_:c4faf6a3-0768-4dd1-9edc-ece77d496a01"
+                    "@id": "_:0e63b6ac-d41c-451f-ac7b-e330af5030b0"
                 }
             ],
             "spdx:isOsiApproved": {
@@ -34,7 +34,7 @@
             "spdx:licenseText": "Permission is granted to distribute, modify and use this program\nas long as this comment is not removed or changed.\n"
         },
         {
-            "@id": "_:c1ff8f5e-f326-4600-a584-ce2312399db6",
+            "@id": "_:5c178c2c-b0db-4aad-9af5-9770bcec6919",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -48,7 +48,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/hamano/man2html/blob/master/man2html.c",
-            "spdx:timestamp": "2026-02-20T15:45:12Z",
+            "spdx:timestamp": "2026-02-20T16:16:59Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -57,30 +57,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:0e8651f8-9b4e-44ff-91e0-47adbf195b85",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://docs.oracle.com/cd/E81115_01/html/E81116/licenses.html",
-            "spdx:timestamp": "2026-02-20T15:45:12Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:c4faf6a3-0768-4dd1-9edc-ece77d496a01",
+            "@id": "_:dc48c1b8-23f4-4dc1-92ea-7a35bcb92212",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -94,12 +71,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://primates.ximian.com/~flucifredi/man/man-1.6g.tar.gz",
-            "spdx:timestamp": "2026-02-20T15:45:12Z",
+            "spdx:timestamp": "2026-02-20T16:16:58Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:0e63b6ac-d41c-451f-ac7b-e330af5030b0",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://docs.oracle.com/cd/E81115_01/html/E81116/licenses.html",
+            "spdx:timestamp": "2026-02-20T16:16:58Z",
+            "spdx:order": {
+                "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         }
     ],

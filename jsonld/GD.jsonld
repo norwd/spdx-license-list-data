@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:d0ee3467-74b0-40d4-94b5-078831f642ba",
+            "@id": "_:ec2f7744-247f-4c30-bbba-95c6b2bd225f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://libgd.github.io/manuals/2.3.0/files/license-txt.html",
-            "spdx:timestamp": "2026-02-20T15:43:41Z",
+            "spdx:timestamp": "2026-02-20T16:15:01Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:d0ee3467-74b0-40d4-94b5-078831f642ba"
+                "@id": "_:ec2f7744-247f-4c30-bbba-95c6b2bd225f"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:1648dca3-eefd-422e-b419-70d9eeee7888",
+            "@id": "_:dbdf1532-5151-47be-b055-e7da54cdbc6e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/Frameworx-1.0",
-            "spdx:timestamp": "2026-02-20T15:43:23Z",
+            "spdx:timestamp": "2026-02-20T16:11:55Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -33,7 +33,7 @@
             "spdx:name": "Frameworx Open License 1.0",
             "rdfs:seeAlso": "https://opensource.org/licenses/Frameworx-1.0",
             "spdx:crossRef": {
-                "@id": "_:1648dca3-eefd-422e-b419-70d9eeee7888"
+                "@id": "_:dbdf1532-5151-47be-b055-e7da54cdbc6e"
             },
             "@type": "spdx:ListedLicense",
             "rdfs:comment": "The url included in the license does not work. (15/10/10)",

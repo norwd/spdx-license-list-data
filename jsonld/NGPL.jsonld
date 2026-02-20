@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:506ac56c-4966-48ed-8fa6-8fa13d453e4c"
+                "@id": "_:0a780b50-9acb-4da1-8b32-19f3cbcc5590"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:506ac56c-4966-48ed-8fa6-8fa13d453e4c",
+            "@id": "_:0a780b50-9acb-4da1-8b32-19f3cbcc5590",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/NGPL",
-            "spdx:timestamp": "2026-02-20T15:43:27Z",
+            "spdx:timestamp": "2026-02-20T16:12:49Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

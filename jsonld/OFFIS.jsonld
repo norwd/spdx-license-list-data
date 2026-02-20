@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:98dda7bc-0dd2-475a-b75e-1ac79c37eb13"
+                "@id": "_:bbf086c5-15b0-4049-85d8-cafe6c1f6d34"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:98dda7bc-0dd2-475a-b75e-1ac79c37eb13",
+            "@id": "_:bbf086c5-15b0-4049-85d8-cafe6c1f6d34",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceforge.net/p/xmedcon/code/ci/master/tree/libs/dicom/README",
-            "spdx:timestamp": "2026-02-20T15:41:22Z",
+            "spdx:timestamp": "2026-02-20T16:09:14Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

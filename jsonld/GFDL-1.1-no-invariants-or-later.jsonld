@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:a4a2ac9e-5ec6-43b5-82e9-62c6c2e6ee1b",
+            "@id": "_:2c8df51f-e850-4c96-a549-247a497e33d5",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt",
-            "spdx:timestamp": "2026-02-20T15:44:16Z",
+            "spdx:timestamp": "2026-02-20T16:16:02Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -42,10 +42,10 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:a4a2ac9e-5ec6-43b5-82e9-62c6c2e6ee1b"
-            },
-            "@type": "spdx:ListedLicense"
+                "@id": "_:2c8df51f-e850-4c96-a549-247a497e33d5"
+            }
         }
     ],
     "@context": {

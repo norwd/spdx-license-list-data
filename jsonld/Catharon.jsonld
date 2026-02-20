@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:08f05f95-d9ec-45cc-8f55-bbe7fbf02a6e"
+                "@id": "_:073f9ea5-c995-4959-b3d8-95306fc23e55"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:08f05f95-d9ec-45cc-8f55-bbe7fbf02a6e",
+            "@id": "_:073f9ea5-c995-4959-b3d8-95306fc23e55",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/scummvm/scummvm/blob/v2.8.0/LICENSES/CatharonLicense.txt",
-            "spdx:timestamp": "2026-02-20T15:40:24Z",
+            "spdx:timestamp": "2026-02-20T16:05:34Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

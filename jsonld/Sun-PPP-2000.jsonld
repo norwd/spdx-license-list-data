@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:f5b9d8a8-8faa-434d-aaf8-e6c1817bcc54",
+            "@id": "_:1d7eb0a5-b168-488a-8e56-628e7552b9c6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/ppp-project/ppp/blob/master/modules/ppp_ahdlc.c#L7-L19",
-            "spdx:timestamp": "2026-02-20T15:40:37Z",
+            "spdx:timestamp": "2026-02-20T16:07:49Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:f5b9d8a8-8faa-434d-aaf8-e6c1817bcc54"
+                "@id": "_:1d7eb0a5-b168-488a-8e56-628e7552b9c6"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

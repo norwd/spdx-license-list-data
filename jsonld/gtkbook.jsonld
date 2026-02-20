@@ -1,58 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:c9f76303-9ae4-49df-b1d2-5e2ccb02ee59",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/slogan621/gtkbook",
-            "spdx:timestamp": "2026-02-20T15:40:32Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "http://spdx.org/licenses/gtkbook",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:c9f76303-9ae4-49df-b1d2-5e2ccb02ee59"
-                },
-                {
-                    "@id": "_:1598f812-d685-4ae7-af63-1264e89b19f0"
-                }
-            ],
-            "rdfs:seeAlso": [
-                "https://github.com/slogan621/gtkbook",
-                "https://github.com/oetiker/rrdtool-1.x/blob/master/src/plbasename.c#L8-L11"
-            ],
-            "spdx:licenseText": "Copyright 2005 Syd Logan, All Rights Reserved\n\nThis code is distributed without warranty. You are free to use\nthis code for any purpose, however, if this code is republished or\nredistributed in its original form, as hardcopy or electronically,\nthen you must include this copyright notice along with the code.\n",
-            "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright 2005 Syd Logan, All Rights Reserved\";match=\".{0,5000}\">>\nThis code is distributed without warranty. You are free to use this code for any purpose, however, if this code is republished or redistributed in its original form, as hardcopy or electronically, then you must include this copyright notice along with the code.\n\n",
-            "spdx:name": "gtkbook License",
-            "spdx:licenseTextHtml": "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright 2005 Syd Logan, All Rights Reserved\n         </span></var>\n         <p>\n            This code is distributed without warranty. You are free to use\n            this code for any purpose, however, if this code is republished or\n            redistributed in its original form, as hardcopy or electronically,\n            then you must include this copyright notice along with the code.\n         </p>\n\n      ",
-            "@type": "spdx:ListedLicense",
-            "spdx:isDeprecatedLicenseId": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isOsiApproved": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            }
-        },
-        {
-            "@id": "_:1598f812-d685-4ae7-af63-1264e89b19f0",
+            "@id": "_:f804045a-4a57-48c6-93ab-40caec44f121",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,12 +15,63 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/oetiker/rrdtool-1.x/blob/master/src/plbasename.c#L8-L11",
-            "spdx:timestamp": "2026-02-20T15:40:32Z",
+            "spdx:timestamp": "2026-02-20T16:06:40Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "http://spdx.org/licenses/gtkbook",
+            "rdfs:seeAlso": [
+                "https://github.com/slogan621/gtkbook",
+                "https://github.com/oetiker/rrdtool-1.x/blob/master/src/plbasename.c#L8-L11"
+            ],
+            "spdx:licenseText": "Copyright 2005 Syd Logan, All Rights Reserved\n\nThis code is distributed without warranty. You are free to use\nthis code for any purpose, however, if this code is republished or\nredistributed in its original form, as hardcopy or electronically,\nthen you must include this copyright notice along with the code.\n",
+            "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright 2005 Syd Logan, All Rights Reserved\";match=\".{0,5000}\">>\nThis code is distributed without warranty. You are free to use this code for any purpose, however, if this code is republished or redistributed in its original form, as hardcopy or electronically, then you must include this copyright notice along with the code.\n\n",
+            "spdx:name": "gtkbook License",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:f804045a-4a57-48c6-93ab-40caec44f121"
+                },
+                {
+                    "@id": "_:d05e3284-65ac-45da-b2db-9143a2df122c"
+                }
+            ],
+            "spdx:licenseTextHtml": "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright 2005 Syd Logan, All Rights Reserved\n         </span></var>\n         <p>\n            This code is distributed without warranty. You are free to use\n            this code for any purpose, however, if this code is republished or\n            redistributed in its original form, as hardcopy or electronically,\n            then you must include this copyright notice along with the code.\n         </p>\n\n      ",
+            "@type": "spdx:ListedLicense",
+            "spdx:isDeprecatedLicenseId": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isOsiApproved": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            }
+        },
+        {
+            "@id": "_:d05e3284-65ac-45da-b2db-9143a2df122c",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/slogan621/gtkbook",
+            "spdx:timestamp": "2026-02-20T16:06:41Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

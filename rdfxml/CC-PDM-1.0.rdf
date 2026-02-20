@@ -18,7 +18,7 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://creativecommons.org/share-your-work/cclicenses/</spdx:url>
-        <spdx:timestamp>2026-02-20T15:40:25Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T16:05:35Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>false</spdx:match>
@@ -44,21 +44,6 @@ When using or citing the work, you should not imply endorsement by the author or
 
 </spdx:standardLicenseTemplate>
     <spdx:name>Creative    Commons Public Domain Mark 1.0 Universal</spdx:name>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://creativecommons.org/publicdomain/mark/1.0/</spdx:url>
-        <spdx:timestamp>2026-02-20T15:40:25Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>true</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <rdfs:seeAlso>https://creativecommons.org/publicdomain/mark/1.0/</rdfs:seeAlso>
     <spdx:licenseTextHtml>
          &lt;p&gt;
@@ -111,6 +96,21 @@ When using or citing the work, you should not imply endorsement by the author or
          &lt;/p&gt;
 
       </spdx:licenseTextHtml>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://creativecommons.org/publicdomain/mark/1.0/</spdx:url>
+        <spdx:timestamp>2026-02-20T16:05:35Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>true</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
     <spdx:licenseText>No Copyright

@@ -14,13 +14,13 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:e3d60be0-2150-46a9-8686-3408499bbab7"
+                    "@id": "_:c84d1871-6ccb-4869-baa9-04d9fa43b4e4"
                 },
                 {
-                    "@id": "_:2595c642-7245-43b6-b50d-840574d86b19"
+                    "@id": "_:c09837c8-7dc3-4107-87a4-b706fbc29bff"
                 },
                 {
-                    "@id": "_:a4d0b3ec-186e-482e-ad21-2171807c449a"
+                    "@id": "_:b0d82bcf-dd77-43b9-a01f-a678aba3475f"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -34,30 +34,7 @@
             "spdx:name": "MIT License Modern Variant"
         },
         {
-            "@id": "_:e3d60be0-2150-46a9-8686-3408499bbab7",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://ptolemy.berkeley.edu/copyright.htm",
-            "spdx:timestamp": "2026-02-20T15:40:49Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:2595c642-7245-43b6-b50d-840574d86b19",
+            "@id": "_:c84d1871-6ccb-4869-baa9-04d9fa43b4e4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -71,7 +48,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing:MIT#Modern_Variants",
-            "spdx:timestamp": "2026-02-20T15:40:49Z",
+            "spdx:timestamp": "2026-02-20T16:08:24Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -80,7 +57,30 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:a4d0b3ec-186e-482e-ad21-2171807c449a",
+            "@id": "_:c09837c8-7dc3-4107-87a4-b706fbc29bff",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://ptolemy.berkeley.edu/copyright.htm",
+            "spdx:timestamp": "2026-02-20T16:08:23Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:b0d82bcf-dd77-43b9-a01f-a678aba3475f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -94,7 +94,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://pirlwww.lpl.arizona.edu/resources/guide/software/PerlTk/Tixlic.html",
-            "spdx:timestamp": "2026-02-20T15:40:49Z",
+            "spdx:timestamp": "2026-02-20T16:08:24Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

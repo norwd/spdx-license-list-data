@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:9f8d0d60-56ea-4950-8c7b-f21a551e251c",
+            "@id": "_:3d8b5419-7375-49e6-bcf4-e73a2a9d7799",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/software/classpath/license.html",
-            "spdx:timestamp": "2026-02-20T15:42:01Z",
+            "spdx:timestamp": "2026-02-20T16:11:12Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -30,7 +30,7 @@
             "rdfs:comment": "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: Classpath-exception-2.0",
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:9f8d0d60-56ea-4950-8c7b-f21a551e251c"
+                "@id": "_:3d8b5419-7375-49e6-bcf4-e73a2a9d7799"
             },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "true",

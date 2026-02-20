@@ -10,6 +10,22 @@
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
     <rdfs:seeAlso>http://www.egenix.com/products/eGenix.com-Public-License-1.1.0.pdf</rdfs:seeAlso>
+    <spdx:name>eGenix.com Public License 1.1.0</spdx:name>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>http://www.egenix.com/products/eGenix.com-Public-License-1.1.0.pdf</spdx:url>
+        <spdx:timestamp>2026-02-20T16:16:25Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -19,13 +35,12 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://fedoraproject.org/wiki/Licensing/eGenix.com_Public_License_1.1.0</spdx:url>
-        <spdx:timestamp>2026-02-20T15:44:29Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T16:16:24Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:name>eGenix.com Public License 1.1.0</spdx:name>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt;EGENIX.COM PUBLIC LICENSE AGREEMENT
 Version 1.1.0
 
@@ -62,21 +77,6 @@ D-40764 Langenfeld
 Germany
 
 </spdx:standardLicenseTemplate>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>http://www.egenix.com/products/eGenix.com-Public-License-1.1.0.pdf</spdx:url>
-        <spdx:timestamp>2026-02-20T15:44:30Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:licenseText>EGENIX.COM PUBLIC LICENSE AGREEMENT
 Version 1.1.0
 

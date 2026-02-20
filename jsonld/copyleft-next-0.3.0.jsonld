@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:56d3b3e2-83a1-4c8d-b953-3ec337a97f0e"
+                "@id": "_:293e7e57-c86a-450f-bd6c-29a7d1a5c2f4"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:56d3b3e2-83a1-4c8d-b953-3ec337a97f0e",
+            "@id": "_:293e7e57-c86a-450f-bd6c-29a7d1a5c2f4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/copyleft-next/copyleft-next/blob/master/Releases/copyleft-next-0.3.0",
-            "spdx:timestamp": "2026-02-20T15:43:31Z",
+            "spdx:timestamp": "2026-02-20T16:12:55Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

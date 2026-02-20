@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:81858e80-a9e4-4ff9-aa6b-2666192e5432",
+            "@id": "_:e0e48013-e3c1-4e02-b991-34cf0b7e2d4b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitweb.gentoo.org/repo/gentoo.git/tree/licenses/SGMLUG?id=7d999af4a47bf55e53e54713d98d145f935935c1",
-            "spdx:timestamp": "2026-02-20T15:44:21Z",
+            "spdx:timestamp": "2026-02-20T16:15:47Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:81858e80-a9e4-4ff9-aa6b-2666192e5432"
+                "@id": "_:e0e48013-e3c1-4e02-b991-34cf0b7e2d4b"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:8067c1e0-dc80-41e1-a4f8-6842425c325f",
+            "@id": "_:df7b2a20-da09-4719-877d-b1099152cf3e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Afmparse",
-            "spdx:timestamp": "2026-02-20T15:43:43Z",
+            "spdx:timestamp": "2026-02-20T16:15:01Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:8067c1e0-dc80-41e1-a4f8-6842425c325f"
+                "@id": "_:df7b2a20-da09-4719-877d-b1099152cf3e"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

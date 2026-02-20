@@ -8,7 +8,6 @@
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
     <spdx:standardLicenseHeaderTemplate></spdx:standardLicenseHeaderTemplate>
-    <spdx:standardLicenseHeaderHtml></spdx:standardLicenseHeaderHtml>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -18,12 +17,13 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://open.canada.ca/en/open-government-licence-canada</spdx:url>
-        <spdx:timestamp>2026-02-20T15:42:00Z</spdx:timestamp>
+        <spdx:timestamp>2026-02-20T16:10:11Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:standardLicenseHeaderHtml></spdx:standardLicenseHeaderHtml>
     <spdx:standardLicenseHeader></spdx:standardLicenseHeader>
     <rdfs:comment></rdfs:comment>
     <spdx:licenseTextHtml>

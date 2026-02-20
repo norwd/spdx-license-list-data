@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:9e1e1ac1-e516-4ffb-a29a-16046a4771e0",
+            "@id": "_:7ecd5278-c8c7-4493-a026-281b5ecdee6b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/libcheck/check/blob/master/checkmk/checkmk.in",
-            "spdx:timestamp": "2026-02-20T15:43:27Z",
+            "spdx:timestamp": "2026-02-20T16:12:19Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:9e1e1ac1-e516-4ffb-a29a-16046a4771e0"
+                "@id": "_:7ecd5278-c8c7-4493-a026-281b5ecdee6b"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

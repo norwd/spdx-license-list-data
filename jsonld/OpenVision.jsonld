@@ -9,13 +9,13 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:047657d8-4cd5-428c-a176-9a6ad751f93c"
+                    "@id": "_:f0a792d8-6c16-4375-bc52-0dca698b45f1"
                 },
                 {
-                    "@id": "_:68a161d6-1f95-4ce2-a591-21427e4528f9"
+                    "@id": "_:4d5d378d-1b3e-487e-91a0-41f9bd221689"
                 },
                 {
-                    "@id": "_:b1398f16-d3c9-46be-acba-06c034d88dbd"
+                    "@id": "_:3560d1f8-74b3-482b-89f6-a1ec06be3f6e"
                 }
             ],
             "rdfs:seeAlso": [
@@ -33,53 +33,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:047657d8-4cd5-428c-a176-9a6ad751f93c",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://fedoraproject.org/wiki/Licensing:MIT#OpenVision_Variant",
-            "spdx:timestamp": "2026-02-20T15:41:20Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:68a161d6-1f95-4ce2-a591-21427e4528f9",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L66-L98",
-            "spdx:timestamp": "2026-02-20T15:41:22Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:b1398f16-d3c9-46be-acba-06c034d88dbd",
+            "@id": "_:f0a792d8-6c16-4375-bc52-0dca698b45f1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -93,9 +47,55 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html",
-            "spdx:timestamp": "2026-02-20T15:41:21Z",
+            "spdx:timestamp": "2026-02-20T16:09:10Z",
             "spdx:order": {
                 "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:4d5d378d-1b3e-487e-91a0-41f9bd221689",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L66-L98",
+            "spdx:timestamp": "2026-02-20T16:09:10Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:3560d1f8-74b3-482b-89f6-a1ec06be3f6e",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://fedoraproject.org/wiki/Licensing:MIT#OpenVision_Variant",
+            "spdx:timestamp": "2026-02-20T16:09:05Z",
+            "spdx:order": {
+                "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",

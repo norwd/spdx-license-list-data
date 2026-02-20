@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:f0679e4d-c2e2-4485-8ed0-e347e69f4358",
+            "@id": "_:b6fe1ce4-95fa-4d0a-b4c6-d4bfe14fef9a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/ZPL-2.0",
-            "spdx:timestamp": "2026-02-20T15:43:38Z",
+            "spdx:timestamp": "2026-02-20T16:14:29Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:a1c50094-a6c1-4826-bf50-fc5d44b94b9c",
+            "@id": "_:dc38cce2-ecac-4d2f-b951-9180bb4a2686",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://old.zope.org/Resources/License/ZPL-2.0",
-            "spdx:timestamp": "2026-02-20T15:43:38Z",
+            "spdx:timestamp": "2026-02-20T16:14:29Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -61,10 +61,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:a1c50094-a6c1-4826-bf50-fc5d44b94b9c"
+                    "@id": "_:dc38cce2-ecac-4d2f-b951-9180bb4a2686"
                 },
                 {
-                    "@id": "_:f0679e4d-c2e2-4485-8ed0-e347e69f4358"
+                    "@id": "_:b6fe1ce4-95fa-4d0a-b4c6-d4bfe14fef9a"
                 }
             ],
             "spdx:isFsfLibre": {

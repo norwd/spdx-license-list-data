@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:c9350014-5e6d-41a1-b8bd-ecf0297cb477",
+            "@id": "_:79009f92-9e93-448d-b1d3-1bc2cc6b7387",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Apple_MIT_License",
-            "spdx:timestamp": "2026-02-20T15:44:19Z",
+            "spdx:timestamp": "2026-02-20T16:15:42Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:c9350014-5e6d-41a1-b8bd-ecf0297cb477"
+                "@id": "_:79009f92-9e93-448d-b1d3-1bc2cc6b7387"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

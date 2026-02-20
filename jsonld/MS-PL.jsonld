@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:7cbf561e-83c0-49ac-bc13-592d4ccaa05d",
+            "@id": "_:15d0d4ef-9513-48c0-9d1a-54542f03c055",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/MS-PL",
-            "spdx:timestamp": "2026-02-20T15:40:30Z",
+            "spdx:timestamp": "2026-02-20T16:05:43Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:cb8af980-b0ea-4102-b978-cd8cfe86a7e3",
+            "@id": "_:3f89a44c-6ef7-4c16-b71c-ab3a16ddd2be",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.microsoft.com/opensource/licenses.mspx",
-            "spdx:timestamp": "2026-02-20T15:40:30Z",
+            "spdx:timestamp": "2026-02-20T16:05:43Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -55,10 +55,10 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:cb8af980-b0ea-4102-b978-cd8cfe86a7e3"
+                    "@id": "_:15d0d4ef-9513-48c0-9d1a-54542f03c055"
                 },
                 {
-                    "@id": "_:7cbf561e-83c0-49ac-bc13-592d4ccaa05d"
+                    "@id": "_:3f89a44c-6ef7-4c16-b71c-ab3a16ddd2be"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {

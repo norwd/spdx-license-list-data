@@ -1,5 +1,5 @@
 # License List
-The following licenses have been generated from the license list version dd9d589
+The following licenses have been generated from the license list version 22c4fd4
 
 ## Licenses with Short Identifiers
 
@@ -69,6 +69,7 @@ The following licenses have been generated from the license list version dd9d589
 | Blue Oak Model License 1.0.0                                                              | [BlueOak-1.0.0][]                        | Y    |           |
 | Boehm-Demers-Weiser GC License                                                            | [Boehm-GC][]                             |      |           |
 | Boehm-Demers-Weiser GC License (without fee)                                              | [Boehm-GC-without-fee][]                 |      |           |
+| Buena Onda License Agreement v1.1                                                         | [BOLA-1.1][]                             |      |           |
 | Borceux license                                                                           | [Borceux][]                              |      |           |
 | Brian Gladman 2-Clause License                                                            | [Brian-Gladman-2-Clause][]               |      |           |
 | Brian Gladman 3-Clause License                                                            | [Brian-Gladman-3-Clause][]               |      |           |
@@ -891,6 +892,7 @@ The following licenses have been generated from the license list version dd9d589
 [BlueOak-1.0.0]: text/BlueOak-1.0.0.txt
 [Boehm-GC]: text/Boehm-GC.txt
 [Boehm-GC-without-fee]: text/Boehm-GC-without-fee.txt
+[BOLA-1.1]: text/BOLA-1.1.txt
 [Borceux]: text/Borceux.txt
 [Brian-Gladman-2-Clause]: text/Brian-Gladman-2-Clause.txt
 [Brian-Gladman-3-Clause]: text/Brian-Gladman-3-Clause.txt

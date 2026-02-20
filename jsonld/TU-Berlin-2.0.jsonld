@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:157873af-404a-4115-8933-177f54d4cf5b",
+            "@id": "_:01f3fc54-7dd6-4006-869a-f689e569a4dd",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/CorsixTH/deps/blob/fd339a9f526d1d9c9f01ccf39e438a015da50035/licences/libgsm.txt",
-            "spdx:timestamp": "2026-02-20T15:40:22Z",
+            "spdx:timestamp": "2026-02-20T16:05:32Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:157873af-404a-4115-8933-177f54d4cf5b"
+                "@id": "_:01f3fc54-7dd6-4006-869a-f689e569a4dd"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

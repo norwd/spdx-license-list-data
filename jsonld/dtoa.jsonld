@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:0337cc07-df4e-4f5a-a6f5-df932f43e077",
+            "@id": "_:2c59ccdf-4585-4d84-b2ff-3975818d91a6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceware.org/git/?p=newlib-cygwin.git;a=blob;f=newlib/libc/stdlib/mprec.h;hb=HEAD",
-            "spdx:timestamp": "2026-02-20T15:43:33Z",
+            "spdx:timestamp": "2026-02-20T16:13:22Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:632b3178-4df7-4f12-9926-389e828603bd",
+            "@id": "_:a887880a-b55b-4112-80a3-5b6f546273e6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/SWI-Prolog/swipl-devel/blob/master/src/os/dtoa.c",
-            "spdx:timestamp": "2026-02-20T15:43:34Z",
+            "spdx:timestamp": "2026-02-20T16:13:22Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -49,16 +49,16 @@
         {
             "@id": "http://spdx.org/licenses/dtoa",
             "spdx:name": "David M. Gay dtoa License",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:0337cc07-df4e-4f5a-a6f5-df932f43e077"
-                },
-                {
-                    "@id": "_:632b3178-4df7-4f12-9926-389e828603bd"
-                }
-            ],
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"The author of this software is David M. Gay. Copyright (c) 1991, 2000, 2001 by Lucent Technologies.\";match=\".{0,5000}\">>\nPermission to use, copy, modify, and distribute this software for any purpose without fee is hereby granted, provided that this entire notice is included in all copies of any software which is or includes a copy or modification of this software and in all copies of the supporting documentation for such software. THIS SOFTWARE IS BEING PROVIDED \"AS IS\", WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN PARTICULAR, NEITHER THE AUTHOR NOR <<var;name=\"company\";original=\"LUCENT\";match=\".+\">> MAKES ANY REPRESENTATION OR WARRANTY OF ANY KIND CONCERNING THE MERCHANTABILITY OF THIS SOFTWARE OR ITS FITNESS FOR ANY PARTICULAR PURPOSE.\n\n",
             "spdx:licenseTextHtml": "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            The author of this software is David M. Gay.<br />\n\n            Copyright (c) 1991, 2000, 2001 by Lucent Technologies.\n         </span></var>\n         <p>\n            Permission to use, copy, modify, and distribute this software\n            for any purpose without fee is hereby granted, provided that this\n            entire notice is included in all copies of any software which is or\n            includes a copy or modification of this software and in all copies\n            of the supporting documentation for such software. THIS SOFTWARE IS\n            BEING PROVIDED &quot;AS IS&quot;, WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN\n            PARTICULAR, NEITHER THE AUTHOR NOR <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .+\"> LUCENT</span></var> MAKES ANY REPRESENTATION\n            OR WARRANTY OF ANY KIND CONCERNING THE MERCHANTABILITY OF\n            THIS SOFTWARE OR ITS FITNESS FOR ANY PARTICULAR PURPOSE.\n         </p>\n\n      ",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:2c59ccdf-4585-4d84-b2ff-3975818d91a6"
+                },
+                {
+                    "@id": "_:a887880a-b55b-4112-80a3-5b6f546273e6"
+                }
+            ],
             "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": [
                 "https://github.com/SWI-Prolog/swipl-devel/blob/master/src/os/dtoa.c",
