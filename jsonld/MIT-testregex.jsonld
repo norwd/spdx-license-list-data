@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:1fbbacd0-6fde-46ed-9c10-25b17f1ff19d"
+                "@id": "_:fb7c51f5-966a-4bd8-9882-08d7d0827e8d"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:1fbbacd0-6fde-46ed-9c10-25b17f1ff19d",
+            "@id": "_:fb7c51f5-966a-4bd8-9882-08d7d0827e8d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/dotnet/runtime/blob/55e1ac7c07df62c4108d4acedf78f77574470ce5/src/libraries/System.Text.RegularExpressions/tests/FunctionalTests/AttRegexTests.cs#L12-L28",
-            "spdx:timestamp": "2026-02-20T21:03:39Z",
+            "spdx:timestamp": "2026-03-05T17:59:14Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

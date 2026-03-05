@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:7e66f2ff-d838-4610-bb51-f66436ce5a6e"
+                "@id": "_:9168ffe7-0c7b-48a8-94fa-fa25b2f0d676"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:7e66f2ff-d838-4610-bb51-f66436ce5a6e",
+            "@id": "_:9168ffe7-0c7b-48a8-94fa-fa25b2f0d676",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/MIT#AdobeGlyph",
-            "spdx:timestamp": "2026-02-20T20:57:49Z",
+            "spdx:timestamp": "2026-03-05T18:00:27Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

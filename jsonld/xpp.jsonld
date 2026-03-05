@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:572329b0-3fff-4c02-aaf0-9eab31c2394a",
+            "@id": "_:c6b04d14-4719-4e07-ac27-ee6e7c2fd008",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/xpp",
-            "spdx:timestamp": "2026-02-20T20:53:23Z",
+            "spdx:timestamp": "2026-03-05T18:00:26Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:572329b0-3fff-4c02-aaf0-9eab31c2394a"
+                "@id": "_:c6b04d14-4719-4e07-ac27-ee6e7c2fd008"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

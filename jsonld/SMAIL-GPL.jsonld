@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:d27a7d9b-d63d-4f07-ab0e-12c9a81b61ff",
+            "@id": "_:e50d00b4-9bc9-47e5-ac19-175cf3f82310",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sources.debian.org/copyright/license/debianutils/4.11.2/",
-            "spdx:timestamp": "2026-02-20T20:54:25Z",
+            "spdx:timestamp": "2026-03-05T17:57:21Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:d27a7d9b-d63d-4f07-ab0e-12c9a81b61ff"
+                "@id": "_:e50d00b4-9bc9-47e5-ac19-175cf3f82310"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

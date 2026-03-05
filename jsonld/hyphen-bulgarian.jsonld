@@ -1,7 +1,30 @@
 {
     "@graph": [
         {
-            "@id": "_:db797b8d-ac80-4bae-8908-4c7c633ffbc3",
+            "@id": "_:143605d4-05d9-4b8f-a8cb-9193a3e5a18e",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185",
+            "spdx:timestamp": "2026-03-05T17:58:45Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:8f6cd0d5-cdda-47b5-ac5d-116d0743dabe",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
-            "spdx:timestamp": "2026-02-20T21:00:26Z",
+            "spdx:timestamp": "2026-03-05T17:58:46Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -27,10 +50,10 @@
             "@id": "http://spdx.org/licenses/hyphen-bulgarian",
             "spdx:crossRef": [
                 {
-                    "@id": "_:db797b8d-ac80-4bae-8908-4c7c633ffbc3"
+                    "@id": "_:8f6cd0d5-cdda-47b5-ac5d-116d0743dabe"
                 },
                 {
-                    "@id": "_:ef967720-70bf-47f6-8a23-ebb535296e52"
+                    "@id": "_:143605d4-05d9-4b8f-a8cb-9193a3e5a18e"
                 }
             ],
             "rdfs:seeAlso": [
@@ -50,29 +73,6 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
-        },
-        {
-            "@id": "_:ef967720-70bf-47f6-8a23-ebb535296e52",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185",
-            "spdx:timestamp": "2026-02-20T21:00:26Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

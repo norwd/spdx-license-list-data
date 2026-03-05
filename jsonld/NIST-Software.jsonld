@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:38b1d4f9-11a8-4686-a9d2-94aba36c3743",
+            "@id": "_:12e94aaf-3679-4d50-be54-ff5b5fb7eb7a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,12 +15,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/open-quantum-safe/liboqs/blob/40b01fdbb270f8614fde30e65d30e9da18c02393/src/common/rand/rand_nist.c#L1-L15",
-            "spdx:timestamp": "2026-02-20T20:52:51Z",
+            "spdx:timestamp": "2026-03-05T18:01:50Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         },
         {
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:38b1d4f9-11a8-4686-a9d2-94aba36c3743"
+                "@id": "_:12e94aaf-3679-4d50-be54-ff5b5fb7eb7a"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:0a28e0dd-34c7-482b-afb5-ba74a42ff774"
+                "@id": "_:85604fe1-ef58-4a18-a465-8ac6f8d491ed"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:0a28e0dd-34c7-482b-afb5-ba74a42ff774",
+            "@id": "_:85604fe1-ef58-4a18-a465-8ac6f8d491ed",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,12 +35,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/jrsoftware/issrc/blob/HEAD/license.txt",
-            "spdx:timestamp": "2026-02-20T20:52:51Z",
+            "spdx:timestamp": "2026-03-05T17:58:36Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

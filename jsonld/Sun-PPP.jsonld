@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:41cf68de-f4f5-45f5-8521-514f0093b2ac"
+                "@id": "_:42ce80a3-77b4-48ce-977e-e40e622cbf9f"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:41cf68de-f4f5-45f5-8521-514f0093b2ac",
+            "@id": "_:42ce80a3-77b4-48ce-977e-e40e622cbf9f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/ppp-project/ppp/blob/master/pppd/eap.c#L7-L16",
-            "spdx:timestamp": "2026-02-20T20:54:25Z",
+            "spdx:timestamp": "2026-03-05T17:58:57Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

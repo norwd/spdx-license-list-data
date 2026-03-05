@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:11bd6c3a-610a-44ee-89cb-870961bb41bf",
+            "@id": "_:1769255c-97db-4643-b7d3-23d62ca6b075",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,23 +14,23 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://fedoraproject.org/wiki/Licensing/softSurfer",
-            "spdx:timestamp": "2026-02-20T20:59:56Z",
+            "spdx:url": "https://github.com/mm2/Little-CMS/blob/master/src/cmssm.c#L207",
+            "spdx:timestamp": "2026-03-05T18:00:27Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         },
         {
             "@id": "http://spdx.org/licenses/softSurfer",
             "spdx:crossRef": [
                 {
-                    "@id": "_:78dd6113-f9fe-4dbc-8abc-ea0210679c0e"
+                    "@id": "_:1769255c-97db-4643-b7d3-23d62ca6b075"
                 },
                 {
-                    "@id": "_:11bd6c3a-610a-44ee-89cb-870961bb41bf"
+                    "@id": "_:41f15eb8-cd08-47c7-a8c0-fbaab50d7d8b"
                 }
             ],
             "spdx:licenseText": "Copyright 2001, softSurfer (www.softsurfer.com)\nThis code may be freely used and modified for any purpose                                                                                                                                \nproviding that this copyright notice is included with it.\nSoftSurfer makes no warranty for this code, and cannot be held\nliable for any real or imagined damage resulting from its use.\nUsers of this code must verify correctness for their application.\n",
@@ -53,7 +53,7 @@
             "rdfs:comment": ""
         },
         {
-            "@id": "_:78dd6113-f9fe-4dbc-8abc-ea0210679c0e",
+            "@id": "_:41f15eb8-cd08-47c7-a8c0-fbaab50d7d8b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,10 +66,10 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://github.com/mm2/Little-CMS/blob/master/src/cmssm.c#L207",
-            "spdx:timestamp": "2026-02-20T20:59:56Z",
+            "spdx:url": "https://fedoraproject.org/wiki/Licensing/softSurfer",
+            "spdx:timestamp": "2026-03-05T18:00:26Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",

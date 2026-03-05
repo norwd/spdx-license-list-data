@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:b6744bd2-1148-42dd-b1dc-a6a78d1c0df6",
+            "@id": "_:9d603823-db14-48a5-b579-1ccbd343a8e1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.forge.gouv.qc.ca/participez/licence-logicielle/licence-libre-du-quebec-liliq-en-francais/licence-libre-du-quebec-reciprocite-forte-liliq-r-v1-1/",
-            "spdx:timestamp": "2026-02-20T21:01:25Z",
+            "spdx:timestamp": "2026-03-05T17:56:52Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:62ae3578-91be-4523-a9b7-295216fcd53d",
+            "@id": "_:8d309c3c-b86a-456c-8451-57e44bae96a6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -37,26 +37,26 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "http://opensource.org/licenses/LiLiQ-Rplus-1.1",
-            "spdx:timestamp": "2026-02-20T21:01:25Z",
+            "spdx:url": "https://forge.gouv.qc.ca/licence/liliq-r+/",
+            "spdx:timestamp": "2026-03-05T17:56:51Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "true",
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         },
         {
             "@id": "http://spdx.org/licenses/LiLiQ-Rplus-1.1",
             "spdx:crossRef": [
                 {
-                    "@id": "_:b6744bd2-1148-42dd-b1dc-a6a78d1c0df6"
+                    "@id": "_:2176cee9-ee8b-474f-8633-9a199335c83d"
                 },
                 {
-                    "@id": "_:62ae3578-91be-4523-a9b7-295216fcd53d"
+                    "@id": "_:8d309c3c-b86a-456c-8451-57e44bae96a6"
                 },
                 {
-                    "@id": "_:99a89f74-1631-42c0-ab0a-332002843e07"
+                    "@id": "_:9d603823-db14-48a5-b579-1ccbd343a8e1"
                 }
             ],
             "rdfs:seeAlso": [
@@ -80,7 +80,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:99a89f74-1631-42c0-ab0a-332002843e07",
+            "@id": "_:2176cee9-ee8b-474f-8633-9a199335c83d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -93,13 +93,13 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://forge.gouv.qc.ca/licence/liliq-r+/",
-            "spdx:timestamp": "2026-02-20T21:01:25Z",
+            "spdx:url": "http://opensource.org/licenses/LiLiQ-Rplus-1.1",
+            "spdx:timestamp": "2026-03-05T17:56:51Z",
             "spdx:order": {
-                "@value": "2",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

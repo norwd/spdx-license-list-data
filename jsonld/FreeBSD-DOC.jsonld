@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:34e195b5-d2c7-439d-94f8-b89225b4dbb3"
+                "@id": "_:060e7cac-7e5e-4d6e-9b85-87c4ee2122ef"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:34e195b5-d2c7-439d-94f8-b89225b4dbb3",
+            "@id": "_:060e7cac-7e5e-4d6e-9b85-87c4ee2122ef",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.freebsd.org/copyright/freebsd-doc-license/",
-            "spdx:timestamp": "2026-02-20T20:58:20Z",
+            "spdx:timestamp": "2026-03-05T17:59:46Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
