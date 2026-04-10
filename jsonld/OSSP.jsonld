@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:112a8746-ed2b-4bc7-af53-c54c1e6f75ab"
+                "@id": "_:ce9ce586-538b-4a44-bef4-057ae823f4da"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:112a8746-ed2b-4bc7-af53-c54c1e6f75ab",
+            "@id": "_:ce9ce586-538b-4a44-bef4-057ae823f4da",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://git.sr.ht/~nabijaczleweli/ossp-var",
-            "spdx:timestamp": "2026-04-10T14:24:49Z",
+            "spdx:timestamp": "2026-04-10T14:33:53Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

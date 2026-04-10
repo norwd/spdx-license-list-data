@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:14d2e532-6c1d-4ad9-9bc0-d061fde730b0",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://gitlab.com/agmartin/linuxdoc-tools/-/blob/master/iso-entities/COPYING?ref_type=heads",
-            "spdx:timestamp": "2026-04-10T14:21:12Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:b890da22-96c6-47c6-ac6c-8144ba1fa7ab",
+            "@id": "_:8dd2bbf1-cbbf-44c3-9573-ba556ec8bd27",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.itu.int/ITU-T/formal-language/itu-t/t/t173/1997/ISOMHEG-sir.html",
-            "spdx:timestamp": "2026-04-10T14:21:12Z",
+            "spdx:timestamp": "2026-04-10T14:32:13Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,13 +24,36 @@
             "@type": "spdx:CrossRef"
         },
         {
+            "@id": "_:052c4df1-3431-4b4e-ba00-b487b7e63fca",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://gitlab.com/agmartin/linuxdoc-tools/-/blob/master/iso-entities/COPYING?ref_type=heads",
+            "spdx:timestamp": "2026-04-10T14:32:13Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/ISO-permission",
             "spdx:crossRef": [
                 {
-                    "@id": "_:b890da22-96c6-47c6-ac6c-8144ba1fa7ab"
+                    "@id": "_:8dd2bbf1-cbbf-44c3-9573-ba556ec8bd27"
                 },
                 {
-                    "@id": "_:14d2e532-6c1d-4ad9-9bc0-d061fde730b0"
+                    "@id": "_:052c4df1-3431-4b4e-ba00-b487b7e63fca"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {

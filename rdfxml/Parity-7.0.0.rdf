@@ -242,7 +242,7 @@ The contributor can't revoke this license.
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://paritylicense.com/versions/7.0.0.html</spdx:url>
-        <spdx:timestamp>2026-04-10T14:25:01Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T14:33:54Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>false</spdx:match>

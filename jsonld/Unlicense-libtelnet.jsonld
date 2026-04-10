@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:c78edf2a-276c-4c21-8bb2-b30cf25d4bd4",
+            "@id": "_:314b2478-719c-41e7-ba36-ab8ac7d42ac6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/seanmiddleditch/libtelnet/blob/develop/COPYING",
-            "spdx:timestamp": "2026-04-10T14:22:24Z",
+            "spdx:timestamp": "2026-04-10T14:33:03Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -31,10 +31,10 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:licenseText": "The author or authors of this code dedicate any and all copyright interest in this code to the public domain. We make this dedication for the benefit of the public at large and to the detriment of our heirs and successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this code under copyright law.\n",
-            "rdfs:seeAlso": "https://github.com/seanmiddleditch/libtelnet/blob/develop/COPYING",
             "spdx:crossRef": {
-                "@id": "_:c78edf2a-276c-4c21-8bb2-b30cf25d4bd4"
+                "@id": "_:314b2478-719c-41e7-ba36-ab8ac7d42ac6"
             },
+            "rdfs:seeAlso": "https://github.com/seanmiddleditch/libtelnet/blob/develop/COPYING",
             "spdx:standardLicenseTemplate": "The author or authors of this code dedicate any and all copyright interest in this code to the public domain. We make this dedication for the benefit of the public at large and to the detriment of our heirs and successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this code under copyright law.\n\n",
             "spdx:name": "Unlicense - libtelnet variant",
             "spdx:licenseTextHtml": "\n         <p>\n            The author or authors of this code dedicate any and all\n            copyright interest in this code to the public domain. We make\n            this dedication for the benefit of the public at large and\n            to the detriment of our heirs and successors. We intend this\n            dedication to be an overt act of relinquishment in perpetuity of\n            all present and future rights to this code under copyright law.\n         </p>\n\n      ",

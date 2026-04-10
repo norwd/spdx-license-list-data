@@ -13,16 +13,16 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": {
+                "@id": "_:d81d409d-af83-4983-aecf-bf761f2f036a"
+            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:crossRef": {
-                "@id": "_:f507d11d-c576-4b45-860b-983f546a95f8"
             }
         },
         {
-            "@id": "_:f507d11d-c576-4b45-860b-983f546a95f8",
+            "@id": "_:d81d409d-af83-4983-aecf-bf761f2f036a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://polyformproject.org/licenses/small-business/1.0.0",
-            "spdx:timestamp": "2026-04-10T14:26:36Z",
+            "spdx:timestamp": "2026-04-10T14:34:38Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

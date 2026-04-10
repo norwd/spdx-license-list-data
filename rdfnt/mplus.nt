@@ -1,17 +1,17 @@
+_:Ba411589aX2D44e5X2D4d47X2Da65aX2D236dcf7744ac <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Ba411589aX2D44e5X2D4d47X2Da65aX2D236dcf7744ac <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Ba411589aX2D44e5X2D4d47X2Da65aX2D236dcf7744ac <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Ba411589aX2D44e5X2D4d47X2Da65aX2D236dcf7744ac <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing:Mplus?rd=Licensing/mplus" .
+_:Ba411589aX2D44e5X2D4d47X2Da65aX2D236dcf7744ac <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:35:14Z" .
+_:Ba411589aX2D44e5X2D4d47X2Da65aX2D236dcf7744ac <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Ba411589aX2D44e5X2D4d47X2Da65aX2D236dcf7744ac <http://spdx.org/rdf/terms#match> "true" .
+_:Ba411589aX2D44e5X2D4d47X2Da65aX2D236dcf7744ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/mplus> <http://spdx.org/rdf/terms#licenseText> "\nThese fonts are free softwares. Unlimited permission is\ngranted to use, copy, and distribute it, with or without\nmodification, either commercially and noncommercially.\nTHESE FONTS ARE PROVIDED \"AS IS\" WITHOUT WARRANTY.\n     \n" .
 <http://spdx.org/licenses/mplus> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://fedoraproject.org/wiki/Licensing:Mplus?rd=Licensing/mplus" .
 <http://spdx.org/licenses/mplus> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            These fonts are free softwares. Unlimited permission is\n            granted to use, copy, and distribute it, with or without\n            modification, either commercially and noncommercially.\n            THESE FONTS ARE PROVIDED &quot;AS IS&quot; WITHOUT WARRANTY.\n         </p>\n\n      " .
 <http://spdx.org/licenses/mplus> <http://spdx.org/rdf/terms#standardLicenseTemplate> "These fonts are free softwares. Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially. THESE FONTS ARE PROVIDED \"AS IS\" WITHOUT WARRANTY.\n\n" .
 <http://spdx.org/licenses/mplus> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/mplus> <http://spdx.org/rdf/terms#crossRef> _:B0d8d25fdX2Dea15X2D475aX2Dbc63X2Da10dba6698db .
+<http://spdx.org/licenses/mplus> <http://spdx.org/rdf/terms#crossRef> _:Ba411589aX2D44e5X2D4d47X2Da65aX2D236dcf7744ac .
 <http://spdx.org/licenses/mplus> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/mplus> <http://spdx.org/rdf/terms#name> "mplus Font License" .
 <http://spdx.org/licenses/mplus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-_:B0d8d25fdX2Dea15X2D475aX2Dbc63X2Da10dba6698db <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B0d8d25fdX2Dea15X2D475aX2Dbc63X2Da10dba6698db <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B0d8d25fdX2Dea15X2D475aX2Dbc63X2Da10dba6698db <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B0d8d25fdX2Dea15X2D475aX2Dbc63X2Da10dba6698db <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing:Mplus?rd=Licensing/mplus" .
-_:B0d8d25fdX2Dea15X2D475aX2Dbc63X2Da10dba6698db <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:28:14Z" .
-_:B0d8d25fdX2Dea15X2D475aX2Dbc63X2Da10dba6698db <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B0d8d25fdX2Dea15X2D475aX2Dbc63X2Da10dba6698db <http://spdx.org/rdf/terms#match> "true" .
-_:B0d8d25fdX2Dea15X2D475aX2Dbc63X2Da10dba6698db <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

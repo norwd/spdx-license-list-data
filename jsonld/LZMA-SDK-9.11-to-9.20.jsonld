@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:928a5bd4-32e2-4b11-b25d-2e76c588d8a6",
+            "@id": "_:5fe54b8f-e1ed-4ce5-80d8-28b413e7c6b1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.7-zip.org/sdk.html",
-            "spdx:timestamp": "2026-04-10T14:22:54Z",
+            "spdx:timestamp": "2026-04-10T14:33:04Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -39,10 +39,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:002cd3ae-f4d0-42ae-96c7-2b833b5c6090"
+                    "@id": "_:5fe54b8f-e1ed-4ce5-80d8-28b413e7c6b1"
                 },
                 {
-                    "@id": "_:928a5bd4-32e2-4b11-b25d-2e76c588d8a6"
+                    "@id": "_:ba974787-a74e-460a-9c59-0389f25b5cc0"
                 }
             ],
             "rdfs:seeAlso": [
@@ -53,7 +53,7 @@
             "spdx:name": "LZMA SDK License (versions 9.11 to 9.20)"
         },
         {
-            "@id": "_:002cd3ae-f4d0-42ae-96c7-2b833b5c6090",
+            "@id": "_:ba974787-a74e-460a-9c59-0389f25b5cc0",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,7 +67,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/",
-            "spdx:timestamp": "2026-04-10T14:22:42Z",
+            "spdx:timestamp": "2026-04-10T14:33:04Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

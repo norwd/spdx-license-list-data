@@ -56,6 +56,7 @@ PHP includes the Zend Engine, freely available at &lt;http://www.zend.com&gt;.
 
 </spdx:standardLicenseTemplate>
     <rdfs:comment>The PHP License v3.01 is essentially the same as v3.0, with the exception of a couple word differences and updated url in section 6.</rdfs:comment>
+    <rdfs:seeAlso>http://www.php.net/license/3_01.txt</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -65,13 +66,12 @@ PHP includes the Zend Engine, freely available at &lt;http://www.zend.com&gt;.
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://www.php.net/license/3_01.txt</spdx:url>
-        <spdx:timestamp>2026-04-10T14:16:44Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T14:31:13Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <rdfs:seeAlso>http://www.php.net/license/3_01.txt</rdfs:seeAlso>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
     <spdx:licenseTextHtml>

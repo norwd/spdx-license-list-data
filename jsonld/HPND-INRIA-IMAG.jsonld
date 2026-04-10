@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:636b3148-a882-4bd2-9f12-a7ec2ddbae20",
+            "@id": "_:7a1dd780-83c8-4442-a332-684cd3fad84f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/ppp-project/ppp/blob/master/pppd/ipv6cp.c#L75-L83",
-            "spdx:timestamp": "2026-04-10T14:25:41Z",
+            "spdx:timestamp": "2026-04-10T14:34:38Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:636b3148-a882-4bd2-9f12-a7ec2ddbae20"
+                "@id": "_:7a1dd780-83c8-4442-a332-684cd3fad84f"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

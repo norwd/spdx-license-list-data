@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:e18f1c4a-80b7-415c-a7cb-8ac952a844e7"
+                "@id": "_:b864e471-1a3c-464f-97dc-37ea9a4e6b1e"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:e18f1c4a-80b7-415c-a7cb-8ac952a844e7",
+            "@id": "_:b864e471-1a3c-464f-97dc-37ea9a4e6b1e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/dcblake/SMP/blob/master/Documentation/License.txt",
-            "spdx:timestamp": "2026-04-10T14:26:39Z",
+            "spdx:timestamp": "2026-04-10T14:35:09Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

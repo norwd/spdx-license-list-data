@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:26649a67-e52a-4498-83c6-8add6987f9dd",
+            "@id": "_:00a36f0c-7f8d-47b8-b2d8-1876140455fe",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/signal11/hidapi/blob/master/LICENSE-orig.txt",
-            "spdx:timestamp": "2026-04-10T14:23:29Z",
+            "spdx:timestamp": "2026-04-10T14:33:11Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:26649a67-e52a-4498-83c6-8add6987f9dd"
+                "@id": "_:00a36f0c-7f8d-47b8-b2d8-1876140455fe"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

@@ -7,18 +7,18 @@
                 "https://archive.eclipse.org/jetty/8.0.1.v20110908/xref/org/eclipse/jetty/http/security/UnixCrypt.html",
                 "https://opensource.apple.com/source/JBoss/JBoss-737/jboss-all/jetty/src/main/org/mortbay/util/UnixCrypt.java.auto.html"
             ],
+            "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright (c) 1996 Aki Yoshida. All rights reserved.\";match=\".{0,5000}\">>\nPermission to use, copy, modify and distribute this software for non-commercial or commercial purposes and without fee is hereby granted provided that this copyright notice appears in all copies.\n\n",
             "spdx:crossRef": [
                 {
-                    "@id": "_:c84d1b5a-9681-4577-a5be-213fac9e1059"
+                    "@id": "_:642ee4b2-4277-4d4b-a26a-1b168af6b259"
                 },
                 {
-                    "@id": "_:072a5039-92b4-420d-9b05-c3433beee0fb"
+                    "@id": "_:1a61284f-3e02-46c3-b1df-a2d398c0978e"
                 },
                 {
-                    "@id": "_:7f6676c7-1306-4a9c-9c16-e1c960c0d4f6"
+                    "@id": "_:5b51a093-607e-440d-9566-67a7ce6ee3a6"
                 }
             ],
-            "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright (c) 1996 Aki Yoshida. All rights reserved.\";match=\".{0,5000}\">>\nPermission to use, copy, modify and distribute this software for non-commercial or commercial purposes and without fee is hereby granted provided that this copyright notice appears in all copies.\n\n",
             "spdx:name": "UnixCrypt License",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -33,7 +33,7 @@
             }
         },
         {
-            "@id": "_:c84d1b5a-9681-4577-a5be-213fac9e1059",
+            "@id": "_:642ee4b2-4277-4d4b-a26a-1b168af6b259",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -47,7 +47,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://archive.eclipse.org/jetty/8.0.1.v20110908/xref/org/eclipse/jetty/http/security/UnixCrypt.html",
-            "spdx:timestamp": "2026-04-10T14:22:53Z",
+            "spdx:timestamp": "2026-04-10T14:33:05Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -56,7 +56,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:072a5039-92b4-420d-9b05-c3433beee0fb",
+            "@id": "_:1a61284f-3e02-46c3-b1df-a2d398c0978e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -70,7 +70,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.apple.com/source/JBoss/JBoss-737/jboss-all/jetty/src/main/org/mortbay/util/UnixCrypt.java.auto.html",
-            "spdx:timestamp": "2026-04-10T14:22:53Z",
+            "spdx:timestamp": "2026-04-10T14:33:05Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -79,7 +79,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:7f6676c7-1306-4a9c-9c16-e1c960c0d4f6",
+            "@id": "_:5b51a093-607e-440d-9566-67a7ce6ee3a6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -93,7 +93,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://foss.heptapod.net/python-libs/passlib/-/blob/branch/stable/LICENSE#L70",
-            "spdx:timestamp": "2026-04-10T14:22:54Z",
+            "spdx:timestamp": "2026-04-10T14:33:06Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:ef900d79-46c6-4bfa-9182-7e9701086d33",
+            "@id": "_:5fe75e66-1cc5-4f4b-a142-3399ee0d13ca",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/KhronosGroup/SPIRV-Cross/blob/main/LICENSES/LicenseRef-KhronosFreeUse.txt",
-            "spdx:timestamp": "2026-04-10T14:25:02Z",
+            "spdx:timestamp": "2026-04-10T14:33:54Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -41,7 +41,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:ef900d79-46c6-4bfa-9182-7e9701086d33"
+                "@id": "_:5fe75e66-1cc5-4f4b-a142-3399ee0d13ca"
             }
         }
     ],

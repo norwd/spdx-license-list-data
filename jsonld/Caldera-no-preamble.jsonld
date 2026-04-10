@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:9401ad02-c8b5-4ff0-96a4-3ea2db29a3ab",
+            "@id": "_:299f55a4-c8ae-41f0-9287-45e8fbf49c41",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/apache/apr/blob/trunk/LICENSE#L298C6-L298C29",
-            "spdx:timestamp": "2026-04-10T14:21:12Z",
+            "spdx:timestamp": "2026-04-10T14:32:13Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -32,7 +32,7 @@
             "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": "https://github.com/apache/apr/blob/trunk/LICENSE#L298C6-L298C29",
             "spdx:crossRef": {
-                "@id": "_:9401ad02-c8b5-4ff0-96a4-3ea2db29a3ab"
+                "@id": "_:299f55a4-c8ae-41f0-9287-45e8fbf49c41"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

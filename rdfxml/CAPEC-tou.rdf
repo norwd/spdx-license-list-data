@@ -46,7 +46,6 @@ ALL DOCUMENTS AND THE INFORMATION CONTAINED THEREIN ARE PROVIDED ON AN "AS IS" B
 
 </spdx:licenseText>
     <rdfs:seeAlso>https://capec.mitre.org/about/termsofuse.html</rdfs:seeAlso>
-    <spdx:name>Common Attack    Pattern Enumeration and Classification License</spdx:name>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -56,11 +55,12 @@ ALL DOCUMENTS AND THE INFORMATION CONTAINED THEREIN ARE PROVIDED ON AN "AS IS" B
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://capec.mitre.org/about/termsofuse.html</spdx:url>
-        <spdx:timestamp>2026-04-10T14:26:42Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T14:35:11Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:name>Common Attack    Pattern Enumeration and Classification License</spdx:name>
   </spdx:ListedLicense>
 </rdf:RDF>

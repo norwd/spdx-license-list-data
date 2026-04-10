@@ -79,6 +79,8 @@ Copyright 2006 by Bull SAS All Rights Reserved
 
       &lt;/span&gt;&lt;/div&gt;
     </spdx:licenseTextHtml>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -88,14 +90,12 @@ Copyright 2006 by Bull SAS All Rights Reserved
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://opensource.org/licenses/Multics</spdx:url>
-        <spdx:timestamp>2026-04-10T14:27:43Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T14:35:13Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >false</spdx:isDeprecatedLicenseId>
     <rdfs:seeAlso>https://opensource.org/licenses/Multics</rdfs:seeAlso>
     <spdx:name>Multics License</spdx:name>
   </spdx:ListedLicense>

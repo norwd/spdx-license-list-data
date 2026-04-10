@@ -1,16 +1,16 @@
-_:Be6b4f870X2Da90cX2D4d6dX2D890eX2D98bc77d29a48 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Be6b4f870X2Da90cX2D4d6dX2D890eX2D98bc77d29a48 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Be6b4f870X2Da90cX2D4d6dX2D890eX2D98bc77d29a48 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Be6b4f870X2Da90cX2D4d6dX2D890eX2D98bc77d29a48 <http://spdx.org/rdf/terms#url> "https://ctan.org/license/knuth" .
-_:Be6b4f870X2Da90cX2D4d6dX2D890eX2D98bc77d29a48 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:21:13Z" .
-_:Be6b4f870X2Da90cX2D4d6dX2D890eX2D98bc77d29a48 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Be6b4f870X2Da90cX2D4d6dX2D890eX2D98bc77d29a48 <http://spdx.org/rdf/terms#match> "true" .
-_:Be6b4f870X2Da90cX2D4d6dX2D890eX2D98bc77d29a48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-<http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#crossRef> _:Be6b4f870X2Da90cX2D4d6dX2D890eX2D98bc77d29a48 .
+_:B08a47dffX2Db0d4X2D45fdX2Daf91X2De9dc5876d31e <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B08a47dffX2Db0d4X2D45fdX2Daf91X2De9dc5876d31e <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B08a47dffX2Db0d4X2D45fdX2Daf91X2De9dc5876d31e <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B08a47dffX2Db0d4X2D45fdX2Daf91X2De9dc5876d31e <http://spdx.org/rdf/terms#url> "https://ctan.org/license/knuth" .
+_:B08a47dffX2Db0d4X2D45fdX2Daf91X2De9dc5876d31e <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:32:13Z" .
+_:B08a47dffX2Db0d4X2D45fdX2Daf91X2De9dc5876d31e <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B08a47dffX2Db0d4X2D45fdX2Daf91X2De9dc5876d31e <http://spdx.org/rdf/terms#match> "true" .
+_:B08a47dffX2Db0d4X2D45fdX2Daf91X2De9dc5876d31e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/Knuth-CTAN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#standardLicenseTemplate> "This software is copyrighted. Unlimited copying and redistribution of this package and/or its individual files are permitted as long as there are no modifications. Modifications, and redistribution of modifications, are also permitted, but only if the resulting package and/or files are renamed.\n\n" .
 <http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#name> "Knuth CTAN License" .
 <http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#licenseText> "This software is copyrighted. Unlimited copying and redistribution\nof this package and/or its individual files are permitted\nas long as there are no modifications. Modifications, and\nredistribution of modifications, are also permitted, but\nonly if the resulting package and/or files are renamed.\n" .
+<http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#crossRef> _:B08a47dffX2Db0d4X2D45fdX2Daf91X2De9dc5876d31e .
 <http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/Knuth-CTAN> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://ctan.org/license/knuth" .

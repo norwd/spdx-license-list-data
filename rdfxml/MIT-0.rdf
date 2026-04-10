@@ -5,24 +5,8 @@
     xmlns:ptr="http://www.w3.org/2009/pointers#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/MIT-0">
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://romanrm.net/mit-zero</spdx:url>
-        <spdx:timestamp>2026-04-10T14:20:05Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>true</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
-    <rdfs:seeAlso>https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -32,15 +16,13 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://github.com/aws/mit-0</spdx:url>
-        <spdx:timestamp>2026-04-10T14:20:06Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T14:32:08Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:name>MIT No Attribution</spdx:name>
-    <rdfs:seeAlso>https://github.com/aws/mit-0</rdfs:seeAlso>
-    <rdfs:comment>This license is a modified version of the common MIT license, with the attribution paragraph removed.</rdfs:comment>
+    <rdfs:seeAlso>https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -50,12 +32,30 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE</spdx:url>
-        <spdx:timestamp>2026-04-10T14:20:07Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T14:32:09Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >2</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:name>MIT No Attribution</spdx:name>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://romanrm.net/mit-zero</spdx:url>
+        <spdx:timestamp>2026-04-10T14:32:07Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:match>true</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <rdfs:seeAlso>https://github.com/aws/mit-0</rdfs:seeAlso>
+    <rdfs:comment>This license is a modified version of the common MIT license, with the attribution paragraph removed.</rdfs:comment>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt;&lt;&lt;var;name="title";original="MIT No Attribution";match="The MIT-Zero License|MIT No Attribution|"&gt;&gt;
 
 &lt;&lt;endOptional&gt;&gt; &lt;&lt;var;name="copyright";original="Copyright &lt;YEAR&gt; &lt;COPYRIGHT HOLDER&gt;  ";match=".{0,5000}"&gt;&gt;

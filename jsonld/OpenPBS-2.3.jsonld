@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:209574b3-317c-4387-a6ff-b040602431df",
+            "@id": "_:5262d8f8-114d-4964-a32c-e6ce50617683",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/adaptivecomputing/torque/blob/master/PBS_License.txt",
-            "spdx:timestamp": "2026-04-10T14:28:15Z",
+            "spdx:timestamp": "2026-04-10T14:35:16Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,15 +25,15 @@
         },
         {
             "@id": "http://spdx.org/licenses/OpenPBS-2.3",
+            "spdx:name": "OpenPBS v2.3 Software License",
             "spdx:crossRef": [
                 {
-                    "@id": "_:3650fb89-eee3-4ef2-8ec4-cb7bae635e0f"
+                    "@id": "_:5262d8f8-114d-4964-a32c-e6ce50617683"
                 },
                 {
-                    "@id": "_:209574b3-317c-4387-a6ff-b040602431df"
+                    "@id": "_:2f1314fb-909f-46b7-bc94-221a0970cfd2"
                 }
             ],
-            "spdx:name": "OpenPBS v2.3 Software License",
             "@type": "spdx:ListedLicense",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -52,7 +52,7 @@
             }
         },
         {
-            "@id": "_:3650fb89-eee3-4ef2-8ec4-cb7bae635e0f",
+            "@id": "_:2f1314fb-909f-46b7-bc94-221a0970cfd2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.mcs.anl.gov/research/projects/openpbs/PBS_License.txt",
-            "spdx:timestamp": "2026-04-10T14:28:15Z",
+            "spdx:timestamp": "2026-04-10T14:35:16Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
