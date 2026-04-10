@@ -14,7 +14,6 @@ Users of this code must verify correctness for their application.
 </spdx:licenseText>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
-    <spdx:name>softSurfer License</spdx:name>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -24,12 +23,13 @@ Users of this code must verify correctness for their application.
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://fedoraproject.org/wiki/Licensing/softSurfer</spdx:url>
-        <spdx:timestamp>2026-04-10T08:52:24Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T14:25:01Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:name>softSurfer License</spdx:name>
     <spdx:standardLicenseTemplate>Copyright 2001, softSurfer (www.softsurfer.com)
 
 This code may be freely used and modified for any purpose providing that this copyright notice is included with it. SoftSurfer makes no warranty for this code, and cannot be held liable for any real or imagined damage resulting from its use. Users of this code must verify correctness for their application.
@@ -53,7 +53,6 @@ This code may be freely used and modified for any purpose providing that this co
 
       </spdx:licenseTextHtml>
     <rdfs:comment></rdfs:comment>
-    <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing/softSurfer</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -63,11 +62,12 @@ This code may be freely used and modified for any purpose providing that this co
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://github.com/mm2/Little-CMS/blob/master/src/cmssm.c#L207</spdx:url>
-        <spdx:timestamp>2026-04-10T08:52:24Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T14:25:02Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing/softSurfer</rdfs:seeAlso>
   </spdx:ListedLicense>
 </rdf:RDF>

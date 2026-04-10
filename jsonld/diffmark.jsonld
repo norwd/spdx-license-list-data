@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:0e288b6b-b9fd-483d-91f1-52cd976fe83d",
+            "@id": "_:2abc2775-6d59-44c0-b040-61190cb2e14d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/diffmark",
-            "spdx:timestamp": "2026-04-10T08:53:06Z",
+            "spdx:timestamp": "2026-04-10T14:25:40Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:0e288b6b-b9fd-483d-91f1-52cd976fe83d"
+                "@id": "_:2abc2775-6d59-44c0-b040-61190cb2e14d"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

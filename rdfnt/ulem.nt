@@ -4,15 +4,15 @@
 <http://spdx.org/licenses/ulem> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright 1989-2019 by Donald Arseneau (Vancouver, Canada, asnd@triumf.ca)\n         </span></var>\n         <p>\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern This software|These macros\"> This software</span></var> may be freely transmitted, reproduced, or modified\n            for any purpose provided that this <var class=\"optional-license-text\"> copyright</var> notice is left intact.\n         </p>\n\n      " .
 <http://spdx.org/licenses/ulem> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/ulem> <http://www.w3.org/2000/01/rdf-schema#comment> "This license is a very similar to fwlw and magaz, but has slightly different obligations." .
-<http://spdx.org/licenses/ulem> <http://spdx.org/rdf/terms#crossRef> _:B6a12c27aX2Da8a1X2D4bd3X2Db51eX2D4b92346f9cc0 .
 <http://spdx.org/licenses/ulem> <http://spdx.org/rdf/terms#licenseText> "Copyright 1989-2019 by Donald Arseneau (Vancouver, Canada, asnd@triumf.ca)\n\nThis software may be freely transmitted, reproduced, or modified\nfor any purpose provided that this copyright notice is left intact.\n" .
 <http://spdx.org/licenses/ulem> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://mirrors.ctan.org/macros/latex/contrib/ulem/README" .
+<http://spdx.org/licenses/ulem> <http://spdx.org/rdf/terms#crossRef> _:B8f5ad677X2Dd10dX2D4f9fX2Da8aaX2Df30a8e560f27 .
 <http://spdx.org/licenses/ulem> <http://spdx.org/rdf/terms#name> "ulem License" .
-_:B6a12c27aX2Da8a1X2D4bd3X2Db51eX2D4b92346f9cc0 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B6a12c27aX2Da8a1X2D4bd3X2Db51eX2D4b92346f9cc0 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B6a12c27aX2Da8a1X2D4bd3X2Db51eX2D4b92346f9cc0 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B6a12c27aX2Da8a1X2D4bd3X2Db51eX2D4b92346f9cc0 <http://spdx.org/rdf/terms#url> "https://mirrors.ctan.org/macros/latex/contrib/ulem/README" .
-_:B6a12c27aX2Da8a1X2D4bd3X2Db51eX2D4b92346f9cc0 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:44:43Z" .
-_:B6a12c27aX2Da8a1X2D4bd3X2Db51eX2D4b92346f9cc0 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B6a12c27aX2Da8a1X2D4bd3X2Db51eX2D4b92346f9cc0 <http://spdx.org/rdf/terms#match> "true" .
-_:B6a12c27aX2Da8a1X2D4bd3X2Db51eX2D4b92346f9cc0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B8f5ad677X2Dd10dX2D4f9fX2Da8aaX2Df30a8e560f27 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B8f5ad677X2Dd10dX2D4f9fX2Da8aaX2Df30a8e560f27 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B8f5ad677X2Dd10dX2D4f9fX2Da8aaX2Df30a8e560f27 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B8f5ad677X2Dd10dX2D4f9fX2Da8aaX2Df30a8e560f27 <http://spdx.org/rdf/terms#url> "https://mirrors.ctan.org/macros/latex/contrib/ulem/README" .
+_:B8f5ad677X2Dd10dX2D4f9fX2Da8aaX2Df30a8e560f27 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:16:45Z" .
+_:B8f5ad677X2Dd10dX2D4f9fX2Da8aaX2Df30a8e560f27 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B8f5ad677X2Dd10dX2D4f9fX2Da8aaX2Df30a8e560f27 <http://spdx.org/rdf/terms#match> "true" .
+_:B8f5ad677X2Dd10dX2D4f9fX2Da8aaX2Df30a8e560f27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

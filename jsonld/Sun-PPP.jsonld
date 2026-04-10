@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:98749e0d-7b74-4ea6-8bd3-d6050fa37746",
+            "@id": "_:0612d4e6-c8bf-437d-89a4-9e6addb82a78",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/ppp-project/ppp/blob/master/pppd/eap.c#L7-L16",
-            "spdx:timestamp": "2026-04-10T08:54:06Z",
+            "spdx:timestamp": "2026-04-10T14:26:40Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:98749e0d-7b74-4ea6-8bd3-d6050fa37746"
+                "@id": "_:0612d4e6-c8bf-437d-89a4-9e6addb82a78"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:2d1e6743-8088-48de-b8ca-66c5fba3e136",
+            "@id": "_:960019b3-0e03-4d6f-a281-fc8f97acdf1c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/bcrypt-ruby/bcrypt-ruby/blob/master/ext/mri/crypt_blowfish.c",
-            "spdx:timestamp": "2026-04-10T08:51:09Z",
+            "spdx:timestamp": "2026-04-10T14:22:57Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:2d1e6743-8088-48de-b8ca-66c5fba3e136"
+                "@id": "_:960019b3-0e03-4d6f-a281-fc8f97acdf1c"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

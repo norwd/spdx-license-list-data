@@ -3,11 +3,11 @@
         {
             "@id": "http://spdx.org/licenses/IJG-short",
             "spdx:name": "Independent JPEG Group License - short",
+            "spdx:crossRef": {
+                "@id": "_:2965fe1e-9a31-4f4c-b9c6-702480026b9b"
+            },
             "rdfs:comment": "This license is a shorter, presumably earlier version of IJG",
             "rdfs:seeAlso": "https://sourceforge.net/p/xmedcon/code/ci/master/tree/libs/ljpg/",
-            "spdx:crossRef": {
-                "@id": "_:a47f0f5b-0615-46bd-8480-8d2db7786a24"
-            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -22,7 +22,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:a47f0f5b-0615-46bd-8480-8d2db7786a24",
+            "@id": "_:2965fe1e-9a31-4f4c-b9c6-702480026b9b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceforge.net/p/xmedcon/code/ci/master/tree/libs/ljpg/",
-            "spdx:timestamp": "2026-04-10T08:51:37Z",
+            "spdx:timestamp": "2026-04-10T14:23:30Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

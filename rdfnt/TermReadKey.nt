@@ -3,15 +3,15 @@
 <http://spdx.org/licenses/TermReadKey> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            Unlimited distribution and/or modification is allowed\n            as long as this copyright notice remains intact.\n         </p>\n\n      " .
 <http://spdx.org/licenses/TermReadKey> <http://spdx.org/rdf/terms#standardLicenseTemplate> "Unlimited distribution and/or modification is allowed as long as this copyright notice remains intact.\n\n" .
 <http://spdx.org/licenses/TermReadKey> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/TermReadKey> <http://spdx.org/rdf/terms#crossRef> _:Bb2cc0b19X2D3d28X2D4408X2Da8c3X2D188f2839466e .
+<http://spdx.org/licenses/TermReadKey> <http://spdx.org/rdf/terms#crossRef> _:B1c9fe623X2D9eecX2D4da5X2Dbc8fX2D84926e9cc02d .
 <http://spdx.org/licenses/TermReadKey> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/TermReadKey> <http://spdx.org/rdf/terms#name> "TermReadKey License" .
 <http://spdx.org/licenses/TermReadKey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-_:Bb2cc0b19X2D3d28X2D4408X2Da8c3X2D188f2839466e <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb2cc0b19X2D3d28X2D4408X2Da8c3X2D188f2839466e <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb2cc0b19X2D3d28X2D4408X2Da8c3X2D188f2839466e <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb2cc0b19X2D3d28X2D4408X2Da8c3X2D188f2839466e <http://spdx.org/rdf/terms#url> "https://github.com/jonathanstowe/TermReadKey/blob/master/README#L9-L10" .
-_:Bb2cc0b19X2D3d28X2D4408X2Da8c3X2D188f2839466e <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:54:02Z" .
-_:Bb2cc0b19X2D3d28X2D4408X2Da8c3X2D188f2839466e <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bb2cc0b19X2D3d28X2D4408X2Da8c3X2D188f2839466e <http://spdx.org/rdf/terms#match> "true" .
-_:Bb2cc0b19X2D3d28X2D4408X2Da8c3X2D188f2839466e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B1c9fe623X2D9eecX2D4da5X2Dbc8fX2D84926e9cc02d <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B1c9fe623X2D9eecX2D4da5X2Dbc8fX2D84926e9cc02d <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B1c9fe623X2D9eecX2D4da5X2Dbc8fX2D84926e9cc02d <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B1c9fe623X2D9eecX2D4da5X2Dbc8fX2D84926e9cc02d <http://spdx.org/rdf/terms#url> "https://github.com/jonathanstowe/TermReadKey/blob/master/README#L9-L10" .
+_:B1c9fe623X2D9eecX2D4da5X2Dbc8fX2D84926e9cc02d <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:26:36Z" .
+_:B1c9fe623X2D9eecX2D4da5X2Dbc8fX2D84926e9cc02d <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B1c9fe623X2D9eecX2D4da5X2Dbc8fX2D84926e9cc02d <http://spdx.org/rdf/terms#match> "true" .
+_:B1c9fe623X2D9eecX2D4da5X2Dbc8fX2D84926e9cc02d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

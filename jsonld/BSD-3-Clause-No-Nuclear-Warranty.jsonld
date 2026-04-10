@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:6e24c62f-d2ac-4c95-a85d-4f85b066bb22",
+            "@id": "_:68b7e89b-f129-4e1b-963d-e648bf207b9b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://jogamp.org/git/?p=gluegen.git;a=blob_plain;f=LICENSE.txt",
-            "spdx:timestamp": "2026-04-10T08:44:36Z",
+            "spdx:timestamp": "2026-04-10T14:16:51Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -37,7 +37,7 @@
             "spdx:name": "BSD 3-Clause No Nuclear Warranty",
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:6e24c62f-d2ac-4c95-a85d-4f85b066bb22"
+                "@id": "_:68b7e89b-f129-4e1b-963d-e648bf207b9b"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

@@ -1,53 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:17a58ea9-77da-40b8-817a-5b4103ed31d4",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.w3.org/copyright/software-license-2023/",
-            "spdx:timestamp": "2026-04-10T08:51:06Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:e82ffdc2-75f5-424e-8d4f-19e732104d56",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.w3.org/copyright/software-license-2015/",
-            "spdx:timestamp": "2026-04-10T08:51:06Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:f36aacb8-18b6-4e6f-895c-630afc60f77f",
+            "@id": "_:d00257d1-ed5c-40ae-9dc9-1fdbaf94cea7",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -61,9 +15,55 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document",
-            "spdx:timestamp": "2026-04-10T08:51:06Z",
+            "spdx:timestamp": "2026-04-10T14:22:54Z",
             "spdx:order": {
                 "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:a6471a34-c833-465f-916a-1a5ca25b8803",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://www.w3.org/copyright/software-license-2023/",
+            "spdx:timestamp": "2026-04-10T14:22:54Z",
+            "spdx:order": {
+                "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:c1f97aef-0a0b-45eb-af46-4faf68891a2b",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://www.w3.org/copyright/software-license-2015/",
+            "spdx:timestamp": "2026-04-10T14:22:54Z",
+            "spdx:order": {
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",
@@ -76,13 +76,13 @@
             "spdx:licenseTextHtml": "\n      <p>This work is being provided by the copyright holders under the\n         following license.</p>\n\n      <p>License\n        <br />\nBy obtaining and/or copying this work, you (the licensee)\n             agree that you have read, understood, and will comply\n             with the following terms and conditions.\n      </p>\n\n      <p>Permission to copy, modify, and distribute this work, with or\n         without modification, for any purpose and without fee or\n         royalty is hereby granted, provided that you include the\n         following on ALL copies of the work or portions thereof,\n         including modifications:</p>\n\n<ul style=\"list-style:none\">\n        \n<li>\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,20}\"> •</span></var>\n          The full text of this NOTICE in a location viewable to\n             users of the redistributed or derivative work.\n        </li>\n        \n<li>\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,20}\"> •</span></var>\n          Any pre-existing intellectual property disclaimers,\n             notices, or terms and conditions. If none exist, the\n             W3C Software and Document Short Notice should be\n             included.\n        </li>\n        \n<li>\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,20}\"> •</span></var>\n          Notice of any changes or modifications, through a\n             copyright statement on the new code or document such\n             as &quot;This software or document includes material copied\n             from or derived from <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .+\"> [title and URI of the W3C\n             document]. Copyright (c) [YEAR] W3C® (MIT, ERCIM,\n             Keio, Beihang)</span></var>.&quot;\n        </li>\n      \n</ul>\n      <p>Disclaimers\n        <br />\nTHIS WORK IS PROVIDED &quot;AS IS,&quot; AND COPYRIGHT HOLDERS MAKE\n             NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED,\n             INCLUDING BUT NOT LIMITED TO, WARRANTIES OF\n             MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE\n             OR THAT THE USE OF THE SOFTWARE OR DOCUMENT WILL NOT\n             INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS,\n             TRADEMARKS OR OTHER RIGHTS.\n      </p>\n\n      <p>COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT,\n         SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE\n         SOFTWARE OR DOCUMENT.</p>\n\n      <p>The name and trademarks of copyright holders may NOT be used in\n         advertising or publicity pertaining to the work without\n         specific, written prior permission. Title to copyright in this\n         work will at all times remain with copyright holders.</p>\n\n    ",
             "spdx:crossRef": [
                 {
-                    "@id": "_:17a58ea9-77da-40b8-817a-5b4103ed31d4"
+                    "@id": "_:d00257d1-ed5c-40ae-9dc9-1fdbaf94cea7"
                 },
                 {
-                    "@id": "_:f36aacb8-18b6-4e6f-895c-630afc60f77f"
+                    "@id": "_:c1f97aef-0a0b-45eb-af46-4faf68891a2b"
                 },
                 {
-                    "@id": "_:e82ffdc2-75f5-424e-8d4f-19e732104d56"
+                    "@id": "_:a6471a34-c833-465f-916a-1a5ca25b8803"
                 }
             ],
             "spdx:name": "W3C Software Notice and Document License (2015-05-13)",

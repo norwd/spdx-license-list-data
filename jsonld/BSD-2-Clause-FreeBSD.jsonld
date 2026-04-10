@@ -1,29 +1,6 @@
 {
     "@graph": [
         {
-            "@id": "_:b23706c4-53d5-4ace-ac34-859f0611808f",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://www.freebsd.org/copyright/freebsd-license.html",
-            "spdx:timestamp": "2026-04-10T08:45:12Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/BSD-2-Clause-FreeBSD",
             "spdx:isFsfLibre": {
                 "@value": "true",
@@ -42,12 +19,35 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": {
+                "@id": "_:a4707f93-4e47-4b9d-9752-86d0de9f184b"
+            },
             "spdx:name": "BSD 2-Clause FreeBSD License",
             "rdfs:comment": "This license was deprecated because BSD-2-Clause-Views has been added, as a more generalized version; and because FreeBSD project community members have indicated that the final sentence is not part of that project's code license.",
-            "spdx:deprecatedVersion": "3.10",
-            "spdx:crossRef": {
-                "@id": "_:b23706c4-53d5-4ace-ac34-859f0611808f"
-            }
+            "spdx:deprecatedVersion": "3.10"
+        },
+        {
+            "@id": "_:a4707f93-4e47-4b9d-9752-86d0de9f184b",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://www.freebsd.org/copyright/freebsd-license.html",
+            "spdx:timestamp": "2026-04-10T14:18:22Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

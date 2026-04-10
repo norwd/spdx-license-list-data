@@ -1,11 +1,4 @@
-_:Bbacb5af5X2D133aX2D485bX2D920cX2D52970b190e1a <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bbacb5af5X2D133aX2D485bX2D920cX2D52970b190e1a <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bbacb5af5X2D133aX2D485bX2D920cX2D52970b190e1a <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bbacb5af5X2D133aX2D485bX2D920cX2D52970b190e1a <http://spdx.org/rdf/terms#url> "https://git.savannah.gnu.org/cgit/indent.git/tree/doc/indent.texi?id=a74c6b4ee49397cf330b333da1042bffa60ed14f#n74" .
-_:Bbacb5af5X2D133aX2D485bX2D920cX2D52970b190e1a <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:54:41Z" .
-_:Bbacb5af5X2D133aX2D485bX2D920cX2D52970b190e1a <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bbacb5af5X2D133aX2D485bX2D920cX2D52970b190e1a <http://spdx.org/rdf/terms#match> "false" .
-_:Bbacb5af5X2D133aX2D485bX2D920cX2D52970b190e1a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/Latex2e-translated-notice> <http://spdx.org/rdf/terms#crossRef> _:Bfaae0735X2DccbfX2D4ad4X2Db370X2D045c7ab76560 .
 <http://spdx.org/licenses/Latex2e-translated-notice> <http://spdx.org/rdf/terms#licenseText> "Copyright @copyright{} 1989, 1992, 1993, 1994, 1995, 1996, 2014 Free Software\nFoundation, Inc.\n\nCopyright @copyright{} 1995, 1996 Joseph Arceneaux.\n\nCopyright @copyright{} 1999, Carlo Wood.\n\nCopyright @copyright{} 2001, David Ingamells.\n\nCopyright @copyright{} 2013, Łukasz Stelmach.\n\nCopyright @copyright{} 2015, Tim Hentenaar.\n\nPermission is granted to make and distribute verbatim copies of\nthis manual provided the copyright notice and this permission notice\nare preserved on all copies.\n\nPermission is granted to copy and distribute modified versions of this\nmanual under the conditions for verbatim copying, provided that the entire\nresulting derived work is distributed under the terms of a permission\nnotice identical to this one.\n\nPermission is granted to copy and distribute translations of this manual\ninto another language, under the above conditions for modified versions,\nexcept that this permission notice may be stated in a translation approved\nby the Foundation.\n" .
 <http://spdx.org/licenses/Latex2e-translated-notice> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://git.savannah.gnu.org/cgit/indent.git/tree/doc/indent.texi?id=a74c6b4ee49397cf330b333da1042bffa60ed14f#n74" .
 <http://spdx.org/licenses/Latex2e-translated-notice> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
@@ -15,4 +8,11 @@ _:Bbacb5af5X2D133aX2D485bX2D920cX2D52970b190e1a <http://www.w3.org/1999/02/22-rd
 <http://spdx.org/licenses/Latex2e-translated-notice> <http://www.w3.org/2000/01/rdf-schema#comment> "The last section differs from Latex2e license." .
 <http://spdx.org/licenses/Latex2e-translated-notice> <http://spdx.org/rdf/terms#name> "Latex2e with translated notice permission" .
 <http://spdx.org/licenses/Latex2e-translated-notice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-<http://spdx.org/licenses/Latex2e-translated-notice> <http://spdx.org/rdf/terms#crossRef> _:Bbacb5af5X2D133aX2D485bX2D920cX2D52970b190e1a .
+_:Bfaae0735X2DccbfX2D4ad4X2Db370X2D045c7ab76560 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bfaae0735X2DccbfX2D4ad4X2Db370X2D045c7ab76560 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bfaae0735X2DccbfX2D4ad4X2Db370X2D045c7ab76560 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bfaae0735X2DccbfX2D4ad4X2Db370X2D045c7ab76560 <http://spdx.org/rdf/terms#url> "https://git.savannah.gnu.org/cgit/indent.git/tree/doc/indent.texi?id=a74c6b4ee49397cf330b333da1042bffa60ed14f#n74" .
+_:Bfaae0735X2DccbfX2D4ad4X2Db370X2D045c7ab76560 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:28:45Z" .
+_:Bfaae0735X2DccbfX2D4ad4X2Db370X2D045c7ab76560 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bfaae0735X2DccbfX2D4ad4X2Db370X2D045c7ab76560 <http://spdx.org/rdf/terms#match> "N/A" .
+_:Bfaae0735X2DccbfX2D4ad4X2Db370X2D045c7ab76560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

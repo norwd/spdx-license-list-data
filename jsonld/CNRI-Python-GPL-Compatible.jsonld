@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:d92b72b5-5d28-4a5d-acfd-99b18bacc846"
+                "@id": "_:ad41ec30-455c-46eb-a57e-f742b8aa37a3"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:d92b72b5-5d28-4a5d-acfd-99b18bacc846",
+            "@id": "_:ad41ec30-455c-46eb-a57e-f742b8aa37a3",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.python.org/download/releases/1.6.1/download_win/",
-            "spdx:timestamp": "2026-04-10T08:48:53Z",
+            "spdx:timestamp": "2026-04-10T14:20:40Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

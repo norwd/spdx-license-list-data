@@ -1,6 +1,29 @@
 {
     "@graph": [
         {
+            "@id": "_:64c816af-f978-4be1-a46a-b22f76ef3bbc",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/xdebug/xdebug/blob/master/LICENSE",
+            "spdx:timestamp": "2026-04-10T14:17:22Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/Xdebug-1.03",
             "rdfs:comment": "This license is based on the PHP License v3.01, but omits the last part of the 4th clause",
             "@type": "spdx:ListedLicense",
@@ -18,31 +41,8 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:43351293-de0d-4faf-b8a1-c0f713a52710"
+                "@id": "_:64c816af-f978-4be1-a46a-b22f76ef3bbc"
             }
-        },
-        {
-            "@id": "_:43351293-de0d-4faf-b8a1-c0f713a52710",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/xdebug/xdebug/blob/master/LICENSE",
-            "spdx:timestamp": "2026-04-10T08:44:38Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

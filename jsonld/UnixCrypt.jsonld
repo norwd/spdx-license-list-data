@@ -9,13 +9,13 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:860ef542-118d-4d74-9ec0-0948b0928466"
+                    "@id": "_:c84d1b5a-9681-4577-a5be-213fac9e1059"
                 },
                 {
-                    "@id": "_:63665f26-b5c5-45f6-9bac-39fa046a0026"
+                    "@id": "_:072a5039-92b4-420d-9b05-c3433beee0fb"
                 },
                 {
-                    "@id": "_:094a350a-2282-435d-bd21-5347ff1acf14"
+                    "@id": "_:7f6676c7-1306-4a9c-9c16-e1c960c0d4f6"
                 }
             ],
             "spdx:standardLicenseTemplate": "<<var;name=\"copyright\";original=\"Copyright (c) 1996 Aki Yoshida. All rights reserved.\";match=\".{0,5000}\">>\nPermission to use, copy, modify and distribute this software for non-commercial or commercial purposes and without fee is hereby granted provided that this copyright notice appears in all copies.\n\n",
@@ -33,30 +33,7 @@
             }
         },
         {
-            "@id": "_:860ef542-118d-4d74-9ec0-0948b0928466",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.apple.com/source/JBoss/JBoss-737/jboss-all/jetty/src/main/org/mortbay/util/UnixCrypt.java.auto.html",
-            "spdx:timestamp": "2026-04-10T08:50:37Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:63665f26-b5c5-45f6-9bac-39fa046a0026",
+            "@id": "_:c84d1b5a-9681-4577-a5be-213fac9e1059",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -70,7 +47,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://archive.eclipse.org/jetty/8.0.1.v20110908/xref/org/eclipse/jetty/http/security/UnixCrypt.html",
-            "spdx:timestamp": "2026-04-10T08:50:37Z",
+            "spdx:timestamp": "2026-04-10T14:22:53Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -79,7 +56,30 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:094a350a-2282-435d-bd21-5347ff1acf14",
+            "@id": "_:072a5039-92b4-420d-9b05-c3433beee0fb",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.apple.com/source/JBoss/JBoss-737/jboss-all/jetty/src/main/org/mortbay/util/UnixCrypt.java.auto.html",
+            "spdx:timestamp": "2026-04-10T14:22:53Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:7f6676c7-1306-4a9c-9c16-e1c960c0d4f6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -93,7 +93,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://foss.heptapod.net/python-libs/passlib/-/blob/branch/stable/LICENSE#L70",
-            "spdx:timestamp": "2026-04-10T08:50:38Z",
+            "spdx:timestamp": "2026-04-10T14:22:54Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

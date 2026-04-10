@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:3c758578-d2f0-4ed0-b0ce-b86365dc872e",
+            "@id": "_:e6b4f870-a90c-4d6d-890e-98bc77d29a48",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://ctan.org/license/knuth",
-            "spdx:timestamp": "2026-04-10T08:48:58Z",
+            "spdx:timestamp": "2026-04-10T14:21:13Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,6 +25,9 @@
         },
         {
             "@id": "http://spdx.org/licenses/Knuth-CTAN",
+            "spdx:crossRef": {
+                "@id": "_:e6b4f870-a90c-4d6d-890e-98bc77d29a48"
+            },
             "@type": "spdx:ListedLicense",
             "spdx:standardLicenseTemplate": "This software is copyrighted. Unlimited copying and redistribution of this package and/or its individual files are permitted as long as there are no modifications. Modifications, and redistribution of modifications, are also permitted, but only if the resulting package and/or files are renamed.\n\n",
             "spdx:name": "Knuth CTAN License",
@@ -39,9 +42,6 @@
             },
             "rdfs:seeAlso": "https://ctan.org/license/knuth",
             "rdfs:comment": "This license is very similar to Wsuipa.",
-            "spdx:crossRef": {
-                "@id": "_:3c758578-d2f0-4ed0-b0ce-b86365dc872e"
-            },
             "spdx:licenseTextHtml": "\n         <p>\n            This software is copyrighted. Unlimited copying and redistribution\n            of this package and/or its individual files are permitted\n            as long as there are no modifications. Modifications, and\n            redistribution of modifications, are also permitted, but\n            only if the resulting package and/or files are renamed.\n         </p>\n\n      "
         }
     ],

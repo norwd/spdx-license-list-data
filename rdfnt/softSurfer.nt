@@ -1,28 +1,28 @@
-_:B4e9adc9bX2De32dX2D497fX2Db29aX2D6992c761d5b8 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4e9adc9bX2De32dX2D497fX2Db29aX2D6992c761d5b8 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4e9adc9bX2De32dX2D497fX2Db29aX2D6992c761d5b8 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4e9adc9bX2De32dX2D497fX2Db29aX2D6992c761d5b8 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/softSurfer" .
-_:B4e9adc9bX2De32dX2D497fX2Db29aX2D6992c761d5b8 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:52:24Z" .
-_:B4e9adc9bX2De32dX2D497fX2Db29aX2D6992c761d5b8 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B4e9adc9bX2De32dX2D497fX2Db29aX2D6992c761d5b8 <http://spdx.org/rdf/terms#match> "false" .
-_:B4e9adc9bX2De32dX2D497fX2Db29aX2D6992c761d5b8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bfc7dc79aX2D24baX2D44cbX2D8dadX2D1da205166623 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bfc7dc79aX2D24baX2D44cbX2D8dadX2D1da205166623 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bfc7dc79aX2D24baX2D44cbX2D8dadX2D1da205166623 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bfc7dc79aX2D24baX2D44cbX2D8dadX2D1da205166623 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/softSurfer" .
+_:Bfc7dc79aX2D24baX2D44cbX2D8dadX2D1da205166623 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:25:01Z" .
+_:Bfc7dc79aX2D24baX2D44cbX2D8dadX2D1da205166623 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bfc7dc79aX2D24baX2D44cbX2D8dadX2D1da205166623 <http://spdx.org/rdf/terms#match> "false" .
+_:Bfc7dc79aX2D24baX2D44cbX2D8dadX2D1da205166623 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bef6078d3X2DaeaaX2D4816X2Da558X2Da3ebb7f369af <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bef6078d3X2DaeaaX2D4816X2Da558X2Da3ebb7f369af <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bef6078d3X2DaeaaX2D4816X2Da558X2Da3ebb7f369af <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bef6078d3X2DaeaaX2D4816X2Da558X2Da3ebb7f369af <http://spdx.org/rdf/terms#url> "https://github.com/mm2/Little-CMS/blob/master/src/cmssm.c#L207" .
+_:Bef6078d3X2DaeaaX2D4816X2Da558X2Da3ebb7f369af <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:25:02Z" .
+_:Bef6078d3X2DaeaaX2D4816X2Da558X2Da3ebb7f369af <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bef6078d3X2DaeaaX2D4816X2Da558X2Da3ebb7f369af <http://spdx.org/rdf/terms#match> "true" .
+_:Bef6078d3X2DaeaaX2D4816X2Da558X2Da3ebb7f369af <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/softSurfer> <http://spdx.org/rdf/terms#licenseText> "Copyright 2001, softSurfer (www.softsurfer.com)\nThis code may be freely used and modified for any purpose                                                                                                                                \nproviding that this copyright notice is included with it.\nSoftSurfer makes no warranty for this code, and cannot be held\nliable for any real or imagined damage resulting from its use.\nUsers of this code must verify correctness for their application.\n" .
 <http://spdx.org/licenses/softSurfer> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://spdx.org/licenses/softSurfer> <http://spdx.org/rdf/terms#crossRef> _:Bfc7dc79aX2D24baX2D44cbX2D8dadX2D1da205166623 .
 <http://spdx.org/licenses/softSurfer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/softSurfer> <http://spdx.org/rdf/terms#name> "softSurfer License" .
-<http://spdx.org/licenses/softSurfer> <http://spdx.org/rdf/terms#crossRef> _:B4e9adc9bX2De32dX2D497fX2Db29aX2D6992c761d5b8 .
 <http://spdx.org/licenses/softSurfer> <http://spdx.org/rdf/terms#standardLicenseTemplate> "Copyright 2001, softSurfer (www.softsurfer.com)\n\nThis code may be freely used and modified for any purpose providing that this copyright notice is included with it. SoftSurfer makes no warranty for this code, and cannot be held liable for any real or imagined damage resulting from its use. Users of this code must verify correctness for their application.\n\n" .
 <http://spdx.org/licenses/softSurfer> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://github.com/mm2/Little-CMS/blob/master/src/cmssm.c#L207" .
 <http://spdx.org/licenses/softSurfer> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/softSurfer> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            Copyright 2001, softSurfer (www.softsurfer.com)\n         </p>\n\n         <p>\n            This code may be freely used and modified for any purpose\n            providing that this copyright notice is included with it.\n            SoftSurfer makes no warranty for this code, and cannot be held\n            liable for any real or imagined damage resulting from its use.\n            Users of this code must verify correctness for their application.\n         </p>\n\n      " .
 <http://spdx.org/licenses/softSurfer> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://spdx.org/licenses/softSurfer> <http://spdx.org/rdf/terms#crossRef> _:Bef6078d3X2DaeaaX2D4816X2Da558X2Da3ebb7f369af .
 <http://spdx.org/licenses/softSurfer> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://fedoraproject.org/wiki/Licensing/softSurfer" .
-<http://spdx.org/licenses/softSurfer> <http://spdx.org/rdf/terms#crossRef> _:B5d4538c0X2D6a26X2D4aa8X2Dabf6X2D96bea0356697 .
-_:B5d4538c0X2D6a26X2D4aa8X2Dabf6X2D96bea0356697 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B5d4538c0X2D6a26X2D4aa8X2Dabf6X2D96bea0356697 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B5d4538c0X2D6a26X2D4aa8X2Dabf6X2D96bea0356697 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B5d4538c0X2D6a26X2D4aa8X2Dabf6X2D96bea0356697 <http://spdx.org/rdf/terms#url> "https://github.com/mm2/Little-CMS/blob/master/src/cmssm.c#L207" .
-_:B5d4538c0X2D6a26X2D4aa8X2Dabf6X2D96bea0356697 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:52:24Z" .
-_:B5d4538c0X2D6a26X2D4aa8X2Dabf6X2D96bea0356697 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B5d4538c0X2D6a26X2D4aa8X2Dabf6X2D96bea0356697 <http://spdx.org/rdf/terms#match> "true" .
-_:B5d4538c0X2D6a26X2D4aa8X2Dabf6X2D96bea0356697 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

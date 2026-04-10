@@ -21,11 +21,11 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:7139151b-7225-48fc-ad01-72ceb4dfac49"
+                "@id": "_:8412e69e-9af0-443d-93d5-15bb1d610c77"
             }
         },
         {
-            "@id": "_:7139151b-7225-48fc-ad01-72ceb4dfac49",
+            "@id": "_:8412e69e-9af0-443d-93d5-15bb1d610c77",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -39,7 +39,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://creativecommons.org/licenses/by-nd/2.0/legalcode",
-            "spdx:timestamp": "2026-04-10T08:45:11Z",
+            "spdx:timestamp": "2026-04-10T14:18:22Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

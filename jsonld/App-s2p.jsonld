@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:7f840f6c-5025-42c4-8dd9-787af1e35ddb",
+            "@id": "_:4714aa8b-82a2-4b9c-b7b0-aeb02cc63be1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/App-s2p",
-            "spdx:timestamp": "2026-04-10T08:52:22Z",
+            "spdx:timestamp": "2026-04-10T14:25:01Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:7f840f6c-5025-42c4-8dd9-787af1e35ddb"
+                "@id": "_:4714aa8b-82a2-4b9c-b7b0-aeb02cc63be1"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

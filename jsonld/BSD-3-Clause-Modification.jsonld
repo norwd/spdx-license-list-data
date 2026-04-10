@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:e2306bed-99ad-450d-b8ff-bcc4b4ca874a"
+                "@id": "_:a90e01f4-67ba-400d-8305-ed6dc3088987"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:e2306bed-99ad-450d-b8ff-bcc4b4ca874a",
+            "@id": "_:a90e01f4-67ba-400d-8305-ed6dc3088987",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing:BSD#Modification_Variant",
-            "spdx:timestamp": "2026-04-10T08:53:04Z",
+            "spdx:timestamp": "2026-04-10T14:25:37Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

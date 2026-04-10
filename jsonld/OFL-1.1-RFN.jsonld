@@ -17,10 +17,10 @@
             "spdx:name": "SIL Open Font License 1.1 with Reserved Font Name",
             "spdx:crossRef": [
                 {
-                    "@id": "_:4c03ba95-3615-401a-9ed8-2d1c47fceeb6"
+                    "@id": "_:b6c89476-8790-41c7-99d4-b9131d89d444"
                 },
                 {
-                    "@id": "_:45cbde15-35ff-4957-bcc4-cb92b7536a21"
+                    "@id": "_:cfb6969b-5159-4862-94bd-d794a9b956e1"
                 }
             ],
             "rdfs:seeAlso": [
@@ -30,30 +30,7 @@
             "rdfs:comment": "This license was released 26 February 2007. The identifier OFL-1.1-RFN should only be used when a Reserved Font Name applies. See OFL-1.1 and OFL-1.1-no-RFN for alternatives."
         },
         {
-            "@id": "_:4c03ba95-3615-401a-9ed8-2d1c47fceeb6",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/licenses/OFL-1.1",
-            "spdx:timestamp": "2026-04-10T08:54:06Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:45cbde15-35ff-4957-bcc4-cb92b7536a21",
+            "@id": "_:b6c89476-8790-41c7-99d4-b9131d89d444",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,12 +44,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web",
-            "spdx:timestamp": "2026-04-10T08:54:06Z",
+            "spdx:timestamp": "2026-04-10T14:26:40Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:cfb6969b-5159-4862-94bd-d794a9b956e1",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/licenses/OFL-1.1",
+            "spdx:timestamp": "2026-04-10T14:26:40Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         }
     ],

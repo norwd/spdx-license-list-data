@@ -1,27 +1,27 @@
-_:B8f8e76e1X2D39d6X2D4c9bX2D84ecX2Da9799c3969ac <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B8f8e76e1X2D39d6X2D4c9bX2D84ecX2Da9799c3969ac <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B8f8e76e1X2D39d6X2D4c9bX2D84ecX2Da9799c3969ac <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B8f8e76e1X2D39d6X2D4c9bX2D84ecX2Da9799c3969ac <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/Beerware" .
-_:B8f8e76e1X2D39d6X2D4c9bX2D84ecX2Da9799c3969ac <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:47:12Z" .
-_:B8f8e76e1X2D39d6X2D4c9bX2D84ecX2Da9799c3969ac <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B8f8e76e1X2D39d6X2D4c9bX2D84ecX2Da9799c3969ac <http://spdx.org/rdf/terms#match> "false" .
-_:B8f8e76e1X2D39d6X2D4c9bX2D84ecX2Da9799c3969ac <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bffada230X2Dd873X2D4696X2Dabb4X2Dc844ab5f95d0 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bffada230X2Dd873X2D4696X2Dabb4X2Dc844ab5f95d0 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bffada230X2Dd873X2D4696X2Dabb4X2Dc844ab5f95d0 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bffada230X2Dd873X2D4696X2Dabb4X2Dc844ab5f95d0 <http://spdx.org/rdf/terms#url> "https://people.freebsd.org/~phk/" .
+_:Bffada230X2Dd873X2D4696X2Dabb4X2Dc844ab5f95d0 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:19:27Z" .
+_:Bffada230X2Dd873X2D4696X2Dabb4X2Dc844ab5f95d0 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bffada230X2Dd873X2D4696X2Dabb4X2Dc844ab5f95d0 <http://spdx.org/rdf/terms#match> "false" .
+_:Bffada230X2Dd873X2D4696X2Dabb4X2Dc844ab5f95d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B24c09b7eX2Dffd5X2D4bc9X2D9bf5X2D4bb8d365b751 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B24c09b7eX2Dffd5X2D4bc9X2D9bf5X2D4bb8d365b751 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B24c09b7eX2Dffd5X2D4bc9X2D9bf5X2D4bb8d365b751 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B24c09b7eX2Dffd5X2D4bc9X2D9bf5X2D4bb8d365b751 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/Beerware" .
+_:B24c09b7eX2Dffd5X2D4bc9X2D9bf5X2D4bb8d365b751 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:19:27Z" .
+_:B24c09b7eX2Dffd5X2D4bc9X2D9bf5X2D4bb8d365b751 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B24c09b7eX2Dffd5X2D4bc9X2D9bf5X2D4bb8d365b751 <http://spdx.org/rdf/terms#match> "false" .
+_:B24c09b7eX2Dffd5X2D4bc9X2D9bf5X2D4bb8d365b751 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#licenseTextHtml> "\n       <p>&quot;THE BEER-WARE LICENSE&quot; (Revision 42):</p>\n\n      <p><var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern <phk@FreeBSD.ORG>|<phk@login.dkuug.dk>\"> &lt;phk@FreeBSD.ORG&gt;</span></var> wrote this file. As long as you retain\n         this notice you can do whatever you want with this stuff. If we meet some day, and you think this\n         stuff is worth it, you can buy me a beer in return Poul-Henning Kamp</p>\n\n    " .
 <http://spdx.org/licenses/Beerware> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://people.freebsd.org/~phk/" .
-<http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#crossRef> _:B8f8e76e1X2D39d6X2D4c9bX2D84ecX2Da9799c3969ac .
 <http://spdx.org/licenses/Beerware> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-<http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#crossRef> _:B353c977dX2Da23dX2D4f73X2D9ba2X2D17a5225a17c0 .
+<http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#crossRef> _:B24c09b7eX2Dffd5X2D4bc9X2D9bf5X2D4bb8d365b751 .
 <http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#name> "Beerware License" .
 <http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#standardLicenseTemplate> "\"THE BEER-WARE LICENSE\" (Revision 42):\n\n<<var;name=\"email\";original=\"<phk@FreeBSD.ORG>\";match=\"<phk@FreeBSD.ORG>|<phk@login.dkuug.dk>\">> wrote this file. As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp\n\n" .
 <http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#licenseText> "\"THE BEER-WARE LICENSE\" (Revision 42):  <phk@FreeBSD.ORG> wrote this file. As long as you retain this notice you  can do whatever you want with this stuff. If we meet some day, and you think  this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp\n" .
 <http://spdx.org/licenses/Beerware> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://fedoraproject.org/wiki/Licensing/Beerware" .
+<http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#crossRef> _:Bffada230X2Dd873X2D4696X2Dabb4X2Dc844ab5f95d0 .
 <http://spdx.org/licenses/Beerware> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B353c977dX2Da23dX2D4f73X2D9ba2X2D17a5225a17c0 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B353c977dX2Da23dX2D4f73X2D9ba2X2D17a5225a17c0 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B353c977dX2Da23dX2D4f73X2D9ba2X2D17a5225a17c0 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B353c977dX2Da23dX2D4f73X2D9ba2X2D17a5225a17c0 <http://spdx.org/rdf/terms#url> "https://people.freebsd.org/~phk/" .
-_:B353c977dX2Da23dX2D4f73X2D9ba2X2D17a5225a17c0 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:47:13Z" .
-_:B353c977dX2Da23dX2D4f73X2D9ba2X2D17a5225a17c0 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B353c977dX2Da23dX2D4f73X2D9ba2X2D17a5225a17c0 <http://spdx.org/rdf/terms#match> "false" .
-_:B353c977dX2Da23dX2D4f73X2D9ba2X2D17a5225a17c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

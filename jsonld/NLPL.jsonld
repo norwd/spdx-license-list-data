@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:4af234d7-6fa2-4f63-8f38-0a81d369502f",
+            "@id": "_:90d7adb7-bdac-45a2-9cbc-9a9eeca2d426",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/NLPL",
-            "spdx:timestamp": "2026-04-10T08:51:08Z",
+            "spdx:timestamp": "2026-04-10T14:22:56Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:4af234d7-6fa2-4f63-8f38-0a81d369502f"
+                "@id": "_:90d7adb7-bdac-45a2-9cbc-9a9eeca2d426"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

@@ -1,27 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "http://spdx.org/licenses/HIDAPI",
-            "spdx:licenseText": "This software may be used by anyone for any reason so long\nas the copyright notice in the source files remains intact.\n",
-            "rdfs:seeAlso": "https://github.com/signal11/hidapi/blob/master/LICENSE-orig.txt",
-            "spdx:licenseTextHtml": "\n         <p>\n            This software may be used by anyone for any reason so long\n            as the copyright notice in the source files remains intact.\n         </p>\n\n      ",
-            "spdx:standardLicenseTemplate": "This software may be used by anyone for any reason so long as the copyright notice in the source files remains intact.\n\n",
-            "spdx:isDeprecatedLicenseId": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:crossRef": {
-                "@id": "_:b3bc5f2a-1fc9-4b8c-a5d8-b9ebe8ab0bcd"
-            },
-            "spdx:isOsiApproved": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:name": "HIDAPI License",
-            "@type": "spdx:ListedLicense"
-        },
-        {
-            "@id": "_:b3bc5f2a-1fc9-4b8c-a5d8-b9ebe8ab0bcd",
+            "@id": "_:26649a67-e52a-4498-83c6-8add6987f9dd",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,13 +15,33 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/signal11/hidapi/blob/master/LICENSE-orig.txt",
-            "spdx:timestamp": "2026-04-10T08:51:21Z",
+            "spdx:timestamp": "2026-04-10T14:23:29Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",
             "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "http://spdx.org/licenses/HIDAPI",
+            "spdx:licenseText": "This software may be used by anyone for any reason so long\nas the copyright notice in the source files remains intact.\n",
+            "rdfs:seeAlso": "https://github.com/signal11/hidapi/blob/master/LICENSE-orig.txt",
+            "spdx:licenseTextHtml": "\n         <p>\n            This software may be used by anyone for any reason so long\n            as the copyright notice in the source files remains intact.\n         </p>\n\n      ",
+            "spdx:standardLicenseTemplate": "This software may be used by anyone for any reason so long as the copyright notice in the source files remains intact.\n\n",
+            "spdx:isDeprecatedLicenseId": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:crossRef": {
+                "@id": "_:26649a67-e52a-4498-83c6-8add6987f9dd"
+            },
+            "spdx:isOsiApproved": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:name": "HIDAPI License",
+            "@type": "spdx:ListedLicense"
         }
     ],
     "@context": {

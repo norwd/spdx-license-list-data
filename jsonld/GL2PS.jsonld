@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:38d65bd5-dacd-4e66-ab61-06b1da8f50d0",
+            "@id": "_:c0a74331-3d4f-4a9e-ad41-c4aad27157d1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.geuz.org/gl2ps/COPYING.GL2PS",
-            "spdx:timestamp": "2026-04-10T08:47:51Z",
+            "spdx:timestamp": "2026-04-10T14:20:05Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:38d65bd5-dacd-4e66-ab61-06b1da8f50d0"
+                "@id": "_:c0a74331-3d4f-4a9e-ad41-c4aad27157d1"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

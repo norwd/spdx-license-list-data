@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:c89d07aa-69eb-4cce-97f5-c5d6dcc92cb1"
+                "@id": "_:7820b965-5f36-4b47-b639-a74773ec0665"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:c89d07aa-69eb-4cce-97f5-c5d6dcc92cb1",
+            "@id": "_:7820b965-5f36-4b47-b639-a74773ec0665",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://lists.gnu.org/archive/html/autoconf/2012-04/msg00061.html",
-            "spdx:timestamp": "2026-04-10T08:45:07Z",
+            "spdx:timestamp": "2026-04-10T14:17:23Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

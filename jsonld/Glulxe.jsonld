@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:c2b09b2d-7a8d-476d-a4e8-ee661265f17f",
+            "@id": "_:57a86a76-e6ff-4837-9e65-7ae83f077774",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Glulxe",
-            "spdx:timestamp": "2026-04-10T08:53:06Z",
+            "spdx:timestamp": "2026-04-10T14:25:38Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:c2b09b2d-7a8d-476d-a4e8-ee661265f17f"
+                "@id": "_:57a86a76-e6ff-4837-9e65-7ae83f077774"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

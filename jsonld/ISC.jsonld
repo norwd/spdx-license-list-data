@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:260a8f22-d557-4c7e-a828-1b032a7f3a47",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.isc.org/licenses/",
-            "spdx:timestamp": "2026-04-10T08:52:21Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:22848334-d408-4a4a-8b4c-2b37aa9b9060",
+            "@id": "_:0f5e9f8d-d332-40f4-961d-94235a55ee80",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,12 +15,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.isc.org/downloads/software-support-policy/isc-license/",
-            "spdx:timestamp": "2026-04-10T08:52:21Z",
+            "spdx:timestamp": "2026-04-10T14:24:29Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:98725093-6c3e-44ad-94fe-7654de6c0f6e",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/licenses/ISC",
+            "spdx:timestamp": "2026-04-10T14:24:29Z",
+            "spdx:order": {
+                "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
@@ -62,13 +62,13 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:260a8f22-d557-4c7e-a828-1b032a7f3a47"
+                    "@id": "_:6f35d6b6-49e0-4b1e-892e-7b4022693c68"
                 },
                 {
-                    "@id": "_:2f7e2e18-a154-40fb-af1b-1e069523343d"
+                    "@id": "_:98725093-6c3e-44ad-94fe-7654de6c0f6e"
                 },
                 {
-                    "@id": "_:22848334-d408-4a4a-8b4c-2b37aa9b9060"
+                    "@id": "_:0f5e9f8d-d332-40f4-961d-94235a55ee80"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -84,7 +84,7 @@
             "spdx:name": "ISC License"
         },
         {
-            "@id": "_:2f7e2e18-a154-40fb-af1b-1e069523343d",
+            "@id": "_:6f35d6b6-49e0-4b1e-892e-7b4022693c68",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -97,13 +97,13 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://opensource.org/licenses/ISC",
-            "spdx:timestamp": "2026-04-10T08:52:20Z",
+            "spdx:url": "https://www.isc.org/licenses/",
+            "spdx:timestamp": "2026-04-10T14:24:30Z",
             "spdx:order": {
-                "@value": "2",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         }
     ],

@@ -3,15 +3,15 @@
 <http://spdx.org/licenses/Zeeff> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright 1988 Jon Zeeff (zeeff@b-tech.ann-arbor.mi.us)\n         </span></var>\n         <p>\n            You can use this code in any manner, as long as you leave my name\n            on it and don&apos;t hold me responsible for any problems with it.\n         </p>\n\n      " .
 <http://spdx.org/licenses/Zeeff> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright 1988 Jon Zeeff (zeeff@b-tech.ann-arbor.mi.us)\";match=\".{0,5000}\">>\nYou can use this code in any manner, as long as you leave my name on it and don't hold me responsible for any problems with it.\n\n" .
 <http://spdx.org/licenses/Zeeff> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/Zeeff> <http://spdx.org/rdf/terms#crossRef> _:B5ce283d1X2D342cX2D4cdbX2D8691X2Dd186c096bac1 .
+<http://spdx.org/licenses/Zeeff> <http://spdx.org/rdf/terms#crossRef> _:B0c871529X2Da2c1X2D46bdX2Db0a3X2D5208a260eb05 .
 <http://spdx.org/licenses/Zeeff> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/Zeeff> <http://spdx.org/rdf/terms#name> "Zeeff License" .
 <http://spdx.org/licenses/Zeeff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-_:B5ce283d1X2D342cX2D4cdbX2D8691X2Dd186c096bac1 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B5ce283d1X2D342cX2D4cdbX2D8691X2Dd186c096bac1 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B5ce283d1X2D342cX2D4cdbX2D8691X2Dd186c096bac1 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B5ce283d1X2D342cX2D4cdbX2D8691X2Dd186c096bac1 <http://spdx.org/rdf/terms#url> "ftp://ftp.tin.org/pub/news/utils/newsx/newsx-1.6.tar.gz" .
-_:B5ce283d1X2D342cX2D4cdbX2D8691X2Dd186c096bac1 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:47:12Z" .
-_:B5ce283d1X2D342cX2D4cdbX2D8691X2Dd186c096bac1 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B5ce283d1X2D342cX2D4cdbX2D8691X2Dd186c096bac1 <http://spdx.org/rdf/terms#match> "N/A" .
-_:B5ce283d1X2D342cX2D4cdbX2D8691X2Dd186c096bac1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B0c871529X2Da2c1X2D46bdX2Db0a3X2D5208a260eb05 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B0c871529X2Da2c1X2D46bdX2Db0a3X2D5208a260eb05 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B0c871529X2Da2c1X2D46bdX2Db0a3X2D5208a260eb05 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B0c871529X2Da2c1X2D46bdX2Db0a3X2D5208a260eb05 <http://spdx.org/rdf/terms#url> "ftp://ftp.tin.org/pub/news/utils/newsx/newsx-1.6.tar.gz" .
+_:B0c871529X2Da2c1X2D46bdX2Db0a3X2D5208a260eb05 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:19:27Z" .
+_:B0c871529X2Da2c1X2D46bdX2Db0a3X2D5208a260eb05 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B0c871529X2Da2c1X2D46bdX2Db0a3X2D5208a260eb05 <http://spdx.org/rdf/terms#match> "N/A" .
+_:B0c871529X2Da2c1X2D46bdX2Db0a3X2D5208a260eb05 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

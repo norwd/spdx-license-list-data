@@ -1,29 +1,6 @@
 {
     "@graph": [
         {
-            "@id": "_:9723684d-4c51-4674-baaa-4e207322b400",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/dfateyev/libwhirlpool/blob/master/README#L27",
-            "spdx:timestamp": "2026-04-10T08:54:40Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/Unlicense-libwhirlpool",
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -40,9 +17,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:9723684d-4c51-4674-baaa-4e207322b400"
+                "@id": "_:160d9b1b-1151-4139-946b-bd791ff4cf4a"
             },
             "@type": "spdx:ListedLicense"
+        },
+        {
+            "@id": "_:160d9b1b-1151-4139-946b-bd791ff4cf4a",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/dfateyev/libwhirlpool/blob/master/README#L27",
+            "spdx:timestamp": "2026-04-10T14:28:14Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

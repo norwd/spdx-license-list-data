@@ -83,21 +83,6 @@ This Open Software License (the "License") applies to any original work of autho
 
 This license is Copyright (C) 2003-2004 Lawrence E. Rosen. All rights reserved. Permission is hereby granted to copy and distribute this license without modification. This license may not be modified without the express written permission of its copyright owner.
 </spdx:licenseText>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>http://web.archive.org/web/20050212003940/http://www.rosenlaw.com/osl21.htm</spdx:url>
-        <spdx:timestamp>2026-04-10T08:45:06Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isFsfLibre>
     <spdx:standardLicenseHeader>Licensed under the Open Software License version 2.1
@@ -105,15 +90,6 @@ This license is Copyright (C) 2003-2004 Lawrence E. Rosen. All rights reserved. 
 </spdx:standardLicenseHeader>
     <rdfs:seeAlso>http://web.archive.org/web/20050212003940/http://www.rosenlaw.com/osl21.htm</rdfs:seeAlso>
     <rdfs:seeAlso>https://opensource.org/licenses/OSL-2.1</rdfs:seeAlso>
-    <spdx:standardLicenseHeaderTemplate>Licensed under the Open Software License version 2.1
-
-</spdx:standardLicenseHeaderTemplate>
-    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >false</spdx:isDeprecatedLicenseId>
-    <spdx:standardLicenseHeaderHtml>
-      &lt;p&gt;Licensed under the Open Software License version 2.1&lt;/p&gt;
-
-      </spdx:standardLicenseHeaderHtml>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -123,15 +99,39 @@ This license is Copyright (C) 2003-2004 Lawrence E. Rosen. All rights reserved. 
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://opensource.org/licenses/OSL-2.1</spdx:url>
-        <spdx:timestamp>2026-04-10T08:45:06Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T14:17:22Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:standardLicenseHeaderTemplate>Licensed under the Open Software License version 2.1
+
+</spdx:standardLicenseHeaderTemplate>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:standardLicenseHeaderHtml>
+      &lt;p&gt;Licensed under the Open Software License version 2.1&lt;/p&gt;
+
+      </spdx:standardLicenseHeaderHtml>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isOsiApproved>
     <spdx:name>Open Software License 2.1</spdx:name>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+        <spdx:url>http://web.archive.org/web/20050212003940/http://www.rosenlaw.com/osl21.htm</spdx:url>
+        <spdx:timestamp>2026-04-10T14:17:22Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:licenseTextHtml>
       &lt;div class="optional-license-text"&gt; 
          &lt;p&gt;The Open Software Licensev. 2.1&lt;/p&gt;

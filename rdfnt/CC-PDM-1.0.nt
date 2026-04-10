@@ -1,25 +1,25 @@
-_:Bcaa53c8eX2Da9c3X2D4f86X2D8d7aX2D732d3c70e151 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bcaa53c8eX2Da9c3X2D4f86X2D8d7aX2D732d3c70e151 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bcaa53c8eX2Da9c3X2D4f86X2D8d7aX2D732d3c70e151 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bcaa53c8eX2Da9c3X2D4f86X2D8d7aX2D732d3c70e151 <http://spdx.org/rdf/terms#url> "https://creativecommons.org/share-your-work/cclicenses/" .
-_:Bcaa53c8eX2Da9c3X2D4f86X2D8d7aX2D732d3c70e151 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:47:13Z" .
-_:Bcaa53c8eX2Da9c3X2D4f86X2D8d7aX2D732d3c70e151 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bcaa53c8eX2Da9c3X2D4f86X2D8d7aX2D732d3c70e151 <http://spdx.org/rdf/terms#match> "false" .
-_:Bcaa53c8eX2Da9c3X2D4f86X2D8d7aX2D732d3c70e151 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:Bd9ffd679X2Ddbe6X2D475dX2Daf80X2D4e6ee4a472b6 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd9ffd679X2Ddbe6X2D475dX2Daf80X2D4e6ee4a472b6 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd9ffd679X2Ddbe6X2D475dX2Daf80X2D4e6ee4a472b6 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd9ffd679X2Ddbe6X2D475dX2Daf80X2D4e6ee4a472b6 <http://spdx.org/rdf/terms#url> "https://creativecommons.org/publicdomain/mark/1.0/" .
-_:Bd9ffd679X2Ddbe6X2D475dX2Daf80X2D4e6ee4a472b6 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:47:14Z" .
-_:Bd9ffd679X2Ddbe6X2D475dX2Daf80X2D4e6ee4a472b6 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bd9ffd679X2Ddbe6X2D475dX2Daf80X2D4e6ee4a472b6 <http://spdx.org/rdf/terms#match> "true" .
-_:Bd9ffd679X2Ddbe6X2D475dX2Daf80X2D4e6ee4a472b6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B862a4bccX2Df722X2D475bX2Db960X2D59ba1c01e427 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B862a4bccX2Df722X2D475bX2Db960X2D59ba1c01e427 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B862a4bccX2Df722X2D475bX2Db960X2D59ba1c01e427 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B862a4bccX2Df722X2D475bX2Db960X2D59ba1c01e427 <http://spdx.org/rdf/terms#url> "https://creativecommons.org/publicdomain/mark/1.0/" .
+_:B862a4bccX2Df722X2D475bX2Db960X2D59ba1c01e427 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:19:28Z" .
+_:B862a4bccX2Df722X2D475bX2Db960X2D59ba1c01e427 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B862a4bccX2Df722X2D475bX2Db960X2D59ba1c01e427 <http://spdx.org/rdf/terms#match> "true" .
+_:B862a4bccX2Df722X2D475bX2Db960X2D59ba1c01e427 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bc4a0b34bX2Dcc38X2D4d8bX2Db4e3X2Da79e018e0a43 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bc4a0b34bX2Dcc38X2D4d8bX2Db4e3X2Da79e018e0a43 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bc4a0b34bX2Dcc38X2D4d8bX2Db4e3X2Da79e018e0a43 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bc4a0b34bX2Dcc38X2D4d8bX2Db4e3X2Da79e018e0a43 <http://spdx.org/rdf/terms#url> "https://creativecommons.org/share-your-work/cclicenses/" .
+_:Bc4a0b34bX2Dcc38X2D4d8bX2Db4e3X2Da79e018e0a43 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:19:28Z" .
+_:Bc4a0b34bX2Dcc38X2D4d8bX2Db4e3X2Da79e018e0a43 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bc4a0b34bX2Dcc38X2D4d8bX2Db4e3X2Da79e018e0a43 <http://spdx.org/rdf/terms#match> "false" .
+_:Bc4a0b34bX2Dcc38X2D4d8bX2Db4e3X2Da79e018e0a43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/CC-PDM-1.0> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/CC-PDM-1.0> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://creativecommons.org/share-your-work/cclicenses/" .
+<http://spdx.org/licenses/CC-PDM-1.0> <http://spdx.org/rdf/terms#crossRef> _:B862a4bccX2Df722X2D475bX2Db960X2D59ba1c01e427 .
 <http://spdx.org/licenses/CC-PDM-1.0> <http://www.w3.org/2000/01/rdf-schema#comment> "As per Creative Commons, this is intended to provide a standard way to mark works that are no longer restricted by copyright to be marked as such in a standard and simple way. See https://creativecommons.org/public-domain/pdm/ for more information." .
-<http://spdx.org/licenses/CC-PDM-1.0> <http://spdx.org/rdf/terms#crossRef> _:Bcaa53c8eX2Da9c3X2D4f86X2D8d7aX2D732d3c70e151 .
+<http://spdx.org/licenses/CC-PDM-1.0> <http://spdx.org/rdf/terms#crossRef> _:Bc4a0b34bX2Dcc38X2D4d8bX2Db4e3X2Da79e018e0a43 .
 <http://spdx.org/licenses/CC-PDM-1.0> <http://spdx.org/rdf/terms#standardLicenseTemplate> "No Copyright\n\nThis work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.\n\nYou can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below.\n\nOther Information\n\nThe work may not be free of known copyright restrictions in all jurisdictions.\n\nPersons may have other rights in or related to the work, such as patent or trademark rights, and others may have rights in how the work is used, such as publicity or privacy rights.\n\nIn some jurisdictions moral rights of the author may persist beyond the term of copyright. These rights may include the right to be identified as the author and the right to object to derogatory treatments.\n\nUnless expressly stated otherwise, the person who identified the work makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law.\n\nWhen using or citing the work, you should not imply endorsement by the author or the person who identified the work.\n\n" .
-<http://spdx.org/licenses/CC-PDM-1.0> <http://spdx.org/rdf/terms#crossRef> _:Bd9ffd679X2Ddbe6X2D475dX2Daf80X2D4e6ee4a472b6 .
 <http://spdx.org/licenses/CC-PDM-1.0> <http://spdx.org/rdf/terms#name> "Creative    Commons Public Domain Mark 1.0 Universal" .
 <http://spdx.org/licenses/CC-PDM-1.0> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://creativecommons.org/publicdomain/mark/1.0/" .
 <http://spdx.org/licenses/CC-PDM-1.0> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            No Copyright\n         </p>\n\n         <p>\n            This work has been identified as being free of known restrictions\n            under copyright law, including all related and neighboring rights.\n         </p>\n\n         <p>\n            You can copy, modify, distribute and perform the\n            work, even for commercial purposes, all without\n            asking permission. See Other Information below.\n         </p>\n\n         <p>\n            Other Information\n         </p>\n\n         <p>\n            The work may not be free of known copyright\n            restrictions in all jurisdictions.\n         </p>\n\n         <p>\n            Persons may have other rights in or related to the work, such\n            as patent or trademark rights, and others may have rights in\n            how the work is used, such as publicity or privacy rights.\n         </p>\n\n         <p>\n            In some jurisdictions moral rights of the author may\n            persist beyond the term of copyright. These rights\n            may include the right to be identified as the author\n            and the right to object to derogatory treatments.\n         </p>\n\n         <p>\n            Unless expressly stated otherwise, the person who\n            identified the work makes no warranties about the\n            work, and disclaims liability for all uses of the work,\n            to the fullest extent permitted by applicable law.\n         </p>\n\n         <p>\n            When using or citing the work, you should not imply endorsement\n            by the author or the person who identified the work.\n         </p>\n\n      " .

@@ -202,7 +202,6 @@ IV) It is not allowed to remove this license from the distribution of the Vim so
     </spdx:licenseTextHtml>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
-    <spdx:name>Vim License</spdx:name>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -212,11 +211,12 @@ IV) It is not allowed to remove this license from the distribution of the Vim so
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://vimdoc.sourceforge.net/htmldoc/uganda.html</spdx:url>
-        <spdx:timestamp>2026-04-10T08:51:48Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T14:23:30Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:name>Vim License</spdx:name>
   </spdx:ListedLicense>
 </rdf:RDF>

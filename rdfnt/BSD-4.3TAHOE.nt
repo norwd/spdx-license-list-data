@@ -1,27 +1,27 @@
 <http://spdx.org/licenses/BSD-4.3TAHOE> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://github.com/389ds/389-ds-base/blob/main/ldap/include/sysexits-compat.h#L15" .
+<http://spdx.org/licenses/BSD-4.3TAHOE> <http://spdx.org/rdf/terms#crossRef> _:B70cbe860X2D7391X2D4fcbX2Dbe3eX2D8677fbf9231e .
 <http://spdx.org/licenses/BSD-4.3TAHOE> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright (c) 1987 Regents of the University\n            of California. All rights reserved.\n         </span></var>\n         <p>\n            Redistribution and use in source and binary forms are permitted\n            provided that the above copyright notice and this paragraph\n            are duplicated in all such forms and that any documentation,\n            advertising materials, and other materials related to such\n            distribution and use acknowledge that the software was developed\n            by <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern [^.]+\\.\"> the\n            University of California, Berkeley.</span></var> The name of\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern [^.]+\"> the University</span></var>\n            may not be used to endorse or promote products derived\n            from this software without specific prior written permission.\n            THIS SOFTWARE IS PROVIDED ``AS IS&apos;&apos; AND WITHOUT ANY EXPRESS OR\n            IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED\n            WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n         </p>\n\n      " .
-<http://spdx.org/licenses/BSD-4.3TAHOE> <http://spdx.org/rdf/terms#crossRef> _:B39018761X2D4651X2D4f30X2D950fX2D3cbea17daf44 .
+<http://spdx.org/licenses/BSD-4.3TAHOE> <http://spdx.org/rdf/terms#crossRef> _:B85ed10d9X2Dc8b6X2D4116X2D8d56X2D25ecef914b91 .
 <http://spdx.org/licenses/BSD-4.3TAHOE> <http://spdx.org/rdf/terms#name> "BSD 4.3 TAHOE License" .
-<http://spdx.org/licenses/BSD-4.3TAHOE> <http://spdx.org/rdf/terms#crossRef> _:B29521fdbX2Dc738X2D424eX2D84a3X2D5a3dec1dbf44 .
 <http://spdx.org/licenses/BSD-4.3TAHOE> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://git.savannah.gnu.org/cgit/indent.git/tree/doc/indent.texi?id=a74c6b4ee49397cf330b333da1042bffa60ed14f#n1788" .
 <http://spdx.org/licenses/BSD-4.3TAHOE> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/BSD-4.3TAHOE> <http://spdx.org/rdf/terms#licenseText> "Copyright (c) 1987 Regents of the University of California. All rights reserved. \n\nRedistribution and use in source and binary forms are permitted provided \nthat the above copyright notice and this paragraph are duplicated in all \nsuch forms and that any documentation, advertising materials, and other \nmaterials related to such distribution and use acknowledge that the software \nwas developed by the University of California, Berkeley. The name of the \nUniversity may not be used to endorse or promote products derived from this \nsoftware without specific prior written permission. THIS SOFTWARE IS PROVIDED \n``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT \nLIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n" .
 <http://spdx.org/licenses/BSD-4.3TAHOE> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright (c) 1987 Regents of the University of California. All rights reserved.\";match=\".{0,5000}\">>\nRedistribution and use in source and binary forms are permitted provided that the above copyright notice and this paragraph are duplicated in all such forms and that any documentation, advertising materials, and other materials related to such distribution and use acknowledge that the software was developed by <<var;name=\"acknowledgedDeveloperNames\";original=\"the University of California, Berkeley.\";match=\"[^.]+\\.\">> The name of <<var;name=\"noEndorseNames\";original=\"the University\";match=\"[^.]+\">> may not be used to endorse or promote products derived from this software without specific prior written permission. THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n\n" .
 <http://spdx.org/licenses/BSD-4.3TAHOE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/BSD-4.3TAHOE> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B39018761X2D4651X2D4f30X2D950fX2D3cbea17daf44 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B39018761X2D4651X2D4f30X2D950fX2D3cbea17daf44 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B39018761X2D4651X2D4f30X2D950fX2D3cbea17daf44 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B39018761X2D4651X2D4f30X2D950fX2D3cbea17daf44 <http://spdx.org/rdf/terms#url> "https://git.savannah.gnu.org/cgit/indent.git/tree/doc/indent.texi?id=a74c6b4ee49397cf330b333da1042bffa60ed14f#n1788" .
-_:B39018761X2D4651X2D4f30X2D950fX2D3cbea17daf44 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:51:08Z" .
-_:B39018761X2D4651X2D4f30X2D950fX2D3cbea17daf44 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B39018761X2D4651X2D4f30X2D950fX2D3cbea17daf44 <http://spdx.org/rdf/terms#match> "true" .
-_:B39018761X2D4651X2D4f30X2D950fX2D3cbea17daf44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:B29521fdbX2Dc738X2D424eX2D84a3X2D5a3dec1dbf44 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B29521fdbX2Dc738X2D424eX2D84a3X2D5a3dec1dbf44 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B29521fdbX2Dc738X2D424eX2D84a3X2D5a3dec1dbf44 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B29521fdbX2Dc738X2D424eX2D84a3X2D5a3dec1dbf44 <http://spdx.org/rdf/terms#url> "https://github.com/389ds/389-ds-base/blob/main/ldap/include/sysexits-compat.h#L15" .
-_:B29521fdbX2Dc738X2D424eX2D84a3X2D5a3dec1dbf44 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:51:11Z" .
-_:B29521fdbX2Dc738X2D424eX2D84a3X2D5a3dec1dbf44 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B29521fdbX2Dc738X2D424eX2D84a3X2D5a3dec1dbf44 <http://spdx.org/rdf/terms#match> "false" .
-_:B29521fdbX2Dc738X2D424eX2D84a3X2D5a3dec1dbf44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B85ed10d9X2Dc8b6X2D4116X2D8d56X2D25ecef914b91 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B85ed10d9X2Dc8b6X2D4116X2D8d56X2D25ecef914b91 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B85ed10d9X2Dc8b6X2D4116X2D8d56X2D25ecef914b91 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B85ed10d9X2Dc8b6X2D4116X2D8d56X2D25ecef914b91 <http://spdx.org/rdf/terms#url> "https://github.com/389ds/389-ds-base/blob/main/ldap/include/sysexits-compat.h#L15" .
+_:B85ed10d9X2Dc8b6X2D4116X2D8d56X2D25ecef914b91 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:22:58Z" .
+_:B85ed10d9X2Dc8b6X2D4116X2D8d56X2D25ecef914b91 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B85ed10d9X2Dc8b6X2D4116X2D8d56X2D25ecef914b91 <http://spdx.org/rdf/terms#match> "false" .
+_:B85ed10d9X2Dc8b6X2D4116X2D8d56X2D25ecef914b91 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B70cbe860X2D7391X2D4fcbX2Dbe3eX2D8677fbf9231e <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B70cbe860X2D7391X2D4fcbX2Dbe3eX2D8677fbf9231e <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B70cbe860X2D7391X2D4fcbX2Dbe3eX2D8677fbf9231e <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B70cbe860X2D7391X2D4fcbX2Dbe3eX2D8677fbf9231e <http://spdx.org/rdf/terms#url> "https://git.savannah.gnu.org/cgit/indent.git/tree/doc/indent.texi?id=a74c6b4ee49397cf330b333da1042bffa60ed14f#n1788" .
+_:B70cbe860X2D7391X2D4fcbX2Dbe3eX2D8677fbf9231e <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:22:56Z" .
+_:B70cbe860X2D7391X2D4fcbX2Dbe3eX2D8677fbf9231e <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B70cbe860X2D7391X2D4fcbX2Dbe3eX2D8677fbf9231e <http://spdx.org/rdf/terms#match> "true" .
+_:B70cbe860X2D7391X2D4fcbX2Dbe3eX2D8677fbf9231e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

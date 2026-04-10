@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:8e8cfdb6-b038-4a47-882f-7fc880ace669"
+                "@id": "_:2844f463-083b-40c0-a829-fc7f8b5aa92a"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:8e8cfdb6-b038-4a47-882f-7fc880ace669",
+            "@id": "_:2844f463-083b-40c0-a829-fc7f8b5aa92a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://wordnet.princeton.edu/license-and-commercial-use",
-            "spdx:timestamp": "2026-04-10T08:49:26Z",
+            "spdx:timestamp": "2026-04-10T14:22:12Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
