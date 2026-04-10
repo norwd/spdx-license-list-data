@@ -1,18 +1,18 @@
 <http://spdx.org/licenses/check-cvs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/check-cvs> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/check-cvs> <http://spdx.org/rdf/terms#standardLicenseTemplate> "Permission is granted to copy and/or distribute this file, with or without modifications, provided this notice is preserved.\n\n" .
+<http://spdx.org/licenses/check-cvs> <http://spdx.org/rdf/terms#crossRef> _:B47d219a1X2D50a7X2D45ffX2Db746X2Dc1d6c9877659 .
 <http://spdx.org/licenses/check-cvs> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/check-cvs> <http://spdx.org/rdf/terms#licenseText> "Permission is granted to copy and/or distribute this file, with or\nwithout modifications, provided this notice is preserved.\n" .
 <http://spdx.org/licenses/check-cvs> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://cvs.savannah.gnu.org/viewvc/cvs/ccvs/contrib/check_cvs.in?revision=1.1.4.3&view=markup&pathrev=cvs1-11-23#l2" .
 <http://spdx.org/licenses/check-cvs> <http://www.w3.org/2000/01/rdf-schema#comment> "This license is similar to FSFULLR." .
 <http://spdx.org/licenses/check-cvs> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            Permission is granted to copy and/or distribute this file, with\n            or without modifications, provided this notice is preserved.\n         </p>\n\n      " .
 <http://spdx.org/licenses/check-cvs> <http://spdx.org/rdf/terms#name> "check-cvs License" .
-<http://spdx.org/licenses/check-cvs> <http://spdx.org/rdf/terms#crossRef> _:B8d235dd2X2D976aX2D4af1X2D8225X2D7311ec2b9045 .
-_:B8d235dd2X2D976aX2D4af1X2D8225X2D7311ec2b9045 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B8d235dd2X2D976aX2D4af1X2D8225X2D7311ec2b9045 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B8d235dd2X2D976aX2D4af1X2D8225X2D7311ec2b9045 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B8d235dd2X2D976aX2D4af1X2D8225X2D7311ec2b9045 <http://spdx.org/rdf/terms#url> "http://cvs.savannah.gnu.org/viewvc/cvs/ccvs/contrib/check_cvs.in?revision=1.1.4.3&view=markup&pathrev=cvs1-11-23#l2" .
-_:B8d235dd2X2D976aX2D4af1X2D8225X2D7311ec2b9045 <http://spdx.org/rdf/terms#timestamp> "2026-03-05T17:58:49Z" .
-_:B8d235dd2X2D976aX2D4af1X2D8225X2D7311ec2b9045 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B8d235dd2X2D976aX2D4af1X2D8225X2D7311ec2b9045 <http://spdx.org/rdf/terms#match> "false" .
-_:B8d235dd2X2D976aX2D4af1X2D8225X2D7311ec2b9045 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B47d219a1X2D50a7X2D45ffX2Db746X2Dc1d6c9877659 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B47d219a1X2D50a7X2D45ffX2Db746X2Dc1d6c9877659 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B47d219a1X2D50a7X2D45ffX2Db746X2Dc1d6c9877659 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B47d219a1X2D50a7X2D45ffX2Db746X2Dc1d6c9877659 <http://spdx.org/rdf/terms#url> "http://cvs.savannah.gnu.org/viewvc/cvs/ccvs/contrib/check_cvs.in?revision=1.1.4.3&view=markup&pathrev=cvs1-11-23#l2" .
+_:B47d219a1X2D50a7X2D45ffX2Db746X2Dc1d6c9877659 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:51:48Z" .
+_:B47d219a1X2D50a7X2D45ffX2Db746X2Dc1d6c9877659 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B47d219a1X2D50a7X2D45ffX2Db746X2Dc1d6c9877659 <http://spdx.org/rdf/terms#match> "N/A" .
+_:B47d219a1X2D50a7X2D45ffX2Db746X2Dc1d6c9877659 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

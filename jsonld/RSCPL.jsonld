@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:ddbd185c-0f41-44f2-bb0a-2edaa6c0fe09",
+            "@id": "_:06536131-4a16-4df9-8f94-ac07065258a2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/RSCPL",
-            "spdx:timestamp": "2026-03-05T18:01:48Z",
+            "spdx:timestamp": "2026-04-10T08:51:07Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:753d43cb-952c-4ed5-a8a3-86fbc07a758a",
+            "@id": "_:50b1cbc4-a66f-4804-b0c7-8fb1bdaae0d0",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://wayback.archive.org/web/20060715140826/http://www.risource.org/RPL/RPL-1.0A.shtml",
-            "spdx:timestamp": "2026-03-05T18:01:48Z",
+            "spdx:timestamp": "2026-04-10T08:51:07Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -54,10 +54,10 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:753d43cb-952c-4ed5-a8a3-86fbc07a758a"
+                    "@id": "_:50b1cbc4-a66f-4804-b0c7-8fb1bdaae0d0"
                 },
                 {
-                    "@id": "_:ddbd185c-0f41-44f2-bb0a-2edaa6c0fe09"
+                    "@id": "_:06536131-4a16-4df9-8f94-ac07065258a2"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {

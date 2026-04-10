@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:7329ec33-4614-4644-8256-ad77722072c1",
+            "@id": "_:ba92b2d6-f56a-42ed-a5b2-1faa0d48f3e7",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://metadata.ftp-master.debian.org/changelogs//main/x/xzoom/xzoom_0.3-27_copyright",
-            "spdx:timestamp": "2026-03-05T17:59:45Z",
+            "spdx:timestamp": "2026-04-10T08:52:26Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:7329ec33-4614-4644-8256-ad77722072c1"
+                "@id": "_:ba92b2d6-f56a-42ed-a5b2-1faa0d48f3e7"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

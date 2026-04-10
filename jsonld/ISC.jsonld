@@ -1,7 +1,30 @@
 {
     "@graph": [
         {
-            "@id": "_:53b4a969-b793-4f8d-9cf7-6f93e8462aae",
+            "@id": "_:260a8f22-d557-4c7e-a828-1b032a7f3a47",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://www.isc.org/licenses/",
+            "spdx:timestamp": "2026-04-10T08:52:21Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:22848334-d408-4a4a-8b4c-2b37aa9b9060",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.isc.org/downloads/software-support-policy/isc-license/",
-            "spdx:timestamp": "2026-03-05T17:56:52Z",
+            "spdx:timestamp": "2026-04-10T08:52:21Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -39,13 +62,13 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:a62602a4-74a5-491d-b6b8-1fd1e078e5dc"
+                    "@id": "_:260a8f22-d557-4c7e-a828-1b032a7f3a47"
                 },
                 {
-                    "@id": "_:4e15e988-f032-4e23-be41-abca49a7dbb9"
+                    "@id": "_:2f7e2e18-a154-40fb-af1b-1e069523343d"
                 },
                 {
-                    "@id": "_:53b4a969-b793-4f8d-9cf7-6f93e8462aae"
+                    "@id": "_:22848334-d408-4a4a-8b4c-2b37aa9b9060"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -61,30 +84,7 @@
             "spdx:name": "ISC License"
         },
         {
-            "@id": "_:a62602a4-74a5-491d-b6b8-1fd1e078e5dc",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.isc.org/licenses/",
-            "spdx:timestamp": "2026-03-05T17:56:52Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:4e15e988-f032-4e23-be41-abca49a7dbb9",
+            "@id": "_:2f7e2e18-a154-40fb-af1b-1e069523343d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -98,7 +98,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/ISC",
-            "spdx:timestamp": "2026-03-05T17:56:52Z",
+            "spdx:timestamp": "2026-04-10T08:52:20Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

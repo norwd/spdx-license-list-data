@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:bade4eed-fc7f-4e44-af3e-d88dcf313e37"
+                "@id": "_:879bb932-1ecc-41c6-afe0-a181c4c0c948"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:bade4eed-fc7f-4e44-af3e-d88dcf313e37",
+            "@id": "_:879bb932-1ecc-41c6-afe0-a181c4c0c948",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/MirOS",
-            "spdx:timestamp": "2026-03-05T17:56:44Z",
+            "spdx:timestamp": "2026-04-10T08:47:51Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

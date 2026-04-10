@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:10e22069-5b9d-45b3-8489-172730d5f135"
+                "@id": "_:f62f01a2-d76c-40c4-8cb8-d55917acf2cd"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:10e22069-5b9d-45b3-8489-172730d5f135",
+            "@id": "_:f62f01a2-d76c-40c4-8cb8-d55917acf2cd",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/robbiehanson/CocoaHTTPServer/blob/master/LICENSE.txt",
-            "spdx:timestamp": "2026-03-05T17:58:30Z",
+            "spdx:timestamp": "2026-04-10T08:52:23Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

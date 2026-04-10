@@ -12,15 +12,15 @@
                 "https://github.com/kfish/xsel/blob/master/COPYING"
             ],
             "@type": "spdx:ListedLicense",
+            "spdx:name": "Historical Permission Notice and Disclaimer - sell variant",
             "spdx:crossRef": [
                 {
-                    "@id": "_:99011957-f321-4c54-b070-077f9a693f2f"
+                    "@id": "_:6ddda053-6ee2-4fd4-a778-18ce6f2faac4"
                 },
                 {
-                    "@id": "_:c230a9b5-031d-4a2d-8e28-0d01f21b1a31"
+                    "@id": "_:bbe6e3e1-c984-41ab-b0ab-b4f7d6770f08"
                 }
             ],
-            "spdx:name": "Historical Permission Notice and Disclaimer - sell variant",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -30,7 +30,7 @@
             "spdx:licenseTextHtml": "\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n         <p>&lt;copyright notice&gt;</p>\n\n      </span></div>\n\n      <p>Permission to use, copy, modify, distribute<var class=\"optional-license-text\">,</var> and sell this software and its documentation for any purpose\n         is hereby granted without fee, provided that the above copyright notice  <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern appear|appears\"> appears</span></var> in all copies<var class=\"optional-license-text\">, </var>\n         <var class=\"optional-license-text\"> and</var> that both <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern that|the\"> that</span></var> copyright notice\n         and this permission notice appear in supporting documentation<var class=\"optional-license-text\">, and that the <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern name|names\"> name</span></var> <var class=\"optional-license-text\"> of</var>\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .*\"> &lt;copyright holder&gt;</span></var>\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .*\"> &lt;or related entities&gt;</span></var>\n         <var class=\"optional-license-text\"> is</var> not be used in advertising or publicity pertaining to distribution of the software without specific, written\n         prior permission </var>. <var class=\"optional-license-text\"> \n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .*\"> &lt;copyright holder&gt;</span></var> <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern make no representations|makes no representations|No representations are made\"> makes no representations</span></var>\n         about the suitability of this software for any purpose. It is provided &quot;as is&quot; without express or implied warranty.</var>\n      </p>\n\n      <div class=\"optional-license-text\"> \n        <p>\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .*\"> &lt;copyright holder&gt;</span></var> <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern DISCLAIM|DISCLAIMS\"> DISCLAIMS</span></var> ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING\n           ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS<var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern [.,]*\"> .</span></var> IN NO EVENT SHALL\n           <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .*\"> &lt;copyright holder&gt;</span></var> BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES\n           OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,\n           NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</p>\n\n      </div>\n    "
         },
         {
-            "@id": "_:99011957-f321-4c54-b070-077f9a693f2f",
+            "@id": "_:6ddda053-6ee2-4fd4-a778-18ce6f2faac4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -44,7 +44,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/kfish/xsel/blob/master/COPYING",
-            "spdx:timestamp": "2026-03-05T17:56:41Z",
+            "spdx:timestamp": "2026-04-10T08:47:53Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -53,7 +53,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:c230a9b5-031d-4a2d-8e28-0d01f21b1a31",
+            "@id": "_:bbe6e3e1-c984-41ab-b0ab-b4f7d6770f08",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,7 +67,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/net/sunrpc/auth_gss/gss_generic_token.c?h=v4.19",
-            "spdx:timestamp": "2026-03-05T17:56:42Z",
+            "spdx:timestamp": "2026-04-10T08:47:54Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

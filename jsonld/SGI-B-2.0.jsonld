@@ -2,10 +2,10 @@
     "@graph": [
         {
             "@id": "http://spdx.org/licenses/SGI-B-2.0",
-            "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:9589126e-71f6-41e0-87cf-db69b7ae1762"
+                "@id": "_:7b74c987-9115-4d6a-ba60-5088fbb0f4e0"
             },
+            "@type": "spdx:ListedLicense",
             "rdfs:comment": "This license was released 18 Sept 2008",
             "rdfs:seeAlso": "http://oss.sgi.com/projects/FreeB/SGIFreeSWLicB.2.0.pdf",
             "spdx:isDeprecatedLicenseId": {
@@ -26,7 +26,7 @@
             "spdx:name": "SGI Free Software License B v2.0"
         },
         {
-            "@id": "_:9589126e-71f6-41e0-87cf-db69b7ae1762",
+            "@id": "_:7b74c987-9115-4d6a-ba60-5088fbb0f4e0",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -40,7 +40,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://oss.sgi.com/projects/FreeB/SGIFreeSWLicB.2.0.pdf",
-            "spdx:timestamp": "2026-03-05T18:01:52Z",
+            "spdx:timestamp": "2026-04-10T08:51:18Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

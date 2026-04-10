@@ -1,13 +1,13 @@
-_:B1d635881X2D0c07X2D4207X2D9fd0X2D1eec63e09a8b <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B1d635881X2D0c07X2D4207X2D9fd0X2D1eec63e09a8b <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B1d635881X2D0c07X2D4207X2D9fd0X2D1eec63e09a8b <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B1d635881X2D0c07X2D4207X2D9fd0X2D1eec63e09a8b <http://spdx.org/rdf/terms#url> "http://git.savannah.gnu.org/cgit/bison.git/tree/data/yacc.c?id=193d7c7054ba7197b0789e14965b739162319b5e#n141" .
-_:B1d635881X2D0c07X2D4207X2D9fd0X2D1eec63e09a8b <http://spdx.org/rdf/terms#timestamp> "2026-03-05T17:58:02Z" .
-_:B1d635881X2D0c07X2D4207X2D9fd0X2D1eec63e09a8b <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B1d635881X2D0c07X2D4207X2D9fd0X2D1eec63e09a8b <http://spdx.org/rdf/terms#match> "N/A" .
-_:B1d635881X2D0c07X2D4207X2D9fd0X2D1eec63e09a8b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B337047f1X2De3f5X2D4386X2Db0cfX2Dfd87f85aa36a <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B337047f1X2De3f5X2D4386X2Db0cfX2Dfd87f85aa36a <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B337047f1X2De3f5X2D4386X2Db0cfX2Dfd87f85aa36a <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B337047f1X2De3f5X2D4386X2Db0cfX2Dfd87f85aa36a <http://spdx.org/rdf/terms#url> "http://git.savannah.gnu.org/cgit/bison.git/tree/data/yacc.c?id=193d7c7054ba7197b0789e14965b739162319b5e#n141" .
+_:B337047f1X2De3f5X2D4386X2Db0cfX2Dfd87f85aa36a <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:45:12Z" .
+_:B337047f1X2De3f5X2D4386X2Db0cfX2Dfd87f85aa36a <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B337047f1X2De3f5X2D4386X2Db0cfX2Dfd87f85aa36a <http://spdx.org/rdf/terms#match> "false" .
+_:B337047f1X2De3f5X2D4386X2Db0cfX2Dfd87f85aa36a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/GPL-2.0-with-bison-exception> <http://spdx.org/rdf/terms#deprecatedVersion> "2.0rc2" .
-<http://spdx.org/licenses/GPL-2.0-with-bison-exception> <http://spdx.org/rdf/terms#crossRef> _:B1d635881X2D0c07X2D4207X2D9fd0X2D1eec63e09a8b .
+<http://spdx.org/licenses/GPL-2.0-with-bison-exception> <http://spdx.org/rdf/terms#crossRef> _:B337047f1X2De3f5X2D4386X2Db0cfX2Dfd87f85aa36a .
 <http://spdx.org/licenses/GPL-2.0-with-bison-exception> <http://www.w3.org/2000/01/rdf-schema#comment> "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: Bison-exception-2.2" .
 <http://spdx.org/licenses/GPL-2.0-with-bison-exception> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://git.savannah.gnu.org/cgit/bison.git/tree/data/yacc.c?id=193d7c7054ba7197b0789e14965b739162319b5e#n141" .
 <http://spdx.org/licenses/GPL-2.0-with-bison-exception> <http://spdx.org/rdf/terms#name> "GNU General Public License v2.0 w/Bison exception" .

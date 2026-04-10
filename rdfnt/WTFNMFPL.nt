@@ -1,28 +1,28 @@
 <http://spdx.org/licenses/WTFNMFPL> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://github.com/adversary-org/wtfnmf/raw/3f2cd8235a64350a57a51b9739715edaea63ec1a/COPYING.WTFNMFPL-utf8" .
 <http://spdx.org/licenses/WTFNMFPL> <http://spdx.org/rdf/terms#name> "Do What The F*ck You Want To But It's Not My Fault Public License" .
 <http://spdx.org/licenses/WTFNMFPL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-<http://spdx.org/licenses/WTFNMFPL> <http://spdx.org/rdf/terms#crossRef> _:Bf5d6dcbcX2Df586X2D416cX2D814dX2D2b094bd9c8e3 .
-<http://spdx.org/licenses/WTFNMFPL> <http://spdx.org/rdf/terms#crossRef> _:B4b962968X2D8cfdX2D4710X2D98faX2D214542165ce4 .
-<http://spdx.org/licenses/WTFNMFPL> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/WTFNMFPL> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<beginOptional>>DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE\nVersion 1, October 2013\n\n<<endOptional>> <<var;name=\"copyright\";original=\"Copyright (C) 2013 Ben McGinnes <ben@adversary.org>  \";match=\".{0,5000}\">>\nEveryone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.\n\nDO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE\nTERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\n   <<var;name=\"bullet\";original=\"0.\";match=\".{0,20}\">>\n   You just DO WHAT THE FUCK YOU WANT TO.\n\n   <<var;name=\"bullet\";original=\"1.\";match=\".{0,20}\">>\n   Do not hold the author(s), creator(s), developer(s) or distributor(s) liable for anything that happens or goes wrong with your use of the work.\n   \n   " .
+<http://spdx.org/licenses/WTFNMFPL> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/WTFNMFPL> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <div class=\"optional-license-text\"> \n            <p>\n               DO WHAT THE FUCK YOU WANT TO BUT IT&apos;S\n               NOT MY FAULT PUBLIC LICENSE<br />\n\n               Version 1, October 2013\n            </p>\n\n         </div>\n         <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            <p>\n               Copyright (C) 2013 Ben McGinnes &lt;ben@adversary.org&gt;\n            </p>\n\n         </span></div>\n         <p>\n            Everyone is permitted to copy and distribute verbatim\n            or modified copies of this license document, and\n            changing it is allowed as long as the name is changed.\n         </p>\n\n         <p>\n            DO WHAT THE FUCK YOU WANT TO BUT IT&apos;S\n            NOT MY FAULT PUBLIC LICENSE<br />\n\n            TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n         </p>\n\n<ul style=\"list-style:none\">\n            \n<li>\n               <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,20}\"> 0.</span></var>\n               <p>\n                  You just DO WHAT THE FUCK YOU WANT TO.\n               </p>\n\n            </li>\n            \n<li>\n               <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,20}\"> 1.</span></var>\n               <p>\n                  Do not hold the author(s), creator(s), developer(s)\n                  or distributor(s) liable for anything that\n                  happens or goes wrong with your use of the work.\n               </p>\n\n            </li>\n         \n</ul>\n      " .
 <http://spdx.org/licenses/WTFNMFPL> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://github.com/adversary-org/wtfnmf/raw/refs/tags/1.0/COPYING.WTFNMFPL" .
+<http://spdx.org/licenses/WTFNMFPL> <http://spdx.org/rdf/terms#crossRef> _:Bd4e33f4eX2De617X2D43deX2Da706X2D790bd27d978f .
 <http://spdx.org/licenses/WTFNMFPL> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/WTFNMFPL> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://spdx.org/licenses/WTFNMFPL> <http://spdx.org/rdf/terms#crossRef> _:B42cc553bX2Da0feX2D4a38X2Da2acX2D606c1304ab7f .
 <http://spdx.org/licenses/WTFNMFPL> <http://spdx.org/rdf/terms#licenseText> "DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE\n                    Version 1, October 2013\n\n Copyright (C) 2013 Ben McGinnes <ben@adversary.org>\n\n Everyone is permitted to copy and distribute verbatim or modified\n copies of this license document, and changing it is allowed as long\n as the name is changed.\n\n   DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE\n   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\n  0. You just DO WHAT THE FUCK YOU WANT TO.\n\n  1. Do not hold the author(s), creator(s), developer(s) or\n     distributor(s) liable for anything that happens or goes wrong\n     with your use of the work.\n" .
-_:B4b962968X2D8cfdX2D4710X2D98faX2D214542165ce4 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4b962968X2D8cfdX2D4710X2D98faX2D214542165ce4 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4b962968X2D8cfdX2D4710X2D98faX2D214542165ce4 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4b962968X2D8cfdX2D4710X2D98faX2D214542165ce4 <http://spdx.org/rdf/terms#url> "https://github.com/adversary-org/wtfnmf/raw/3f2cd8235a64350a57a51b9739715edaea63ec1a/COPYING.WTFNMFPL-utf8" .
-_:B4b962968X2D8cfdX2D4710X2D98faX2D214542165ce4 <http://spdx.org/rdf/terms#timestamp> "2026-03-05T18:01:50Z" .
-_:B4b962968X2D8cfdX2D4710X2D98faX2D214542165ce4 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B4b962968X2D8cfdX2D4710X2D98faX2D214542165ce4 <http://spdx.org/rdf/terms#match> "true" .
-_:B4b962968X2D8cfdX2D4710X2D98faX2D214542165ce4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:Bf5d6dcbcX2Df586X2D416cX2D814dX2D2b094bd9c8e3 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bf5d6dcbcX2Df586X2D416cX2D814dX2D2b094bd9c8e3 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bf5d6dcbcX2Df586X2D416cX2D814dX2D2b094bd9c8e3 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bf5d6dcbcX2Df586X2D416cX2D814dX2D2b094bd9c8e3 <http://spdx.org/rdf/terms#url> "https://github.com/adversary-org/wtfnmf/raw/refs/tags/1.0/COPYING.WTFNMFPL" .
-_:Bf5d6dcbcX2Df586X2D416cX2D814dX2D2b094bd9c8e3 <http://spdx.org/rdf/terms#timestamp> "2026-03-05T18:01:50Z" .
-_:Bf5d6dcbcX2Df586X2D416cX2D814dX2D2b094bd9c8e3 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bf5d6dcbcX2Df586X2D416cX2D814dX2D2b094bd9c8e3 <http://spdx.org/rdf/terms#match> "true" .
-_:Bf5d6dcbcX2Df586X2D416cX2D814dX2D2b094bd9c8e3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B42cc553bX2Da0feX2D4a38X2Da2acX2D606c1304ab7f <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B42cc553bX2Da0feX2D4a38X2Da2acX2D606c1304ab7f <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B42cc553bX2Da0feX2D4a38X2Da2acX2D606c1304ab7f <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B42cc553bX2Da0feX2D4a38X2Da2acX2D606c1304ab7f <http://spdx.org/rdf/terms#url> "https://github.com/adversary-org/wtfnmf/raw/3f2cd8235a64350a57a51b9739715edaea63ec1a/COPYING.WTFNMFPL-utf8" .
+_:B42cc553bX2Da0feX2D4a38X2Da2acX2D606c1304ab7f <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:54:04Z" .
+_:B42cc553bX2Da0feX2D4a38X2Da2acX2D606c1304ab7f <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B42cc553bX2Da0feX2D4a38X2Da2acX2D606c1304ab7f <http://spdx.org/rdf/terms#match> "true" .
+_:B42cc553bX2Da0feX2D4a38X2Da2acX2D606c1304ab7f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bd4e33f4eX2De617X2D43deX2Da706X2D790bd27d978f <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bd4e33f4eX2De617X2D43deX2Da706X2D790bd27d978f <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bd4e33f4eX2De617X2D43deX2Da706X2D790bd27d978f <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bd4e33f4eX2De617X2D43deX2Da706X2D790bd27d978f <http://spdx.org/rdf/terms#url> "https://github.com/adversary-org/wtfnmf/raw/refs/tags/1.0/COPYING.WTFNMFPL" .
+_:Bd4e33f4eX2De617X2D43deX2Da706X2D790bd27d978f <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:54:04Z" .
+_:Bd4e33f4eX2De617X2D43deX2Da706X2D790bd27d978f <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bd4e33f4eX2De617X2D43deX2Da706X2D790bd27d978f <http://spdx.org/rdf/terms#match> "true" .
+_:Bd4e33f4eX2De617X2D43deX2Da706X2D790bd27d978f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

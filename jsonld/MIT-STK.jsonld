@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:dc975798-d608-4ed4-b498-4683d476e80f",
+            "@id": "_:053c3388-d3e8-4af8-b213-7113874034ba",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/thestk/stk/blob/6aacd357d76250bb7da2b1ddf675651828784bbc/LICENSE",
-            "spdx:timestamp": "2026-03-05T17:58:56Z",
+            "spdx:timestamp": "2026-04-10T08:46:42Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,11 +25,11 @@
         },
         {
             "@id": "http://spdx.org/licenses/MIT-STK",
+            "spdx:crossRef": {
+                "@id": "_:053c3388-d3e8-4af8-b213-7113874034ba"
+            },
             "@type": "spdx:ListedLicense",
             "spdx:name": "MIT-STK License",
-            "spdx:crossRef": {
-                "@id": "_:dc975798-d608-4ed4-b498-4683d476e80f"
-            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"

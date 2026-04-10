@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:1a866eb0-4726-4d2c-8213-c8f1397817f1",
+            "@id": "_:c231a2da-275e-4f15-904f-4c34ac9a8fd4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,35 +15,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://primates.ximian.com/~flucifredi/man/man-1.6g.tar.gz",
-            "spdx:timestamp": "2026-03-05T17:57:35Z",
+            "spdx:timestamp": "2026-04-10T08:51:09Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:9a7595d6-f342-4d5f-8136-129f0c84fd8e",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://docs.oracle.com/cd/E81115_01/html/E81116/licenses.html",
-            "spdx:timestamp": "2026-03-05T17:57:32Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         },
         {
@@ -53,22 +30,22 @@
                 "http://primates.ximian.com/~flucifredi/man/man-1.6g.tar.gz",
                 "https://github.com/hamano/man2html/blob/master/man2html.c"
             ],
+            "spdx:crossRef": [
+                {
+                    "@id": "_:209760d7-fcb4-443c-b824-ea10e765eee8"
+                },
+                {
+                    "@id": "_:485217b2-0bec-417c-92b1-76c2034aaad0"
+                },
+                {
+                    "@id": "_:c231a2da-275e-4f15-904f-4c34ac9a8fd4"
+                }
+            ],
             "spdx:standardLicenseTemplate": "Permission is granted to distribute, modify and use this program as long as this comment is not removed or changed.\n\n",
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:1a866eb0-4726-4d2c-8213-c8f1397817f1"
-                },
-                {
-                    "@id": "_:4430f0af-ef60-4ab6-a996-8a98bfe58173"
-                },
-                {
-                    "@id": "_:9a7595d6-f342-4d5f-8136-129f0c84fd8e"
-                }
-            ],
             "rdfs:comment": "This license is very similar to check-cvs.",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -80,7 +57,7 @@
             "spdx:licenseText": "Permission is granted to distribute, modify and use this program\nas long as this comment is not removed or changed.\n"
         },
         {
-            "@id": "_:4430f0af-ef60-4ab6-a996-8a98bfe58173",
+            "@id": "_:209760d7-fcb4-443c-b824-ea10e765eee8",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -94,9 +71,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/hamano/man2html/blob/master/man2html.c",
-            "spdx:timestamp": "2026-03-05T17:57:34Z",
+            "spdx:timestamp": "2026-04-10T08:51:08Z",
             "spdx:order": {
                 "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:485217b2-0bec-417c-92b1-76c2034aaad0",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://docs.oracle.com/cd/E81115_01/html/E81116/licenses.html",
+            "spdx:timestamp": "2026-04-10T08:51:09Z",
+            "spdx:order": {
+                "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",

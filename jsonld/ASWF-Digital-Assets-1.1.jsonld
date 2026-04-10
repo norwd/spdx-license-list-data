@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:50b3597a-2968-4473-b734-d801253a4315"
+                "@id": "_:6f99151f-51c4-4047-b3f7-ca13c6a2210d"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:50b3597a-2968-4473-b734-d801253a4315",
+            "@id": "_:6f99151f-51c4-4047-b3f7-ca13c6a2210d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/AcademySoftwareFoundation/foundation/blob/main/digital_assets/aswf_digital_assets_license_v1.1.txt",
-            "spdx:timestamp": "2026-03-05T17:57:24Z",
+            "spdx:timestamp": "2026-04-10T08:51:07Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

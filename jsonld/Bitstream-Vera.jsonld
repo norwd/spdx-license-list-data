@@ -2,6 +2,14 @@
     "@graph": [
         {
             "@id": "http://spdx.org/licenses/Bitstream-Vera",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:c517fe0c-96c0-4e76-967a-f56f4eebc9e5"
+                },
+                {
+                    "@id": "_:7e9903c9-ae45-4e9d-a37e-6177e3935640"
+                }
+            ],
             "rdfs:seeAlso": [
                 "https://web.archive.org/web/20080207013128/http://www.gnome.org/fonts/",
                 "https://docubrain.com/sites/default/files/licenses/bitstream-vera.html"
@@ -13,14 +21,6 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:c8d88257-a407-4a94-b081-9a130289c83a"
-                },
-                {
-                    "@id": "_:b9a37640-f637-4334-97ab-4ab0e44021ee"
-                }
-            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -29,30 +29,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:c8d88257-a407-4a94-b081-9a130289c83a",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://docubrain.com/sites/default/files/licenses/bitstream-vera.html",
-            "spdx:timestamp": "2026-03-05T18:01:50Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:b9a37640-f637-4334-97ab-4ab0e44021ee",
+            "@id": "_:c517fe0c-96c0-4e76-967a-f56f4eebc9e5",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,12 +43,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://web.archive.org/web/20080207013128/http://www.gnome.org/fonts/",
-            "spdx:timestamp": "2026-03-05T18:01:49Z",
+            "spdx:timestamp": "2026-04-10T08:47:48Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:7e9903c9-ae45-4e9d-a37e-6177e3935640",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://docubrain.com/sites/default/files/licenses/bitstream-vera.html",
+            "spdx:timestamp": "2026-04-10T08:47:48Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

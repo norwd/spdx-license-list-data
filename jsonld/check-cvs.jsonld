@@ -8,6 +8,9 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:standardLicenseTemplate": "Permission is granted to copy and/or distribute this file, with or without modifications, provided this notice is preserved.\n\n",
+            "spdx:crossRef": {
+                "@id": "_:47d219a1-50a7-45ff-b746-c1d6c9877659"
+            },
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -16,13 +19,10 @@
             "rdfs:seeAlso": "http://cvs.savannah.gnu.org/viewvc/cvs/ccvs/contrib/check_cvs.in?revision=1.1.4.3&view=markup&pathrev=cvs1-11-23#l2",
             "rdfs:comment": "This license is similar to FSFULLR.",
             "spdx:licenseTextHtml": "\n         <p>\n            Permission is granted to copy and/or distribute this file, with\n            or without modifications, provided this notice is preserved.\n         </p>\n\n      ",
-            "spdx:name": "check-cvs License",
-            "spdx:crossRef": {
-                "@id": "_:8d235dd2-976a-4af1-8225-7311ec2b9045"
-            }
+            "spdx:name": "check-cvs License"
         },
         {
-            "@id": "_:8d235dd2-976a-4af1-8225-7311ec2b9045",
+            "@id": "_:47d219a1-50a7-45ff-b746-c1d6c9877659",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -32,16 +32,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://cvs.savannah.gnu.org/viewvc/cvs/ccvs/contrib/check_cvs.in?revision=1.1.4.3&view=markup&pathrev=cvs1-11-23#l2",
-            "spdx:timestamp": "2026-03-05T17:58:49Z",
+            "spdx:timestamp": "2026-04-10T08:51:48Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         }
     ],

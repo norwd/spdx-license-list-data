@@ -685,15 +685,12 @@ The Open Data Commons - Public Domain Dedication &amp;amp; Licence is a document
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://opendatacommons.org/licenses/pddl/1.0/</spdx:url>
-        <spdx:timestamp>2026-03-05T18:01:54Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T08:54:02Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >false</spdx:isDeprecatedLicenseId>
-    <rdfs:seeAlso>http://opendatacommons.org/licenses/pddl/1.0/</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -703,12 +700,15 @@ The Open Data Commons - Public Domain Dedication &amp;amp; Licence is a document
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://opendatacommons.org/licenses/pddl/</spdx:url>
-        <spdx:timestamp>2026-03-05T18:01:54Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T08:54:02Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <rdfs:seeAlso>http://opendatacommons.org/licenses/pddl/1.0/</rdfs:seeAlso>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
   </spdx:ListedLicense>

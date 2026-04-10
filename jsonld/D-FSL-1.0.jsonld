@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:fae9b8dd-2f2d-4685-9eaf-574f49ee28bd",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/D-FSL-1_0_en.txt/at_download/file",
-            "spdx:timestamp": "2026-03-05T17:56:56Z",
-            "spdx:order": {
-                "@value": "7",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:7d776778-d97b-47b5-9151-0aa6fab3e500",
+            "@id": "_:1908cba5-d052-48ac-8e1f-8d90c7863614",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/german-free-software-license",
-            "spdx:timestamp": "2026-03-05T17:56:52Z",
+            "spdx:timestamp": "2026-04-10T08:49:31Z",
             "spdx:order": {
                 "@value": "5",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:88acc631-91aa-4c9f-a8c5-513031277f36",
+            "@id": "_:1198ea9f-a708-4731-aaf8-91a2be568c9d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -60,17 +37,17 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "http://www.dipp.nrw.de/d-fsl/lizenzen/",
-            "spdx:timestamp": "2026-03-05T17:56:49Z",
+            "spdx:url": "http://www.dipp.nrw.de/d-fsl/index_html/lizenzen/de/D-FSL-1_0_de.txt",
+            "spdx:timestamp": "2026-04-10T08:49:33Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:0b728da4-5157-4c54-a143-56f755b76912",
+            "@id": "_:2078b6cc-7972-42ea-89cd-62a44631cd13",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -80,20 +57,20 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/D-FSL-1_0_de.txt/at_download/file",
-            "spdx:timestamp": "2026-03-05T17:56:56Z",
+            "spdx:url": "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl",
+            "spdx:timestamp": "2026-04-10T08:49:28Z",
             "spdx:order": {
-                "@value": "6",
+                "@value": "3",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:9b74d35f-366e-4f41-9ee0-b53f1eb7f2b8",
+            "@id": "_:c828d6b6-727a-4994-ba07-db7d9ee610ec",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -107,7 +84,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/deutsche-freie-software-lizenz",
-            "spdx:timestamp": "2026-03-05T17:56:54Z",
+            "spdx:timestamp": "2026-04-10T08:49:32Z",
             "spdx:order": {
                 "@value": "4",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -116,7 +93,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:ef683b9e-f300-4ddc-a658-e58636f8d25d",
+            "@id": "_:c0abf56a-cfcc-4dc7-b9ab-d2055ddefed5",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -130,7 +107,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.dipp.nrw.de/d-fsl/index_html/lizenzen/en/D-FSL-1_0_en.txt",
-            "spdx:timestamp": "2026-03-05T17:56:59Z",
+            "spdx:timestamp": "2026-04-10T08:49:29Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -139,31 +116,54 @@
             "@type": "spdx:CrossRef"
         },
         {
+            "@id": "_:2996a129-1e4e-4eff-9143-56e02bfca1f6",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/D-FSL-1_0_en.txt/at_download/file",
+            "spdx:timestamp": "2026-04-10T08:49:28Z",
+            "spdx:order": {
+                "@value": "7",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/D-FSL-1.0",
             "spdx:crossRef": [
                 {
-                    "@id": "_:3d108a90-d5d3-4e51-a406-f7256c099586"
+                    "@id": "_:2996a129-1e4e-4eff-9143-56e02bfca1f6"
                 },
                 {
-                    "@id": "_:88acc631-91aa-4c9f-a8c5-513031277f36"
+                    "@id": "_:5c5d8664-95ad-45f9-a324-e512735a6f00"
                 },
                 {
-                    "@id": "_:a85bdf69-54ff-42bc-bebc-c9b4407983bf"
+                    "@id": "_:1198ea9f-a708-4731-aaf8-91a2be568c9d"
                 },
                 {
-                    "@id": "_:9b74d35f-366e-4f41-9ee0-b53f1eb7f2b8"
+                    "@id": "_:c0abf56a-cfcc-4dc7-b9ab-d2055ddefed5"
                 },
                 {
-                    "@id": "_:7d776778-d97b-47b5-9151-0aa6fab3e500"
+                    "@id": "_:d74c44fd-171f-4393-bb1b-821a265e3fd9"
                 },
                 {
-                    "@id": "_:fae9b8dd-2f2d-4685-9eaf-574f49ee28bd"
+                    "@id": "_:2078b6cc-7972-42ea-89cd-62a44631cd13"
                 },
                 {
-                    "@id": "_:ef683b9e-f300-4ddc-a658-e58636f8d25d"
+                    "@id": "_:c828d6b6-727a-4994-ba07-db7d9ee610ec"
                 },
                 {
-                    "@id": "_:0b728da4-5157-4c54-a143-56f755b76912"
+                    "@id": "_:1908cba5-d052-48ac-8e1f-8d90c7863614"
                 }
             ],
             "rdfs:seeAlso": [
@@ -192,7 +192,7 @@
             }
         },
         {
-            "@id": "_:3d108a90-d5d3-4e51-a406-f7256c099586",
+            "@id": "_:5c5d8664-95ad-45f9-a324-e512735a6f00",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -205,17 +205,17 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "http://www.dipp.nrw.de/d-fsl/index_html/lizenzen/de/D-FSL-1_0_de.txt",
-            "spdx:timestamp": "2026-03-05T17:56:56Z",
+            "spdx:url": "http://www.dipp.nrw.de/d-fsl/lizenzen/",
+            "spdx:timestamp": "2026-04-10T08:49:35Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:a85bdf69-54ff-42bc-bebc-c9b4407983bf",
+            "@id": "_:d74c44fd-171f-4393-bb1b-821a265e3fd9",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -225,16 +225,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl",
-            "spdx:timestamp": "2026-03-05T17:56:58Z",
+            "spdx:url": "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/D-FSL-1_0_de.txt/at_download/file",
+            "spdx:timestamp": "2026-04-10T08:49:28Z",
             "spdx:order": {
-                "@value": "3",
+                "@value": "6",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         }
     ],

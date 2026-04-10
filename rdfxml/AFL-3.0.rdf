@@ -93,11 +93,11 @@ Licensed under the Academic Free License version 3.0
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://opensource.org/licenses/afl-3.0</spdx:url>
-        <spdx:timestamp>2026-03-05T18:00:40Z</spdx:timestamp>
+        <spdx:url>http://www.rosenlaw.com/AFL3.0.htm</spdx:url>
+        <spdx:timestamp>2026-04-10T08:47:51Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>N/A</spdx:match>
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -114,11 +114,11 @@ Licensed under the Academic Free License version 3.0
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>http://www.rosenlaw.com/AFL3.0.htm</spdx:url>
-        <spdx:timestamp>2026-03-05T18:00:41Z</spdx:timestamp>
+        <spdx:url>https://opensource.org/licenses/afl-3.0</spdx:url>
+        <spdx:timestamp>2026-04-10T08:47:50Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
+        >1</spdx:order>
+        <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:licenseTextHtml>

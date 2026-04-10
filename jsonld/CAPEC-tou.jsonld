@@ -14,15 +14,15 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": {
-                "@id": "_:6b2c4363-ef68-4b8a-bb29-8546621029a1"
-            },
             "spdx:licenseText": "LICENSE\nThe MITRE Corporation (MITRE) hereby grants you a non-exclusive, royalty-free license to use Common Attack Pattern Enumeration and Classification (CAPEC™) for research, development, and commercial purposes. Any copy you make for such purposes is authorized provided that you reproduce MITRE’s copyright designation and this license in any such copy.\n\nDISCLAIMERS\n\nALL DOCUMENTS AND THE INFORMATION CONTAINED THEREIN ARE PROVIDED ON AN \"AS IS\" BASIS AND THE CONTRIBUTOR, THE ORGANIZATION HE/SHE REPRESENTS OR IS SPONSORED BY (IF ANY), THE MITRE CORPORATION, ITS BOARD OF TRUSTEES, OFFICERS, AGENTS, AND EMPLOYEES, DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION THEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.\n\n",
             "rdfs:seeAlso": "https://capec.mitre.org/about/termsofuse.html",
-            "spdx:name": "Common Attack    Pattern Enumeration and Classification License"
+            "spdx:name": "Common Attack    Pattern Enumeration and Classification License",
+            "spdx:crossRef": {
+                "@id": "_:28f6671d-ef68-4957-a858-cc35d0dde00e"
+            }
         },
         {
-            "@id": "_:6b2c4363-ef68-4b8a-bb29-8546621029a1",
+            "@id": "_:28f6671d-ef68-4957-a858-cc35d0dde00e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://capec.mitre.org/about/termsofuse.html",
-            "spdx:timestamp": "2026-03-05T17:57:31Z",
+            "spdx:timestamp": "2026-04-10T08:54:07Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

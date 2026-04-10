@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:a13f3db2-d36d-465f-a7f2-507be89ada8b"
+                "@id": "_:cbfe642b-a750-42e8-b604-984e2df58a27"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:a13f3db2-d36d-465f-a7f2-507be89ada8b",
+            "@id": "_:cbfe642b-a750-42e8-b604-984e2df58a27",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://essr.esa.int/license/european-space-agency-public-license-v2-4-weak-copyleft-type-2",
-            "spdx:timestamp": "2026-03-05T18:01:16Z",
+            "spdx:timestamp": "2026-04-10T08:47:48Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

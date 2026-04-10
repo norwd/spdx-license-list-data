@@ -20,12 +20,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:af35399a-7db7-4529-8028-6f7c626f0b03"
+                "@id": "_:af0217d9-c967-4fdd-8532-553ea66aa481"
             },
             "rdfs:comment": "This license was released 22 February 2002"
         },
         {
-            "@id": "_:af35399a-7db7-4529-8028-6f7c626f0b03",
+            "@id": "_:af0217d9-c967-4fdd-8532-553ea66aa481",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -39,7 +39,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://oss.sgi.com/projects/FreeB/",
-            "spdx:timestamp": "2026-03-05T17:59:46Z",
+            "spdx:timestamp": "2026-04-10T08:50:37Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

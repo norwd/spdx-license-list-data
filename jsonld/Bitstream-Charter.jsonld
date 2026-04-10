@@ -1,29 +1,6 @@
 {
     "@graph": [
         {
-            "@id": "_:e38c8d25-ca45-4c39-acc4-c300b7183d52",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://raw.githubusercontent.com/blackhole89/notekit/master/data/fonts/Charter%20license.txt",
-            "spdx:timestamp": "2026-03-05T18:01:48Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/Bitstream-Charter",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -44,15 +21,38 @@
             "spdx:name": "Bitstream Charter Font License",
             "spdx:crossRef": [
                 {
-                    "@id": "_:e38c8d25-ca45-4c39-acc4-c300b7183d52"
+                    "@id": "_:c2b14036-d52b-4169-aa4a-43dca98f8611"
                 },
                 {
-                    "@id": "_:7bd71929-1cd9-4b14-a59a-31a93d266ef6"
+                    "@id": "_:d4426d50-fbc3-4789-aa25-9c0f8e42793b"
                 }
             ]
         },
         {
-            "@id": "_:7bd71929-1cd9-4b14-a59a-31a93d266ef6",
+            "@id": "_:c2b14036-d52b-4169-aa4a-43dca98f8611",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://raw.githubusercontent.com/blackhole89/notekit/master/data/fonts/Charter%20license.txt",
+            "spdx:timestamp": "2026-04-10T08:54:40Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:d4426d50-fbc3-4789-aa25-9c0f8e42793b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Charter#License_Text",
-            "spdx:timestamp": "2026-03-05T18:01:49Z",
+            "spdx:timestamp": "2026-04-10T08:54:40Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

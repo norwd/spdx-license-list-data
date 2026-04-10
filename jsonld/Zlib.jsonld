@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:f1443a07-0679-44e6-82df-73c3f064e0a2",
+            "@id": "_:995c4943-2ec3-4b69-ad1f-3d6650d7e82b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/licenses/Zlib",
-            "spdx:timestamp": "2026-03-05T17:58:29Z",
+            "spdx:timestamp": "2026-04-10T08:45:11Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:8f07a1bd-b0d3-4146-a14e-2c5e4ba14b57",
+            "@id": "_:3e2ea95b-0f02-496b-aacf-e49993044a01",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.zlib.net/zlib_license.html",
-            "spdx:timestamp": "2026-03-05T17:58:29Z",
+            "spdx:timestamp": "2026-04-10T08:45:11Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -56,16 +56,16 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:name": "zlib License",
-            "spdx:licenseText": "zlib License\n\nThis software is provided 'as-is', without any express or implied warranty.  In no event will the authors be held liable for any damages arising from the use of this software.\n\nPermission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:\n\n     1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.\n\n     2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.\n\n     3. This notice may not be removed or altered from any source distribution.\n",
             "spdx:crossRef": [
                 {
-                    "@id": "_:f1443a07-0679-44e6-82df-73c3f064e0a2"
+                    "@id": "_:995c4943-2ec3-4b69-ad1f-3d6650d7e82b"
                 },
                 {
-                    "@id": "_:8f07a1bd-b0d3-4146-a14e-2c5e4ba14b57"
+                    "@id": "_:3e2ea95b-0f02-496b-aacf-e49993044a01"
                 }
             ],
+            "spdx:name": "zlib License",
+            "spdx:licenseText": "zlib License\n\nThis software is provided 'as-is', without any express or implied warranty.  In no event will the authors be held liable for any damages arising from the use of this software.\n\nPermission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:\n\n     1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.\n\n     2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.\n\n     3. This notice may not be removed or altered from any source distribution.\n",
             "rdfs:seeAlso": [
                 "http://www.zlib.net/zlib_license.html",
                 "https://opensource.org/licenses/Zlib"

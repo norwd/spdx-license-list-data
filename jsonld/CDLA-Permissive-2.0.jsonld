@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:95862625-96d4-446b-86b4-8b8023095b33",
+            "@id": "_:c2b097e8-8d60-4a9c-961b-b556183153e0",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://cdla.dev/permissive-2-0",
-            "spdx:timestamp": "2026-03-05T18:01:50Z",
+            "spdx:timestamp": "2026-04-10T08:49:37Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:95862625-96d4-446b-86b4-8b8023095b33"
+                "@id": "_:c2b097e8-8d60-4a9c-961b-b556183153e0"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

@@ -2,18 +2,18 @@
     "@graph": [
         {
             "@id": "http://spdx.org/licenses/Minpack",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:5b8101b1-f282-431c-ab7f-a4af864f19ac"
+                },
+                {
+                    "@id": "_:1936a454-f122-4d1a-a57c-fb43b7dc54f4"
+                }
+            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:8084b02c-d1d8-4070-b57c-d8d07058dc45"
-                },
-                {
-                    "@id": "_:6282b7a2-db2d-4ca0-bb03-eef42ae124ac"
-                }
-            ],
             "rdfs:seeAlso": [
                 "http://www.netlib.org/minpack/disclaimer",
                 "https://gitlab.com/libeigen/eigen/-/blob/master/COPYING.MINPACK"
@@ -29,30 +29,7 @@
             "spdx:name": "Minpack License"
         },
         {
-            "@id": "_:8084b02c-d1d8-4070-b57c-d8d07058dc45",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://gitlab.com/libeigen/eigen/-/blob/master/COPYING.MINPACK",
-            "spdx:timestamp": "2026-03-05T17:57:58Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:6282b7a2-db2d-4ca0-bb03-eef42ae124ac",
+            "@id": "_:5b8101b1-f282-431c-ab7f-a4af864f19ac",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,12 +43,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.netlib.org/minpack/disclaimer",
-            "spdx:timestamp": "2026-03-05T17:57:59Z",
+            "spdx:timestamp": "2026-04-10T08:48:24Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:1936a454-f122-4d1a-a57c-fb43b7dc54f4",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://gitlab.com/libeigen/eigen/-/blob/master/COPYING.MINPACK",
+            "spdx:timestamp": "2026-04-10T08:48:25Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         }
     ],

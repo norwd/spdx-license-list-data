@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:24a60d9b-0f61-4b69-963a-9f9efb270a03",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/licenses/W3C",
-            "spdx:timestamp": "2026-03-05T18:00:31Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:b4dfeafa-da0a-4a7a-842d-3176a1046e36",
+            "@id": "_:8fc1a56b-1a26-4c6e-bd2c-df7554d23630",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html",
-            "spdx:timestamp": "2026-03-05T18:00:31Z",
+            "spdx:timestamp": "2026-04-10T08:54:09Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,7 +24,38 @@
             "@type": "spdx:CrossRef"
         },
         {
+            "@id": "_:39a9f4a3-d044-45d5-b34e-8c7b1f280d14",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/licenses/W3C",
+            "spdx:timestamp": "2026-04-10T08:54:09Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/W3C",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:39a9f4a3-d044-45d5-b34e-8c7b1f280d14"
+                },
+                {
+                    "@id": "_:8fc1a56b-1a26-4c6e-bd2c-df7554d23630"
+                }
+            ],
             "rdfs:seeAlso": [
                 "https://opensource.org/licenses/W3C",
                 "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html"
@@ -58,14 +66,6 @@
             },
             "spdx:standardLicenseHeaderTemplate": "<<var;name=\"copyright\";original=\"Copyright (C) <<var;name=\"year\";original=\"[$date-of-software]\";match=\".+\">> World Wide Web Consortium, (Massachusetts Institute of Technology, European Research Consortium for Informatics and Mathematics, Keio University). All Rights Reserved.\";match=\".{0,5000}\">>\nThis work is distributed under the W3C® Software License in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n",
             "rdfs:comment": "This license was released: 13 December 2002. The standard header is provided via a link from the original license page.",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:b4dfeafa-da0a-4a7a-842d-3176a1046e36"
-                },
-                {
-                    "@id": "_:24a60d9b-0f61-4b69-963a-9f9efb270a03"
-                }
-            ],
             "spdx:isFsfLibre": {
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"

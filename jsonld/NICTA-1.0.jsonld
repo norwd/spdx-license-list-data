@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:75aa0483-0b29-4c8a-9b02-4a0ef69d7b17"
+                "@id": "_:01da6a01-9c92-48ab-aeea-e3dfc8af5aae"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:75aa0483-0b29-4c8a-9b02-4a0ef69d7b17",
+            "@id": "_:01da6a01-9c92-48ab-aeea-e3dfc8af5aae",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.apple.com/source/mDNSResponder/mDNSResponder-320.10/mDNSPosix/nss_ReadMe.txt",
-            "spdx:timestamp": "2026-03-05T18:01:15Z",
+            "spdx:timestamp": "2026-04-10T08:52:21Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

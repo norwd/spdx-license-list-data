@@ -61,7 +61,7 @@ GOVERNMENT USE: If you are acquiring this software on behalf of the U.S. governm
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://fedoraproject.org/wiki/Licensing/TCL</spdx:url>
-        <spdx:timestamp>2026-03-05T18:00:28Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T08:50:36Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>true</spdx:match>
@@ -93,7 +93,7 @@ GOVERNMENT USE: If you are acquiring this software on behalf of the U.S. governm
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://www.tcl.tk/software/tcltk/license.html</spdx:url>
-        <spdx:timestamp>2026-03-05T18:00:28Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-10T08:50:37Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>

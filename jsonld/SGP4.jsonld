@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:5eca53b7-cf90-4d1d-83b3-7e7cceaa9f08"
+                "@id": "_:345e6594-8615-4a6c-8a03-4f6d297b9fad"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:5eca53b7-cf90-4d1d-83b3-7e7cceaa9f08",
+            "@id": "_:345e6594-8615-4a6c-8a03-4f6d297b9fad",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://celestrak.org/publications/AIAA/2006-6753/faq.php",
-            "spdx:timestamp": "2026-03-05T17:59:13Z",
+            "spdx:timestamp": "2026-04-10T08:46:43Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

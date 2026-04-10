@@ -13,12 +13,12 @@
         <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://fedoraproject.org/wiki/Licensing/FDK-AAC</spdx:url>
-        <spdx:timestamp>2026-03-05T17:58:27Z</spdx:timestamp>
+        >false</spdx:isLive>
+        <spdx:url>https://directory.fsf.org/wiki/License:Fdk</spdx:url>
+        <spdx:timestamp>2026-04-10T08:47:48Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>true</spdx:match>
+        >1</spdx:order>
+        <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:licenseText>Software License for The Fraunhofer FDK AAC Codec Library for Android
@@ -141,21 +141,6 @@ All rights reserved.
    www.iis.fraunhofer.de/amm amm-info@iis.fraunhofer.de
    
    </spdx:standardLicenseTemplate>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://directory.fsf.org/wiki/License:Fdk</spdx:url>
-        <spdx:timestamp>2026-03-05T17:58:26Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <rdfs:seeAlso>https://directory.fsf.org/wiki/License:Fdk</rdfs:seeAlso>
     <spdx:licenseTextHtml>
       &lt;var class="optional-license-text"&gt; Software License for The Fraunhofer FDK AAC Codec Library for Android&lt;/var&gt;
@@ -216,6 +201,21 @@ All rights reserved.
     </spdx:licenseTextHtml>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing/FDK-AAC</spdx:url>
+        <spdx:timestamp>2026-04-10T08:47:18Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>true</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
   </spdx:ListedLicense>

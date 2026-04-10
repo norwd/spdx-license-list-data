@@ -1,11 +1,3 @@
-_:B4b64f0bcX2Dc53aX2D4c6dX2Da8c6X2Db73601c20f08 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4b64f0bcX2Dc53aX2D4c6dX2Da8c6X2Db73601c20f08 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4b64f0bcX2Dc53aX2D4c6dX2Da8c6X2Db73601c20f08 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4b64f0bcX2Dc53aX2D4c6dX2Da8c6X2Db73601c20f08 <http://spdx.org/rdf/terms#url> "https://www.boost.org/doc/libs/1_35_0/doc/html/jam.html" .
-_:B4b64f0bcX2Dc53aX2D4c6dX2Da8c6X2Db73601c20f08 <http://spdx.org/rdf/terms#timestamp> "2026-03-05T17:59:50Z" .
-_:B4b64f0bcX2Dc53aX2D4c6dX2Da8c6X2Db73601c20f08 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B4b64f0bcX2Dc53aX2D4c6dX2Da8c6X2Db73601c20f08 <http://spdx.org/rdf/terms#match> "true" .
-_:B4b64f0bcX2Dc53aX2D4c6dX2Da8c6X2Db73601c20f08 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/Jam> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://web.archive.org/web/20160330173339/https://swarm.workshop.perforce.com/files/guest/perforce_software/jam/src/README" .
 <http://spdx.org/licenses/Jam> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright 1993-2014 Christopher Seiwald and Perforce Software, Inc.  \";match=\".{0,5000}\">>\nLicense is hereby granted to use this software and distribute it freely, as long as this copyright notice is retained and modifications are clearly marked.\n\nALL WARRANTIES ARE HEREBY DISCLAIMED.\n\n" .
 <http://spdx.org/licenses/Jam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
@@ -14,14 +6,22 @@ _:B4b64f0bcX2Dc53aX2D4c6dX2Da8c6X2Db73601c20f08 <http://www.w3.org/1999/02/22-rd
 <http://spdx.org/licenses/Jam> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/Jam> <http://spdx.org/rdf/terms#licenseTextHtml> "\n        <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n\t    <p>Copyright 1993-2014 Christopher Seiwald and Perforce Software, Inc.</p>\n\n        </span></div>\n\n\t<p>\n            License is hereby granted to use this software and distribute it\n            freely, as long as this copyright notice is retained and modifications\n            are clearly marked.\n\t</p>\n\n\t<p>\n            ALL WARRANTIES ARE HEREBY DISCLAIMED.\n\t</p>\n\n    " .
 <http://spdx.org/licenses/Jam> <http://spdx.org/rdf/terms#licenseText> "License is hereby granted to use this software and distribute it freely,\nas long as this copyright notice is retained and modifications are\nclearly marked.\n\nALL WARRANTIES ARE HEREBY DISCLAIMED.\n" .
-<http://spdx.org/licenses/Jam> <http://spdx.org/rdf/terms#crossRef> _:B85c4f4daX2Daf62X2D4c4aX2D837cX2D7e10c48e7955 .
+<http://spdx.org/licenses/Jam> <http://spdx.org/rdf/terms#crossRef> _:B3e737bb3X2Df832X2D4367X2Db14dX2Dab12d0b4f67c .
 <http://spdx.org/licenses/Jam> <http://spdx.org/rdf/terms#name> "Jam License" .
-<http://spdx.org/licenses/Jam> <http://spdx.org/rdf/terms#crossRef> _:B4b64f0bcX2Dc53aX2D4c6dX2Da8c6X2Db73601c20f08 .
-_:B85c4f4daX2Daf62X2D4c4aX2D837cX2D7e10c48e7955 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B85c4f4daX2Daf62X2D4c4aX2D837cX2D7e10c48e7955 <http://spdx.org/rdf/terms#isValid> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B85c4f4daX2Daf62X2D4c4aX2D837cX2D7e10c48e7955 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B85c4f4daX2Daf62X2D4c4aX2D837cX2D7e10c48e7955 <http://spdx.org/rdf/terms#url> "https://web.archive.org/web/20160330173339/https://swarm.workshop.perforce.com/files/guest/perforce_software/jam/src/README" .
-_:B85c4f4daX2Daf62X2D4c4aX2D837cX2D7e10c48e7955 <http://spdx.org/rdf/terms#timestamp> "2026-03-05T17:59:50Z" .
-_:B85c4f4daX2Daf62X2D4c4aX2D837cX2D7e10c48e7955 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B85c4f4daX2Daf62X2D4c4aX2D837cX2D7e10c48e7955 <http://spdx.org/rdf/terms#match> "N/A" .
-_:B85c4f4daX2Daf62X2D4c4aX2D837cX2D7e10c48e7955 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/Jam> <http://spdx.org/rdf/terms#crossRef> _:B02344ac6X2D5184X2D4972X2D85f8X2Dc0889d0a2a95 .
+_:B02344ac6X2D5184X2D4972X2D85f8X2Dc0889d0a2a95 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B02344ac6X2D5184X2D4972X2D85f8X2Dc0889d0a2a95 <http://spdx.org/rdf/terms#isValid> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B02344ac6X2D5184X2D4972X2D85f8X2Dc0889d0a2a95 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B02344ac6X2D5184X2D4972X2D85f8X2Dc0889d0a2a95 <http://spdx.org/rdf/terms#url> "https://web.archive.org/web/20160330173339/https://swarm.workshop.perforce.com/files/guest/perforce_software/jam/src/README" .
+_:B02344ac6X2D5184X2D4972X2D85f8X2Dc0889d0a2a95 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:46:10Z" .
+_:B02344ac6X2D5184X2D4972X2D85f8X2Dc0889d0a2a95 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B02344ac6X2D5184X2D4972X2D85f8X2Dc0889d0a2a95 <http://spdx.org/rdf/terms#match> "N/A" .
+_:B02344ac6X2D5184X2D4972X2D85f8X2Dc0889d0a2a95 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B3e737bb3X2Df832X2D4367X2Db14dX2Dab12d0b4f67c <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B3e737bb3X2Df832X2D4367X2Db14dX2Dab12d0b4f67c <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B3e737bb3X2Df832X2D4367X2Db14dX2Dab12d0b4f67c <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B3e737bb3X2Df832X2D4367X2Db14dX2Dab12d0b4f67c <http://spdx.org/rdf/terms#url> "https://www.boost.org/doc/libs/1_35_0/doc/html/jam.html" .
+_:B3e737bb3X2Df832X2D4367X2Db14dX2Dab12d0b4f67c <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:46:10Z" .
+_:B3e737bb3X2Df832X2D4367X2Db14dX2Dab12d0b4f67c <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B3e737bb3X2Df832X2D4367X2Db14dX2Dab12d0b4f67c <http://spdx.org/rdf/terms#match> "true" .
+_:B3e737bb3X2Df832X2D4367X2Db14dX2Dab12d0b4f67c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

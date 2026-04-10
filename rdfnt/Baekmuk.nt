@@ -3,15 +3,15 @@
 <http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            Copyright (c) 1986-2002 Kim Jeong-Hwan All rights reserved.\n         </p>\n\n         <p>\n            Permission to use, copy, modify and distribute this font\n            is hereby granted, provided that both the copyright notice\n            and this permission notice appear in all copies of the\n            font, derivative works or modified versions, and that the\n            following acknowledgement appear in supporting documentation:\n            Baekmuk Batang, Baekmuk Dotum, Baekmuk Gulim, and Baekmuk\n            Headline are registered trademarks owned by Kim Jeong-Hwan.\n         </p>\n\n      " .
 <http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#standardLicenseTemplate> "Copyright (c) 1986-2002 Kim Jeong-Hwan All rights reserved.\n\nPermission to use, copy, modify and distribute this font is hereby granted, provided that both the copyright notice and this permission notice appear in all copies of the font, derivative works or modified versions, and that the following acknowledgement appear in supporting documentation: Baekmuk Batang, Baekmuk Dotum, Baekmuk Gulim, and Baekmuk Headline are registered trademarks owned by Kim Jeong-Hwan.\n\n" .
 <http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#crossRef> _:Bb5388cb5X2D6617X2D45caX2Da2b0X2Dd0264c6ff226 .
+<http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#crossRef> _:B363fb596X2D936cX2D45eeX2D9b2eX2Da416d0718a5b .
 <http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/Baekmuk> <http://spdx.org/rdf/terms#name> "Baekmuk License" .
 <http://spdx.org/licenses/Baekmuk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-_:Bb5388cb5X2D6617X2D45caX2Da2b0X2Dd0264c6ff226 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb5388cb5X2D6617X2D45caX2Da2b0X2Dd0264c6ff226 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb5388cb5X2D6617X2D45caX2Da2b0X2Dd0264c6ff226 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb5388cb5X2D6617X2D45caX2Da2b0X2Dd0264c6ff226 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing:Baekmuk?rd=Licensing/Baekmuk" .
-_:Bb5388cb5X2D6617X2D45caX2Da2b0X2Dd0264c6ff226 <http://spdx.org/rdf/terms#timestamp> "2026-03-05T17:58:34Z" .
-_:Bb5388cb5X2D6617X2D45caX2Da2b0X2Dd0264c6ff226 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bb5388cb5X2D6617X2D45caX2Da2b0X2Dd0264c6ff226 <http://spdx.org/rdf/terms#match> "true" .
-_:Bb5388cb5X2D6617X2D45caX2Da2b0X2Dd0264c6ff226 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B363fb596X2D936cX2D45eeX2D9b2eX2Da416d0718a5b <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B363fb596X2D936cX2D45eeX2D9b2eX2Da416d0718a5b <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B363fb596X2D936cX2D45eeX2D9b2eX2Da416d0718a5b <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B363fb596X2D936cX2D45eeX2D9b2eX2Da416d0718a5b <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing:Baekmuk?rd=Licensing/Baekmuk" .
+_:B363fb596X2D936cX2D45eeX2D9b2eX2Da416d0718a5b <http://spdx.org/rdf/terms#timestamp> "2026-04-10T08:53:01Z" .
+_:B363fb596X2D936cX2D45eeX2D9b2eX2Da416d0718a5b <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B363fb596X2D936cX2D45eeX2D9b2eX2Da416d0718a5b <http://spdx.org/rdf/terms#match> "true" .
+_:B363fb596X2D936cX2D45eeX2D9b2eX2Da416d0718a5b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
