@@ -5,6 +5,7 @@
     xmlns:ptr="http://www.w3.org/2009/pointers#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/RPL-1.1">
+    <rdfs:seeAlso>https://opensource.org/license/RPL-1.1</rdfs:seeAlso>
     <spdx:licenseTextHtml>
       &lt;div class="optional-license-text"&gt; 
          &lt;p&gt;Reciprocal Public License, version 1.1&lt;/p&gt;
@@ -790,6 +791,7 @@ You may obtain a copy of both the TPL and the RPL (the &amp;quot;Licenses&amp;qu
     </spdx:licenseTextHtml>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
+    <rdfs:comment>This license has been superseded by the Reciprocal Public License, version 1.5</rdfs:comment>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -798,14 +800,13 @@ You may obtain a copy of both the TPL and the RPL (the &amp;quot;Licenses&amp;qu
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://opensource.org/licenses/RPL-1.1</spdx:url>
-        <spdx:timestamp>2026-04-10T14:34:38Z</spdx:timestamp>
+        <spdx:url>https://opensource.org/license/RPL-1.1</spdx:url>
+        <spdx:timestamp>2026-04-13T13:58:48Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <rdfs:comment>This license has been superseded by the Reciprocal Public License, version 1.5</rdfs:comment>
     <spdx:licenseText>Reciprocal Public License, version 1.1
 
 Copyright (C) 2001-2002 Technical Pursuit Inc., All Rights Reserved.
@@ -1089,6 +1090,5 @@ All software distributed under the Licenses is provided strictly on an "AS IS" b
 
 &lt;&lt;endOptional&gt;&gt;</spdx:standardLicenseTemplate>
     <spdx:name>Reciprocal Public License 1.1</spdx:name>
-    <rdfs:seeAlso>https://opensource.org/licenses/RPL-1.1</rdfs:seeAlso>
   </spdx:ListedLicense>
 </rdf:RDF>

@@ -5,10 +5,10 @@
             "rdfs:comment": "This is the same as BSD-2-Clause, but adds a specific requirement to retain the notice in the first lines of the file.",
             "spdx:crossRef": [
                 {
-                    "@id": "_:e9c56743-f158-48c9-90dc-49b8a6b5a5a4"
+                    "@id": "_:e83030c8-31e0-4e7c-822e-674676cc5acf"
                 },
                 {
-                    "@id": "_:24e9c566-27c0-444e-9f68-30ed18822bc6"
+                    "@id": "_:a92d74fc-7c25-47f8-850d-57a7da9c55ed"
                 }
             ],
             "@type": "spdx:ListedLicense",
@@ -30,7 +30,7 @@
             ]
         },
         {
-            "@id": "_:e9c56743-f158-48c9-90dc-49b8a6b5a5a4",
+            "@id": "_:e83030c8-31e0-4e7c-822e-674676cc5acf",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -44,7 +44,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html",
-            "spdx:timestamp": "2026-04-10T14:31:31Z",
+            "spdx:timestamp": "2026-04-13T13:50:41Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -53,7 +53,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:24e9c566-27c0-444e-9f68-30ed18822bc6",
+            "@id": "_:a92d74fc-7c25-47f8-850d-57a7da9c55ed",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,7 +67,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L664-L690",
-            "spdx:timestamp": "2026-04-10T14:31:30Z",
+            "spdx:timestamp": "2026-04-13T13:50:41Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

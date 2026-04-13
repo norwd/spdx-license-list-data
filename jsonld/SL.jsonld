@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:e97c8eb0-d8a2-4398-8ae7-2fefff48dd74",
+            "@id": "_:175ca85b-2f9a-47a8-8b06-68b651ee852d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/mtoyoda/sl/blob/master/LICENSE",
-            "spdx:timestamp": "2026-04-10T14:34:37Z",
+            "spdx:timestamp": "2026-04-13T13:58:21Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:e97c8eb0-d8a2-4398-8ae7-2fefff48dd74"
+                "@id": "_:175ca85b-2f9a-47a8-8b06-68b651ee852d"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

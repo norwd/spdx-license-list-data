@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:adc0e0d3-a4f4-4620-a48e-18118ff1507b"
+                "@id": "_:dc629f01-7bdc-4c87-acf9-77f2b4e944e5"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:adc0e0d3-a4f4-4620-a48e-18118ff1507b",
+            "@id": "_:dc629f01-7bdc-4c87-acf9-77f2b4e944e5",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License#License_Retention_Variant",
-            "spdx:timestamp": "2026-04-10T14:31:22Z",
+            "spdx:timestamp": "2026-04-13T13:48:03Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

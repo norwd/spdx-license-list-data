@@ -4,14 +4,14 @@
             "@id": "http://spdx.org/licenses/EFL-1.0",
             "rdfs:seeAlso": [
                 "http://www.eiffel-nice.org/license/forum.txt",
-                "https://opensource.org/licenses/EFL-1.0"
+                "https://opensource.org/license/EFL-1.0"
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:a743b396-ea23-4141-87d1-faa1d1f2ec10"
+                    "@id": "_:984fe9f8-90ad-4216-99f3-0b8f03b01bd2"
                 },
                 {
-                    "@id": "_:3c637243-0b15-4699-8d8a-45b0071632c9"
+                    "@id": "_:d305fb99-dab2-4e5e-a72f-d243d9c933ea"
                 }
             ],
             "spdx:isOsiApproved": {
@@ -30,7 +30,7 @@
             }
         },
         {
-            "@id": "_:a743b396-ea23-4141-87d1-faa1d1f2ec10",
+            "@id": "_:984fe9f8-90ad-4216-99f3-0b8f03b01bd2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -44,7 +44,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.eiffel-nice.org/license/forum.txt",
-            "spdx:timestamp": "2026-04-10T14:31:18Z",
+            "spdx:timestamp": "2026-04-13T13:47:30Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -53,7 +53,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:3c637243-0b15-4699-8d8a-45b0071632c9",
+            "@id": "_:d305fb99-dab2-4e5e-a72f-d243d9c933ea",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,8 +66,8 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://opensource.org/licenses/EFL-1.0",
-            "spdx:timestamp": "2026-04-10T14:31:18Z",
+            "spdx:url": "https://opensource.org/license/EFL-1.0",
+            "spdx:timestamp": "2026-04-13T13:47:29Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

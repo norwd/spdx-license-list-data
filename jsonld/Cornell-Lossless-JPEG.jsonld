@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:903ad4ce-8b69-4548-a2eb-5e0b2fd33d1d",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://android.googlesource.com/platform/external/dng_sdk/+/refs/heads/master/source/dng_lossless_jpeg.cpp#16",
-            "spdx:timestamp": "2026-04-10T14:33:54Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:89322a40-7def-4f71-b023-afe41584dfdb",
+            "@id": "_:f4318186-f41c-4073-8a98-ee7a80d77b6c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.mssl.ucl.ac.uk/~mcrw/src/20050920/proto.h",
-            "spdx:timestamp": "2026-04-10T14:33:56Z",
+            "spdx:timestamp": "2026-04-13T13:57:29Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:afa16974-3406-4553-8683-6907db2f2160",
+            "@id": "_:ddec5d2f-e13a-4f2e-abc6-a187363aec53",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -61,9 +38,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.freedesktop.org/libopenraw/libopenraw/blob/master/lib/ljpegdecompressor.cpp#L32",
-            "spdx:timestamp": "2026-04-10T14:33:55Z",
+            "spdx:timestamp": "2026-04-13T13:57:28Z",
             "spdx:order": {
                 "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:0d42d4bd-a968-4b0c-b119-6d5574ff1d0b",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://android.googlesource.com/platform/external/dng_sdk/+/refs/heads/master/source/dng_lossless_jpeg.cpp#16",
+            "spdx:timestamp": "2026-04-13T13:57:29Z",
+            "spdx:order": {
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
@@ -73,13 +73,13 @@
             "@id": "http://spdx.org/licenses/Cornell-Lossless-JPEG",
             "spdx:crossRef": [
                 {
-                    "@id": "_:afa16974-3406-4553-8683-6907db2f2160"
+                    "@id": "_:0d42d4bd-a968-4b0c-b119-6d5574ff1d0b"
                 },
                 {
-                    "@id": "_:89322a40-7def-4f71-b023-afe41584dfdb"
+                    "@id": "_:ddec5d2f-e13a-4f2e-abc6-a187363aec53"
                 },
                 {
-                    "@id": "_:903ad4ce-8b69-4548-a2eb-5e0b2fd33d1d"
+                    "@id": "_:f4318186-f41c-4073-8a98-ee7a80d77b6c"
                 }
             ],
             "rdfs:seeAlso": [

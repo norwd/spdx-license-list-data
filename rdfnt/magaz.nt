@@ -1,11 +1,11 @@
-_:B2e831a4cX2D675dX2D4da2X2Db21bX2Dacf766a642a0 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B2e831a4cX2D675dX2D4da2X2Db21bX2Dacf766a642a0 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B2e831a4cX2D675dX2D4da2X2Db21bX2Dacf766a642a0 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B2e831a4cX2D675dX2D4da2X2Db21bX2Dacf766a642a0 <http://spdx.org/rdf/terms#url> "https://mirrors.nic.cz/tex-archive/macros/latex/contrib/magaz/magaz.tex" .
-_:B2e831a4cX2D675dX2D4da2X2Db21bX2Dacf766a642a0 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:33:06Z" .
-_:B2e831a4cX2D675dX2D4da2X2Db21bX2Dacf766a642a0 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B2e831a4cX2D675dX2D4da2X2Db21bX2Dacf766a642a0 <http://spdx.org/rdf/terms#match> "N/A" .
-_:B2e831a4cX2D675dX2D4da2X2Db21bX2Dacf766a642a0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B5246fdc3X2D5079X2D4967X2Da4dbX2Ddba208ebff68 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B5246fdc3X2D5079X2D4967X2Da4dbX2Ddba208ebff68 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B5246fdc3X2D5079X2D4967X2Da4dbX2Ddba208ebff68 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B5246fdc3X2D5079X2D4967X2Da4dbX2Ddba208ebff68 <http://spdx.org/rdf/terms#url> "https://mirrors.ctan.org/macros/latex/contrib/version/version.sty" .
+_:B5246fdc3X2D5079X2D4967X2Da4dbX2Ddba208ebff68 <http://spdx.org/rdf/terms#timestamp> "2026-04-13T13:54:38Z" .
+_:B5246fdc3X2D5079X2D4967X2Da4dbX2Ddba208ebff68 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B5246fdc3X2D5079X2D4967X2Da4dbX2Ddba208ebff68 <http://spdx.org/rdf/terms#match> "false" .
+_:B5246fdc3X2D5079X2D4967X2Da4dbX2Ddba208ebff68 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/magaz> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://mirrors.nic.cz/tex-archive/macros/latex/contrib/magaz/magaz.tex" .
 <http://spdx.org/licenses/magaz> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/magaz> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
@@ -13,16 +13,16 @@ _:B2e831a4cX2D675dX2D4da2X2Db21bX2Dacf766a642a0 <http://www.w3.org/1999/02/22-rd
 <http://spdx.org/licenses/magaz> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://mirrors.ctan.org/macros/latex/contrib/version/version.sty" .
 <http://spdx.org/licenses/magaz> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright 1999-2011, Donald Arseneau,\n            asnd@triumf.ca, Vancouver, Canada\n         </span></var>\n         <p>\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern This software|These macros\"> software</span></var> may be freely used, transmitted,\n            reproduced, or modified provided that the\n            copyright notice and this permission is retained.\n         </p>\n\n      " .
 <http://spdx.org/licenses/magaz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-<http://spdx.org/licenses/magaz> <http://spdx.org/rdf/terms#crossRef> _:B2e831a4cX2D675dX2D4da2X2Db21bX2Dacf766a642a0 .
 <http://spdx.org/licenses/magaz> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright 1999-2011, Donald Arseneau, asnd@triumf.ca, Vancouver, Canada\";match=\".{0,5000}\">>\n<<var;name=\"software\";original=\"software\";match=\"This software|These macros\">> may be freely used, transmitted, reproduced, or modified provided that the copyright notice and this permission is retained.\n\n" .
+<http://spdx.org/licenses/magaz> <http://spdx.org/rdf/terms#crossRef> _:Bfdacfc56X2D937fX2D42a6X2Da230X2D3d9a8997d2a7 .
 <http://spdx.org/licenses/magaz> <http://spdx.org/rdf/terms#name> "magaz License" .
-<http://spdx.org/licenses/magaz> <http://spdx.org/rdf/terms#crossRef> _:Ba774c0b3X2Dc074X2D4274X2Db298X2D4782910c6b30 .
+<http://spdx.org/licenses/magaz> <http://spdx.org/rdf/terms#crossRef> _:B5246fdc3X2D5079X2D4967X2Da4dbX2Ddba208ebff68 .
 <http://spdx.org/licenses/magaz> <http://www.w3.org/2000/01/rdf-schema#comment> "This license is a very similar to ulem and fwlw, but has slightly different obligations." .
-_:Ba774c0b3X2Dc074X2D4274X2Db298X2D4782910c6b30 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Ba774c0b3X2Dc074X2D4274X2Db298X2D4782910c6b30 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Ba774c0b3X2Dc074X2D4274X2Db298X2D4782910c6b30 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Ba774c0b3X2Dc074X2D4274X2Db298X2D4782910c6b30 <http://spdx.org/rdf/terms#url> "https://mirrors.ctan.org/macros/latex/contrib/version/version.sty" .
-_:Ba774c0b3X2Dc074X2D4274X2Db298X2D4782910c6b30 <http://spdx.org/rdf/terms#timestamp> "2026-04-10T14:33:05Z" .
-_:Ba774c0b3X2Dc074X2D4274X2Db298X2D4782910c6b30 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Ba774c0b3X2Dc074X2D4274X2Db298X2D4782910c6b30 <http://spdx.org/rdf/terms#match> "false" .
-_:Ba774c0b3X2Dc074X2D4274X2Db298X2D4782910c6b30 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bfdacfc56X2D937fX2D42a6X2Da230X2D3d9a8997d2a7 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bfdacfc56X2D937fX2D42a6X2Da230X2D3d9a8997d2a7 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bfdacfc56X2D937fX2D42a6X2Da230X2D3d9a8997d2a7 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bfdacfc56X2D937fX2D42a6X2Da230X2D3d9a8997d2a7 <http://spdx.org/rdf/terms#url> "https://mirrors.nic.cz/tex-archive/macros/latex/contrib/magaz/magaz.tex" .
+_:Bfdacfc56X2D937fX2D42a6X2Da230X2D3d9a8997d2a7 <http://spdx.org/rdf/terms#timestamp> "2026-04-13T13:54:37Z" .
+_:Bfdacfc56X2D937fX2D42a6X2Da230X2D3d9a8997d2a7 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bfdacfc56X2D937fX2D42a6X2Da230X2D3d9a8997d2a7 <http://spdx.org/rdf/terms#match> "N/A" .
+_:Bfdacfc56X2D937fX2D42a6X2Da230X2D3d9a8997d2a7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

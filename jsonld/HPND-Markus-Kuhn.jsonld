@@ -1,29 +1,6 @@
 {
     "@graph": [
         {
-            "@id": "_:418adc93-2d99-498b-9a11-227236c501ef",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://www.cl.cam.ac.uk/~mgk25/ucs/wcwidth.c",
-            "spdx:timestamp": "2026-04-10T14:33:06Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/HPND-Markus-Kuhn",
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -41,10 +18,10 @@
             "spdx:standardLicenseTemplate": "Permission to use, copy, modify, and distribute this software for any purpose and without fee is hereby granted. The author disclaims all warranties with regard to this software.\n\n",
             "spdx:crossRef": [
                 {
-                    "@id": "_:4cbdcb32-d721-4fd5-9805-4e08ffdb6a8f"
+                    "@id": "_:25c0f63e-3d1a-4f56-9438-c0a5e9fbf7c4"
                 },
                 {
-                    "@id": "_:418adc93-2d99-498b-9a11-227236c501ef"
+                    "@id": "_:d5072067-6c2a-435a-a281-1620a01f2a33"
                 }
             ],
             "@type": "spdx:ListedLicense",
@@ -52,7 +29,7 @@
             "spdx:licenseText": "Permission to use, copy, modify, and distribute this software\nfor any purpose and without fee is hereby granted. The author\ndisclaims all warranties with regard to this software.\n"
         },
         {
-            "@id": "_:4cbdcb32-d721-4fd5-9805-4e08ffdb6a8f",
+            "@id": "_:25c0f63e-3d1a-4f56-9438-c0a5e9fbf7c4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,9 +43,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=readline/readline/support/wcwidth.c;h=0f5ec995796f4813abbcf4972aec0378ab74722a;hb=HEAD#l55",
-            "spdx:timestamp": "2026-04-10T14:33:05Z",
+            "spdx:timestamp": "2026-04-13T13:55:08Z",
             "spdx:order": {
                 "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:d5072067-6c2a-435a-a281-1620a01f2a33",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://www.cl.cam.ac.uk/~mgk25/ucs/wcwidth.c",
+            "spdx:timestamp": "2026-04-13T13:55:08Z",
+            "spdx:order": {
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",

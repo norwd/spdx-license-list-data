@@ -27,6 +27,21 @@ Alternative licenses for eCos may be arranged by contacting Red Hat, Inc. at htt
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isDeprecatedLicenseId>
     <spdx:name>eCos license version 2.0</spdx:name>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+        <spdx:url>https://www.gnu.org/licenses/ecos-license.html</spdx:url>
+        <spdx:timestamp>2026-04-13T13:52:46Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:licenseTextHtml>
       &lt;var class="optional-license-text"&gt; The eCos license version 2.0&lt;/var&gt;
 
@@ -49,21 +64,6 @@ Alternative licenses for eCos may be arranged by contacting Red Hat, Inc. at htt
 
       &lt;/div&gt;
     </spdx:licenseTextHtml>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://www.gnu.org/licenses/ecos-license.html</spdx:url>
-        <spdx:timestamp>2026-04-10T14:32:08Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <rdfs:seeAlso>https://www.gnu.org/licenses/ecos-license.html</rdfs:seeAlso>
     <rdfs:comment>DEPRECATED: Use license expression including main license, "WITH" operator, and identifier: eCos-exception-2.0</rdfs:comment>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"

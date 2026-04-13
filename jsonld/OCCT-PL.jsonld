@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:dc57d191-d576-4da6-86fb-ef847435b309",
+            "@id": "_:e661e149-9b92-4103-9f93-0c689a4da22b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.opencascade.com/content/occt-public-license",
-            "spdx:timestamp": "2026-04-10T14:35:10Z",
+            "spdx:timestamp": "2026-04-13T13:58:55Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:dc57d191-d576-4da6-86fb-ef847435b309"
+                "@id": "_:e661e149-9b92-4103-9f93-0c689a4da22b"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

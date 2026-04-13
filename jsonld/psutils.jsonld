@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:4d37f0d1-50bc-49a8-bfbd-f69b7ff10dd6"
+                "@id": "_:27538e5f-eb02-46aa-b0c5-e15ea23b9b91"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:4d37f0d1-50bc-49a8-bfbd-f69b7ff10dd6",
+            "@id": "_:27538e5f-eb02-46aa-b0c5-e15ea23b9b91",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/psutils",
-            "spdx:timestamp": "2026-04-10T14:32:12Z",
+            "spdx:timestamp": "2026-04-13T13:52:21Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

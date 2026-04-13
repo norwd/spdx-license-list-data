@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:afa6caa0-0ecf-4127-ad2c-4c956abb4ac3",
+            "@id": "_:d19cc359-7dd9-406f-9e51-8669b0709e4d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,8 +14,8 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://opensource.org/licenses/RSCPL",
-            "spdx:timestamp": "2026-04-10T14:33:06Z",
+            "spdx:url": "https://opensource.org/license/RSCPL",
+            "spdx:timestamp": "2026-04-13T13:55:07Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,17 +24,36 @@
             "@type": "spdx:CrossRef"
         },
         {
+            "@id": "_:07fc18ae-8da0-49f3-a14e-7d015b43e1d1",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://wayback.archive.org/web/20060715140826/http://www.risource.org/RPL/RPL-1.0A.shtml",
+            "spdx:timestamp": "2026-04-13T13:55:07Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/RSCPL",
-            "rdfs:seeAlso": [
-                "https://opensource.org/licenses/RSCPL",
-                "http://wayback.archive.org/web/20060715140826/http://www.risource.org/RPL/RPL-1.0A.shtml"
-            ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:afa6caa0-0ecf-4127-ad2c-4c956abb4ac3"
+                    "@id": "_:d19cc359-7dd9-406f-9e51-8669b0709e4d"
                 },
                 {
-                    "@id": "_:71c77a0f-6d8f-4bff-83d3-44eabf716ff0"
+                    "@id": "_:07fc18ae-8da0-49f3-a14e-7d015b43e1d1"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -49,30 +68,11 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "rdfs:seeAlso": [
+                "http://wayback.archive.org/web/20060715140826/http://www.risource.org/RPL/RPL-1.0A.shtml",
+                "https://opensource.org/license/RSCPL"
+            ],
             "spdx:name": "Ricoh Source Code Public License"
-        },
-        {
-            "@id": "_:71c77a0f-6d8f-4bff-83d3-44eabf716ff0",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://wayback.archive.org/web/20060715140826/http://www.risource.org/RPL/RPL-1.0A.shtml",
-            "spdx:timestamp": "2026-04-10T14:33:06Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

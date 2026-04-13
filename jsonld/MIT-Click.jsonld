@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:aff5e879-87ea-45cd-8a33-9c22dd393aa1"
+                "@id": "_:bf2e8a94-e996-4392-8065-ee0d7123d351"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:aff5e879-87ea-45cd-8a33-9c22dd393aa1",
+            "@id": "_:bf2e8a94-e996-4392-8065-ee0d7123d351",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/kohler/t1utils/blob/master/LICENSE",
-            "spdx:timestamp": "2026-04-10T14:33:04Z",
+            "spdx:timestamp": "2026-04-13T13:54:06Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

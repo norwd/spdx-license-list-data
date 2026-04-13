@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:5fe54b8f-e1ed-4ce5-80d8-28b413e7c6b1",
+            "@id": "_:bab63d98-b9de-4bc3-b2a5-456edd26662f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.7-zip.org/sdk.html",
-            "spdx:timestamp": "2026-04-10T14:33:04Z",
+            "spdx:timestamp": "2026-04-13T13:54:37Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -39,21 +39,21 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:5fe54b8f-e1ed-4ce5-80d8-28b413e7c6b1"
+                    "@id": "_:bab63d98-b9de-4bc3-b2a5-456edd26662f"
                 },
                 {
-                    "@id": "_:ba974787-a74e-460a-9c59-0389f25b5cc0"
+                    "@id": "_:d2f63c4c-95c0-46c2-b5b3-ff93212dfc50"
                 }
             ],
             "rdfs:seeAlso": [
                 "https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/",
                 "https://www.7-zip.org/sdk.html"
             ],
-            "spdx:standardLicenseTemplate": "<<beginOptional>>LICENSE\n\n-------\n\n<<endOptional>>\nLZMA SDK is written and placed in the public domain by Igor Pavlov.\n\nSome code in LZMA is based on public domain code from another developers: 1) PPMd var.H (2001): Dmitry Shkarin 2) SHA-256: Wei Dai (Crypto++ library)\n\n",
-            "spdx:name": "LZMA SDK License (versions 9.11 to 9.20)"
+            "spdx:name": "LZMA SDK License (versions 9.11 to 9.20)",
+            "spdx:standardLicenseTemplate": "<<beginOptional>>LICENSE\n\n-------\n\n<<endOptional>>\nLZMA SDK is written and placed in the public domain by Igor Pavlov.\n\nSome code in LZMA is based on public domain code from another developers: 1) PPMd var.H (2001): Dmitry Shkarin 2) SHA-256: Wei Dai (Crypto++ library)\n\n"
         },
         {
-            "@id": "_:ba974787-a74e-460a-9c59-0389f25b5cc0",
+            "@id": "_:d2f63c4c-95c0-46c2-b5b3-ff93212dfc50",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,7 +67,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/",
-            "spdx:timestamp": "2026-04-10T14:33:04Z",
+            "spdx:timestamp": "2026-04-13T13:54:38Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

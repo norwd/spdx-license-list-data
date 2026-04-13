@@ -380,7 +380,7 @@ Modifications:
 
 
 </spdx:licenseText>
-    <rdfs:seeAlso>https://opensource.org/licenses/Motosoto</rdfs:seeAlso>
+    <rdfs:seeAlso>https://opensource.org/license/Motosoto</rdfs:seeAlso>
     <spdx:licenseTextHtml>
          &lt;div class="optional-license-text"&gt; 
             &lt;p&gt;
@@ -1324,8 +1324,8 @@ Modifications:
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://opensource.org/licenses/Motosoto</spdx:url>
-        <spdx:timestamp>2026-04-10T14:33:10Z</spdx:timestamp>
+        <spdx:url>https://opensource.org/license/Motosoto</spdx:url>
+        <spdx:timestamp>2026-04-13T13:55:40Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>

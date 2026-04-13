@@ -18,11 +18,11 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:789e4265-154f-4678-a875-8e224ebf1cae"
+                "@id": "_:3696fd8a-a424-4784-a86a-e2af048a95c5"
             }
         },
         {
-            "@id": "_:789e4265-154f-4678-a875-8e224ebf1cae",
+            "@id": "_:3696fd8a-a424-4784-a86a-e2af048a95c5",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/LBNLBSD",
-            "spdx:timestamp": "2026-04-10T14:32:06Z",
+            "spdx:timestamp": "2026-04-13T13:51:46Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

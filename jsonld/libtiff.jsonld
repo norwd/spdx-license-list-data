@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:96767589-2ca7-48c4-a740-143b5a4a1417",
+            "@id": "_:b87e5c71-0427-4eea-b9bc-bd2319ad070a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/libtiff",
-            "spdx:timestamp": "2026-04-10T14:31:27Z",
+            "spdx:timestamp": "2026-04-13T13:49:34Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:96767589-2ca7-48c4-a740-143b5a4a1417"
+                "@id": "_:b87e5c71-0427-4eea-b9bc-bd2319ad070a"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

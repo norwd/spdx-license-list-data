@@ -5,21 +5,6 @@
     xmlns:ptr="http://www.w3.org/2009/pointers#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/LGPL-2.1+">
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</spdx:url>
-        <spdx:timestamp>2026-04-10T14:33:03Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <rdfs:seeAlso>https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</rdfs:seeAlso>
     <spdx:name>GNU Lesser General Public License v2.1 or later</spdx:name>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt;GNU LESSER GENERAL PUBLIC LICENSE
@@ -193,8 +178,8 @@ You should have received a copy of the GNU Lesser General Public License along w
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
-        <spdx:url>https://opensource.org/licenses/LGPL-2.1</spdx:url>
-        <spdx:timestamp>2026-04-10T14:33:03Z</spdx:timestamp>
+        <spdx:url>https://opensource.org/license/LGPL-2.1</spdx:url>
+        <spdx:timestamp>2026-04-13T13:54:35Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>N/A</spdx:match>
@@ -354,6 +339,7 @@ That's all there is to it!
 </spdx:licenseText>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://opensource.org/license/LGPL-2.1</rdfs:seeAlso>
     <spdx:licenseTextHtml>
       &lt;div class="optional-license-text"&gt; 
          &lt;p&gt;GNU LESSER GENERAL PUBLIC LICENSE&lt;/p&gt;
@@ -880,7 +866,6 @@ That&amp;apos;s all there is to it!
 
       &lt;/div&gt;
     </spdx:licenseTextHtml>
-    <rdfs:seeAlso>https://opensource.org/licenses/LGPL-2.1</rdfs:seeAlso>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isDeprecatedLicenseId>
     <spdx:deprecatedVersion>2.0rc2</spdx:deprecatedVersion>
@@ -914,5 +899,20 @@ You should have received a copy of the GNU Lesser General Public License along w
          USA&lt;/p&gt;
 
          </spdx:standardLicenseHeaderHtml>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+        <spdx:url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</spdx:url>
+        <spdx:timestamp>2026-04-13T13:54:35Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
   </spdx:ListedLicense>
 </rdf:RDF>
