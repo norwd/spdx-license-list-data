@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:f34fb470-94de-4f20-8cc6-a0b6df905892"
+                "@id": "_:2bcfa7a8-f495-4e2c-9be3-480d424de2b3"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:f34fb470-94de-4f20-8cc6-a0b6df905892",
+            "@id": "_:2bcfa7a8-f495-4e2c-9be3-480d424de2b3",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/VSL-1.0",
-            "spdx:timestamp": "2026-04-23T17:14:06Z",
+            "spdx:timestamp": "2026-04-23T18:27:33Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

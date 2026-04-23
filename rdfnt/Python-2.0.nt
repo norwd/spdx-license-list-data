@@ -6,14 +6,14 @@
 <http://spdx.org/licenses/Python-2.0> <http://spdx.org/rdf/terms#isOsiApproved> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/Python-2.0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/Python-2.0> <http://spdx.org/rdf/terms#name> "Python License 2.0" .
-<http://spdx.org/licenses/Python-2.0> <http://spdx.org/rdf/terms#crossRef> _:B4f8691d3X2D2826X2D429dX2Db2ecX2De633574bcecd .
 <http://spdx.org/licenses/Python-2.0> <http://www.w3.org/2000/01/rdf-schema#comment> "This is the overall Python license as published on the OSI website, which is comprised of several licenses." .
 <http://spdx.org/licenses/Python-2.0> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4f8691d3X2D2826X2D429dX2Db2ecX2De633574bcecd <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4f8691d3X2D2826X2D429dX2Db2ecX2De633574bcecd <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4f8691d3X2D2826X2D429dX2Db2ecX2De633574bcecd <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B4f8691d3X2D2826X2D429dX2Db2ecX2De633574bcecd <http://spdx.org/rdf/terms#url> "https://opensource.org/license/Python-2.0" .
-_:B4f8691d3X2D2826X2D429dX2Db2ecX2De633574bcecd <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:13:16Z" .
-_:B4f8691d3X2D2826X2D429dX2Db2ecX2De633574bcecd <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B4f8691d3X2D2826X2D429dX2Db2ecX2De633574bcecd <http://spdx.org/rdf/terms#match> "N/A" .
-_:B4f8691d3X2D2826X2D429dX2Db2ecX2De633574bcecd <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/Python-2.0> <http://spdx.org/rdf/terms#crossRef> _:B38f65659X2Dc2ccX2D4e1eX2D8623X2Dce87abf4d1ad .
+_:B38f65659X2Dc2ccX2D4e1eX2D8623X2Dce87abf4d1ad <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B38f65659X2Dc2ccX2D4e1eX2D8623X2Dce87abf4d1ad <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B38f65659X2Dc2ccX2D4e1eX2D8623X2Dce87abf4d1ad <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B38f65659X2Dc2ccX2D4e1eX2D8623X2Dce87abf4d1ad <http://spdx.org/rdf/terms#url> "https://opensource.org/license/Python-2.0" .
+_:B38f65659X2Dc2ccX2D4e1eX2D8623X2Dce87abf4d1ad <http://spdx.org/rdf/terms#timestamp> "2026-04-23T18:26:44Z" .
+_:B38f65659X2Dc2ccX2D4e1eX2D8623X2Dce87abf4d1ad <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B38f65659X2Dc2ccX2D4e1eX2D8623X2Dce87abf4d1ad <http://spdx.org/rdf/terms#match> "N/A" .
+_:B38f65659X2Dc2ccX2D4e1eX2D8623X2Dce87abf4d1ad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

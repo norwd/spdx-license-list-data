@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:3566346f-5e91-48c8-9e82-7fc858bafbfd",
+            "@id": "_:5f6aa2ee-7f4f-45dd-869d-0113af932c2f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://liballeg.org/license.html#allegro-4-the-giftware-license",
-            "spdx:timestamp": "2026-04-23T17:14:05Z",
+            "spdx:timestamp": "2026-04-23T18:27:32Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -35,12 +35,12 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": {
+                "@id": "_:5f6aa2ee-7f4f-45dd-869d-0113af932c2f"
+            },
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:crossRef": {
-                "@id": "_:3566346f-5e91-48c8-9e82-7fc858bafbfd"
             },
             "@type": "spdx:ListedLicense"
         }

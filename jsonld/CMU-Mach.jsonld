@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:9121c52d-1093-4fd5-9257-f75b43babf43",
+            "@id": "_:4198b161-8f38-4947-be07-c38c1b959c2a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -11,16 +11,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.cs.cmu.edu/~410/licenses.html",
-            "spdx:timestamp": "2026-04-23T17:15:21Z",
+            "spdx:timestamp": "2026-04-23T18:28:38Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:9121c52d-1093-4fd5-9257-f75b43babf43"
+                "@id": "_:4198b161-8f38-4947-be07-c38c1b959c2a"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

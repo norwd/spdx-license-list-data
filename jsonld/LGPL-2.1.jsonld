@@ -5,10 +5,10 @@
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": [
                 {
-                    "@id": "_:0bfa3362-e5b9-4f01-b41e-35bca5db4efd"
+                    "@id": "_:a3a3c842-70da-451f-8835-1a3af7e8a942"
                 },
                 {
-                    "@id": "_:50f69442-ef50-4996-a4c3-f80a7a09587d"
+                    "@id": "_:35024341-c15f-4c73-bcdb-08cecc2667b8"
                 }
             ],
             "spdx:name": "GNU Lesser General Public License v2.1 only",
@@ -37,7 +37,7 @@
             "spdx:deprecatedVersion": "3.0"
         },
         {
-            "@id": "_:0bfa3362-e5b9-4f01-b41e-35bca5db4efd",
+            "@id": "_:a3a3c842-70da-451f-8835-1a3af7e8a942",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -51,7 +51,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/LGPL-2.1",
-            "spdx:timestamp": "2026-04-23T17:13:23Z",
+            "spdx:timestamp": "2026-04-23T18:26:48Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -60,7 +60,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:50f69442-ef50-4996-a4c3-f80a7a09587d",
+            "@id": "_:35024341-c15f-4c73-bcdb-08cecc2667b8",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -74,7 +74,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
-            "spdx:timestamp": "2026-04-23T17:13:23Z",
+            "spdx:timestamp": "2026-04-23T18:26:48Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

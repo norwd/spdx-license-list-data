@@ -1,5 +1,5 @@
 # License List
-The following licenses have been generated from the license list version 394ad73
+The following licenses have been generated from the license list version 9937298
 
 ## Licenses with Short Identifiers
 
@@ -73,6 +73,7 @@ The following licenses have been generated from the license list version 394ad73
 | Borceux license                                                                           | [Borceux][]                              |      |           |
 | Brian Gladman 2-Clause License                                                            | [Brian-Gladman-2-Clause][]               |      |           |
 | Brian Gladman 3-Clause License                                                            | [Brian-Gladman-3-Clause][]               |      |           |
+| Brian Gladman 3-Clause License (no conversion clause)                                     | [Brian-Gladman-3-Clause-no-conversion][] |      |           |
 | BSD 1-Clause License                                                                      | [BSD-1-Clause][]                         | Y    |           |
 | BSD 2-Clause "Simplified" License                                                         | [BSD-2-Clause][]                         | Y    | Y         |
 | BSD 2-Clause - Ian Darwin variant                                                         | [BSD-2-Clause-Darwin][]                  |      |           |
@@ -898,6 +899,7 @@ The following licenses have been generated from the license list version 394ad73
 [Borceux]: text/Borceux.txt
 [Brian-Gladman-2-Clause]: text/Brian-Gladman-2-Clause.txt
 [Brian-Gladman-3-Clause]: text/Brian-Gladman-3-Clause.txt
+[Brian-Gladman-3-Clause-no-conversion]: text/Brian-Gladman-3-Clause-no-conversion.txt
 [BSD-1-Clause]: text/BSD-1-Clause.txt
 [BSD-2-Clause]: text/BSD-2-Clause.txt
 [BSD-2-Clause-Darwin]: text/BSD-2-Clause-Darwin.txt

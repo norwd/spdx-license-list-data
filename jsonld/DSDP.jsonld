@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:49bdd1aa-75fa-4123-923e-a24893e3ba79"
+                "@id": "_:c2546b56-c6de-47de-9cf9-380c6f9e84ee"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:49bdd1aa-75fa-4123-923e-a24893e3ba79",
+            "@id": "_:c2546b56-c6de-47de-9cf9-380c6f9e84ee",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/DSDP",
-            "spdx:timestamp": "2026-04-23T17:16:35Z",
+            "spdx:timestamp": "2026-04-23T18:29:52Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

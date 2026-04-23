@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:95bf9668-d753-4492-878c-b9cd5c56bfa4"
+                "@id": "_:092e3a51-339b-45d1-ab5e-da674c7b2af4"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:95bf9668-d753-4492-878c-b9cd5c56bfa4",
+            "@id": "_:092e3a51-339b-45d1-ab5e-da674c7b2af4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fossies.org/linux/sendmail/contrib/mailprio",
-            "spdx:timestamp": "2026-04-23T17:17:13Z",
+            "spdx:timestamp": "2026-04-23T18:30:55Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

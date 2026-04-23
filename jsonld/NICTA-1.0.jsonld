@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:ca17cba7-a54b-401f-92ff-930574adb7de",
+            "@id": "_:4cb196f0-e3c4-4a52-959b-286b5d7131de",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.apple.com/source/mDNSResponder/mDNSResponder-320.10/mDNSPosix/nss_ReadMe.txt",
-            "spdx:timestamp": "2026-04-23T17:16:03Z",
+            "spdx:timestamp": "2026-04-23T18:29:21Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:ca17cba7-a54b-401f-92ff-930574adb7de"
+                "@id": "_:4cb196f0-e3c4-4a52-959b-286b5d7131de"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

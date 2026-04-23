@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:0c7f99f4-4367-42e1-a563-76229ff67247"
+                "@id": "_:1598951a-23d4-4db5-a1e0-a5db1a2d2acd"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:0c7f99f4-4367-42e1-a563-76229ff67247",
+            "@id": "_:1598951a-23d4-4db5-a1e0-a5db1a2d2acd",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/jonathanstowe/TermReadKey/blob/master/README#L9-L10",
-            "spdx:timestamp": "2026-04-23T17:16:41Z",
+            "spdx:timestamp": "2026-04-23T18:30:24Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

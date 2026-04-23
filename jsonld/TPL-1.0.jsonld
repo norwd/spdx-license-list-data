@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:b3b4a676-0260-457a-975f-0b0237426ae1",
+            "@id": "_:fa42e1ae-1c3f-45f6-9c10-b86b22a1f770",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing:ThorPublicLicense",
-            "spdx:timestamp": "2026-04-23T17:13:18Z",
+            "spdx:timestamp": "2026-04-23T18:26:46Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,9 +25,6 @@
         },
         {
             "@id": "http://spdx.org/licenses/TPL-1.0",
-            "spdx:crossRef": {
-                "@id": "_:b3b4a676-0260-457a-975f-0b0237426ae1"
-            },
             "@type": "spdx:ListedLicense",
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -39,6 +36,9 @@
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:crossRef": {
+                "@id": "_:fa42e1ae-1c3f-45f6-9c10-b86b22a1f770"
             },
             "rdfs:seeAlso": "https://fedoraproject.org/wiki/Licensing:ThorPublicLicense",
             "spdx:name": "THOR Public License 1.0",

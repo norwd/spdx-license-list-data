@@ -2,17 +2,17 @@
 <http://spdx.org/licenses/MIPS> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright (c) 1992, 1991, 1990 MIPS Computer Systems, Inc.\";match=\".{0,5000}\">> MIPS Computer Systems, Inc. grants reproduction and use rights to all parties, PROVIDED that this comment is maintained in the copy.\n\n" .
 <http://spdx.org/licenses/MIPS> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://sourceware.org/cgit/binutils-gdb/tree/include/coff/sym.h#n11" .
 <http://spdx.org/licenses/MIPS> <http://spdx.org/rdf/terms#licenseText> "Copyright (c) 1992, 1991, 1990 MIPS Computer Systems, Inc.\nMIPS Computer Systems, Inc. grants reproduction and use\nrights to all parties, PROVIDED that this comment is\nmaintained in the copy.\n" .
+<http://spdx.org/licenses/MIPS> <http://spdx.org/rdf/terms#crossRef> _:Bbad2e738X2D1941X2D4d4aX2DbaceX2D65d82e594899 .
 <http://spdx.org/licenses/MIPS> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/MIPS> <http://www.w3.org/2000/01/rdf-schema#comment> "This is shorter version of ThirdEye license." .
-<http://spdx.org/licenses/MIPS> <http://spdx.org/rdf/terms#crossRef> _:Bc84fff7bX2D2b35X2D4bc0X2D8c91X2De415bdfca935 .
 <http://spdx.org/licenses/MIPS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/MIPS> <http://spdx.org/rdf/terms#name> "MIPS License" .
 <http://spdx.org/licenses/MIPS> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright (c) 1992, 1991, 1990 MIPS Computer Systems, Inc.\n            </span></var>\n            MIPS Computer Systems, Inc. grants reproduction and use\n            rights to all parties, PROVIDED that this comment is\n            maintained in the copy.\n         </p>\n\n      " .
-_:Bc84fff7bX2D2b35X2D4bc0X2D8c91X2De415bdfca935 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bc84fff7bX2D2b35X2D4bc0X2D8c91X2De415bdfca935 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bc84fff7bX2D2b35X2D4bc0X2D8c91X2De415bdfca935 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bc84fff7bX2D2b35X2D4bc0X2D8c91X2De415bdfca935 <http://spdx.org/rdf/terms#url> "https://sourceware.org/cgit/binutils-gdb/tree/include/coff/sym.h#n11" .
-_:Bc84fff7bX2D2b35X2D4bc0X2D8c91X2De415bdfca935 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:13:21Z" .
-_:Bc84fff7bX2D2b35X2D4bc0X2D8c91X2De415bdfca935 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bc84fff7bX2D2b35X2D4bc0X2D8c91X2De415bdfca935 <http://spdx.org/rdf/terms#match> "false" .
-_:Bc84fff7bX2D2b35X2D4bc0X2D8c91X2De415bdfca935 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bbad2e738X2D1941X2D4d4aX2DbaceX2D65d82e594899 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bbad2e738X2D1941X2D4d4aX2DbaceX2D65d82e594899 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bbad2e738X2D1941X2D4d4aX2DbaceX2D65d82e594899 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bbad2e738X2D1941X2D4d4aX2DbaceX2D65d82e594899 <http://spdx.org/rdf/terms#url> "https://sourceware.org/cgit/binutils-gdb/tree/include/coff/sym.h#n11" .
+_:Bbad2e738X2D1941X2D4d4aX2DbaceX2D65d82e594899 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T18:26:47Z" .
+_:Bbad2e738X2D1941X2D4d4aX2DbaceX2D65d82e594899 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bbad2e738X2D1941X2D4d4aX2DbaceX2D65d82e594899 <http://spdx.org/rdf/terms#match> "false" .
+_:Bbad2e738X2D1941X2D4d4aX2DbaceX2D65d82e594899 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

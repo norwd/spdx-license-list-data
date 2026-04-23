@@ -1,7 +1,30 @@
 {
     "@graph": [
         {
-            "@id": "_:a0f9edde-d0c6-4f34-8240-b6e536d1cbfe",
+            "@id": "_:7bbaf12e-a07c-4c08-86f2-0e6735fc06d3",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/license/PHP-3.0",
+            "spdx:timestamp": "2026-04-23T18:29:53Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:b3eed4ed-2184-4d99-a34c-57cd055f955f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.php.net/license/3_0.txt",
-            "spdx:timestamp": "2026-04-23T17:16:38Z",
+            "spdx:timestamp": "2026-04-23T18:29:53Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -35,10 +58,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:a0f9edde-d0c6-4f34-8240-b6e536d1cbfe"
+                    "@id": "_:7bbaf12e-a07c-4c08-86f2-0e6735fc06d3"
                 },
                 {
-                    "@id": "_:6a67a114-3967-4879-9cb4-73e840ddc094"
+                    "@id": "_:b3eed4ed-2184-4d99-a34c-57cd055f955f"
                 }
             ],
             "rdfs:seeAlso": [
@@ -50,29 +73,6 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
-        },
-        {
-            "@id": "_:6a67a114-3967-4879-9cb4-73e840ddc094",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/license/PHP-3.0",
-            "spdx:timestamp": "2026-04-23T17:16:38Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

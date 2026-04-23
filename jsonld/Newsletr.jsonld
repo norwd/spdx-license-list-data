@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:3c91e846-e0ec-4c92-b1e2-8c998229025f",
+            "@id": "_:a63aa637-b252-47a3-bed1-7ff45f4d0857",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Newsletr",
-            "spdx:timestamp": "2026-04-23T17:13:17Z",
+            "spdx:timestamp": "2026-04-23T18:26:45Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:3c91e846-e0ec-4c92-b1e2-8c998229025f"
+                "@id": "_:a63aa637-b252-47a3-bed1-7ff45f4d0857"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

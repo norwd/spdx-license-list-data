@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:48eef719-829f-4eef-a934-fe2ebb2baa18",
+            "@id": "_:2523a528-37c9-4863-ac9d-4995b10b1596",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://people.freebsd.org/~phk/",
-            "spdx:timestamp": "2026-04-23T17:13:31Z",
+            "spdx:timestamp": "2026-04-23T18:26:56Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:363dc0c9-1d06-402f-8547-d63ed93db010",
+            "@id": "_:472bf577-88de-4007-8fcb-d4667e9f050e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Beerware",
-            "spdx:timestamp": "2026-04-23T17:13:31Z",
+            "spdx:timestamp": "2026-04-23T18:26:56Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -52,20 +52,20 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:363dc0c9-1d06-402f-8547-d63ed93db010"
-                },
-                {
-                    "@id": "_:48eef719-829f-4eef-a934-fe2ebb2baa18"
-                }
-            ],
             "spdx:licenseTextHtml": "\n       <p>&quot;THE BEER-WARE LICENSE&quot; (Revision 42):</p>\n\n      <p><var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern <phk@FreeBSD.ORG>|<phk@login.dkuug.dk>\"> &lt;phk@FreeBSD.ORG&gt;</span></var> wrote this file. As long as you retain\n         this notice you can do whatever you want with this stuff. If we meet some day, and you think this\n         stuff is worth it, you can buy me a beer in return Poul-Henning Kamp</p>\n\n    ",
             "rdfs:seeAlso": [
                 "https://people.freebsd.org/~phk/",
                 "https://fedoraproject.org/wiki/Licensing/Beerware"
             ],
             "@type": "spdx:ListedLicense",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:2523a528-37c9-4863-ac9d-4995b10b1596"
+                },
+                {
+                    "@id": "_:472bf577-88de-4007-8fcb-d4667e9f050e"
+                }
+            ],
             "spdx:name": "Beerware License",
             "spdx:standardLicenseTemplate": "\"THE BEER-WARE LICENSE\" (Revision 42):\n\n<<var;name=\"email\";original=\"<phk@FreeBSD.ORG>\";match=\"<phk@FreeBSD.ORG>|<phk@login.dkuug.dk>\">> wrote this file. As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp\n\n",
             "spdx:licenseText": "\"THE BEER-WARE LICENSE\" (Revision 42):  <phk@FreeBSD.ORG> wrote this file. As long as you retain this notice you  can do whatever you want with this stuff. If we meet some day, and you think  this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp\n",

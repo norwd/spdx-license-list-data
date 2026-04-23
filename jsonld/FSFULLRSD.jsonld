@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:fe5af28c-337c-4919-bcea-f605d1c8a37e",
+            "@id": "_:626dcf16-5844-4e8c-9749-c95da9a1db44",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://git.savannah.gnu.org/cgit/gnulib.git/tree/modules/COPYING?id=7b08932179d0d6b017f7df01a2ddf6e096b038e3",
-            "spdx:timestamp": "2026-04-23T17:16:35Z",
+            "spdx:timestamp": "2026-04-23T18:29:51Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,6 +25,9 @@
         },
         {
             "@id": "http://spdx.org/licenses/FSFULLRSD",
+            "spdx:crossRef": {
+                "@id": "_:626dcf16-5844-4e8c-9749-c95da9a1db44"
+            },
             "rdfs:comment": "This is the same as FSFULLR but adds a short disclaimer of warranties.",
             "spdx:name": "FSF Unlimited License (with License Retention and Short Disclaimer)",
             "spdx:licenseText": "This file is free software; the Free Software Foundation\ngives unlimited permission to copy and/or distribute it,\nwith or without modifications, as long as this notice is preserved.\nThis file is offered as-is, without any warranty.\n",
@@ -34,9 +37,6 @@
             },
             "spdx:standardLicenseTemplate": "This file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved. This file is offered as-is, without any warranty.\n\n",
             "spdx:licenseTextHtml": "\n         <p>\n            This file is free software; the Free Software Foundation\n            gives unlimited permission to copy and/or distribute it,\n            with or without modifications, as long as this notice is preserved.\n            This file is offered as-is, without any warranty.\n         </p>\n\n      ",
-            "spdx:crossRef": {
-                "@id": "_:fe5af28c-337c-4919-bcea-f605d1c8a37e"
-            },
             "rdfs:seeAlso": "https://git.savannah.gnu.org/cgit/gnulib.git/tree/modules/COPYING?id=7b08932179d0d6b017f7df01a2ddf6e096b038e3",
             "@type": "spdx:ListedLicense",
             "spdx:isDeprecatedLicenseId": {

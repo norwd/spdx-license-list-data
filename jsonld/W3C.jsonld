@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:9e7e3d8a-c466-4f12-bc31-6f3192e9b230",
+            "@id": "_:00926b8d-3c94-462d-b864-d4463e689d56",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html",
-            "spdx:timestamp": "2026-04-23T17:17:17Z",
+            "spdx:timestamp": "2026-04-23T18:30:58Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:32836a87-82f4-47a6-a9aa-d52589143fc6",
+            "@id": "_:1eb77ab3-8ad4-46ed-ae9b-c55b562e9479",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/W3C",
-            "spdx:timestamp": "2026-04-23T17:17:17Z",
+            "spdx:timestamp": "2026-04-23T18:30:58Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -53,6 +53,14 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:standardLicenseHeaderTemplate": "<<var;name=\"copyright\";original=\"Copyright (C) <<var;name=\"year\";original=\"[$date-of-software]\";match=\".+\">> World Wide Web Consortium, (Massachusetts Institute of Technology, European Research Consortium for Informatics and Mathematics, Keio University). All Rights Reserved.\";match=\".{0,5000}\">>\nThis work is distributed under the W3C® Software License in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:1eb77ab3-8ad4-46ed-ae9b-c55b562e9479"
+                },
+                {
+                    "@id": "_:00926b8d-3c94-462d-b864-d4463e689d56"
+                }
+            ],
             "rdfs:comment": "This license was released: 13 December 2002. The standard header is provided via a link from the original license page.",
             "spdx:isFsfLibre": {
                 "@value": "true",
@@ -64,14 +72,6 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:9e7e3d8a-c466-4f12-bc31-6f3192e9b230"
-                },
-                {
-                    "@id": "_:32836a87-82f4-47a6-a9aa-d52589143fc6"
-                }
-            ],
             "rdfs:seeAlso": [
                 "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html",
                 "https://opensource.org/license/W3C"

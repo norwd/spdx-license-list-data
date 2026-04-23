@@ -1,34 +1,11 @@
 {
     "@graph": [
         {
-            "@id": "_:1876a324-d7a9-46c6-9f53-55e63572e2d5",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://sourceforge.net/p/buddy/gitcode/ci/master/tree/README",
-            "spdx:timestamp": "2026-04-23T17:14:07Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/Buddy",
             "@type": "spdx:ListedLicense",
             "rdfs:comment": "This license is similar to MIT-Modern-Variant",
             "spdx:crossRef": {
-                "@id": "_:1876a324-d7a9-46c6-9f53-55e63572e2d5"
+                "@id": "_:51ecb220-d595-4211-b5f1-2d33dcfb88b8"
             },
             "spdx:name": "Buddy License",
             "spdx:isDeprecatedLicenseId": {
@@ -43,6 +20,29 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
+        },
+        {
+            "@id": "_:51ecb220-d595-4211-b5f1-2d33dcfb88b8",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://sourceforge.net/p/buddy/gitcode/ci/master/tree/README",
+            "spdx:timestamp": "2026-04-23T18:27:35Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

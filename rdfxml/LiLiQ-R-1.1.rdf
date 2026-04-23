@@ -14,43 +14,13 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://forge.gouv.qc.ca/licence/liliq-p</spdx:url>
-        <spdx:timestamp>2026-04-23T17:13:40Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T18:27:29Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >2</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://www.forge.gouv.qc.ca/participez/licence-logicielle/licence-libre-du-quebec-liliq-en-francais/licence-libre-du-quebec-reciprocite-liliq-r-v1-1/</spdx:url>
-        <spdx:timestamp>2026-04-23T17:13:40Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <rdfs:seeAlso>https://forge.gouv.qc.ca/licence/liliq-p</rdfs:seeAlso>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>http://opensource.org/license/LiLiQ-R-1.1</spdx:url>
-        <spdx:timestamp>2026-04-23T17:13:41Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>true</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
     <rdfs:seeAlso>http://opensource.org/license/LiLiQ-R-1.1</rdfs:seeAlso>
@@ -150,6 +120,21 @@ Dans la mesure où le concédant est un ministère, un organisme public ou une p
 
 La présente licence peut être distribuée sans conditions particulières. Toutefois, une version modifiée doit être distribuée sous un nom différent. Toute référence au Centre de services partagés du Québec, et, le cas échéant, ses ayant droit, doit être retirée, autre que celle permettant d'identifier la provenance de la licence.
 </spdx:licenseText>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+        <spdx:url>https://www.forge.gouv.qc.ca/participez/licence-logicielle/licence-libre-du-quebec-liliq-en-francais/licence-libre-du-quebec-reciprocite-liliq-r-v1-1/</spdx:url>
+        <spdx:timestamp>2026-04-23T18:27:29Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:name>Licence Libre du Québec – Réciprocité version 1.1</spdx:name>
     <spdx:licenseTextHtml>
       &lt;div class="optional-license-text"&gt; 
@@ -504,6 +489,21 @@ La présente licence peut être distribuée sans conditions particulières. Tout
       
 &lt;/ul&gt;
     </spdx:licenseTextHtml>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>http://opensource.org/license/LiLiQ-R-1.1</spdx:url>
+        <spdx:timestamp>2026-04-23T18:27:29Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:match>true</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <rdfs:seeAlso>https://www.forge.gouv.qc.ca/participez/licence-logicielle/licence-libre-du-quebec-liliq-en-francais/licence-libre-du-quebec-reciprocite-liliq-r-v1-1/</rdfs:seeAlso>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isOsiApproved>

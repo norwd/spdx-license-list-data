@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:b651ef5a-a6e3-4199-8743-9875c69ebafd",
+            "@id": "_:07020557-16a2-4684-82bb-356767a6bda2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -11,37 +11,37 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://sourceforge.net/p/ctrio/git/ci/master/tree/README",
-            "spdx:timestamp": "2026-04-23T17:13:34Z",
+            "spdx:url": "https://raw.githubusercontent.com/GNOME/libxml2/4c2e7c651f6c2f0d1a74f350cbda95f7df3e7017/hash.c",
+            "spdx:timestamp": "2026-04-23T18:27:01Z",
             "spdx:order": {
-                "@value": "2",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         },
         {
             "@id": "http://spdx.org/licenses/ISC-Veillard",
             "spdx:name": "ISC Veillard variant",
             "rdfs:comment": "This license uses the same grant as ISC, but a different disclaimer paragraph. It appears to originate from the Trio printf library.",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:07020557-16a2-4684-82bb-356767a6bda2"
+                },
+                {
+                    "@id": "_:d189609c-b2b9-4e8b-bca9-e52fe145439d"
+                },
+                {
+                    "@id": "_:54e3590c-d6bd-4808-bf3e-0b6a03f73699"
+                }
+            ],
             "rdfs:seeAlso": [
                 "https://raw.githubusercontent.com/GNOME/libxml2/4c2e7c651f6c2f0d1a74f350cbda95f7df3e7017/hash.c",
                 "https://sourceforge.net/p/ctrio/git/ci/master/tree/README",
                 "https://github.com/GNOME/libxml2/blob/master/dict.c"
-            ],
-            "spdx:crossRef": [
-                {
-                    "@id": "_:df922c9a-9ce4-4e01-9d3d-31985c4f8044"
-                },
-                {
-                    "@id": "_:b5c20328-6fe6-429c-b011-3062ad22356f"
-                },
-                {
-                    "@id": "_:b651ef5a-a6e3-4199-8743-9875c69ebafd"
-                }
             ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -57,7 +57,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:df922c9a-9ce4-4e01-9d3d-31985c4f8044",
+            "@id": "_:d189609c-b2b9-4e8b-bca9-e52fe145439d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -71,7 +71,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/GNOME/libxml2/blob/master/dict.c",
-            "spdx:timestamp": "2026-04-23T17:13:35Z",
+            "spdx:timestamp": "2026-04-23T18:27:01Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -80,7 +80,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:b5c20328-6fe6-429c-b011-3062ad22356f",
+            "@id": "_:54e3590c-d6bd-4808-bf3e-0b6a03f73699",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -90,16 +90,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://raw.githubusercontent.com/GNOME/libxml2/4c2e7c651f6c2f0d1a74f350cbda95f7df3e7017/hash.c",
-            "spdx:timestamp": "2026-04-23T17:13:35Z",
+            "spdx:url": "https://sourceforge.net/p/ctrio/git/ci/master/tree/README",
+            "spdx:timestamp": "2026-04-23T18:27:00Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         }
     ],

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:5520b181-30e4-49b8-b2c5-e3ddfd6b0439",
+            "@id": "_:d7622ed5-2fa2-43c6-9e0a-b396f66f2cb2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/erich666/GraphicsGems/blob/master/LICENSE.md",
-            "spdx:timestamp": "2026-04-23T17:13:18Z",
+            "spdx:timestamp": "2026-04-23T18:26:46Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:5520b181-30e4-49b8-b2c5-e3ddfd6b0439"
+                "@id": "_:d7622ed5-2fa2-43c6-9e0a-b396f66f2cb2"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

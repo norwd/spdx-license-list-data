@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:a356d025-1b3c-4d9d-a81f-079f96bf8453",
+            "@id": "_:67186aef-8ba7-4680-abfa-3d03061f32dc",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceforge.net/p/trustedqsl/tqsl/ci/master/tree/LICENSE.txt",
-            "spdx:timestamp": "2026-04-23T17:14:03Z",
+            "spdx:timestamp": "2026-04-23T18:27:30Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:a356d025-1b3c-4d9d-a81f-079f96bf8453"
+                "@id": "_:67186aef-8ba7-4680-abfa-3d03061f32dc"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

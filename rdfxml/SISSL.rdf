@@ -133,7 +133,7 @@ OpenOffice.org Application Programming Interface Specification, located at http:
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://opensource.org/license/SISSL</spdx:url>
-        <spdx:timestamp>2026-04-23T17:13:27Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T18:26:52Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>N/A</spdx:match>
@@ -252,7 +252,7 @@ Contributor(s): _______________________________________
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://www.openoffice.org/licenses/sissl_license.html</spdx:url>
-        <spdx:timestamp>2026-04-23T17:13:27Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T18:26:52Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>

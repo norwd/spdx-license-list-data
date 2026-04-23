@@ -625,6 +625,21 @@ Alternatively, the contents of this file may be used under the terms of the &lt;
 </spdx:standardLicenseHeaderTemplate>
     <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isFsfLibre>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://opensource.org/license/SPL-1.0</spdx:url>
+        <spdx:timestamp>2026-04-23T18:26:52Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:standardLicenseHeaderHtml>
          &lt;p&gt;The contents of this file are subject to the Sun Public License Version 1.0 (the License); you may not
          use this file except in compliance with the License. A copy of the License is available at
@@ -899,20 +914,5 @@ Alternatively, the contents of this file may be used under the terms of the &lt;
 [NOTE: The text of this Exhibit A may differ slightly from the text of the notices in the Source Code files of the Original Code. You should use the text of this Exhibit A rather than the text found in the Original Code Source Code for Your Modifications.]
 
 &lt;&lt;endOptional&gt;&gt;</spdx:standardLicenseTemplate>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://opensource.org/license/SPL-1.0</spdx:url>
-        <spdx:timestamp>2026-04-23T17:13:27Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
   </spdx:ListedLicense>
 </rdf:RDF>

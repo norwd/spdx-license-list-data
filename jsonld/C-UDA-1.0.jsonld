@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:9939d87c-f103-4fbf-8eea-316d3cce5062",
+            "@id": "_:be55ca8f-a11f-4b88-bdd5-da7776f670e9",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/master/C-UDA-1.0.md",
-            "spdx:timestamp": "2026-04-23T17:17:12Z",
+            "spdx:timestamp": "2026-04-23T18:30:26Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,16 +24,39 @@
             "@type": "spdx:CrossRef"
         },
         {
+            "@id": "_:bf9be750-bd4f-4d2b-9551-f1056dbcc70c",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://cdla.dev/computational-use-of-data-agreement-v1-0/",
+            "spdx:timestamp": "2026-04-23T18:30:25Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/C-UDA-1.0",
+            "@type": "spdx:ListedLicense",
             "spdx:crossRef": [
                 {
-                    "@id": "_:04bd6402-8afa-4e3d-9305-bd040e2a0708"
+                    "@id": "_:bf9be750-bd4f-4d2b-9551-f1056dbcc70c"
                 },
                 {
-                    "@id": "_:9939d87c-f103-4fbf-8eea-316d3cce5062"
+                    "@id": "_:be55ca8f-a11f-4b88-bdd5-da7776f670e9"
                 }
             ],
-            "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": [
                 "https://cdla.dev/computational-use-of-data-agreement-v1-0/",
                 "https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/master/C-UDA-1.0.md"
@@ -50,29 +73,6 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
-        },
-        {
-            "@id": "_:04bd6402-8afa-4e3d-9305-bd040e2a0708",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://cdla.dev/computational-use-of-data-agreement-v1-0/",
-            "spdx:timestamp": "2026-04-23T17:17:12Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

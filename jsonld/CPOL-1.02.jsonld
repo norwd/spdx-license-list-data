@@ -18,14 +18,14 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:name": "Code Project Open License 1.02",
-            "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:5c32bfb9-de27-43f4-b8bd-a445be6c3727"
-            }
+                "@id": "_:c1bb4080-06c1-4092-9e68-fc36d37fe30b"
+            },
+            "spdx:name": "Code Project Open License 1.02",
+            "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:5c32bfb9-de27-43f4-b8bd-a445be6c3727",
+            "@id": "_:c1bb4080-06c1-4092-9e68-fc36d37fe30b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -39,7 +39,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.codeproject.com/info/cpol10.aspx",
-            "spdx:timestamp": "2026-04-23T17:16:41Z",
+            "spdx:timestamp": "2026-04-23T18:30:23Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

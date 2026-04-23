@@ -3,15 +3,15 @@
 <http://spdx.org/licenses/wwl> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            db@FreeBSD.ORG wrote this file. As long as you retain this notice\n            you can do whatever you want with this code, except you may not\n            license it under any form of the GPL. A postcard or QSL card\n            showing me you appreciate this code would be nice. Diane Bruce va3db\n         </p>\n\n      " .
 <http://spdx.org/licenses/wwl> <http://spdx.org/rdf/terms#standardLicenseTemplate> "db@FreeBSD.ORG wrote this file. As long as you retain this notice you can do whatever you want with this code, except you may not license it under any form of the GPL. A postcard or QSL card showing me you appreciate this code would be nice. Diane Bruce va3db\n\n" .
 <http://spdx.org/licenses/wwl> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/wwl> <http://spdx.org/rdf/terms#crossRef> _:B981f1478X2Dc950X2D4943X2Da48dX2Df556f4492af3 .
+<http://spdx.org/licenses/wwl> <http://spdx.org/rdf/terms#crossRef> _:B9b99ce41X2D93edX2D496aX2D8ec6X2Dd61d9189cb3c .
 <http://spdx.org/licenses/wwl> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/wwl> <http://spdx.org/rdf/terms#name> "WWL License" .
 <http://spdx.org/licenses/wwl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-_:B981f1478X2Dc950X2D4943X2Da48dX2Df556f4492af3 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B981f1478X2Dc950X2D4943X2Da48dX2Df556f4492af3 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B981f1478X2Dc950X2D4943X2Da48dX2Df556f4492af3 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B981f1478X2Dc950X2D4943X2Da48dX2Df556f4492af3 <http://spdx.org/rdf/terms#url> "http://www.db.net/downloads/wwl+db-1.3.tgz" .
-_:B981f1478X2Dc950X2D4943X2Da48dX2Df556f4492af3 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:13:22Z" .
-_:B981f1478X2Dc950X2D4943X2Da48dX2Df556f4492af3 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B981f1478X2Dc950X2D4943X2Da48dX2Df556f4492af3 <http://spdx.org/rdf/terms#match> "false" .
-_:B981f1478X2Dc950X2D4943X2Da48dX2Df556f4492af3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B9b99ce41X2D93edX2D496aX2D8ec6X2Dd61d9189cb3c <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B9b99ce41X2D93edX2D496aX2D8ec6X2Dd61d9189cb3c <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B9b99ce41X2D93edX2D496aX2D8ec6X2Dd61d9189cb3c <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B9b99ce41X2D93edX2D496aX2D8ec6X2Dd61d9189cb3c <http://spdx.org/rdf/terms#url> "http://www.db.net/downloads/wwl+db-1.3.tgz" .
+_:B9b99ce41X2D93edX2D496aX2D8ec6X2Dd61d9189cb3c <http://spdx.org/rdf/terms#timestamp> "2026-04-23T18:26:48Z" .
+_:B9b99ce41X2D93edX2D496aX2D8ec6X2Dd61d9189cb3c <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B9b99ce41X2D93edX2D496aX2D8ec6X2Dd61d9189cb3c <http://spdx.org/rdf/terms#match> "false" .
+_:B9b99ce41X2D93edX2D496aX2D8ec6X2Dd61d9189cb3c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

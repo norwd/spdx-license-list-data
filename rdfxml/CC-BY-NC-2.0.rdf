@@ -347,8 +347,6 @@
       &lt;p&gt;Creative Commons may be contacted at http://creativecommons.org/.&lt;/p&gt;
 
     </spdx:licenseTextHtml>
-    <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >false</spdx:isFsfLibre>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -358,12 +356,14 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://creativecommons.org/licenses/by-nc/2.0/legalcode</spdx:url>
-        <spdx:timestamp>2026-04-23T17:13:42Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T18:27:30Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isFsfLibre>
     <spdx:name>Creative Commons Attribution Non Commercial 2.0 Generic</spdx:name>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt;Creative Commons Attribution-NonCommercial 2.0
 

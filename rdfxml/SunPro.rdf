@@ -16,12 +16,14 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_lgammal.c</spdx:url>
-        <spdx:timestamp>2026-04-23T17:15:30Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T18:28:39Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -31,14 +33,12 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_acosh.c</spdx:url>
-        <spdx:timestamp>2026-04-23T17:15:31Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T18:28:40Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >false</spdx:isDeprecatedLicenseId>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
     <rdfs:seeAlso>https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_lgammal.c</rdfs:seeAlso>

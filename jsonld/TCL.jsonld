@@ -1,7 +1,30 @@
 {
     "@graph": [
         {
-            "@id": "_:8c9034ed-1f05-4725-a3a6-49ad69afef4e",
+            "@id": "_:30cd45e5-ba3e-44dc-9091-2c4924991cd3",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://fedoraproject.org/wiki/Licensing/TCL",
+            "spdx:timestamp": "2026-04-23T18:27:53Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:f2c4a847-a7a1-4453-a830-5f826812bba2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.tcl.tk/software/tcltk/license.html",
-            "spdx:timestamp": "2026-04-23T17:14:51Z",
+            "spdx:timestamp": "2026-04-23T18:27:52Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -32,47 +55,24 @@
                 "https://fedoraproject.org/wiki/Licensing/TCL",
                 "http://www.tcl.tk/software/tcltk/license.html"
             ],
-            "spdx:crossRef": [
-                {
-                    "@id": "_:8c9034ed-1f05-4725-a3a6-49ad69afef4e"
-                },
-                {
-                    "@id": "_:c4c3bf14-967a-4594-9ea7-2fe3fcde9a74"
-                }
-            ],
             "spdx:name": "TCL/TK License",
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": [
+                {
+                    "@id": "_:30cd45e5-ba3e-44dc-9091-2c4924991cd3"
+                },
+                {
+                    "@id": "_:f2c4a847-a7a1-4453-a830-5f826812bba2"
+                }
+            ],
             "@type": "spdx:ListedLicense",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             }
-        },
-        {
-            "@id": "_:c4c3bf14-967a-4594-9ea7-2fe3fcde9a74",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://fedoraproject.org/wiki/Licensing/TCL",
-            "spdx:timestamp": "2026-04-23T17:14:51Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

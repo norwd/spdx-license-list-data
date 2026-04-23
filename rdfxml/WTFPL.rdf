@@ -56,8 +56,6 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
 </spdx:licenseText>
-    <rdfs:seeAlso>http://sam.zoy.org/wtfpl/COPYING</rdfs:seeAlso>
-    <spdx:name>Do What The F*ck You Want To Public License</spdx:name>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,14 +65,17 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://sam.zoy.org/wtfpl/COPYING</spdx:url>
-        <spdx:timestamp>2026-04-23T17:16:36Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T18:29:52Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <rdfs:seeAlso>http://sam.zoy.org/wtfpl/COPYING</rdfs:seeAlso>
+    <spdx:name>Do What The F*ck You Want To Public License</spdx:name>
     <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isFsfLibre>
+    <rdfs:seeAlso>http://www.wtfpl.net/about/</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -84,13 +85,12 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://www.wtfpl.net/about/</spdx:url>
-        <spdx:timestamp>2026-04-23T17:16:38Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T18:29:54Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <rdfs:seeAlso>http://www.wtfpl.net/about/</rdfs:seeAlso>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"

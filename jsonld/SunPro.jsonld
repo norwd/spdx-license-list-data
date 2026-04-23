@@ -10,10 +10,10 @@
             "spdx:name": "SunPro License",
             "spdx:crossRef": [
                 {
-                    "@id": "_:75ee37cb-1b88-47b9-b557-ee970a7e2999"
+                    "@id": "_:eea938e9-6c00-4b71-beee-f8475eb0820b"
                 },
                 {
-                    "@id": "_:b8b887b0-3d87-4ac4-9842-64969bc5402f"
+                    "@id": "_:ad83ef82-37a4-4904-90a4-841dcc5da054"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -29,7 +29,7 @@
             "spdx:licenseText": "Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.\n\nDeveloped at SunSoft, a Sun Microsystems, Inc. business.\nPermission to use, copy, modify, and distribute this\nsoftware is freely granted, provided that this notice \nis preserved.\n"
         },
         {
-            "@id": "_:75ee37cb-1b88-47b9-b557-ee970a7e2999",
+            "@id": "_:eea938e9-6c00-4b71-beee-f8475eb0820b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -43,7 +43,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_lgammal.c",
-            "spdx:timestamp": "2026-04-23T17:15:30Z",
+            "spdx:timestamp": "2026-04-23T18:28:39Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -52,7 +52,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:b8b887b0-3d87-4ac4-9842-64969bc5402f",
+            "@id": "_:ad83ef82-37a4-4904-90a4-841dcc5da054",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_acosh.c",
-            "spdx:timestamp": "2026-04-23T17:15:31Z",
+            "spdx:timestamp": "2026-04-23T18:28:40Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

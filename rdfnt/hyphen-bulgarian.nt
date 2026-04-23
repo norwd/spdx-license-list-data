@@ -1,5 +1,4 @@
-<http://spdx.org/licenses/hyphen-bulgarian> <http://spdx.org/rdf/terms#crossRef> _:Bb1827f7cX2D0addX2D4bcfX2Da661X2Da7543a7fb5c8 .
-<http://spdx.org/licenses/hyphen-bulgarian> <http://spdx.org/rdf/terms#crossRef> _:B1fa81cbeX2D665dX2D437aX2D9a18X2Df5dd4a12c3a5 .
+<http://spdx.org/licenses/hyphen-bulgarian> <http://spdx.org/rdf/terms#crossRef> _:Bca894914X2Dd3b9X2D4cd9X2D8cabX2De99c10db3ba1 .
 <http://spdx.org/licenses/hyphen-bulgarian> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz" .
 <http://spdx.org/licenses/hyphen-bulgarian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/hyphen-bulgarian> <http://spdx.org/rdf/terms#name> "hyphen-bulgarian License" .
@@ -7,21 +6,22 @@
 <http://spdx.org/licenses/hyphen-bulgarian> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            This software may be used, modified, copied, distributed, and\n            sold, both in source and binary form provided that the above\n            copyright notice and these terms are retained. The name of the\n            author may not be used to endorse or promote products derived\n            from this software without prior permission. THIS SOFTWARE\n            IS <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern PROVIDES|PROVIDED\"> PROVIDED</span></var>\n            &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES ARE\n            DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY\n            DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE.\n         </p>\n\n      " .
 <http://spdx.org/licenses/hyphen-bulgarian> <http://spdx.org/rdf/terms#standardLicenseTemplate> "This software may be used, modified, copied, distributed, and sold, both in source and binary form provided that the above copyright notice and these terms are retained. The name of the author may not be used to endorse or promote products derived from this software without prior permission. THIS SOFTWARE IS <<var;name=\"provided\";original=\"PROVIDED\";match=\"PROVIDES|PROVIDED\">> \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE.\n\n" .
 <http://spdx.org/licenses/hyphen-bulgarian> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185" .
+<http://spdx.org/licenses/hyphen-bulgarian> <http://spdx.org/rdf/terms#crossRef> _:B66ec3649X2Df621X2D44ecX2Da422X2D2cb4f0874960 .
 <http://spdx.org/licenses/hyphen-bulgarian> <http://spdx.org/rdf/terms#licenseText> "This software may be used, modified, copied, distributed, and sold,\nboth in source and binary form provided that the above copyright\nnotice and these terms are retained. The name of the author may not\nbe used to endorse or promote products derived from this software\nwithout prior permission.  THIS SOFTWARE IS PROVIDES \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED.  IN NO EVENT\nSHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES ARISING IN ANY WAY OUT\nOF THE USE OF THIS SOFTWARE.\n" .
 <http://spdx.org/licenses/hyphen-bulgarian> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B1fa81cbeX2D665dX2D437aX2D9a18X2Df5dd4a12c3a5 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B1fa81cbeX2D665dX2D437aX2D9a18X2Df5dd4a12c3a5 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B1fa81cbeX2D665dX2D437aX2D9a18X2Df5dd4a12c3a5 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B1fa81cbeX2D665dX2D437aX2D9a18X2Df5dd4a12c3a5 <http://spdx.org/rdf/terms#url> "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185" .
-_:B1fa81cbeX2D665dX2D437aX2D9a18X2Df5dd4a12c3a5 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:14:39Z" .
-_:B1fa81cbeX2D665dX2D437aX2D9a18X2Df5dd4a12c3a5 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B1fa81cbeX2D665dX2D437aX2D9a18X2Df5dd4a12c3a5 <http://spdx.org/rdf/terms#match> "false" .
-_:B1fa81cbeX2D665dX2D437aX2D9a18X2Df5dd4a12c3a5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
-_:Bb1827f7cX2D0addX2D4bcfX2Da661X2Da7543a7fb5c8 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb1827f7cX2D0addX2D4bcfX2Da661X2Da7543a7fb5c8 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb1827f7cX2D0addX2D4bcfX2Da661X2Da7543a7fb5c8 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb1827f7cX2D0addX2D4bcfX2Da661X2Da7543a7fb5c8 <http://spdx.org/rdf/terms#url> "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz" .
-_:Bb1827f7cX2D0addX2D4bcfX2Da661X2Da7543a7fb5c8 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:14:39Z" .
-_:Bb1827f7cX2D0addX2D4bcfX2Da661X2Da7543a7fb5c8 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bb1827f7cX2D0addX2D4bcfX2Da661X2Da7543a7fb5c8 <http://spdx.org/rdf/terms#match> "false" .
-_:Bb1827f7cX2D0addX2D4bcfX2Da661X2Da7543a7fb5c8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B66ec3649X2Df621X2D44ecX2Da422X2D2cb4f0874960 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B66ec3649X2Df621X2D44ecX2Da422X2D2cb4f0874960 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B66ec3649X2Df621X2D44ecX2Da422X2D2cb4f0874960 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B66ec3649X2Df621X2D44ecX2Da422X2D2cb4f0874960 <http://spdx.org/rdf/terms#url> "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185" .
+_:B66ec3649X2Df621X2D44ecX2Da422X2D2cb4f0874960 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T18:27:42Z" .
+_:B66ec3649X2Df621X2D44ecX2Da422X2D2cb4f0874960 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B66ec3649X2Df621X2D44ecX2Da422X2D2cb4f0874960 <http://spdx.org/rdf/terms#match> "false" .
+_:B66ec3649X2Df621X2D44ecX2Da422X2D2cb4f0874960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bca894914X2Dd3b9X2D4cd9X2D8cabX2De99c10db3ba1 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bca894914X2Dd3b9X2D4cd9X2D8cabX2De99c10db3ba1 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bca894914X2Dd3b9X2D4cd9X2D8cabX2De99c10db3ba1 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bca894914X2Dd3b9X2D4cd9X2D8cabX2De99c10db3ba1 <http://spdx.org/rdf/terms#url> "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz" .
+_:Bca894914X2Dd3b9X2D4cd9X2D8cabX2De99c10db3ba1 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T18:27:42Z" .
+_:Bca894914X2Dd3b9X2D4cd9X2D8cabX2De99c10db3ba1 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bca894914X2Dd3b9X2D4cd9X2D8cabX2De99c10db3ba1 <http://spdx.org/rdf/terms#match> "false" .
+_:Bca894914X2Dd3b9X2D4cd9X2D8cabX2De99c10db3ba1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

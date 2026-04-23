@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:ea9dc6c5-b5cc-4b3c-bdb9-9585fbf9c168"
+                "@id": "_:b64bab32-5891-4d07-89c7-976e617ceb53"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:ea9dc6c5-b5cc-4b3c-bdb9-9585fbf9c168",
+            "@id": "_:b64bab32-5891-4d07-89c7-976e617ceb53",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/NPOSL-3.0",
-            "spdx:timestamp": "2026-04-23T17:14:38Z",
+            "spdx:timestamp": "2026-04-23T18:27:41Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

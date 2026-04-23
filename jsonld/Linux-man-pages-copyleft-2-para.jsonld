@@ -2,18 +2,18 @@
     "@graph": [
         {
             "@id": "http://spdx.org/licenses/Linux-man-pages-copyleft-2-para",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:1fe6374a-dfff-4b02-a092-a745b8086875"
+                },
+                {
+                    "@id": "_:daecdc88-81fe-4720-bde4-3f9d7bf88e31"
+                }
+            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:bb41aeeb-000d-45d6-a72d-4679bdbbe470"
-                },
-                {
-                    "@id": "_:61e73c73-de59-4a48-a239-b8b65c54655a"
-                }
-            ],
             "@type": "spdx:ListedLicense",
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -30,7 +30,7 @@
             "spdx:licenseTextHtml": "\n         <p>\n            Permission is granted to make and distribute verbatim\n            copies of this manual provided the copyright notice\n            and this permission notice are preserved on all copies.\n         </p>\n\n         <p>\n            Permission is granted to copy and distribute modified versions\n            of this manual under the conditions for verbatim copying,\n            provided that the entire resulting derived work is distributed\n            under the terms of a permission notice identical to this one.\n         </p>\n\n      "
         },
         {
-            "@id": "_:bb41aeeb-000d-45d6-a72d-4679bdbbe470",
+            "@id": "_:1fe6374a-dfff-4b02-a092-a745b8086875",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -44,7 +44,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/migrate_pages.2#n8",
-            "spdx:timestamp": "2026-04-23T17:16:02Z",
+            "spdx:timestamp": "2026-04-23T18:28:50Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -53,7 +53,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:61e73c73-de59-4a48-a239-b8b65c54655a",
+            "@id": "_:daecdc88-81fe-4720-bde4-3f9d7bf88e31",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,7 +67,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/move_pages.2#n5",
-            "spdx:timestamp": "2026-04-23T17:16:02Z",
+            "spdx:timestamp": "2026-04-23T18:28:50Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

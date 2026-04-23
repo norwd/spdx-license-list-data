@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:7fe608ce-9bff-4edf-b72d-d2ec7dcee876",
+            "@id": "_:bd9a6ca5-dbc2-43dc-83b2-ddd1e3209940",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/DrItanium/maya/blob/master/LICENSE.CLIPS",
-            "spdx:timestamp": "2026-04-23T17:18:20Z",
+            "spdx:timestamp": "2026-04-23T18:31:01Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:7fe608ce-9bff-4edf-b72d-d2ec7dcee876"
+                "@id": "_:bd9a6ca5-dbc2-43dc-83b2-ddd1e3209940"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
