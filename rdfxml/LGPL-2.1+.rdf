@@ -7,6 +7,21 @@
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/LGPL-2.1+">
     <rdfs:seeAlso>https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</rdfs:seeAlso>
     <spdx:name>GNU Lesser General Public License v2.1 or later</spdx:name>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+        <spdx:url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</spdx:url>
+        <spdx:timestamp>2026-04-23T17:14:50Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:standardLicenseHeaderTemplate>&lt;&lt;var;name="description";original="&lt;one line to give the library's name and an idea of what it does.&gt;";match=".+"&gt;&gt;
 Copyright (C) &lt;&lt;var;name="copyright";original="&lt;year&gt; &lt;name of author&gt;";match=".+"&gt;&gt;
 
@@ -709,10 +724,10 @@ That's all there is to it!
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
-        <spdx:url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html</spdx:url>
-        <spdx:timestamp>2026-04-23T17:03:49Z</spdx:timestamp>
+        <spdx:url>https://opensource.org/license/LGPL-2.1</spdx:url>
+        <spdx:timestamp>2026-04-23T17:14:50Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
+        >1</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
@@ -901,20 +916,5 @@ That's all there is to it!
          USA&lt;/p&gt;
 
          </spdx:standardLicenseHeaderHtml>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://opensource.org/license/LGPL-2.1</spdx:url>
-        <spdx:timestamp>2026-04-23T17:03:49Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
   </spdx:ListedLicense>
 </rdf:RDF>

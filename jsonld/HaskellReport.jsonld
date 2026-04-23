@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:0a293b5c-2d52-44ba-a8ba-6a83e3b080bd"
+                "@id": "_:43f0e422-e093-427f-b25d-4c47f9883890"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:0a293b5c-2d52-44ba-a8ba-6a83e3b080bd",
+            "@id": "_:43f0e422-e093-427f-b25d-4c47f9883890",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Haskell_Language_Report_License",
-            "spdx:timestamp": "2026-04-23T17:04:10Z",
+            "spdx:timestamp": "2026-04-23T17:15:31Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -118,6 +118,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
     <spdx:name>BSD-2-Clause Plus Patent License</spdx:name>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://opensource.org/license/BSD-2-Clause-Patent</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -127,13 +128,12 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://opensource.org/license/BSD-2-Clause-Patent</spdx:url>
-        <spdx:timestamp>2026-04-23T17:02:59Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T17:14:03Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <rdfs:seeAlso>https://opensource.org/license/BSD-2-Clause-Patent</rdfs:seeAlso>
     <spdx:standardLicenseTemplate>&lt;&lt;var;name="copyright";original="Copyright (c) &lt;YEAR&gt; &lt;COPYRIGHT HOLDERS&gt;  ";match=".{0,5000}"&gt;&gt;
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 

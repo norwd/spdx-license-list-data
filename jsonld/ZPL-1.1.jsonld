@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:35890df2-2d6e-4648-a126-346f2338f07b",
+            "@id": "_:bdb90621-96e9-4ea2-b6d6-c8cbeb677644",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://old.zope.org/Resources/License/ZPL-1.1",
-            "spdx:timestamp": "2026-04-23T17:02:10Z",
+            "spdx:timestamp": "2026-04-23T17:13:18Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:35890df2-2d6e-4648-a126-346f2338f07b"
+                "@id": "_:bdb90621-96e9-4ea2-b6d6-c8cbeb677644"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

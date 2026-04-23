@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:aca0e268-e474-48df-b4ef-82b2bd0be9b8"
+                "@id": "_:216a598a-a7f3-48ee-b35b-c3cfe7e36028"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:aca0e268-e474-48df-b4ef-82b2bd0be9b8",
+            "@id": "_:216a598a-a7f3-48ee-b35b-c3cfe7e36028",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/SWI-Prolog/packages-xpce/blob/161a40cd82004f731ba48024f9d30af388a7edf5/src/img/gifwrite.c#L21-L26",
-            "spdx:timestamp": "2026-04-23T17:05:22Z",
+            "spdx:timestamp": "2026-04-23T17:16:40Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

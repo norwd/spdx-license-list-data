@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:68462bd1-1e7e-4efc-991e-cd45b1d490ef",
+            "@id": "_:9939d87c-f103-4fbf-8eea-316d3cce5062",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/master/C-UDA-1.0.md",
-            "spdx:timestamp": "2026-04-23T17:05:50Z",
+            "spdx:timestamp": "2026-04-23T17:17:12Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,15 +25,15 @@
         },
         {
             "@id": "http://spdx.org/licenses/C-UDA-1.0",
-            "@type": "spdx:ListedLicense",
             "spdx:crossRef": [
                 {
-                    "@id": "_:68462bd1-1e7e-4efc-991e-cd45b1d490ef"
+                    "@id": "_:04bd6402-8afa-4e3d-9305-bd040e2a0708"
                 },
                 {
-                    "@id": "_:0a6230b6-4f8e-442d-be62-0c1dc503d883"
+                    "@id": "_:9939d87c-f103-4fbf-8eea-316d3cce5062"
                 }
             ],
+            "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": [
                 "https://cdla.dev/computational-use-of-data-agreement-v1-0/",
                 "https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/master/C-UDA-1.0.md"
@@ -52,7 +52,7 @@
             }
         },
         {
-            "@id": "_:0a6230b6-4f8e-442d-be62-0c1dc503d883",
+            "@id": "_:04bd6402-8afa-4e3d-9305-bd040e2a0708",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://cdla.dev/computational-use-of-data-agreement-v1-0/",
-            "spdx:timestamp": "2026-04-23T17:05:50Z",
+            "spdx:timestamp": "2026-04-23T17:17:12Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

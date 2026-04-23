@@ -8,21 +8,6 @@
     <rdfs:comment>DEPRECATED: Use the license identifier AGPL-1.0-only instead of AGPL-1.0.
 
 </rdfs:comment>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>http://www.affero.org/oagpl.html</spdx:url>
-        <spdx:timestamp>2026-04-23T17:02:11Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isFsfLibre>
     <spdx:name>Affero General Public License v1.0</spdx:name>
@@ -513,6 +498,21 @@ Version 1, March 2002 &lt;/p&gt;
       
 &lt;/ul&gt;
     </spdx:licenseTextHtml>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+        <spdx:url>http://www.affero.org/oagpl.html</spdx:url>
+        <spdx:timestamp>2026-04-23T17:13:22Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <rdfs:seeAlso>http://www.affero.org/oagpl.html</rdfs:seeAlso>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isDeprecatedLicenseId>

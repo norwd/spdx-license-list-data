@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:a3978196-e1d6-4563-b778-ae7dc5cc5af5",
+            "@id": "_:734c33eb-66c7-4558-930f-7d5be2b48e9c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://ctan.math.utah.edu/ctan/tex-archive/macros/generic/misc/swrule.sty",
-            "spdx:timestamp": "2026-04-23T17:04:45Z",
+            "spdx:timestamp": "2026-04-23T17:16:07Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:a3978196-e1d6-4563-b778-ae7dc5cc5af5"
+                "@id": "_:734c33eb-66c7-4558-930f-7d5be2b48e9c"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

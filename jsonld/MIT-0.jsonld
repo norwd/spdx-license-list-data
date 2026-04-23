@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:e5c03cba-d507-4434-b8f1-61aa6930eb73",
+            "@id": "_:3937fca5-48d5-41c2-8ab0-b95cb35f31ef",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,17 +14,17 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://github.com/aws/mit-0",
-            "spdx:timestamp": "2026-04-23T17:02:57Z",
+            "spdx:url": "https://romanrm.net/mit-zero",
+            "spdx:timestamp": "2026-04-23T17:13:44Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:b2bbacce-66cb-46e9-9150-42d797962a66",
+            "@id": "_:cfd15e67-fbfa-4c3e-8e80-08c01c02bc9e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,9 +38,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE",
-            "spdx:timestamp": "2026-04-23T17:02:58Z",
+            "spdx:timestamp": "2026-04-23T17:13:43Z",
             "spdx:order": {
                 "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:bd158844-e884-42cf-87f4-7b9aa1d28f3f",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/aws/mit-0",
+            "spdx:timestamp": "2026-04-23T17:13:42Z",
+            "spdx:order": {
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",
@@ -57,17 +80,6 @@
                 "https://github.com/aws/mit-0",
                 "https://romanrm.net/mit-zero"
             ],
-            "spdx:crossRef": [
-                {
-                    "@id": "_:e5c03cba-d507-4434-b8f1-61aa6930eb73"
-                },
-                {
-                    "@id": "_:b2bbacce-66cb-46e9-9150-42d797962a66"
-                },
-                {
-                    "@id": "_:812b2137-6cd2-4a31-9333-1ce2d1820f7b"
-                }
-            ],
             "spdx:name": "MIT No Attribution",
             "@type": "spdx:ListedLicense",
             "rdfs:comment": "This license is a modified version of the common MIT license, with the attribution paragraph removed.",
@@ -77,30 +89,18 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": [
+                {
+                    "@id": "_:3937fca5-48d5-41c2-8ab0-b95cb35f31ef"
+                },
+                {
+                    "@id": "_:cfd15e67-fbfa-4c3e-8e80-08c01c02bc9e"
+                },
+                {
+                    "@id": "_:bd158844-e884-42cf-87f4-7b9aa1d28f3f"
+                }
+            ],
             "spdx:licenseTextHtml": "\n      <div class=\"optional-license-text\"> \n        <p><var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern The MIT-Zero License|MIT No Attribution|\"> MIT No Attribution</span></var></p>\n\n      </div>\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n        <p>\n          Copyright &lt;YEAR&gt; &lt;COPYRIGHT HOLDER&gt;\n        </p>\n\n      </span></div>\n\n      <p>\n        Permission is hereby granted, free of charge, to any person obtaining a copy of this\n        software and associated documentation files (the &quot;Software&quot;), to deal in the Software\n        without restriction, including without limitation the rights to use, copy, modify,\n        merge, publish, distribute, sublicense, and/or sell copies of the Software, and to\n        permit persons to whom the Software is furnished to do so.\n      </p>\n\n      <p>\n        THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,\n        INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A\n        PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT\n        HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\n        OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\n        SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n      </p>\n\n    "
-        },
-        {
-            "@id": "_:812b2137-6cd2-4a31-9333-1ce2d1820f7b",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://romanrm.net/mit-zero",
-            "spdx:timestamp": "2026-04-23T17:02:59Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

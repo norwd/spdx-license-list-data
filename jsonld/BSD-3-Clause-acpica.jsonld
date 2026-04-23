@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:2ce108c2-5603-4a40-845a-a7dec3f3c02a",
+            "@id": "_:6e45c1b0-b22c-4dc1-8cba-c5a91eda7460",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/acpica/acpica/blob/master/source/common/acfileio.c#L119",
-            "spdx:timestamp": "2026-04-23T17:02:20Z",
+            "spdx:timestamp": "2026-04-23T17:13:31Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:2ce108c2-5603-4a40-845a-a7dec3f3c02a"
+                "@id": "_:6e45c1b0-b22c-4dc1-8cba-c5a91eda7460"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

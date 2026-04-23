@@ -29,12 +29,12 @@ THIS SOFTWARE IS PROVIDED BY &lt;&lt;var;name="copyrightHolderAsIs";original="CO
         <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://github.com/jsommers/pytricia/blob/master/patricia.c#L33-L67</spdx:url>
-        <spdx:timestamp>2026-04-23T17:05:55Z</spdx:timestamp>
+        >false</spdx:isLive>
+        <spdx:url>http://directory.fsf.org/wiki/License:BSD_4Clause</spdx:url>
+        <spdx:timestamp>2026-04-23T17:17:11Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>false</spdx:match>
+        >0</spdx:order>
+        <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:crossRef>
@@ -44,12 +44,12 @@ THIS SOFTWARE IS PROVIDED BY &lt;&lt;var;name="copyrightHolderAsIs";original="CO
         <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>http://directory.fsf.org/wiki/License:BSD_4Clause</spdx:url>
-        <spdx:timestamp>2026-04-23T17:05:54Z</spdx:timestamp>
+        >true</spdx:isLive>
+        <spdx:url>https://github.com/jsommers/pytricia/blob/master/patricia.c#L33-L67</spdx:url>
+        <spdx:timestamp>2026-04-23T17:16:41Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>N/A</spdx:match>
+        >1</spdx:order>
+        <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"

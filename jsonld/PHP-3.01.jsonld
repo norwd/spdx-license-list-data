@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:7574c2dc-0359-4c1f-9023-f3bb0a3e088a",
+            "@id": "_:7db09b77-d441-47c7-bfd5-7efa9fa151df",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.php.net/license/3_01.txt",
-            "spdx:timestamp": "2026-04-23T17:02:03Z",
+            "spdx:timestamp": "2026-04-23T17:13:15Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -44,7 +44,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:7574c2dc-0359-4c1f-9023-f3bb0a3e088a"
+                "@id": "_:7db09b77-d441-47c7-bfd5-7efa9fa151df"
             },
             "@type": "spdx:ListedLicense"
         }

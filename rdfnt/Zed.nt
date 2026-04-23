@@ -1,17 +1,17 @@
-_:Bdcc8f1b1X2D17d7X2D476fX2D92e0X2D3293706f6705 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bdcc8f1b1X2D17d7X2D476fX2D92e0X2D3293706f6705 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bdcc8f1b1X2D17d7X2D476fX2D92e0X2D3293706f6705 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bdcc8f1b1X2D17d7X2D476fX2D92e0X2D3293706f6705 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/Zed" .
-_:Bdcc8f1b1X2D17d7X2D476fX2D92e0X2D3293706f6705 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:06:23Z" .
-_:Bdcc8f1b1X2D17d7X2D476fX2D92e0X2D3293706f6705 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bdcc8f1b1X2D17d7X2D476fX2D92e0X2D3293706f6705 <http://spdx.org/rdf/terms#match> "false" .
-_:Bdcc8f1b1X2D17d7X2D476fX2D92e0X2D3293706f6705 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/Zed> <http://spdx.org/rdf/terms#licenseText> "(c) Jim Davies, January 1995\nYou may copy and distribute this file freely.  Any queries and complaints should be forwarded to Jim.Davies@comlab.ox.ac.uk.\nIf you make any changes to this file, please do not distribute the results under the name `zed-csp.sty'.\n" .
 <http://spdx.org/licenses/Zed> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://fedoraproject.org/wiki/Licensing/Zed" .
 <http://spdx.org/licenses/Zed> <http://spdx.org/rdf/terms#licenseTextHtml> "\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n         <p>(c) Jim Davies, January 1995</p>\n\n      </span></div>\n\n      <p>You may copy and distribute this file freely. Any queries and complaints should be forwarded to\n         Jim.Davies@comlab.ox.ac.uk.</p>\n\n      <p>If you make any changes to this file, please do not distribute the results under the name `zed-csp.sty&apos;.</p>\n\n    " .
 <http://spdx.org/licenses/Zed> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"(c) Jim Davies, January 1995  \";match=\".{0,5000}\">>\nYou may copy and distribute this file freely. Any queries and complaints should be forwarded to Jim.Davies@comlab.ox.ac.uk.\n\nIf you make any changes to this file, please do not distribute the results under the name `zed-csp.sty'.\n\n" .
 <http://spdx.org/licenses/Zed> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/Zed> <http://spdx.org/rdf/terms#crossRef> _:Bdcc8f1b1X2D17d7X2D476fX2D92e0X2D3293706f6705 .
+<http://spdx.org/licenses/Zed> <http://spdx.org/rdf/terms#crossRef> _:B8a77ad0dX2D9fdfX2D4783X2D9a01X2D633a134cd769 .
 <http://spdx.org/licenses/Zed> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/Zed> <http://spdx.org/rdf/terms#name> "Zed License" .
 <http://spdx.org/licenses/Zed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
+_:B8a77ad0dX2D9fdfX2D4783X2D9a01X2D633a134cd769 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B8a77ad0dX2D9fdfX2D4783X2D9a01X2D633a134cd769 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B8a77ad0dX2D9fdfX2D4783X2D9a01X2D633a134cd769 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B8a77ad0dX2D9fdfX2D4783X2D9a01X2D633a134cd769 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/Zed" .
+_:B8a77ad0dX2D9fdfX2D4783X2D9a01X2D633a134cd769 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:17:16Z" .
+_:B8a77ad0dX2D9fdfX2D4783X2D9a01X2D633a134cd769 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B8a77ad0dX2D9fdfX2D4783X2D9a01X2D633a134cd769 <http://spdx.org/rdf/terms#match> "false" .
+_:B8a77ad0dX2D9fdfX2D4783X2D9a01X2D633a134cd769 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

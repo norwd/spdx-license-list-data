@@ -16,7 +16,7 @@
             },
             "rdfs:seeAlso": "http://www.netbsd.org/about/redistribution.html#default",
             "spdx:crossRef": {
-                "@id": "_:df7c79cd-b46a-4c53-8fa9-afa141db1248"
+                "@id": "_:3a9b6822-ebd6-4233-a029-035f89f1d6a9"
             },
             "rdfs:comment": "NetBSD adopted this 2-clause license in 2008 for code contributed to NetBSD Foundation. It is being deprecated as a separate license because it is a match to BSD-2-Clause. The line describing that the code is derived from software contributed to NetBSD is not viewed as being a substantive part of the license text.",
             "spdx:isFsfLibre": {
@@ -27,7 +27,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:df7c79cd-b46a-4c53-8fa9-afa141db1248",
+            "@id": "_:3a9b6822-ebd6-4233-a029-035f89f1d6a9",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -41,7 +41,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.netbsd.org/about/redistribution.html#default",
-            "spdx:timestamp": "2026-04-23T17:02:11Z",
+            "spdx:timestamp": "2026-04-23T17:13:24Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

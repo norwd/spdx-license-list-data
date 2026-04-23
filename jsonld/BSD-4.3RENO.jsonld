@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:d2e94fff-5d84-43b1-bc2a-c5154aca26ef",
+            "@id": "_:ce8d6816-5dda-4e8f-82e6-fcb0cb13ea7d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://git.openldap.org/openldap/openldap/-/blob/master/COPYRIGHT#L55-63",
-            "spdx:timestamp": "2026-04-23T17:05:20Z",
+            "spdx:timestamp": "2026-04-23T17:16:39Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:3bb2f476-6852-44d2-ac31-75548844dc99",
+            "@id": "_:2b18e366-c153-4332-b381-79c2746ff0b4",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=libiberty/strcasecmp.c;h=131d81c2ce7881fa48c363dc5bf5fb302c61ce0b;hb=HEAD",
-            "spdx:timestamp": "2026-04-23T17:05:21Z",
+            "spdx:timestamp": "2026-04-23T17:16:39Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -67,10 +67,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:d2e94fff-5d84-43b1-bc2a-c5154aca26ef"
+                    "@id": "_:ce8d6816-5dda-4e8f-82e6-fcb0cb13ea7d"
                 },
                 {
-                    "@id": "_:3bb2f476-6852-44d2-ac31-75548844dc99"
+                    "@id": "_:2b18e366-c153-4332-b381-79c2746ff0b4"
                 }
             ]
         }

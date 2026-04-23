@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:d968cb4f-3f0e-4d5a-a642-ec4f3d4ebc82",
+            "@id": "_:bc86f865-9b5f-4fe0-ba6e-c5d22e54d4a6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.govdata.de/dl-de/by-2-0",
-            "spdx:timestamp": "2026-04-23T17:06:21Z",
+            "spdx:timestamp": "2026-04-23T17:17:14Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:d968cb4f-3f0e-4d5a-a642-ec4f3d4ebc82"
+                "@id": "_:bc86f865-9b5f-4fe0-ba6e-c5d22e54d4a6"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

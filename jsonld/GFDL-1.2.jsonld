@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:f6e72aba-d845-44a3-946c-35e00aba46de",
+            "@id": "_:77fd3b80-4705-46a6-a42b-ab0fd9bba2cb",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt",
-            "spdx:timestamp": "2026-04-23T17:03:17Z",
+            "spdx:timestamp": "2026-04-23T17:14:39Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -48,7 +48,7 @@
             "spdx:standardLicenseHeader": "Copyright (c) YEAR YOUR NAME . Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled \"GNU Free Documentation License\".",
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:f6e72aba-d845-44a3-946c-35e00aba46de"
+                "@id": "_:77fd3b80-4705-46a6-a42b-ab0fd9bba2cb"
             }
         }
     ],

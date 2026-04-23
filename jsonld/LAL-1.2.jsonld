@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:3d5148e9-1e7a-4be6-a8ed-05ccdec648d0",
+            "@id": "_:82ced42b-78c8-412a-8d74-0154f104027d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://artlibre.org/licence/lal/licence-art-libre-12/",
-            "spdx:timestamp": "2026-04-23T17:02:15Z",
+            "spdx:timestamp": "2026-04-23T17:13:28Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -33,10 +33,10 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:3d5148e9-1e7a-4be6-a8ed-05ccdec648d0"
+                "@id": "_:82ced42b-78c8-412a-8d74-0154f104027d"
             },
+            "@type": "spdx:ListedLicense",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"

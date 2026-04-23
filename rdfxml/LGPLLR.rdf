@@ -168,8 +168,6 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 END OF TERMS AND CONDITIONS
 
 </spdx:standardLicenseTemplate>
-    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >false</spdx:isOsiApproved>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -179,12 +177,14 @@ END OF TERMS AND CONDITIONS
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>http://www-igm.univ-mlv.fr/~unitex/lgpllr.html</spdx:url>
-        <spdx:timestamp>2026-04-23T17:05:19Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T17:16:38Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
     <spdx:licenseTextHtml>
       &lt;div class="optional-license-text"&gt; 
          &lt;p&gt;Lesser General Public License For Linguistic Resources&lt;/p&gt;

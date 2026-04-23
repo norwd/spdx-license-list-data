@@ -10,10 +10,10 @@
             "spdx:name": "BSD 4.3 TAHOE License",
             "spdx:crossRef": [
                 {
-                    "@id": "_:ef9bf03e-81e0-4095-aa18-9115432dbf22"
+                    "@id": "_:03454f47-ef98-473d-b0ea-063aedc03a30"
                 },
                 {
-                    "@id": "_:3cffd262-0d45-4e61-bb70-9420489ba467"
+                    "@id": "_:d009b32c-75b8-44cf-a855-c8b597310394"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -29,7 +29,7 @@
             }
         },
         {
-            "@id": "_:ef9bf03e-81e0-4095-aa18-9115432dbf22",
+            "@id": "_:03454f47-ef98-473d-b0ea-063aedc03a30",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -43,7 +43,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://git.savannah.gnu.org/cgit/indent.git/tree/doc/indent.texi?id=a74c6b4ee49397cf330b333da1042bffa60ed14f#n1788",
-            "spdx:timestamp": "2026-04-23T17:03:55Z",
+            "spdx:timestamp": "2026-04-23T17:15:11Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -52,7 +52,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:3cffd262-0d45-4e61-bb70-9420489ba467",
+            "@id": "_:d009b32c-75b8-44cf-a855-c8b597310394",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/389ds/389-ds-base/blob/main/ldap/include/sysexits-compat.h#L15",
-            "spdx:timestamp": "2026-04-23T17:03:55Z",
+            "spdx:timestamp": "2026-04-23T17:15:28Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

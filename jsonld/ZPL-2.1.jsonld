@@ -22,11 +22,11 @@
             },
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:df93f449-b7f2-4ea0-a98a-bf1eb9db7157"
+                "@id": "_:50ac4a1f-f971-494b-a7ed-66e86a318bc0"
             }
         },
         {
-            "@id": "_:df93f449-b7f2-4ea0-a98a-bf1eb9db7157",
+            "@id": "_:50ac4a1f-f971-494b-a7ed-66e86a318bc0",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -40,7 +40,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://old.zope.org/Resources/ZPL/",
-            "spdx:timestamp": "2026-04-23T17:03:18Z",
+            "spdx:timestamp": "2026-04-23T17:14:50Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

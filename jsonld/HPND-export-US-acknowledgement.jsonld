@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:5d451769-5f88-427a-8765-d4241b5fcd69",
+            "@id": "_:db3085eb-85e6-45fb-8533-94760be93462",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L831-L852",
-            "spdx:timestamp": "2026-04-23T17:05:26Z",
+            "spdx:timestamp": "2026-04-23T17:17:11Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:565de470-6b89-4c99-823b-a84e51af6f4d",
+            "@id": "_:277a3ee2-e481-4131-8bd6-062bdc40f929",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html",
-            "spdx:timestamp": "2026-04-23T17:05:26Z",
+            "spdx:timestamp": "2026-04-23T17:17:11Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -50,10 +50,10 @@
             "@id": "http://spdx.org/licenses/HPND-export-US-acknowledgement",
             "spdx:crossRef": [
                 {
-                    "@id": "_:565de470-6b89-4c99-823b-a84e51af6f4d"
+                    "@id": "_:db3085eb-85e6-45fb-8533-94760be93462"
                 },
                 {
-                    "@id": "_:5d451769-5f88-427a-8765-d4241b5fcd69"
+                    "@id": "_:277a3ee2-e481-4131-8bd6-062bdc40f929"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {

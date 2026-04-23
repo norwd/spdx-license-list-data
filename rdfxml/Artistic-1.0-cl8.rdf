@@ -7,21 +7,6 @@
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/Artistic-1.0-cl8">
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isOsiApproved>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://opensource.org/license/Artistic-1.0</spdx:url>
-        <spdx:timestamp>2026-04-23T17:03:17Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt;The Artistic License
 
 &lt;&lt;endOptional&gt;&gt;
@@ -289,6 +274,21 @@ Definitions:
 
 The End
 </spdx:licenseText>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+        <spdx:url>https://opensource.org/license/Artistic-1.0</spdx:url>
+        <spdx:timestamp>2026-04-23T17:14:39Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <rdfs:seeAlso>https://opensource.org/license/Artistic-1.0</rdfs:seeAlso>
   </spdx:ListedLicense>
 </rdf:RDF>

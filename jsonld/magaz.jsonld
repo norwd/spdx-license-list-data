@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:de6b2cc3-8854-4cca-933f-b347b1dce842",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://mirrors.ctan.org/macros/latex/contrib/version/version.sty",
-            "spdx:timestamp": "2026-04-23T17:03:51Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:74458e24-15fb-4f04-a125-ba2310a9905c",
+            "@id": "_:6637036a-dc73-49c6-a72f-35d9dbc8dd79",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,12 +15,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://mirrors.nic.cz/tex-archive/macros/latex/contrib/magaz/magaz.tex",
-            "spdx:timestamp": "2026-04-23T17:03:50Z",
+            "spdx:timestamp": "2026-04-23T17:14:51Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:2265a62c-fe0f-4861-8778-8f2f043db9d9",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://mirrors.ctan.org/macros/latex/contrib/version/version.sty",
+            "spdx:timestamp": "2026-04-23T17:14:51Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         },
         {
@@ -62,10 +62,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:74458e24-15fb-4f04-a125-ba2310a9905c"
+                    "@id": "_:6637036a-dc73-49c6-a72f-35d9dbc8dd79"
                 },
                 {
-                    "@id": "_:de6b2cc3-8854-4cca-933f-b347b1dce842"
+                    "@id": "_:2265a62c-fe0f-4861-8778-8f2f043db9d9"
                 }
             ],
             "spdx:licenseText": "Copyright 1999-2011, Donald Arseneau,   asnd@triumf.ca,  Vancouver, Canada\n\nThis software may be freely used, transmitted, reproduced, or modified provided that \nthe copyright notice and this permission is retained.\n",

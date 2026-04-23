@@ -1,5 +1,5 @@
 # License List
-The following licenses have been generated from the license list version 5693399
+The following licenses have been generated from the license list version 394ad73
 
 ## Licenses with Short Identifiers
 
@@ -460,6 +460,7 @@ The following licenses have been generated from the license list version 5693399
 | Mulan Permissive Software License, Version 2                                              | [MulanPSL-2.0][]                         | Y    |           |
 | Multics License                                                                           | [Multics][]                              | Y    |           |
 | Mup License                                                                               | [Mup][]                                  |      |           |
+| MVT License 1.1                                                                           | [MVT-1.1][]                              |      |           |
 | Nara Institute of Science and Technology License (2003)                                   | [NAIST-2003][]                           |      |           |
 | NASA Open Source Agreement 1.3                                                            | [NASA-1.3][]                             | Y    |           |
 | Naumen Public License                                                                     | [Naumen][]                               | Y    |           |
@@ -1310,6 +1311,7 @@ The following licenses have been generated from the license list version 5693399
 [MulanPSL-2.0]: text/MulanPSL-2.0.txt
 [Multics]: text/Multics.txt
 [Mup]: text/Mup.txt
+[MVT-1.1]: text/MVT-1.1.txt
 [NAIST-2003]: text/NAIST-2003.txt
 [NASA-1.3]: text/NASA-1.3.txt
 [Naumen]: text/Naumen.txt

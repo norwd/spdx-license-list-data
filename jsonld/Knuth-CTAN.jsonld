@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:b9063c3c-1453-4122-8a57-df5eb8357975",
+            "@id": "_:887e8ce3-d5f2-4bc0-bce7-e2eec4150270",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://ctan.org/license/knuth",
-            "spdx:timestamp": "2026-04-23T17:03:09Z",
+            "spdx:timestamp": "2026-04-23T17:14:08Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,7 +25,6 @@
         },
         {
             "@id": "http://spdx.org/licenses/Knuth-CTAN",
-            "spdx:licenseTextHtml": "\n         <p>\n            This software is copyrighted. Unlimited copying and redistribution\n            of this package and/or its individual files are permitted\n            as long as there are no modifications. Modifications, and\n            redistribution of modifications, are also permitted, but\n            only if the resulting package and/or files are renamed.\n         </p>\n\n      ",
             "@type": "spdx:ListedLicense",
             "spdx:standardLicenseTemplate": "This software is copyrighted. Unlimited copying and redistribution of this package and/or its individual files are permitted as long as there are no modifications. Modifications, and redistribution of modifications, are also permitted, but only if the resulting package and/or files are renamed.\n\n",
             "spdx:name": "Knuth CTAN License",
@@ -39,10 +38,11 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "rdfs:seeAlso": "https://ctan.org/license/knuth",
-            "rdfs:comment": "This license is very similar to Wsuipa.",
             "spdx:crossRef": {
-                "@id": "_:b9063c3c-1453-4122-8a57-df5eb8357975"
-            }
+                "@id": "_:887e8ce3-d5f2-4bc0-bce7-e2eec4150270"
+            },
+            "rdfs:comment": "This license is very similar to Wsuipa.",
+            "spdx:licenseTextHtml": "\n         <p>\n            This software is copyrighted. Unlimited copying and redistribution\n            of this package and/or its individual files are permitted\n            as long as there are no modifications. Modifications, and\n            redistribution of modifications, are also permitted, but\n            only if the resulting package and/or files are renamed.\n         </p>\n\n      "
         }
     ],
     "@context": {

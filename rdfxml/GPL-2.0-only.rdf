@@ -5,6 +5,21 @@
     xmlns:ptr="http://www.w3.org/2009/pointers#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/GPL-2.0-only">
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+        <spdx:url>https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</spdx:url>
+        <spdx:timestamp>2026-04-23T17:13:28Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:licenseText>GNU GENERAL PUBLIC LICENSE
 Version 2, June 1991
 
@@ -133,53 +148,8 @@ You should have received a copy of the GNU General Public License along with thi
 </spdx:standardLicenseHeader>
     <rdfs:seeAlso>https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</rdfs:seeAlso>
     <rdfs:seeAlso>https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt</rdfs:seeAlso>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://opensource.org/license/GPL-2.0-only</spdx:url>
-        <spdx:timestamp>2026-04-23T17:02:15Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >2</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html</spdx:url>
-        <spdx:timestamp>2026-04-23T17:02:15Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://github.com/openjdk/jdk/blob/6162e2c5213c5dd7c1127fd9616b543efa898962/LICENSE</spdx:url>
-        <spdx:timestamp>2026-04-23T17:02:15Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >3</spdx:order>
-        <spdx:match>true</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isFsfLibre>
     <spdx:standardLicenseHeaderHtml>
@@ -830,12 +800,12 @@ Yoyodyne, Inc., hereby disclaims all copyright interest in the program `Gnomovis
         <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt</spdx:url>
-        <spdx:timestamp>2026-04-23T17:02:15Z</spdx:timestamp>
+        >true</spdx:isLive>
+        <spdx:url>https://github.com/openjdk/jdk/blob/6162e2c5213c5dd7c1127fd9616b543efa898962/LICENSE</spdx:url>
+        <spdx:timestamp>2026-04-23T17:13:28Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>N/A</spdx:match>
+        >3</spdx:order>
+        <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:name>GNU General Public License v2.0 only</spdx:name>
@@ -848,5 +818,35 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., &lt;&lt;var;name="freeSoftwareFoundationAddress";original="51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA";match=".{54,64}"&gt;&gt; .
 
 </spdx:standardLicenseHeaderTemplate>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+        <spdx:url>https://opensource.org/license/GPL-2.0-only</spdx:url>
+        <spdx:timestamp>2026-04-23T17:13:27Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >2</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+        <spdx:url>https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt</spdx:url>
+        <spdx:timestamp>2026-04-23T17:13:27Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
   </spdx:ListedLicense>
 </rdf:RDF>

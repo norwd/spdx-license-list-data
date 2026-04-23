@@ -16,7 +16,7 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://fedoraproject.org/wiki/Licensing/Beerware</spdx:url>
-        <spdx:timestamp>2026-04-23T17:02:21Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T17:13:31Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>false</spdx:match>
@@ -51,7 +51,7 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://people.freebsd.org/~phk/</spdx:url>
-        <spdx:timestamp>2026-04-23T17:02:21Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T17:13:31Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>false</spdx:match>

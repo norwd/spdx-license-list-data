@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:60d2f29a-1d44-4b62-8b15-da2bbf5a1041"
+                "@id": "_:50243b4e-e253-4e4a-bdee-b84ea182de1c"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:60d2f29a-1d44-4b62-8b15-da2bbf5a1041",
+            "@id": "_:50243b4e-e253-4e4a-bdee-b84ea182de1c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/jpr5/ngrep/blob/master/LICENSE",
-            "spdx:timestamp": "2026-04-23T17:06:25Z",
+            "spdx:timestamp": "2026-04-23T17:17:17Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

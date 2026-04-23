@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:4f4bfd0e-cbea-493c-8775-aa846b992e8f",
+            "@id": "_:fe0b686d-bb03-4048-8330-e298ee217c77",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.postgresql.org/about/licence",
-            "spdx:timestamp": "2026-04-23T17:03:10Z",
+            "spdx:timestamp": "2026-04-23T17:14:10Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:32722f60-1048-422e-8af4-301a3931e52b",
+            "@id": "_:33e2ca95-92d3-413d-92d8-8491c7ae5636",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/PostgreSQL",
-            "spdx:timestamp": "2026-04-23T17:03:10Z",
+            "spdx:timestamp": "2026-04-23T17:14:09Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -48,15 +48,15 @@
         },
         {
             "@id": "http://spdx.org/licenses/PostgreSQL",
-            "@type": "spdx:ListedLicense",
             "spdx:crossRef": [
                 {
-                    "@id": "_:4f4bfd0e-cbea-493c-8775-aa846b992e8f"
+                    "@id": "_:33e2ca95-92d3-413d-92d8-8491c7ae5636"
                 },
                 {
-                    "@id": "_:32722f60-1048-422e-8af4-301a3931e52b"
+                    "@id": "_:fe0b686d-bb03-4048-8330-e298ee217c77"
                 }
             ],
+            "@type": "spdx:ListedLicense",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"

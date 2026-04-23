@@ -1,6 +1,29 @@
 {
     "@graph": [
         {
+            "@id": "_:072cec86-2f1a-4ad4-9a9a-9d547fad0c0c",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/python-excel/xlrd/blob/master/LICENSE#L33",
+            "spdx:timestamp": "2026-04-23T17:13:29Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/BSD-Advertising-Acknowledgement",
             "rdfs:comment": "This appears to be similar BSD-4-Clause, but replaces the \"no endorsement\" 4th clause with an attribution clause.",
             "rdfs:seeAlso": "https://github.com/python-excel/xlrd/blob/master/LICENSE#L33",
@@ -18,31 +41,8 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:15269d42-987e-48ea-95b4-c5dec7cd623e"
+                "@id": "_:072cec86-2f1a-4ad4-9a9a-9d547fad0c0c"
             }
-        },
-        {
-            "@id": "_:15269d42-987e-48ea-95b4-c5dec7cd623e",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/python-excel/xlrd/blob/master/LICENSE#L33",
-            "spdx:timestamp": "2026-04-23T17:02:19Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

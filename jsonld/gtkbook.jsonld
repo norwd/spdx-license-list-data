@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:2280817c-5f12-4206-9039-f083e554fd1b",
+            "@id": "_:33fafe42-6820-430c-a913-0733480250d7",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/slogan621/gtkbook",
-            "spdx:timestamp": "2026-04-23T17:02:20Z",
+            "spdx:timestamp": "2026-04-23T17:13:31Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -36,10 +36,10 @@
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": [
                 {
-                    "@id": "_:029b16c6-0c66-4986-a2b4-a79c08c50007"
+                    "@id": "_:33fafe42-6820-430c-a913-0733480250d7"
                 },
                 {
-                    "@id": "_:2280817c-5f12-4206-9039-f083e554fd1b"
+                    "@id": "_:e8a0a6c8-43a4-4171-9415-a19aed4931fa"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -52,7 +52,7 @@
             }
         },
         {
-            "@id": "_:029b16c6-0c66-4986-a2b4-a79c08c50007",
+            "@id": "_:e8a0a6c8-43a4-4171-9415-a19aed4931fa",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/oetiker/rrdtool-1.x/blob/master/src/plbasename.c#L8-L11",
-            "spdx:timestamp": "2026-04-23T17:02:19Z",
+            "spdx:timestamp": "2026-04-23T17:13:30Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

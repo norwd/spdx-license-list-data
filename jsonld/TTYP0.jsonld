@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:e6e4a038-515a-41b6-98dc-e963bfc39a5b",
+            "@id": "_:d5cb3720-a2c6-4a28-bf61-de800ed432ba",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://people.mpi-inf.mpg.de/~uwe/misc/uw-ttyp0/",
-            "spdx:timestamp": "2026-04-23T17:02:00Z",
+            "spdx:timestamp": "2026-04-23T17:13:12Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:e6e4a038-515a-41b6-98dc-e963bfc39a5b"
+                "@id": "_:d5cb3720-a2c6-4a28-bf61-de800ed432ba"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
