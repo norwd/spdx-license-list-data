@@ -3,15 +3,15 @@
 <http://spdx.org/licenses/FSFULLR> <http://spdx.org/rdf/terms#licenseTextHtml> "\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n         <p>Copyright 1996-2006 Free Software Foundation, Inc.</p>\n\n      </span></div>\n\n      <p>This file is free software; the Free Software Foundation gives unlimited permission to copy and/or\n         distribute it, with or without modifications, as long as this notice is preserved.</p>\n\n    " .
 <http://spdx.org/licenses/FSFULLR> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright 1996-2006 Free Software Foundation, Inc.  \";match=\".{0,5000}\">>\nThis file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved.\n\n" .
 <http://spdx.org/licenses/FSFULLR> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/FSFULLR> <http://spdx.org/rdf/terms#crossRef> _:Bdc629f01X2D7bdcX2D4c87X2Dacf9X2D77f2b4e944e5 .
+<http://spdx.org/licenses/FSFULLR> <http://spdx.org/rdf/terms#crossRef> _:B9e279ffbX2Da789X2D49b5X2D9dd2X2D974c9b2dc76f .
 <http://spdx.org/licenses/FSFULLR> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/FSFULLR> <http://spdx.org/rdf/terms#name> "FSF Unlimited License (with License Retention)" .
 <http://spdx.org/licenses/FSFULLR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-_:Bdc629f01X2D7bdcX2D4c87X2Dacf9X2D77f2b4e944e5 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bdc629f01X2D7bdcX2D4c87X2Dacf9X2D77f2b4e944e5 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bdc629f01X2D7bdcX2D4c87X2Dacf9X2D77f2b4e944e5 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bdc629f01X2D7bdcX2D4c87X2Dacf9X2D77f2b4e944e5 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License#License_Retention_Variant" .
-_:Bdc629f01X2D7bdcX2D4c87X2Dacf9X2D77f2b4e944e5 <http://spdx.org/rdf/terms#timestamp> "2026-04-13T13:48:03Z" .
-_:Bdc629f01X2D7bdcX2D4c87X2Dacf9X2D77f2b4e944e5 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bdc629f01X2D7bdcX2D4c87X2Dacf9X2D77f2b4e944e5 <http://spdx.org/rdf/terms#match> "true" .
-_:Bdc629f01X2D7bdcX2D4c87X2Dacf9X2D77f2b4e944e5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B9e279ffbX2Da789X2D49b5X2D9dd2X2D974c9b2dc76f <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B9e279ffbX2Da789X2D49b5X2D9dd2X2D974c9b2dc76f <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B9e279ffbX2Da789X2D49b5X2D9dd2X2D974c9b2dc76f <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B9e279ffbX2Da789X2D49b5X2D9dd2X2D974c9b2dc76f <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License#License_Retention_Variant" .
+_:B9e279ffbX2Da789X2D49b5X2D9dd2X2D974c9b2dc76f <http://spdx.org/rdf/terms#timestamp> "2026-04-23T16:00:25Z" .
+_:B9e279ffbX2Da789X2D49b5X2D9dd2X2D974c9b2dc76f <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B9e279ffbX2Da789X2D49b5X2D9dd2X2D974c9b2dc76f <http://spdx.org/rdf/terms#match> "true" .
+_:B9e279ffbX2Da789X2D49b5X2D9dd2X2D974c9b2dc76f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

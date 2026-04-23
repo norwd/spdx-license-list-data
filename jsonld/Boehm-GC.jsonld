@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:33b8d870-ecc1-4aa1-8404-b3c2e456a9d1",
+            "@id": "_:26d6a163-006b-46a2-8cfa-6febfb1d1ae0",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,10 +14,10 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://github.com/ivmai/libatomic_ops/blob/master/LICENSE",
-            "spdx:timestamp": "2026-04-13T13:56:26Z",
+            "spdx:url": "https://github.com/uim/libgcroots/blob/master/COPYING",
+            "spdx:timestamp": "2026-04-23T16:03:07Z",
             "spdx:order": {
-                "@value": "2",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",
@@ -25,21 +25,21 @@
         },
         {
             "@id": "http://spdx.org/licenses/Boehm-GC",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:796e670f-d623-4670-ac0b-a47112350e55"
+                },
+                {
+                    "@id": "_:26d6a163-006b-46a2-8cfa-6febfb1d1ae0"
+                },
+                {
+                    "@id": "_:3af1055e-36b3-4ccd-b199-c45a8ba7b27b"
+                }
+            ],
             "rdfs:seeAlso": [
                 "https://fedoraproject.org/wiki/Licensing:MIT#Another_Minimal_variant_(found_in_libatomic_ops)",
                 "https://github.com/ivmai/libatomic_ops/blob/master/LICENSE",
                 "https://github.com/uim/libgcroots/blob/master/COPYING"
-            ],
-            "spdx:crossRef": [
-                {
-                    "@id": "_:cb304aa6-8500-44dd-9972-3846529d8925"
-                },
-                {
-                    "@id": "_:88e692cc-7c7b-4939-8603-945d4ed35e1a"
-                },
-                {
-                    "@id": "_:33b8d870-ecc1-4aa1-8404-b3c2e456a9d1"
-                }
             ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -56,7 +56,7 @@
             "spdx:licenseText": "Copyright (c) ...\n\nTHIS MATERIAL IS PROVIDED AS IS, WITH ABSOLUTELY NO WARRANTY EXPRESSED\nOR IMPLIED.  ANY USE IS AT YOUR OWN RISK.\n\nPermission is hereby granted to use or copy this program\nfor any purpose,  provided the above notices are retained on all copies.\nPermission to modify the code and to distribute modified code is granted,\nprovided the above notices are retained, and a notice that the code was\nmodified is included with the above copyright notice.\n\nA few files have other copyright holders.\n"
         },
         {
-            "@id": "_:cb304aa6-8500-44dd-9972-3846529d8925",
+            "@id": "_:796e670f-d623-4670-ac0b-a47112350e55",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -69,17 +69,17 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://github.com/uim/libgcroots/blob/master/COPYING",
-            "spdx:timestamp": "2026-04-13T13:56:24Z",
+            "spdx:url": "https://github.com/ivmai/libatomic_ops/blob/master/LICENSE",
+            "spdx:timestamp": "2026-04-23T16:03:09Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:88e692cc-7c7b-4939-8603-945d4ed35e1a",
+            "@id": "_:3af1055e-36b3-4ccd-b199-c45a8ba7b27b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -93,7 +93,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing:MIT#Another_Minimal_variant_(found_in_libatomic_ops)",
-            "spdx:timestamp": "2026-04-13T13:56:25Z",
+            "spdx:timestamp": "2026-04-23T16:03:08Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

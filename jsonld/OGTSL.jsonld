@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:1b6a57ec-aa80-4313-9548-6b93568e18dc",
+            "@id": "_:5c983e5e-0ee3-4212-9b2c-79d16d501ff6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,13 +14,13 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "http://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt",
-            "spdx:timestamp": "2026-04-13T13:55:43Z",
+            "spdx:url": "https://opensource.org/license/OGTSL",
+            "spdx:timestamp": "2026-04-23T16:02:27Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "true",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
@@ -33,10 +33,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:0b6c8044-a64e-4d3d-ad53-3bb8b75f3406"
+                    "@id": "_:5c983e5e-0ee3-4212-9b2c-79d16d501ff6"
                 },
                 {
-                    "@id": "_:1b6a57ec-aa80-4313-9548-6b93568e18dc"
+                    "@id": "_:bc441140-75c1-4f7b-9893-b805c7998cea"
                 }
             ],
             "rdfs:seeAlso": [
@@ -52,7 +52,7 @@
             "spdx:name": "Open Group Test Suite License"
         },
         {
-            "@id": "_:0b6c8044-a64e-4d3d-ad53-3bb8b75f3406",
+            "@id": "_:bc441140-75c1-4f7b-9893-b805c7998cea",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -65,13 +65,13 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://opensource.org/license/OGTSL",
-            "spdx:timestamp": "2026-04-13T13:55:42Z",
+            "spdx:url": "http://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt",
+            "spdx:timestamp": "2026-04-23T16:02:27Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:ce822221-8301-4041-91b4-607d477377de"
+                "@id": "_:06c12a85-a334-4bad-9eeb-856852ed9166"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:ce822221-8301-4041-91b4-607d477377de",
+            "@id": "_:06c12a85-a334-4bad-9eeb-856852ed9166",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/AmazonDigitalServicesLicense",
-            "spdx:timestamp": "2026-04-13T13:49:34Z",
+            "spdx:timestamp": "2026-04-23T16:00:32Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

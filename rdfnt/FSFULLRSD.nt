@@ -1,5 +1,12 @@
+_:B89f0e74dX2D442fX2D4a90X2Daa38X2D6db78aa71f6e <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B89f0e74dX2D442fX2D4a90X2Daa38X2D6db78aa71f6e <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B89f0e74dX2D442fX2D4a90X2Daa38X2D6db78aa71f6e <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B89f0e74dX2D442fX2D4a90X2Daa38X2D6db78aa71f6e <http://spdx.org/rdf/terms#url> "https://git.savannah.gnu.org/cgit/gnulib.git/tree/modules/COPYING?id=7b08932179d0d6b017f7df01a2ddf6e096b038e3" .
+_:B89f0e74dX2D442fX2D4a90X2Daa38X2D6db78aa71f6e <http://spdx.org/rdf/terms#timestamp> "2026-04-23T16:03:10Z" .
+_:B89f0e74dX2D442fX2D4a90X2Daa38X2D6db78aa71f6e <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B89f0e74dX2D442fX2D4a90X2Daa38X2D6db78aa71f6e <http://spdx.org/rdf/terms#match> "true" .
+_:B89f0e74dX2D442fX2D4a90X2Daa38X2D6db78aa71f6e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/FSFULLRSD> <http://www.w3.org/2000/01/rdf-schema#comment> "This is the same as FSFULLR but adds a short disclaimer of warranties." .
-<http://spdx.org/licenses/FSFULLRSD> <http://spdx.org/rdf/terms#crossRef> _:B86e036a5X2Dc009X2D4a99X2Db3cdX2D24d4132b233a .
 <http://spdx.org/licenses/FSFULLRSD> <http://spdx.org/rdf/terms#name> "FSF Unlimited License (with License Retention and Short Disclaimer)" .
 <http://spdx.org/licenses/FSFULLRSD> <http://spdx.org/rdf/terms#licenseText> "This file is free software; the Free Software Foundation\ngives unlimited permission to copy and/or distribute it,\nwith or without modifications, as long as this notice is preserved.\nThis file is offered as-is, without any warranty.\n" .
 <http://spdx.org/licenses/FSFULLRSD> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
@@ -8,11 +15,4 @@
 <http://spdx.org/licenses/FSFULLRSD> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://git.savannah.gnu.org/cgit/gnulib.git/tree/modules/COPYING?id=7b08932179d0d6b017f7df01a2ddf6e096b038e3" .
 <http://spdx.org/licenses/FSFULLRSD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/FSFULLRSD> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B86e036a5X2Dc009X2D4a99X2Db3cdX2D24d4132b233a <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B86e036a5X2Dc009X2D4a99X2Db3cdX2D24d4132b233a <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B86e036a5X2Dc009X2D4a99X2Db3cdX2D24d4132b233a <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B86e036a5X2Dc009X2D4a99X2Db3cdX2D24d4132b233a <http://spdx.org/rdf/terms#url> "https://git.savannah.gnu.org/cgit/gnulib.git/tree/modules/COPYING?id=7b08932179d0d6b017f7df01a2ddf6e096b038e3" .
-_:B86e036a5X2Dc009X2D4a99X2Db3cdX2D24d4132b233a <http://spdx.org/rdf/terms#timestamp> "2026-04-13T13:57:55Z" .
-_:B86e036a5X2Dc009X2D4a99X2Db3cdX2D24d4132b233a <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B86e036a5X2Dc009X2D4a99X2Db3cdX2D24d4132b233a <http://spdx.org/rdf/terms#match> "N/A" .
-_:B86e036a5X2Dc009X2D4a99X2Db3cdX2D24d4132b233a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/FSFULLRSD> <http://spdx.org/rdf/terms#crossRef> _:B89f0e74dX2D442fX2D4a90X2Daa38X2D6db78aa71f6e .

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:be0139b8-e673-4139-a71b-7ba9a6bad37d",
+            "@id": "_:32be56ae-b382-490c-868c-cc6ab2c63e45",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2",
-            "spdx:timestamp": "2026-04-13T13:58:18Z",
+            "spdx:timestamp": "2026-04-23T16:04:17Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:be0139b8-e673-4139-a71b-7ba9a6bad37d"
+                "@id": "_:32be56ae-b382-490c-868c-cc6ab2c63e45"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",

@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:5306f6fe-962a-42d2-ab4d-a668432ec76d",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://www.openoffice.org/licenses/sissl_license.html",
-            "spdx:timestamp": "2026-04-13T13:49:06Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:870ac665-eea5-45b0-94b3-51fc6f2a1191",
+            "@id": "_:393aced9-42bb-498f-9dc1-f2de8c53fb90",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,12 +15,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/SISSL",
-            "spdx:timestamp": "2026-04-13T13:49:06Z",
+            "spdx:timestamp": "2026-04-23T16:00:31Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:69ee0000-d5e1-4f9f-bea6-7ac0ec1248f0",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://www.openoffice.org/licenses/sissl_license.html",
+            "spdx:timestamp": "2026-04-23T16:00:31Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         },
         {
@@ -55,10 +55,10 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:5306f6fe-962a-42d2-ab4d-a668432ec76d"
+                    "@id": "_:393aced9-42bb-498f-9dc1-f2de8c53fb90"
                 },
                 {
-                    "@id": "_:870ac665-eea5-45b0-94b3-51fc6f2a1191"
+                    "@id": "_:69ee0000-d5e1-4f9f-bea6-7ac0ec1248f0"
                 }
             ],
             "@type": "spdx:ListedLicense",

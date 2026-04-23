@@ -7,6 +7,9 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
+            "spdx:crossRef": {
+                "@id": "_:65fd3fce-9cbc-4df9-9917-c8844f8b5462"
+            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -20,13 +23,10 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:name": "OpenSSL License",
-            "rdfs:seeAlso": "http://www.openssl.org/source/license.html",
-            "spdx:crossRef": {
-                "@id": "_:656472ca-8efe-4bd2-a656-970f13380176"
-            }
+            "rdfs:seeAlso": "http://www.openssl.org/source/license.html"
         },
         {
-            "@id": "_:656472ca-8efe-4bd2-a656-970f13380176",
+            "@id": "_:65fd3fce-9cbc-4df9-9917-c8844f8b5462",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -40,7 +40,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.openssl.org/source/license.html",
-            "spdx:timestamp": "2026-04-13T13:47:29Z",
+            "spdx:timestamp": "2026-04-23T16:00:18Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:f4fd4623-b866-42ac-be3f-085c5ef48181",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/license/OCLC-2.0",
-            "spdx:timestamp": "2026-04-13T13:51:14Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:03e0020a-672a-4e40-8afb-c84dc0dd3808",
+            "@id": "_:afeb8e06-190f-4b2d-bdbb-16fab4d8909f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,12 +15,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.oclc.org/research/activities/software/license/v2final.htm",
-            "spdx:timestamp": "2026-04-13T13:51:14Z",
+            "spdx:timestamp": "2026-04-23T16:00:43Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:1bbb42dc-8c15-4ce3-a22a-f10fe52b1941",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/license/OCLC-2.0",
+            "spdx:timestamp": "2026-04-23T16:00:43Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
@@ -65,10 +65,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:f4fd4623-b866-42ac-be3f-085c5ef48181"
+                    "@id": "_:afeb8e06-190f-4b2d-bdbb-16fab4d8909f"
                 },
                 {
-                    "@id": "_:03e0020a-672a-4e40-8afb-c84dc0dd3808"
+                    "@id": "_:1bbb42dc-8c15-4ce3-a22a-f10fe52b1941"
                 }
             ],
             "spdx:isOsiApproved": {

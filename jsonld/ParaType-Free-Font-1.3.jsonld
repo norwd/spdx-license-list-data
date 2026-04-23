@@ -12,10 +12,10 @@
             "spdx:name": "ParaType Free Font Licensing Agreement v1.3",
             "spdx:crossRef": [
                 {
-                    "@id": "_:e9baf564-8cc1-4e44-b856-c38ccc659517"
+                    "@id": "_:07a9eafd-6fcb-4c83-a868-68a5461d0903"
                 },
                 {
-                    "@id": "_:cd7835db-1975-47e6-b201-ba2ecd60bbd3"
+                    "@id": "_:b5b0bd19-8a75-40ac-bb87-2059128e8c66"
                 }
             ],
             "spdx:isOsiApproved": {
@@ -29,7 +29,7 @@
             }
         },
         {
-            "@id": "_:e9baf564-8cc1-4e44-b856-c38ccc659517",
+            "@id": "_:07a9eafd-6fcb-4c83-a868-68a5461d0903",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -43,7 +43,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://metadata.ftp-master.debian.org/changelogs//main/f/fonts-paratype/fonts-paratype_20181108-4_copyright",
-            "spdx:timestamp": "2026-04-13T13:53:22Z",
+            "spdx:timestamp": "2026-04-23T16:01:45Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -52,7 +52,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:cd7835db-1975-47e6-b201-ba2ecd60bbd3",
+            "@id": "_:b5b0bd19-8a75-40ac-bb87-2059128e8c66",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -66,7 +66,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://web.archive.org/web/20161209023955/http://www.paratype.ru/public/pt_openlicense_eng.asp",
-            "spdx:timestamp": "2026-04-13T13:53:22Z",
+            "spdx:timestamp": "2026-04-23T16:01:45Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

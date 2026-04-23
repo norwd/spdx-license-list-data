@@ -1,33 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:3ee325f1-0df6-498d-96fd-83bdafad4718",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://freeimage.sourceforge.net/freeimage-license.txt",
-            "spdx:timestamp": "2026-04-13T13:52:16Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
             "@id": "http://spdx.org/licenses/FreeImage",
-            "spdx:crossRef": {
-                "@id": "_:3ee325f1-0df6-498d-96fd-83bdafad4718"
-            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -42,7 +16,33 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:name": "FreeImage Public License v1.0",
+            "spdx:crossRef": {
+                "@id": "_:2b4a39f1-840d-400e-9626-ec84b3a65556"
+            },
             "@type": "spdx:ListedLicense"
+        },
+        {
+            "@id": "_:2b4a39f1-840d-400e-9626-ec84b3a65556",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://freeimage.sourceforge.net/freeimage-license.txt",
+            "spdx:timestamp": "2026-04-23T16:01:18Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

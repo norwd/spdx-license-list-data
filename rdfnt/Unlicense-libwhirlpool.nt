@@ -3,16 +3,16 @@
 <http://spdx.org/licenses/Unlicense-libwhirlpool> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            This is free and unencumbered software released into the\n            public domain. Anyone is free to copy, modify, publish,\n            use, compile, sell, or distribute this software, either\n            in source code form or as a compiled binary, for any\n            purpose, commercial or non-commercial, and by any means.\n         </p>\n\n         <p>\n            THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY\n            OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT\n            NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n            FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\n         </p>\n\n      " .
 <http://spdx.org/licenses/Unlicense-libwhirlpool> <http://spdx.org/rdf/terms#licenseText> "This is free and unencumbered software released into the public domain.\nAnyone is free to copy, modify, publish, use, compile, sell, or\ndistribute this software, either in source code form or as a compiled\nbinary, for any purpose, commercial or non-commercial, and by any means.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\n" .
 <http://spdx.org/licenses/Unlicense-libwhirlpool> <http://spdx.org/rdf/terms#name> "Unlicense - libwhirlpool variant" .
-<http://spdx.org/licenses/Unlicense-libwhirlpool> <http://spdx.org/rdf/terms#crossRef> _:B27eb0d07X2D03f7X2D4d76X2Db479X2D3fadf65f3d53 .
-<http://spdx.org/licenses/Unlicense-libwhirlpool> <http://www.w3.org/2000/01/rdf-schema#comment> "This is similar to the Unlicense, but removes the middle paragraph entirely and the last sentence." .
+<http://spdx.org/licenses/Unlicense-libwhirlpool> <http://spdx.org/rdf/terms#crossRef> _:Bbfebcb57X2DcaedX2D4d44X2Db159X2Dd4e15b1d4b62 .
 <http://spdx.org/licenses/Unlicense-libwhirlpool> <http://spdx.org/rdf/terms#standardLicenseTemplate> "This is free and unencumbered software released into the public domain. Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\n\n" .
+<http://spdx.org/licenses/Unlicense-libwhirlpool> <http://www.w3.org/2000/01/rdf-schema#comment> "This is similar to the Unlicense, but removes the middle paragraph entirely and the last sentence." .
 <http://spdx.org/licenses/Unlicense-libwhirlpool> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/Unlicense-libwhirlpool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-_:B27eb0d07X2D03f7X2D4d76X2Db479X2D3fadf65f3d53 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B27eb0d07X2D03f7X2D4d76X2Db479X2D3fadf65f3d53 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B27eb0d07X2D03f7X2D4d76X2Db479X2D3fadf65f3d53 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B27eb0d07X2D03f7X2D4d76X2Db479X2D3fadf65f3d53 <http://spdx.org/rdf/terms#url> "https://github.com/dfateyev/libwhirlpool/blob/master/README#L27" .
-_:B27eb0d07X2D03f7X2D4d76X2Db479X2D3fadf65f3d53 <http://spdx.org/rdf/terms#timestamp> "2026-04-13T13:59:57Z" .
-_:B27eb0d07X2D03f7X2D4d76X2Db479X2D3fadf65f3d53 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B27eb0d07X2D03f7X2D4d76X2Db479X2D3fadf65f3d53 <http://spdx.org/rdf/terms#match> "true" .
-_:B27eb0d07X2D03f7X2D4d76X2Db479X2D3fadf65f3d53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bbfebcb57X2DcaedX2D4d44X2Db159X2Dd4e15b1d4b62 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bbfebcb57X2DcaedX2D4d44X2Db159X2Dd4e15b1d4b62 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bbfebcb57X2DcaedX2D4d44X2Db159X2Dd4e15b1d4b62 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bbfebcb57X2DcaedX2D4d44X2Db159X2Dd4e15b1d4b62 <http://spdx.org/rdf/terms#url> "https://github.com/dfateyev/libwhirlpool/blob/master/README#L27" .
+_:Bbfebcb57X2DcaedX2D4d44X2Db159X2Dd4e15b1d4b62 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T16:04:57Z" .
+_:Bbfebcb57X2DcaedX2D4d44X2Db159X2Dd4e15b1d4b62 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bbfebcb57X2DcaedX2D4d44X2Db159X2Dd4e15b1d4b62 <http://spdx.org/rdf/terms#match> "true" .
+_:Bbfebcb57X2DcaedX2D4d44X2Db159X2Dd4e15b1d4b62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

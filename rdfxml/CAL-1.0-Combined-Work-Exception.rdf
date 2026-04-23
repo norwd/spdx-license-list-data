@@ -147,6 +147,7 @@ Licensed under the Cryptographic Autonomy License version 1.0, with Combined Wor
     >true</spdx:isOsiApproved>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
+    <spdx:name>Cryptographic Autonomy License 1.0 (Combined Work Exception)</spdx:name>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -154,15 +155,14 @@ Licensed under the Cryptographic Autonomy License version 1.0, with Combined Wor
         <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://opensource.org/license/CAL-1.0</spdx:url>
-        <spdx:timestamp>2026-04-13T13:50:07Z</spdx:timestamp>
+        >true</spdx:isLive>
+        <spdx:url>http://cryptographicautonomylicense.com/license-text.html</spdx:url>
+        <spdx:timestamp>2026-04-23T16:00:34Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>N/A</spdx:match>
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:name>Cryptographic Autonomy License 1.0 (Combined Work Exception)</spdx:name>
     <rdfs:seeAlso>https://opensource.org/license/CAL-1.0</rdfs:seeAlso>
     <spdx:licenseTextHtml>
       &lt;div class="optional-license-text"&gt; 
@@ -747,12 +747,12 @@ of this License.
         <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>http://cryptographicautonomylicense.com/license-text.html</spdx:url>
-        <spdx:timestamp>2026-04-13T13:50:08Z</spdx:timestamp>
+        >false</spdx:isLive>
+        <spdx:url>https://opensource.org/license/CAL-1.0</spdx:url>
+        <spdx:timestamp>2026-04-23T16:00:34Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
+        >1</spdx:order>
+        <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:licenseText># The Cryptographic Autonomy License, v. 1.0

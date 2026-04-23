@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:ae0554c9-7ce9-4268-a500-a93113617a07",
+            "@id": "_:e1c0e623-9245-4ed2-8f6d-a37bc8a3ff80",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/AdobePostscriptAFM",
-            "spdx:timestamp": "2026-04-13T13:55:11Z",
+            "spdx:timestamp": "2026-04-23T16:02:25Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:ae0554c9-7ce9-4268-a500-a93113617a07"
+                "@id": "_:e1c0e623-9245-4ed2-8f6d-a37bc8a3ff80"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:ff662b99-a4be-4eee-87f7-06a9ac631916",
+            "@id": "_:7f725db4-3757-4355-a694-fffb224df5eb",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,12 +15,35 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Open_Public_License",
-            "spdx:timestamp": "2026-04-13T13:54:06Z",
+            "spdx:timestamp": "2026-04-23T16:01:47Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:7b614c9f-abb7-4db6-af81-3c96073bcc64",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://old.koalateam.com/jackaroo/OPL_1_0.TXT",
+            "spdx:timestamp": "2026-04-23T16:01:48Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
@@ -35,6 +58,14 @@
                 "http://old.koalateam.com/jackaroo/OPL_1_0.TXT",
                 "https://fedoraproject.org/wiki/Licensing/Open_Public_License"
             ],
+            "spdx:crossRef": [
+                {
+                    "@id": "_:7f725db4-3757-4355-a694-fffb224df5eb"
+                },
+                {
+                    "@id": "_:7b614c9f-abb7-4db6-af81-3c96073bcc64"
+                }
+            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -44,39 +75,8 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:ff662b99-a4be-4eee-87f7-06a9ac631916"
-                },
-                {
-                    "@id": "_:7c2fea8b-56a6-40d4-a22f-0a14eb2cc03f"
-                }
-            ],
             "spdx:name": "Open Public License v1.0",
             "@type": "spdx:ListedLicense"
-        },
-        {
-            "@id": "_:7c2fea8b-56a6-40d4-a22f-0a14eb2cc03f",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://old.koalateam.com/jackaroo/OPL_1_0.TXT",
-            "spdx:timestamp": "2026-04-13T13:54:06Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {

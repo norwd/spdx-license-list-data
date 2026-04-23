@@ -1436,10 +1436,10 @@ You should also get your employer (if you work as a programmer) or school, if an
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
-        <spdx:url>https://www.gnu.org/licenses/agpl.txt</spdx:url>
-        <spdx:timestamp>2026-04-13T14:00:26Z</spdx:timestamp>
+        <spdx:url>https://opensource.org/license/AGPL-3.0</spdx:url>
+        <spdx:timestamp>2026-04-23T16:04:56Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
+        >1</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
@@ -1483,10 +1483,10 @@ You should also get your employer (if you work as a programmer) or school, if an
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
-        <spdx:url>https://opensource.org/license/AGPL-3.0</spdx:url>
-        <spdx:timestamp>2026-04-13T14:00:26Z</spdx:timestamp>
+        <spdx:url>https://www.gnu.org/licenses/agpl.txt</spdx:url>
+        <spdx:timestamp>2026-04-23T16:04:56Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
+        >0</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>

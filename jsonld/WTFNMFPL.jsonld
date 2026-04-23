@@ -4,10 +4,10 @@
             "@id": "http://spdx.org/licenses/WTFNMFPL",
             "spdx:crossRef": [
                 {
-                    "@id": "_:5cb91941-7e5f-4456-8221-9adf616f8a98"
+                    "@id": "_:ceae19fb-2efd-4b9c-816a-ca1b981d0af5"
                 },
                 {
-                    "@id": "_:aa5c2de3-43eb-4b3a-bb01-7027a17b6e13"
+                    "@id": "_:32561dad-a8bf-4872-b69a-78bb9c356b1a"
                 }
             ],
             "rdfs:seeAlso": [
@@ -30,30 +30,7 @@
             "spdx:licenseText": "DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE\n                    Version 1, October 2013\n\n Copyright (C) 2013 Ben McGinnes <ben@adversary.org>\n\n Everyone is permitted to copy and distribute verbatim or modified\n copies of this license document, and changing it is allowed as long\n as the name is changed.\n\n   DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE\n   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION\n\n  0. You just DO WHAT THE FUCK YOU WANT TO.\n\n  1. Do not hold the author(s), creator(s), developer(s) or\n     distributor(s) liable for anything that happens or goes wrong\n     with your use of the work.\n"
         },
         {
-            "@id": "_:5cb91941-7e5f-4456-8221-9adf616f8a98",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/adversary-org/wtfnmf/raw/refs/tags/1.0/COPYING.WTFNMFPL",
-            "spdx:timestamp": "2026-04-13T13:58:51Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:aa5c2de3-43eb-4b3a-bb01-7027a17b6e13",
+            "@id": "_:ceae19fb-2efd-4b9c-816a-ca1b981d0af5",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,9 +44,32 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/adversary-org/wtfnmf/raw/3f2cd8235a64350a57a51b9739715edaea63ec1a/COPYING.WTFNMFPL-utf8",
-            "spdx:timestamp": "2026-04-13T13:58:51Z",
+            "spdx:timestamp": "2026-04-23T16:04:22Z",
             "spdx:order": {
                 "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:32561dad-a8bf-4872-b69a-78bb9c356b1a",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/adversary-org/wtfnmf/raw/refs/tags/1.0/COPYING.WTFNMFPL",
+            "spdx:timestamp": "2026-04-23T16:04:23Z",
+            "spdx:order": {
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",

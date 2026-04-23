@@ -1,20 +1,43 @@
 {
     "@graph": [
         {
+            "@id": "_:33e0ae16-9b00-44a8-a732-d499f85f341b",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
+            "spdx:timestamp": "2026-04-23T16:01:46Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/hyphen-bulgarian",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:58f6b97b-f976-4878-b554-092542f71a4a"
-                },
-                {
-                    "@id": "_:ae88eeed-033a-4f10-8a5e-d6706f348742"
-                }
-            ],
             "rdfs:seeAlso": [
                 "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
                 "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185"
             ],
             "@type": "spdx:ListedLicense",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:33e0ae16-9b00-44a8-a732-d499f85f341b"
+                },
+                {
+                    "@id": "_:f1edb478-7123-4ff5-8112-4cc204ba49ff"
+                }
+            ],
             "spdx:name": "hyphen-bulgarian License",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
@@ -29,7 +52,7 @@
             }
         },
         {
-            "@id": "_:58f6b97b-f976-4878-b554-092542f71a4a",
+            "@id": "_:f1edb478-7123-4ff5-8112-4cc204ba49ff",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -43,32 +66,9 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/blob/959538769bfad6a73bdf34275d46520ec0f9cbb5/COPYING#L176-185",
-            "spdx:timestamp": "2026-04-13T13:53:23Z",
+            "spdx:timestamp": "2026-04-23T16:01:45Z",
             "spdx:order": {
                 "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:ae88eeed-033a-4f10-8a5e-d6706f348742",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://ctan.math.illinois.edu/systems/texlive/tlnet/archive/hyphen-bulgarian.tar.xz",
-            "spdx:timestamp": "2026-04-13T13:53:23Z",
-            "spdx:order": {
-                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "false",

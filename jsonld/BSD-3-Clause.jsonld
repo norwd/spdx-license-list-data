@@ -4,10 +4,10 @@
             "@id": "http://spdx.org/licenses/BSD-3-Clause",
             "spdx:crossRef": [
                 {
-                    "@id": "_:1127cc7c-6137-4d33-8d3b-f345339975a2"
+                    "@id": "_:c9c83ce7-4989-4dbb-a3ff-64c156fa9bd9"
                 },
                 {
-                    "@id": "_:c659a8c2-4228-4699-84a4-e2be148a7b39"
+                    "@id": "_:93572cc1-7aec-43ca-9ae7-b2ede670ba9c"
                 }
             ],
             "spdx:isFsfLibre": {
@@ -34,7 +34,7 @@
             "spdx:name": "BSD 3-Clause \"New\" or \"Revised\" License"
         },
         {
-            "@id": "_:1127cc7c-6137-4d33-8d3b-f345339975a2",
+            "@id": "_:c9c83ce7-4989-4dbb-a3ff-64c156fa9bd9",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -48,7 +48,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/BSD-3-Clause",
-            "spdx:timestamp": "2026-04-13T13:50:40Z",
+            "spdx:timestamp": "2026-04-23T16:00:36Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -57,7 +57,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:c659a8c2-4228-4699-84a4-e2be148a7b39",
+            "@id": "_:93572cc1-7aec-43ca-9ae7-b2ede670ba9c",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -71,7 +71,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.eclipse.org/org/documents/edl-v10.php",
-            "spdx:timestamp": "2026-04-13T13:50:40Z",
+            "spdx:timestamp": "2026-04-23T16:00:36Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

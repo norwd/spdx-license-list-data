@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:58c60296-9d89-40f2-b557-5ff8f9253ea3"
+                "@id": "_:23413447-d9bc-4ca3-8254-c1c6851aacf6"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:58c60296-9d89-40f2-b557-5ff8f9253ea3",
+            "@id": "_:23413447-d9bc-4ca3-8254-c1c6851aacf6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Eurosym",
-            "spdx:timestamp": "2026-04-13T13:53:35Z",
+            "spdx:timestamp": "2026-04-23T16:01:45Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

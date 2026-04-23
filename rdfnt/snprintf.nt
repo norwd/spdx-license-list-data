@@ -1,17 +1,17 @@
+_:B96473767X2Dce3eX2D4592X2Db983X2D1881643da52d <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B96473767X2Dce3eX2D4592X2Db983X2D1881643da52d <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B96473767X2Dce3eX2D4592X2Db983X2D1881643da52d <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B96473767X2Dce3eX2D4592X2Db983X2D1881643da52d <http://spdx.org/rdf/terms#url> "https://github.com/openssh/openssh-portable/blob/master/openbsd-compat/bsd-snprintf.c#L2" .
+_:B96473767X2Dce3eX2D4592X2Db983X2D1881643da52d <http://spdx.org/rdf/terms#timestamp> "2026-04-23T16:00:33Z" .
+_:B96473767X2Dce3eX2D4592X2Db983X2D1881643da52d <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B96473767X2Dce3eX2D4592X2Db983X2D1881643da52d <http://spdx.org/rdf/terms#match> "false" .
+_:B96473767X2Dce3eX2D4592X2Db983X2D1881643da52d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/snprintf> <http://spdx.org/rdf/terms#licenseText> "Copyright Patrick Powell 1995 \n\nThis code is based on code written by Patrick Powell (papowell@astart.com) It may be used for any purpose as long as this notice remains intact on all source code distributions\n" .
 <http://spdx.org/licenses/snprintf> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://github.com/openssh/openssh-portable/blob/master/openbsd-compat/bsd-snprintf.c#L2" .
 <http://spdx.org/licenses/snprintf> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n            Copyright Patrick Powell 1995\n         </span></var>\n         <p>\n            This code is based on code written by Patrick Powell\n            (papowell@astart.com) It may be used for any purpose as long\n            as this notice remains intact on all source code distributions\n         </p>\n\n      " .
 <http://spdx.org/licenses/snprintf> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright Patrick Powell 1995\";match=\".{0,5000}\">>\nThis code is based on code written by Patrick Powell (papowell@astart.com) It may be used for any purpose as long as this notice remains intact on all source code distributions\n\n" .
 <http://spdx.org/licenses/snprintf> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/snprintf> <http://spdx.org/rdf/terms#crossRef> _:Bf3c4926bX2Dd812X2D4741X2Da277X2D1df8f548475f .
+<http://spdx.org/licenses/snprintf> <http://spdx.org/rdf/terms#crossRef> _:B96473767X2Dce3eX2D4592X2Db983X2D1881643da52d .
 <http://spdx.org/licenses/snprintf> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/snprintf> <http://spdx.org/rdf/terms#name> "snprintf License" .
 <http://spdx.org/licenses/snprintf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-_:Bf3c4926bX2Dd812X2D4741X2Da277X2D1df8f548475f <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bf3c4926bX2Dd812X2D4741X2Da277X2D1df8f548475f <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bf3c4926bX2Dd812X2D4741X2Da277X2D1df8f548475f <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bf3c4926bX2Dd812X2D4741X2Da277X2D1df8f548475f <http://spdx.org/rdf/terms#url> "https://github.com/openssh/openssh-portable/blob/master/openbsd-compat/bsd-snprintf.c#L2" .
-_:Bf3c4926bX2Dd812X2D4741X2Da277X2D1df8f548475f <http://spdx.org/rdf/terms#timestamp> "2026-04-13T13:49:34Z" .
-_:Bf3c4926bX2Dd812X2D4741X2Da277X2D1df8f548475f <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bf3c4926bX2Dd812X2D4741X2Da277X2D1df8f548475f <http://spdx.org/rdf/terms#match> "false" .
-_:Bf3c4926bX2Dd812X2D4741X2Da277X2D1df8f548475f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

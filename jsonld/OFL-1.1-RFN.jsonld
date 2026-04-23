@@ -21,16 +21,16 @@
             "spdx:name": "SIL Open Font License 1.1 with Reserved Font Name",
             "spdx:crossRef": [
                 {
-                    "@id": "_:f549e9f4-04ae-43b5-86c3-4b2a59820f56"
+                    "@id": "_:0856008a-a9e7-4ecf-97f5-a562b52243c0"
                 },
                 {
-                    "@id": "_:991d33a5-b778-4246-a212-5be573885c2b"
+                    "@id": "_:a39affb3-2902-4829-a9dd-d77102bd52b2"
                 }
             ],
             "rdfs:comment": "This license was released 26 February 2007. The identifier OFL-1.1-RFN should only be used when a Reserved Font Name applies. See OFL-1.1 and OFL-1.1-no-RFN for alternatives."
         },
         {
-            "@id": "_:f549e9f4-04ae-43b5-86c3-4b2a59820f56",
+            "@id": "_:0856008a-a9e7-4ecf-97f5-a562b52243c0",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -44,7 +44,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/OFL-1.1",
-            "spdx:timestamp": "2026-04-13T13:59:24Z",
+            "spdx:timestamp": "2026-04-23T16:04:53Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -53,7 +53,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:991d33a5-b778-4246-a212-5be573885c2b",
+            "@id": "_:a39affb3-2902-4829-a9dd-d77102bd52b2",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,7 +67,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web",
-            "spdx:timestamp": "2026-04-13T13:59:24Z",
+            "spdx:timestamp": "2026-04-23T16:04:53Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

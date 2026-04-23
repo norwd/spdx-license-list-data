@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:f4e285d6-b2fd-4b49-8efe-e01248c20975",
+            "@id": "_:400b950b-9ff6-4cb2-a97c-003aa58ee239",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.affero.org/oagpl.html",
-            "spdx:timestamp": "2026-04-13T13:52:51Z",
+            "spdx:timestamp": "2026-04-23T16:01:27Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:f4e285d6-b2fd-4b49-8efe-e01248c20975"
+                "@id": "_:400b950b-9ff6-4cb2-a97c-003aa58ee239"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

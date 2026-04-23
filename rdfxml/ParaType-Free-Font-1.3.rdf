@@ -118,7 +118,7 @@ ParaType Ltd
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://metadata.ftp-master.debian.org/changelogs//main/f/fonts-paratype/fonts-paratype_20181108-4_copyright</spdx:url>
-        <spdx:timestamp>2026-04-13T13:53:22Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T16:01:45Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>N/A</spdx:match>
@@ -152,7 +152,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://web.archive.org/web/20161209023955/http://www.paratype.ru/public/pt_openlicense_eng.asp</spdx:url>
-        <spdx:timestamp>2026-04-13T13:53:22Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T16:01:45Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>

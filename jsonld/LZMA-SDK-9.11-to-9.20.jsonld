@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:bab63d98-b9de-4bc3-b2a5-456edd26662f",
+            "@id": "_:b8976a86-a528-45dc-b548-26e62561b381",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -11,16 +11,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://www.7-zip.org/sdk.html",
-            "spdx:timestamp": "2026-04-13T13:54:37Z",
+            "spdx:url": "https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/",
+            "spdx:timestamp": "2026-04-23T16:02:19Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
@@ -39,10 +39,10 @@
             },
             "spdx:crossRef": [
                 {
-                    "@id": "_:bab63d98-b9de-4bc3-b2a5-456edd26662f"
+                    "@id": "_:b8976a86-a528-45dc-b548-26e62561b381"
                 },
                 {
-                    "@id": "_:d2f63c4c-95c0-46c2-b5b3-ff93212dfc50"
+                    "@id": "_:2b5da192-4251-427c-962e-8728b3a27c55"
                 }
             ],
             "rdfs:seeAlso": [
@@ -53,7 +53,7 @@
             "spdx:standardLicenseTemplate": "<<beginOptional>>LICENSE\n\n-------\n\n<<endOptional>>\nLZMA SDK is written and placed in the public domain by Igor Pavlov.\n\nSome code in LZMA is based on public domain code from another developers: 1) PPMd var.H (2001): Dmitry Shkarin 2) SHA-256: Wei Dai (Crypto++ library)\n\n"
         },
         {
-            "@id": "_:d2f63c4c-95c0-46c2-b5b3-ff93212dfc50",
+            "@id": "_:2b5da192-4251-427c-962e-8728b3a27c55",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -63,16 +63,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/",
-            "spdx:timestamp": "2026-04-13T13:54:38Z",
+            "spdx:url": "https://www.7-zip.org/sdk.html",
+            "spdx:timestamp": "2026-04-23T16:02:19Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         }
     ],
