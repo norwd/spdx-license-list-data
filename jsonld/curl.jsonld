@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:9cbbed35-40b3-4869-8287-7d60f5571ca4"
+                "@id": "_:32a4b263-9e77-468e-9e0a-167275e1cde9"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:9cbbed35-40b3-4869-8287-7d60f5571ca4",
+            "@id": "_:32a4b263-9e77-468e-9e0a-167275e1cde9",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/bagder/curl/blob/master/COPYING",
-            "spdx:timestamp": "2026-04-23T16:03:08Z",
+            "spdx:timestamp": "2026-04-23T17:04:43Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

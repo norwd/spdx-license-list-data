@@ -269,21 +269,6 @@ This license is Copyright (C) 2002 Lawrence E. Rosen. All rights reserved. Permi
          express written permission of its copyright owner.&lt;/p&gt;
 
     </spdx:licenseTextHtml>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://fedoraproject.org/wiki/Licensing/OSL1.1</spdx:url>
-        <spdx:timestamp>2026-04-23T16:00:24Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>true</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:standardLicenseHeaderHtml>
       &lt;p&gt;Licensed under the Open Software License version 1.1&lt;/p&gt;
 
@@ -297,6 +282,21 @@ This license is Copyright (C) 2002 Lawrence E. Rosen. All rights reserved. Permi
 
 </spdx:standardLicenseHeader>
     <spdx:name>Open Software License 1.1</spdx:name>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing/OSL1.1</spdx:url>
+        <spdx:timestamp>2026-04-23T17:02:11Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:match>true</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt;The Open Software License v. 1.1
 
 &lt;&lt;endOptional&gt;&gt;

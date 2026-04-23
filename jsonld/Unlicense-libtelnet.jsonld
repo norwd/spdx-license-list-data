@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:84406047-a363-4b17-8c52-4255912a7022",
+            "@id": "_:cf331127-d340-4cf3-9887-c29ded265192",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/seanmiddleditch/libtelnet/blob/develop/COPYING",
-            "spdx:timestamp": "2026-04-23T16:01:47Z",
+            "spdx:timestamp": "2026-04-23T17:03:50Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,13 +34,13 @@
             "rdfs:seeAlso": "https://github.com/seanmiddleditch/libtelnet/blob/develop/COPYING",
             "spdx:standardLicenseTemplate": "The author or authors of this code dedicate any and all copyright interest in this code to the public domain. We make this dedication for the benefit of the public at large and to the detriment of our heirs and successors. We intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this code under copyright law.\n\n",
             "spdx:name": "Unlicense - libtelnet variant",
+            "spdx:crossRef": {
+                "@id": "_:cf331127-d340-4cf3-9887-c29ded265192"
+            },
             "spdx:licenseTextHtml": "\n         <p>\n            The author or authors of this code dedicate any and all\n            copyright interest in this code to the public domain. We make\n            this dedication for the benefit of the public at large and\n            to the detriment of our heirs and successors. We intend this\n            dedication to be an overt act of relinquishment in perpetuity of\n            all present and future rights to this code under copyright law.\n         </p>\n\n      ",
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:crossRef": {
-                "@id": "_:84406047-a363-4b17-8c52-4255912a7022"
             },
             "@type": "spdx:ListedLicense"
         }

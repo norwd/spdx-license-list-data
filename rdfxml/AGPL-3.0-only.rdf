@@ -475,6 +475,8 @@ You should have received a copy of the GNU Affero General Public License along w
 
     </spdx:standardLicenseHeaderHtml>
     <rdfs:seeAlso>https://opensource.org/license/AGPL-3.0-only</rdfs:seeAlso>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -484,16 +486,12 @@ You should have received a copy of the GNU Affero General Public License along w
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://opensource.org/license/AGPL-3.0-only</spdx:url>
-        <spdx:timestamp>2026-04-23T16:03:06Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T17:04:40Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >false</spdx:isDeprecatedLicenseId>
-    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >true</spdx:isOsiApproved>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -503,12 +501,14 @@ You should have received a copy of the GNU Affero General Public License along w
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://www.gnu.org/licenses/agpl.txt</spdx:url>
-        <spdx:timestamp>2026-04-23T16:03:06Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T17:04:40Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isOsiApproved>
     <spdx:licenseTextHtml>
     &lt;div class="optional-license-text"&gt; 
       &lt;p&gt;

@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:2cd60fb1-38a1-4378-ae35-d15373fda3dd",
+            "@id": "_:dbcdc8b4-7ef6-41b0-b1b6-670602663c20",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -11,37 +11,37 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "true",
+                "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://github.com/hamano/man2html/blob/master/man2html.c",
-            "spdx:timestamp": "2026-04-23T16:02:24Z",
+            "spdx:url": "http://primates.ximian.com/~flucifredi/man/man-1.6g.tar.gz",
+            "spdx:timestamp": "2026-04-23T17:03:56Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "false",
+            "spdx:match": "N/A",
             "@type": "spdx:CrossRef"
         },
         {
             "@id": "http://spdx.org/licenses/man2html",
-            "spdx:crossRef": [
-                {
-                    "@id": "_:2cd60fb1-38a1-4378-ae35-d15373fda3dd"
-                },
-                {
-                    "@id": "_:ce89a00a-3504-455b-b424-b265224e0482"
-                },
-                {
-                    "@id": "_:282e27de-fca7-44e3-81d6-cc762385e393"
-                }
-            ],
             "rdfs:seeAlso": [
                 "https://docs.oracle.com/cd/E81115_01/html/E81116/licenses.html",
                 "http://primates.ximian.com/~flucifredi/man/man-1.6g.tar.gz",
                 "https://github.com/hamano/man2html/blob/master/man2html.c"
             ],
             "spdx:standardLicenseTemplate": "Permission is granted to distribute, modify and use this program as long as this comment is not removed or changed.\n\n",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:dbcdc8b4-7ef6-41b0-b1b6-670602663c20"
+                },
+                {
+                    "@id": "_:40c08961-60e5-42ee-98b2-804e912c81e3"
+                },
+                {
+                    "@id": "_:25a41289-974e-42ea-b713-d1db0a4067c8"
+                }
+            ],
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -57,7 +57,7 @@
             "spdx:licenseText": "Permission is granted to distribute, modify and use this program\nas long as this comment is not removed or changed.\n"
         },
         {
-            "@id": "_:ce89a00a-3504-455b-b424-b265224e0482",
+            "@id": "_:40c08961-60e5-42ee-98b2-804e912c81e3",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -67,20 +67,20 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "http://primates.ximian.com/~flucifredi/man/man-1.6g.tar.gz",
-            "spdx:timestamp": "2026-04-23T16:02:25Z",
+            "spdx:url": "https://github.com/hamano/man2html/blob/master/man2html.c",
+            "spdx:timestamp": "2026-04-23T17:03:56Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:282e27de-fca7-44e3-81d6-cc762385e393",
+            "@id": "_:25a41289-974e-42ea-b713-d1db0a4067c8",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -94,7 +94,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://docs.oracle.com/cd/E81115_01/html/E81116/licenses.html",
-            "spdx:timestamp": "2026-04-23T16:02:23Z",
+            "spdx:timestamp": "2026-04-23T17:03:54Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

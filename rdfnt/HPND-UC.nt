@@ -1,11 +1,12 @@
-_:B73e8113fX2D613dX2D4a3fX2D998bX2De4dbf2520d59 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B73e8113fX2D613dX2D4a3fX2D998bX2De4dbf2520d59 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B73e8113fX2D613dX2D4a3fX2D998bX2De4dbf2520d59 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B73e8113fX2D613dX2D4a3fX2D998bX2De4dbf2520d59 <http://spdx.org/rdf/terms#url> "https://core.tcl-lang.org/tk/file?name=compat/unistd.h" .
-_:B73e8113fX2D613dX2D4a3fX2D998bX2De4dbf2520d59 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T16:03:08Z" .
-_:B73e8113fX2D613dX2D4a3fX2D998bX2De4dbf2520d59 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B73e8113fX2D613dX2D4a3fX2D998bX2De4dbf2520d59 <http://spdx.org/rdf/terms#match> "false" .
-_:B73e8113fX2D613dX2D4a3fX2D998bX2De4dbf2520d59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B22d933d9X2Df585X2D4264X2D921aX2D87bb1e2fea05 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B22d933d9X2Df585X2D4264X2D921aX2D87bb1e2fea05 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B22d933d9X2Df585X2D4264X2D921aX2D87bb1e2fea05 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B22d933d9X2Df585X2D4264X2D921aX2D87bb1e2fea05 <http://spdx.org/rdf/terms#url> "https://core.tcl-lang.org/tk/file?name=compat/unistd.h" .
+_:B22d933d9X2Df585X2D4264X2D921aX2D87bb1e2fea05 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:04:41Z" .
+_:B22d933d9X2Df585X2D4264X2D921aX2D87bb1e2fea05 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B22d933d9X2Df585X2D4264X2D921aX2D87bb1e2fea05 <http://spdx.org/rdf/terms#match> "false" .
+_:B22d933d9X2Df585X2D4264X2D921aX2D87bb1e2fea05 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/HPND-UC> <http://spdx.org/rdf/terms#crossRef> _:B22d933d9X2Df585X2D4264X2D921aX2D87bb1e2fea05 .
 <http://spdx.org/licenses/HPND-UC> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/HPND-UC> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Copyright 1989 Regents of the University of California\";match=\".{0,5000}\">>\nPermission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies. <<var;name=\"copyrightHolder\";original=\"THE AUTHORS OR COPYRIGHT HOLDERS\";match=\".+\">> <<var;name=\"make\";original=\"make\";match=\"makes?\">> no representations about the suitability of this software for any purpose. It is provided \"as is\" without express or implied warranty.\n\n" .
 <http://spdx.org/licenses/HPND-UC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
@@ -14,5 +15,4 @@ _:B73e8113fX2D613dX2D4a3fX2D998bX2De4dbf2520d59 <http://www.w3.org/1999/02/22-rd
 <http://spdx.org/licenses/HPND-UC> <http://www.w3.org/2000/01/rdf-schema#comment> "This license is similar to HPND but omits the obligation that the copyright notice and this permission notice appear in supporting documentation." .
 <http://spdx.org/licenses/HPND-UC> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://core.tcl-lang.org/tk/file?name=compat/unistd.h" .
 <http://spdx.org/licenses/HPND-UC> <http://spdx.org/rdf/terms#name> "Historical Permission Notice and Disclaimer - University of California variant" .
-<http://spdx.org/licenses/HPND-UC> <http://spdx.org/rdf/terms#crossRef> _:B73e8113fX2D613dX2D4a3fX2D998bX2De4dbf2520d59 .
 <http://spdx.org/licenses/HPND-UC> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .

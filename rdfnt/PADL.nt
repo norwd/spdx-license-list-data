@@ -1,18 +1,18 @@
-_:B66cdd4a6X2Da107X2D4bd4X2D97c2X2Df4db1a24a67d <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B66cdd4a6X2Da107X2D4bd4X2D97c2X2Df4db1a24a67d <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B66cdd4a6X2Da107X2D4bd4X2D97c2X2Df4db1a24a67d <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B66cdd4a6X2Da107X2D4bd4X2D97c2X2Df4db1a24a67d <http://spdx.org/rdf/terms#url> "https://git.openldap.org/openldap/openldap/-/blob/master/libraries/libldap/os-local.c?ref_type=heads#L19-23" .
-_:B66cdd4a6X2Da107X2D4bd4X2D97c2X2Df4db1a24a67d <http://spdx.org/rdf/terms#timestamp> "2026-04-23T16:00:25Z" .
-_:B66cdd4a6X2Da107X2D4bd4X2D97c2X2Df4db1a24a67d <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B66cdd4a6X2Da107X2D4bd4X2D97c2X2Df4db1a24a67d <http://spdx.org/rdf/terms#match> "N/A" .
-_:B66cdd4a6X2Da107X2D4bd4X2D97c2X2Df4db1a24a67d <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/PADL> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/PADL> <http://spdx.org/rdf/terms#crossRef> _:B66cdd4a6X2Da107X2D4bd4X2D97c2X2Df4db1a24a67d .
 <http://spdx.org/licenses/PADL> <http://spdx.org/rdf/terms#licenseText> "Portions (C) Copyright PADL Software Pty Ltd. 1999\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that this notice is preserved\nand that due credit is given to PADL Software Pty Ltd. This software\nis provided ``as is'' without express or implied warranty.\n" .
 <http://spdx.org/licenses/PADL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/PADL> <http://spdx.org/rdf/terms#name> "PADL License" .
+<http://spdx.org/licenses/PADL> <http://spdx.org/rdf/terms#crossRef> _:B04959ee7X2D397eX2D4303X2Da7d7X2D1689e9dac9fb .
 <http://spdx.org/licenses/PADL> <http://spdx.org/rdf/terms#licenseTextHtml> "\n        <var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n                Portions (C) Copyright PADL Software Pty Ltd. 1999\n        </span></var>\n        <p>\n                Redistribution and use in source and binary forms,\n                with or without modification, are permitted provided\n                that this notice is preserved and that due credit\n                is given to PADL Software Pty Ltd. This software is\n                provided ``as is&apos;&apos; without express or implied warranty.\n        </p>\n\n      " .
 <http://spdx.org/licenses/PADL> <http://www.w3.org/2000/01/rdf-schema#comment> "This is similar to BSD-4.3RENO and Furuseth" .
 <http://spdx.org/licenses/PADL> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://git.openldap.org/openldap/openldap/-/blob/master/libraries/libldap/os-local.c?ref_type=heads#L19-23" .
 <http://spdx.org/licenses/PADL> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<var;name=\"copyright\";original=\"Portions (C) Copyright PADL Software Pty Ltd. 1999\";match=\".{0,5000}\">>\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that this notice is preserved and that due credit is given to PADL Software Pty Ltd. This software is provided ``as is'' without express or implied warranty.\n\n" .
 <http://spdx.org/licenses/PADL> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B04959ee7X2D397eX2D4303X2Da7d7X2D1689e9dac9fb <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B04959ee7X2D397eX2D4303X2Da7d7X2D1689e9dac9fb <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B04959ee7X2D397eX2D4303X2Da7d7X2D1689e9dac9fb <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B04959ee7X2D397eX2D4303X2Da7d7X2D1689e9dac9fb <http://spdx.org/rdf/terms#url> "https://git.openldap.org/openldap/openldap/-/blob/master/libraries/libldap/os-local.c?ref_type=heads#L19-23" .
+_:B04959ee7X2D397eX2D4303X2Da7d7X2D1689e9dac9fb <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:02:12Z" .
+_:B04959ee7X2D397eX2D4303X2Da7d7X2D1689e9dac9fb <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B04959ee7X2D397eX2D4303X2Da7d7X2D1689e9dac9fb <http://spdx.org/rdf/terms#match> "N/A" .
+_:B04959ee7X2D397eX2D4303X2Da7d7X2D1689e9dac9fb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

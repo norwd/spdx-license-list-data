@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:2d60f0ac-4eca-4772-9243-9a3e9ab67f11"
+                "@id": "_:3303e568-90ae-4211-9b4f-9d9e660b9265"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:2d60f0ac-4eca-4772-9243-9a3e9ab67f11",
+            "@id": "_:3303e568-90ae-4211-9b4f-9d9e660b9265",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/pkgconf/pkgconf/blob/master/cli/main.c#L8",
-            "spdx:timestamp": "2026-04-23T16:00:24Z",
+            "spdx:timestamp": "2026-04-23T17:02:11Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

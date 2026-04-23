@@ -2,12 +2,12 @@
     "@graph": [
         {
             "@id": "http://spdx.org/licenses/Apache-1.0",
+            "spdx:crossRef": {
+                "@id": "_:3eb40987-428c-4659-8806-3611dad535fa"
+            },
             "@type": "spdx:ListedLicense",
             "spdx:name": "Apache License 1.0",
             "rdfs:seeAlso": "http://www.apache.org/licenses/LICENSE-1.0",
-            "spdx:crossRef": {
-                "@id": "_:8e375e62-0387-40bc-a41a-ec142d9ebcb4"
-            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -25,7 +25,7 @@
             }
         },
         {
-            "@id": "_:8e375e62-0387-40bc-a41a-ec142d9ebcb4",
+            "@id": "_:3eb40987-428c-4659-8806-3611dad535fa",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -39,7 +39,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.apache.org/licenses/LICENSE-1.0",
-            "spdx:timestamp": "2026-04-23T16:04:21Z",
+            "spdx:timestamp": "2026-04-23T17:05:49Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

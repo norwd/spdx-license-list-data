@@ -1,11 +1,11 @@
-_:B0b561c01X2De7d8X2D4e38X2Dbb59X2Df347be5e6be9 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B0b561c01X2De7d8X2D4e38X2Dbb59X2Df347be5e6be9 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B0b561c01X2De7d8X2D4e38X2Dbb59X2Df347be5e6be9 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B0b561c01X2De7d8X2D4e38X2Dbb59X2Df347be5e6be9 <http://spdx.org/rdf/terms#url> "https://www.gnu.org/licenses/gpl-faq.html#FontException" .
-_:B0b561c01X2De7d8X2D4e38X2Dbb59X2Df347be5e6be9 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T16:04:54Z" .
-_:B0b561c01X2De7d8X2D4e38X2Dbb59X2Df347be5e6be9 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B0b561c01X2De7d8X2D4e38X2Dbb59X2Df347be5e6be9 <http://spdx.org/rdf/terms#match> "N/A" .
-_:B0b561c01X2De7d8X2D4e38X2Dbb59X2Df347be5e6be9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B1a9e1120X2D0c17X2D4695X2D954bX2D380b0062b0f8 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B1a9e1120X2D0c17X2D4695X2D954bX2D380b0062b0f8 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B1a9e1120X2D0c17X2D4695X2D954bX2D380b0062b0f8 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B1a9e1120X2D0c17X2D4695X2D954bX2D380b0062b0f8 <http://spdx.org/rdf/terms#url> "https://www.gnu.org/licenses/gpl-faq.html#FontException" .
+_:B1a9e1120X2D0c17X2D4695X2D954bX2D380b0062b0f8 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:06:24Z" .
+_:B1a9e1120X2D0c17X2D4695X2D954bX2D380b0062b0f8 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B1a9e1120X2D0c17X2D4695X2D954bX2D380b0062b0f8 <http://spdx.org/rdf/terms#match> "N/A" .
+_:B1a9e1120X2D0c17X2D4695X2D954bX2D380b0062b0f8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/GPL-2.0-with-font-exception> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/GPL-2.0-with-font-exception> <http://spdx.org/rdf/terms#deprecatedVersion> "2.0rc2" .
 <http://spdx.org/licenses/GPL-2.0-with-font-exception> <http://spdx.org/rdf/terms#standardLicenseTemplate> "insert GPL v2 license text here\n\nFont Exception\n\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.\n\n" .
@@ -14,6 +14,6 @@ _:B0b561c01X2De7d8X2D4e38X2Dbb59X2Df347be5e6be9 <http://www.w3.org/1999/02/22-rd
 <http://spdx.org/licenses/GPL-2.0-with-font-exception> <http://spdx.org/rdf/terms#licenseText> "insert GPL v2 license text here\n\nFont Exception\n\nAs a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.\n\n" .
 <http://spdx.org/licenses/GPL-2.0-with-font-exception> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/GPL-2.0-with-font-exception> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://www.gnu.org/licenses/gpl-faq.html#FontException" .
-<http://spdx.org/licenses/GPL-2.0-with-font-exception> <http://spdx.org/rdf/terms#crossRef> _:B0b561c01X2De7d8X2D4e38X2Dbb59X2Df347be5e6be9 .
 <http://spdx.org/licenses/GPL-2.0-with-font-exception> <http://spdx.org/rdf/terms#name> "GNU General Public License v2.0 w/Font exception" .
 <http://spdx.org/licenses/GPL-2.0-with-font-exception> <http://www.w3.org/2000/01/rdf-schema#comment> "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: Font-exception-2.0" .
+<http://spdx.org/licenses/GPL-2.0-with-font-exception> <http://spdx.org/rdf/terms#crossRef> _:B1a9e1120X2D0c17X2D4695X2D954bX2D380b0062b0f8 .

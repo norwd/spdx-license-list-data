@@ -18,11 +18,11 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:eb84f721-5f0e-47dd-9502-cc20363e0477"
+                "@id": "_:1ff952ec-11d9-4da5-bdff-8535338553a8"
             }
         },
         {
-            "@id": "_:eb84f721-5f0e-47dd-9502-cc20363e0477",
+            "@id": "_:1ff952ec-11d9-4da5-bdff-8535338553a8",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/zdohnal/hplip/blob/master/COPYING#L939",
-            "spdx:timestamp": "2026-04-23T16:02:21Z",
+            "spdx:timestamp": "2026-04-23T17:03:52Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

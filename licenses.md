@@ -1,5 +1,5 @@
 # License List
-The following licenses have been generated from the license list version 878682e
+The following licenses have been generated from the license list version 5693399
 
 ## Licenses with Short Identifiers
 
@@ -738,6 +738,7 @@ The following licenses have been generated from the license list version 878682e
 | GNOME examples exception                              | [GNOME-examples-exception][]             |
 | GNU Compiler Exception                                | [GNU-compiler-exception][]               |
 | GNU JavaMail exception                                | [gnu-javamail-exception][]               |
+| Google Additional IP Rights Grant (Patents) - WebM    | [Google-Patent-WebM][]                   |
 | GPL-3.0 389 DS Base Exception                         | [GPL-3.0-389-ds-base-exception][]        |
 | GPL-3.0 Interface Exception                           | [GPL-3.0-interface-exception][]          |
 | GPL-3.0 Linking Exception                             | [GPL-3.0-linking-exception][]            |
@@ -1586,6 +1587,7 @@ The following licenses have been generated from the license list version 878682e
 [GNOME-examples-exception]: text/GNOME-examples-exception.txt
 [GNU-compiler-exception]: text/GNU-compiler-exception.txt
 [gnu-javamail-exception]: text/gnu-javamail-exception.txt
+[Google-Patent-WebM]: text/Google-Patent-WebM.txt
 [GPL-3.0-389-ds-base-exception]: text/GPL-3.0-389-ds-base-exception.txt
 [GPL-3.0-interface-exception]: text/GPL-3.0-interface-exception.txt
 [GPL-3.0-linking-exception]: text/GPL-3.0-linking-exception.txt

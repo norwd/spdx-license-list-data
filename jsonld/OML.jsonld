@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:d914b494-3549-4c95-a7c0-811026d3e9b8"
+                "@id": "_:beeef43f-4c52-4218-bf94-9c5cb932e325"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:d914b494-3549-4c95-a7c0-811026d3e9b8",
+            "@id": "_:beeef43f-4c52-4218-bf94-9c5cb932e325",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://fedoraproject.org/wiki/Licensing/Open_Market_License",
-            "spdx:timestamp": "2026-04-23T16:02:23Z",
+            "spdx:timestamp": "2026-04-23T17:03:54Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

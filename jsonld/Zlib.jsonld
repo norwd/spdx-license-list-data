@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:369db297-264d-4c84-96bc-8b08edfc7557",
+            "@id": "_:9d77a295-aa41-4fa7-b134-15324800b0e9",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.zlib.net/zlib_license.html",
-            "spdx:timestamp": "2026-04-23T16:00:29Z",
+            "spdx:timestamp": "2026-04-23T17:02:13Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:8e386ca1-f16e-4d64-bef4-67ee25876b9a",
+            "@id": "_:2cfb6519-a403-4d6c-a2f6-dea4927b5142",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/Zlib",
-            "spdx:timestamp": "2026-04-23T16:00:29Z",
+            "spdx:timestamp": "2026-04-23T17:02:13Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -50,10 +50,10 @@
             "@id": "http://spdx.org/licenses/Zlib",
             "spdx:crossRef": [
                 {
-                    "@id": "_:369db297-264d-4c84-96bc-8b08edfc7557"
+                    "@id": "_:9d77a295-aa41-4fa7-b134-15324800b0e9"
                 },
                 {
-                    "@id": "_:8e386ca1-f16e-4d64-bef4-67ee25876b9a"
+                    "@id": "_:2cfb6519-a403-4d6c-a2f6-dea4927b5142"
                 }
             ],
             "spdx:isFsfLibre": {

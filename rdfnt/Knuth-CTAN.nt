@@ -1,11 +1,12 @@
-_:B44694a76X2Dfc7cX2D4c85X2Da8d2X2D9c1515d499e5 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B44694a76X2Dfc7cX2D4c85X2Da8d2X2D9c1515d499e5 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B44694a76X2Dfc7cX2D4c85X2Da8d2X2D9c1515d499e5 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B44694a76X2Dfc7cX2D4c85X2Da8d2X2D9c1515d499e5 <http://spdx.org/rdf/terms#url> "https://ctan.org/license/knuth" .
-_:B44694a76X2Dfc7cX2D4c85X2Da8d2X2D9c1515d499e5 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T16:01:28Z" .
-_:B44694a76X2Dfc7cX2D4c85X2Da8d2X2D9c1515d499e5 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B44694a76X2Dfc7cX2D4c85X2Da8d2X2D9c1515d499e5 <http://spdx.org/rdf/terms#match> "true" .
-_:B44694a76X2Dfc7cX2D4c85X2Da8d2X2D9c1515d499e5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bb9063c3cX2D1453X2D4122X2D8a57X2Ddf5eb8357975 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bb9063c3cX2D1453X2D4122X2D8a57X2Ddf5eb8357975 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bb9063c3cX2D1453X2D4122X2D8a57X2Ddf5eb8357975 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bb9063c3cX2D1453X2D4122X2D8a57X2Ddf5eb8357975 <http://spdx.org/rdf/terms#url> "https://ctan.org/license/knuth" .
+_:Bb9063c3cX2D1453X2D4122X2D8a57X2Ddf5eb8357975 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:03:09Z" .
+_:Bb9063c3cX2D1453X2D4122X2D8a57X2Ddf5eb8357975 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bb9063c3cX2D1453X2D4122X2D8a57X2Ddf5eb8357975 <http://spdx.org/rdf/terms#match> "true" .
+_:Bb9063c3cX2D1453X2D4122X2D8a57X2Ddf5eb8357975 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            This software is copyrighted. Unlimited copying and redistribution\n            of this package and/or its individual files are permitted\n            as long as there are no modifications. Modifications, and\n            redistribution of modifications, are also permitted, but\n            only if the resulting package and/or files are renamed.\n         </p>\n\n      " .
 <http://spdx.org/licenses/Knuth-CTAN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#standardLicenseTemplate> "This software is copyrighted. Unlimited copying and redistribution of this package and/or its individual files are permitted as long as there are no modifications. Modifications, and redistribution of modifications, are also permitted, but only if the resulting package and/or files are renamed.\n\n" .
 <http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#name> "Knuth CTAN License" .
@@ -14,5 +15,4 @@ _:B44694a76X2Dfc7cX2D4c85X2Da8d2X2D9c1515d499e5 <http://www.w3.org/1999/02/22-rd
 <http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/Knuth-CTAN> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://ctan.org/license/knuth" .
 <http://spdx.org/licenses/Knuth-CTAN> <http://www.w3.org/2000/01/rdf-schema#comment> "This license is very similar to Wsuipa." .
-<http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#crossRef> _:B44694a76X2Dfc7cX2D4c85X2Da8d2X2D9c1515d499e5 .
-<http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <p>\n            This software is copyrighted. Unlimited copying and redistribution\n            of this package and/or its individual files are permitted\n            as long as there are no modifications. Modifications, and\n            redistribution of modifications, are also permitted, but\n            only if the resulting package and/or files are renamed.\n         </p>\n\n      " .
+<http://spdx.org/licenses/Knuth-CTAN> <http://spdx.org/rdf/terms#crossRef> _:Bb9063c3cX2D1453X2D4122X2D8a57X2Ddf5eb8357975 .

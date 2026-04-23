@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:5a27ae71-1144-443e-bd57-317bdf631899"
+                "@id": "_:bfa94cd2-2354-4079-9f2a-da5d9616f9c1"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:5a27ae71-1144-443e-bd57-317bdf631899",
+            "@id": "_:bfa94cd2-2354-4079-9f2a-da5d9616f9c1",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/bleargh45/Data-UUID/blob/master/LICENSE",
-            "spdx:timestamp": "2026-04-23T16:00:33Z",
+            "spdx:timestamp": "2026-04-23T17:02:18Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

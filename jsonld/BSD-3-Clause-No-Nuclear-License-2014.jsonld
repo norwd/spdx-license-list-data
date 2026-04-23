@@ -16,13 +16,13 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:name": "BSD 3-Clause No Nuclear License 2014",
             "spdx:crossRef": {
-                "@id": "_:3c7ac4a8-8f73-41cf-9d4c-844228f7ebe1"
-            }
+                "@id": "_:0a969bd2-038c-48cf-b948-b690efb8f779"
+            },
+            "spdx:name": "BSD 3-Clause No Nuclear License 2014"
         },
         {
-            "@id": "_:3c7ac4a8-8f73-41cf-9d4c-844228f7ebe1",
+            "@id": "_:0a969bd2-038c-48cf-b948-b690efb8f779",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://java.net/projects/javaeetutorial/pages/BerkeleyLicense",
-            "spdx:timestamp": "2026-04-23T16:04:14Z",
+            "spdx:timestamp": "2026-04-23T17:05:49Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

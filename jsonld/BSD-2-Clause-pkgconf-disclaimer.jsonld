@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:d95fd950-f62c-411a-a7c1-3d8784466879",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://github.com/audacious-media-player/audacious/blob/master/COPYING",
-            "spdx:timestamp": "2026-04-23T16:02:21Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:3ab814de-1e68-46c9-8c13-785eba536178",
+            "@id": "_:8c1e144c-e2ce-4206-9e55-80f9f7bbf641",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/audacious-media-player/audacious/blob/master/src/audacious/main.cc",
-            "spdx:timestamp": "2026-04-23T16:02:21Z",
+            "spdx:timestamp": "2026-04-23T17:03:52Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,13 +24,36 @@
             "@type": "spdx:CrossRef"
         },
         {
+            "@id": "_:ca53a682-aad4-4871-aefe-b9935b62709f",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://github.com/audacious-media-player/audacious/blob/master/COPYING",
+            "spdx:timestamp": "2026-04-23T17:03:52Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/BSD-2-Clause-pkgconf-disclaimer",
             "spdx:crossRef": [
                 {
-                    "@id": "_:d95fd950-f62c-411a-a7c1-3d8784466879"
+                    "@id": "_:ca53a682-aad4-4871-aefe-b9935b62709f"
                 },
                 {
-                    "@id": "_:3ab814de-1e68-46c9-8c13-785eba536178"
+                    "@id": "_:8c1e144c-e2ce-4206-9e55-80f9f7bbf641"
                 }
             ],
             "spdx:licenseText": "Copyright © 2001-2025 Audacious developers and others\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain the above copyright notice,\n   this list of conditions, and the following disclaimer.\n\n2. Redistributions in binary form must reproduce the above copyright notice,\n   this list of conditions, and the following disclaimer in the\n   documentation provided with the distribution.\n\nThis software is provided “as is” and without any warranty, express or\nimplied.  In no event shall the authors be liable for any damages arising\nfrom the use of this software.\n",

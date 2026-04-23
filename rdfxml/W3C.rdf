@@ -14,7 +14,7 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://opensource.org/license/W3C</spdx:url>
-        <spdx:timestamp>2026-04-23T16:04:55Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T17:06:24Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>N/A</spdx:match>
@@ -74,7 +74,7 @@ This formulation of W3C's notice and license became active on December 31 2002. 
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html</spdx:url>
-        <spdx:timestamp>2026-04-23T16:04:55Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-23T17:06:24Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>

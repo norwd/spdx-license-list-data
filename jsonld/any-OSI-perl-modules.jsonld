@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:4c0aa744-4abf-46ca-b70f-c77cafb9b1fa",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://metacpan.org/pod/Net::MQTT::Simple#LICENSE",
-            "spdx:timestamp": "2026-04-23T16:00:43Z",
-            "spdx:order": {
-                "@value": "2",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:26a8307a-12e3-4c38-a819-e0feb347a618",
+            "@id": "_:3413e0f3-79b4-473a-b44d-c0eb64affb2d",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://metacpan.org/release/JUERD/Exporter-Tidy-0.09/view/Tidy.pm#LICENSE",
-            "spdx:timestamp": "2026-04-23T16:00:43Z",
+            "spdx:timestamp": "2026-04-23T17:02:26Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -47,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:8be15210-cc85-4967-971f-8d6033e47509",
+            "@id": "_:f242ddc0-af88-4188-95fd-d47a82ba8dad",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -61,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://metacpan.org/pod/Qmail::Deliverable::Client#LICENSE",
-            "spdx:timestamp": "2026-04-23T16:00:43Z",
+            "spdx:timestamp": "2026-04-23T17:02:27Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -70,24 +47,47 @@
             "@type": "spdx:CrossRef"
         },
         {
+            "@id": "_:8041c65d-f440-48db-90e6-3e15fc9d30c3",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://metacpan.org/pod/Net::MQTT::Simple#LICENSE",
+            "spdx:timestamp": "2026-04-23T17:02:26Z",
+            "spdx:order": {
+                "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/any-OSI-perl-modules",
             "spdx:standardLicenseTemplate": "This software may be redistributed under the terms of the GPL, LGPL, modified BSD, or Artistic license, or any of the other OSI approved licenses listed at http://www.opensource.org/licenses/alphabetical. Distribution is allowed under all of these licenses, or any smaller subset of multiple or just one of these licenses.\n\nWhen using a packaged version, please refer to the package metadata to see under which license terms it was distributed. Alternatively, a distributor may choose to replace the LICENSE section of the documentation and/or include a LICENSE file to reflect the license(s) they chose to redistribute under.\n\n",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:f242ddc0-af88-4188-95fd-d47a82ba8dad"
+                },
+                {
+                    "@id": "_:8041c65d-f440-48db-90e6-3e15fc9d30c3"
+                },
+                {
+                    "@id": "_:3413e0f3-79b4-473a-b44d-c0eb64affb2d"
+                }
+            ],
             "@type": "spdx:ListedLicense",
             "rdfs:seeAlso": [
                 "https://metacpan.org/release/JUERD/Exporter-Tidy-0.09/view/Tidy.pm#LICENSE",
                 "https://metacpan.org/pod/Qmail::Deliverable::Client#LICENSE",
                 "https://metacpan.org/pod/Net::MQTT::Simple#LICENSE"
-            ],
-            "spdx:crossRef": [
-                {
-                    "@id": "_:26a8307a-12e3-4c38-a819-e0feb347a618"
-                },
-                {
-                    "@id": "_:4c0aa744-4abf-46ca-b70f-c77cafb9b1fa"
-                },
-                {
-                    "@id": "_:8be15210-cc85-4967-971f-8d6033e47509"
-                }
             ],
             "spdx:isOsiApproved": {
                 "@value": "false",

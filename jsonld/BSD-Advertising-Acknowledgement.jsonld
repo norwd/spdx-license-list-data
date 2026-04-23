@@ -18,11 +18,11 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:908d7fa3-81b7-4ab8-b4ee-0a38d7504b2a"
+                "@id": "_:15269d42-987e-48ea-95b4-c5dec7cd623e"
             }
         },
         {
-            "@id": "_:908d7fa3-81b7-4ab8-b4ee-0a38d7504b2a",
+            "@id": "_:15269d42-987e-48ea-95b4-c5dec7cd623e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/python-excel/xlrd/blob/master/LICENSE#L33",
-            "spdx:timestamp": "2026-04-23T16:00:34Z",
+            "spdx:timestamp": "2026-04-23T17:02:19Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

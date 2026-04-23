@@ -1,7 +1,30 @@
 {
     "@graph": [
         {
-            "@id": "_:a5d945d1-49f0-4a18-aa2c-eeaea4bd9d9d",
+            "@id": "_:0bdaa4f6-c64b-4d9a-8773-d6e13b75fd4b",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/license/LGPL-3.0",
+            "spdx:timestamp": "2026-04-23T17:02:22Z",
+            "spdx:order": {
+                "@value": "2",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:5126e5b1-0c1a-4495-82a8-b83b853ca487",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
-            "spdx:timestamp": "2026-04-23T16:00:42Z",
+            "spdx:timestamp": "2026-04-23T17:02:23Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -32,13 +55,13 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:9d9ab58a-e3a1-4e7b-ae46-70b6f7109794"
+                    "@id": "_:0bdaa4f6-c64b-4d9a-8773-d6e13b75fd4b"
                 },
                 {
-                    "@id": "_:a5d945d1-49f0-4a18-aa2c-eeaea4bd9d9d"
+                    "@id": "_:3bbe5ef9-3c62-48a6-8681-717e4a407c8f"
                 },
                 {
-                    "@id": "_:18f768ee-e784-486c-b79e-23bf42303eee"
+                    "@id": "_:5126e5b1-0c1a-4495-82a8-b83b853ca487"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
@@ -61,7 +84,7 @@
             "rdfs:comment": "This license was released: 29 June 2007. This refers to when only this version of the LGPL is used (as opposed to \"or later\"). The markup includes the GPL-3.0 text as optional text, because the LGPL-3.0 is structured as a supplement to the terms of GPL-3.0."
         },
         {
-            "@id": "_:9d9ab58a-e3a1-4e7b-ae46-70b6f7109794",
+            "@id": "_:3bbe5ef9-3c62-48a6-8681-717e4a407c8f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -75,32 +98,9 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://www.gnu.org/licenses/lgpl+gpl-3.0.txt",
-            "spdx:timestamp": "2026-04-23T16:00:42Z",
+            "spdx:timestamp": "2026-04-23T17:02:23Z",
             "spdx:order": {
                 "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:18f768ee-e784-486c-b79e-23bf42303eee",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/license/LGPL-3.0",
-            "spdx:timestamp": "2026-04-23T16:00:42Z",
-            "spdx:order": {
-                "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "N/A",

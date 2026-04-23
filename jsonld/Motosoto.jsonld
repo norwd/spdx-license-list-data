@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:2a9ed41f-6002-4d9c-804b-a967e2c0e4a1",
+            "@id": "_:a28a1e11-732a-41ff-bda3-59797db2324b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/Motosoto",
-            "spdx:timestamp": "2026-04-23T16:02:26Z",
+            "spdx:timestamp": "2026-04-23T17:03:57Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:2a9ed41f-6002-4d9c-804b-a967e2c0e4a1"
+                "@id": "_:a28a1e11-732a-41ff-bda3-59797db2324b"
             },
             "spdx:isOsiApproved": {
                 "@value": "true",

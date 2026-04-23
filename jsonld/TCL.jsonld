@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:edc3034c-c6ef-4a70-855f-731547d9f1e8",
+            "@id": "_:7c6b6c8d-7ab6-41d0-9616-64f9b0452ebb",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,10 +14,10 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "https://fedoraproject.org/wiki/Licensing/TCL",
-            "spdx:timestamp": "2026-04-23T16:02:19Z",
+            "spdx:url": "http://www.tcl.tk/software/tcltk/license.html",
+            "spdx:timestamp": "2026-04-23T17:03:50Z",
             "spdx:order": {
-                "@value": "1",
+                "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",
@@ -34,10 +34,10 @@
             ],
             "spdx:crossRef": [
                 {
-                    "@id": "_:edc3034c-c6ef-4a70-855f-731547d9f1e8"
+                    "@id": "_:7c6b6c8d-7ab6-41d0-9616-64f9b0452ebb"
                 },
                 {
-                    "@id": "_:b24ad629-ba03-441f-bc80-63524e1bce56"
+                    "@id": "_:ed2e22d6-34c0-4075-8def-e3484b9a655b"
                 }
             ],
             "spdx:name": "TCL/TK License",
@@ -52,7 +52,7 @@
             }
         },
         {
-            "@id": "_:b24ad629-ba03-441f-bc80-63524e1bce56",
+            "@id": "_:ed2e22d6-34c0-4075-8def-e3484b9a655b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -65,10 +65,10 @@
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:url": "http://www.tcl.tk/software/tcltk/license.html",
-            "spdx:timestamp": "2026-04-23T16:02:19Z",
+            "spdx:url": "https://fedoraproject.org/wiki/Licensing/TCL",
+            "spdx:timestamp": "2026-04-23T17:03:50Z",
             "spdx:order": {
-                "@value": "0",
+                "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",

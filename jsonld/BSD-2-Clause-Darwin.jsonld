@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:3d4856e4-c272-49bc-9420-79f9ad299b62",
+            "@id": "_:58d5bb41-7b70-4d1a-b82f-2972ce68ba53",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/file/file/blob/master/COPYING",
-            "spdx:timestamp": "2026-04-23T16:02:20Z",
+            "spdx:timestamp": "2026-04-23T17:03:51Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
             },
             "spdx:name": "BSD 2-Clause - Ian Darwin variant",
             "spdx:crossRef": {
-                "@id": "_:3d4856e4-c272-49bc-9420-79f9ad299b62"
+                "@id": "_:58d5bb41-7b70-4d1a-b82f-2972ce68ba53"
             },
             "rdfs:comment": "This is similar to BSD-2-Clause, except it adds \"immediately at the beginning of the file, without modification\" in the first clause and adds an attempt to disclaim export law in the beginning.",
             "spdx:isDeprecatedLicenseId": {

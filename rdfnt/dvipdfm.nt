@@ -3,15 +3,15 @@
 <http://spdx.org/licenses/dvipdfm> <http://spdx.org/rdf/terms#licenseTextHtml> "\n      <p>A modified version of this file may be distributed, but it should be distributed with a *different* name.\n         Changed files must be distributed *together with a complete and unchanged* distribution of these\n         files.</p>\n\n    " .
 <http://spdx.org/licenses/dvipdfm> <http://spdx.org/rdf/terms#standardLicenseTemplate> "A modified version of this file may be distributed, but it should be distributed with a *different* name. Changed files must be distributed *together with a complete and unchanged* distribution of these files.\n\n" .
 <http://spdx.org/licenses/dvipdfm> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/dvipdfm> <http://spdx.org/rdf/terms#crossRef> _:Be8f423bfX2D14b2X2D4259X2Da55dX2D912eba068700 .
+<http://spdx.org/licenses/dvipdfm> <http://spdx.org/rdf/terms#crossRef> _:Bad40092bX2D3e1cX2D4812X2D9a9aX2D6c3d39743c23 .
 <http://spdx.org/licenses/dvipdfm> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/dvipdfm> <http://spdx.org/rdf/terms#name> "dvipdfm License" .
 <http://spdx.org/licenses/dvipdfm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
-_:Be8f423bfX2D14b2X2D4259X2Da55dX2D912eba068700 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Be8f423bfX2D14b2X2D4259X2Da55dX2D912eba068700 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Be8f423bfX2D14b2X2D4259X2Da55dX2D912eba068700 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Be8f423bfX2D14b2X2D4259X2Da55dX2D912eba068700 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/dvipdfm" .
-_:Be8f423bfX2D14b2X2D4259X2Da55dX2D912eba068700 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T16:04:17Z" .
-_:Be8f423bfX2D14b2X2D4259X2Da55dX2D912eba068700 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Be8f423bfX2D14b2X2D4259X2Da55dX2D912eba068700 <http://spdx.org/rdf/terms#match> "false" .
-_:Be8f423bfX2D14b2X2D4259X2Da55dX2D912eba068700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:Bad40092bX2D3e1cX2D4812X2D9a9aX2D6c3d39743c23 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bad40092bX2D3e1cX2D4812X2D9a9aX2D6c3d39743c23 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bad40092bX2D3e1cX2D4812X2D9a9aX2D6c3d39743c23 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bad40092bX2D3e1cX2D4812X2D9a9aX2D6c3d39743c23 <http://spdx.org/rdf/terms#url> "https://fedoraproject.org/wiki/Licensing/dvipdfm" .
+_:Bad40092bX2D3e1cX2D4812X2D9a9aX2D6c3d39743c23 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:05:21Z" .
+_:Bad40092bX2D3e1cX2D4812X2D9a9aX2D6c3d39743c23 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bad40092bX2D3e1cX2D4812X2D9a9aX2D6c3d39743c23 <http://spdx.org/rdf/terms#match> "false" .
+_:Bad40092bX2D3e1cX2D4812X2D9a9aX2D6c3d39743c23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

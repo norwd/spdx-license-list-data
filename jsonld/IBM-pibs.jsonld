@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:5400b566-e626-41cd-938c-774b30e3f686",
+            "@id": "_:b82c3e55-7ae9-4e00-ba64-fb3d7f25d806",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://git.denx.de/?p=u-boot.git;a=blob;f=arch/powerpc/cpu/ppc4xx/miiphy.c;h=297155fdafa064b955e53e9832de93bfb0cfb85b;hb=9fab4bf4cc077c21e43941866f3f2c196f28670d",
-            "spdx:timestamp": "2026-04-23T16:01:13Z",
+            "spdx:timestamp": "2026-04-23T17:02:55Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:5400b566-e626-41cd-938c-774b30e3f686"
+                "@id": "_:b82c3e55-7ae9-4e00-ba64-fb3d7f25d806"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

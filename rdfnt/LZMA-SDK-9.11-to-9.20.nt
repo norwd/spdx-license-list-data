@@ -1,28 +1,28 @@
-_:Bb8976a86X2Da528X2D45dcX2Db548X2D26e62561b381 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb8976a86X2Da528X2D45dcX2Db548X2D26e62561b381 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb8976a86X2Da528X2D45dcX2Db548X2D26e62561b381 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bb8976a86X2Da528X2D45dcX2Db548X2D26e62561b381 <http://spdx.org/rdf/terms#url> "https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/" .
-_:Bb8976a86X2Da528X2D45dcX2Db548X2D26e62561b381 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T16:02:19Z" .
-_:Bb8976a86X2Da528X2D45dcX2Db548X2D26e62561b381 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bb8976a86X2Da528X2D45dcX2Db548X2D26e62561b381 <http://spdx.org/rdf/terms#match> "N/A" .
-_:Bb8976a86X2Da528X2D45dcX2Db548X2D26e62561b381 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
 <http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://spdx.org/rdf/terms#licenseText> "LICENSE\n-------\n\nLZMA SDK is written and placed in the public domain by Igor Pavlov.\n\nSome code in LZMA is based on public domain code from another developers:\n  1) PPMd var.H (2001): Dmitry Shkarin\n  2) SHA-256: Wei Dai (Crypto++ library)\n" .
 <http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://www.w3.org/2000/01/rdf-schema#comment> "The license text currently displayed on the 7-zip SDK website is not the same as any of the lzma.txt file in the root folders of the .tar.bz SDK distributions (versions 922 and below) that are hosted on SourceForge, nor is it the same as the .7z distributions (versions 935 and above) which shifted the license text to DOC\\lzma-sdk.txt. This license applies to versions between 9.11 and 9.20 (inclusive)." .
 <http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://spdx.org/rdf/terms#licenseTextHtml> "\n         <div class=\"optional-license-text\"> \n         <p>\n          LICENSE\n         </p>\n\n         <p>\n          -------\n         </p>\n\n         </div>\n        <p>\n          LZMA SDK is written and placed in the public domain by Igor Pavlov.\n        </p>\n\n        <p>\n          Some code in LZMA is based on public domain code from another developers:\n            1) PPMd var.H (2001): Dmitry Shkarin\n            2) SHA-256: Wei Dai (Crypto++ library)\n         </p>\n\n      " .
 <http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
 <http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://spdx.org/rdf/terms#crossRef> _:Bb8976a86X2Da528X2D45dcX2Db548X2D26e62561b381 .
 <http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/" .
 <http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://www.7-zip.org/sdk.html" .
-<http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://spdx.org/rdf/terms#crossRef> _:B2b5da192X2D4251X2D427cX2D962eX2D8728b3a27c55 .
+<http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://spdx.org/rdf/terms#crossRef> _:B618163b9X2Df01dX2D4abdX2Dae62X2De96548ef0169 .
 <http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://spdx.org/rdf/terms#name> "LZMA SDK License (versions 9.11 to 9.20)" .
 <http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<beginOptional>>LICENSE\n\n-------\n\n<<endOptional>>\nLZMA SDK is written and placed in the public domain by Igor Pavlov.\n\nSome code in LZMA is based on public domain code from another developers: 1) PPMd var.H (2001): Dmitry Shkarin 2) SHA-256: Wei Dai (Crypto++ library)\n\n" .
-_:B2b5da192X2D4251X2D427cX2D962eX2D8728b3a27c55 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B2b5da192X2D4251X2D427cX2D962eX2D8728b3a27c55 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B2b5da192X2D4251X2D427cX2D962eX2D8728b3a27c55 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:B2b5da192X2D4251X2D427cX2D962eX2D8728b3a27c55 <http://spdx.org/rdf/terms#url> "https://www.7-zip.org/sdk.html" .
-_:B2b5da192X2D4251X2D427cX2D962eX2D8728b3a27c55 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T16:02:19Z" .
-_:B2b5da192X2D4251X2D427cX2D962eX2D8728b3a27c55 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:B2b5da192X2D4251X2D427cX2D962eX2D8728b3a27c55 <http://spdx.org/rdf/terms#match> "false" .
-_:B2b5da192X2D4251X2D427cX2D962eX2D8728b3a27c55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/LZMA-SDK-9.11-to-9.20> <http://spdx.org/rdf/terms#crossRef> _:B2bce2743X2D6b65X2D4c74X2D8550X2D5b45e267b938 .
+_:B618163b9X2Df01dX2D4abdX2Dae62X2De96548ef0169 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B618163b9X2Df01dX2D4abdX2Dae62X2De96548ef0169 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B618163b9X2Df01dX2D4abdX2Dae62X2De96548ef0169 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B618163b9X2Df01dX2D4abdX2Dae62X2De96548ef0169 <http://spdx.org/rdf/terms#url> "https://www.7-zip.org/sdk.html" .
+_:B618163b9X2Df01dX2D4abdX2Dae62X2De96548ef0169 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:03:51Z" .
+_:B618163b9X2Df01dX2D4abdX2Dae62X2De96548ef0169 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B618163b9X2Df01dX2D4abdX2Dae62X2De96548ef0169 <http://spdx.org/rdf/terms#match> "false" .
+_:B618163b9X2Df01dX2D4abdX2Dae62X2De96548ef0169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B2bce2743X2D6b65X2D4c74X2D8550X2D5b45e267b938 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B2bce2743X2D6b65X2D4c74X2D8550X2D5b45e267b938 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B2bce2743X2D6b65X2D4c74X2D8550X2D5b45e267b938 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B2bce2743X2D6b65X2D4c74X2D8550X2D5b45e267b938 <http://spdx.org/rdf/terms#url> "https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/" .
+_:B2bce2743X2D6b65X2D4c74X2D8550X2D5b45e267b938 <http://spdx.org/rdf/terms#timestamp> "2026-04-23T17:03:51Z" .
+_:B2bce2743X2D6b65X2D4c74X2D8550X2D5b45e267b938 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B2bce2743X2D6b65X2D4c74X2D8550X2D5b45e267b938 <http://spdx.org/rdf/terms#match> "N/A" .
+_:B2bce2743X2D6b65X2D4c74X2D8550X2D5b45e267b938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

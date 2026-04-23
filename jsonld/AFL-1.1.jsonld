@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:12c99f79-59a7-4d20-9d8a-0685d5fa41b1",
+            "@id": "_:77c353bd-07cb-46ca-ae04-2302e744dbc6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://wayback.archive.org/web/20021004124254/http://www.opensource.org/licenses/academic.php",
-            "spdx:timestamp": "2026-04-23T16:00:31Z",
+            "spdx:timestamp": "2026-04-23T17:02:15Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -27,10 +27,10 @@
             "@id": "http://spdx.org/licenses/AFL-1.1",
             "spdx:crossRef": [
                 {
-                    "@id": "_:12c99f79-59a7-4d20-9d8a-0685d5fa41b1"
+                    "@id": "_:1660af27-4ced-49d8-bf78-7f77f9c790a3"
                 },
                 {
-                    "@id": "_:f386fa43-0836-41c0-90d6-45e2fc19d4ad"
+                    "@id": "_:77c353bd-07cb-46ca-ae04-2302e744dbc6"
                 }
             ],
             "spdx:standardLicenseHeader": "\"Licensed under the Academic Free License version 1.1.\"\n\n",
@@ -60,7 +60,7 @@
             "spdx:standardLicenseHeaderTemplate": "<<beginOptional>>\"<<endOptional>>Licensed under the Academic Free License version 1.1.<<beginOptional>>\"<<endOptional>>\n\n"
         },
         {
-            "@id": "_:f386fa43-0836-41c0-90d6-45e2fc19d4ad",
+            "@id": "_:1660af27-4ced-49d8-bf78-7f77f9c790a3",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -74,7 +74,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://opensource.linux-mirror.org/licenses/afl-1.1.txt",
-            "spdx:timestamp": "2026-04-23T16:00:31Z",
+            "spdx:timestamp": "2026-04-23T17:02:15Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

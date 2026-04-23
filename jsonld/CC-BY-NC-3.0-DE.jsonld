@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:eb5b16dd-e975-466f-a8da-ecf75281f91f",
+            "@id": "_:46bdc206-6127-4965-a469-aec7c1e7899e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://creativecommons.org/licenses/by-nc/3.0/de/legalcode",
-            "spdx:timestamp": "2026-04-23T16:02:24Z",
+            "spdx:timestamp": "2026-04-23T17:03:54Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:eb5b16dd-e975-466f-a8da-ecf75281f91f"
+                "@id": "_:46bdc206-6127-4965-a469-aec7c1e7899e"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

@@ -1,30 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:313a2db4-438c-4805-8534-86509f94dd6c",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/eupl_v1.2_en.pdf",
-            "spdx:timestamp": "2026-04-23T16:00:28Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:10da1bfd-b5e3-4373-82a1-188a47fb4ba6",
+            "@id": "_:d778ef13-aef9-4943-86a4-488dc98d1092",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,81 +15,12 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt",
-            "spdx:timestamp": "2026-04-23T16:00:27Z",
+            "spdx:timestamp": "2026-04-23T17:02:14Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
             "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:c4bb58dd-11d2-4e3e-b7da-c5188a642d6a",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://opensource.org/license/EUPL-1.2",
-            "spdx:timestamp": "2026-04-23T16:00:26Z",
-            "spdx:order": {
-                "@value": "5",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:eba8d2e6-8215-460a-933a-92f3fb08eafb",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017D0863",
-            "spdx:timestamp": "2026-04-23T16:00:29Z",
-            "spdx:order": {
-                "@value": "4",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:f8f49038-3760-46b3-adfc-fadf7123cca2",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://joinup.ec.europa.eu/page/eupl-text-11-12",
-            "spdx:timestamp": "2026-04-23T16:00:25Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "false",
             "@type": "spdx:CrossRef"
         },
         {
@@ -130,22 +38,22 @@
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": [
                 {
-                    "@id": "_:c4bb58dd-11d2-4e3e-b7da-c5188a642d6a"
+                    "@id": "_:d778ef13-aef9-4943-86a4-488dc98d1092"
                 },
                 {
-                    "@id": "_:313a2db4-438c-4805-8534-86509f94dd6c"
+                    "@id": "_:b6a1c10a-9c17-48cc-b9aa-706439ceec57"
                 },
                 {
-                    "@id": "_:eba8d2e6-8215-460a-933a-92f3fb08eafb"
+                    "@id": "_:b28b3624-8083-4614-a29a-38b4236f5867"
                 },
                 {
-                    "@id": "_:10da1bfd-b5e3-4373-82a1-188a47fb4ba6"
+                    "@id": "_:55817bce-9f16-4cd8-9b1f-d0d210cb4864"
                 },
                 {
-                    "@id": "_:f8f49038-3760-46b3-adfc-fadf7123cca2"
+                    "@id": "_:fc87b4e6-0090-44d8-8560-6fc3803bc434"
                 },
                 {
-                    "@id": "_:2c2c0585-4b79-4b16-b2a9-c6d8e097e7ae"
+                    "@id": "_:b36f2e00-dac2-4d6f-9e87-75a5a6c15c43"
                 }
             ],
             "rdfs:comment": "This license was released: 19 May 2016. This license is available in the 22 official languages of the EU. The English version is included here.",
@@ -165,7 +73,99 @@
             }
         },
         {
-            "@id": "_:2c2c0585-4b79-4b16-b2a9-c6d8e097e7ae",
+            "@id": "_:b6a1c10a-9c17-48cc-b9aa-706439ceec57",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017D0863",
+            "spdx:timestamp": "2026-04-23T17:02:16Z",
+            "spdx:order": {
+                "@value": "4",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:b28b3624-8083-4614-a29a-38b4236f5867",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://joinup.ec.europa.eu/page/eupl-text-11-12",
+            "spdx:timestamp": "2026-04-23T17:02:13Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:55817bce-9f16-4cd8-9b1f-d0d210cb4864",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/eupl_v1.2_en.pdf",
+            "spdx:timestamp": "2026-04-23T17:02:15Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "false",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:fc87b4e6-0090-44d8-8560-6fc3803bc434",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://opensource.org/license/EUPL-1.2",
+            "spdx:timestamp": "2026-04-23T17:02:14Z",
+            "spdx:order": {
+                "@value": "5",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
+            "@id": "_:b36f2e00-dac2-4d6f-9e87-75a5a6c15c43",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -179,7 +179,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://joinup.ec.europa.eu/sites/default/files/inline-files/EUPL%20v1_2%20EN(1).txt",
-            "spdx:timestamp": "2026-04-23T16:00:29Z",
+            "spdx:timestamp": "2026-04-23T17:02:17Z",
             "spdx:order": {
                 "@value": "3",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

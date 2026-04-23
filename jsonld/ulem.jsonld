@@ -16,13 +16,13 @@
             "rdfs:comment": "This license is a very similar to fwlw and magaz, but has slightly different obligations.",
             "spdx:licenseText": "Copyright 1989-2019 by Donald Arseneau (Vancouver, Canada, asnd@triumf.ca)\n\nThis software may be freely transmitted, reproduced, or modified\nfor any purpose provided that this copyright notice is left intact.\n",
             "rdfs:seeAlso": "https://mirrors.ctan.org/macros/latex/contrib/ulem/README",
-            "spdx:name": "ulem License",
             "spdx:crossRef": {
-                "@id": "_:4f469989-f36d-4262-ac19-0bd8ac15a5d9"
-            }
+                "@id": "_:94677915-4030-49ab-b07b-2ba842b5893e"
+            },
+            "spdx:name": "ulem License"
         },
         {
-            "@id": "_:4f469989-f36d-4262-ac19-0bd8ac15a5d9",
+            "@id": "_:94677915-4030-49ab-b07b-2ba842b5893e",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -32,16 +32,16 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:isLive": {
-                "@value": "false",
+                "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://mirrors.ctan.org/macros/latex/contrib/ulem/README",
-            "spdx:timestamp": "2026-04-23T16:00:24Z",
+            "spdx:timestamp": "2026-04-23T17:02:07Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
             },
-            "spdx:match": "N/A",
+            "spdx:match": "true",
             "@type": "spdx:CrossRef"
         }
     ],

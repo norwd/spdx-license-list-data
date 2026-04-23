@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:73e8113f-613d-4a3f-998b-e4dbf2520d59",
+            "@id": "_:22d933d9-f585-4264-921a-87bb1e2fea05",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://core.tcl-lang.org/tk/file?name=compat/unistd.h",
-            "spdx:timestamp": "2026-04-23T16:03:08Z",
+            "spdx:timestamp": "2026-04-23T17:04:41Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,6 +25,9 @@
         },
         {
             "@id": "http://spdx.org/licenses/HPND-UC",
+            "spdx:crossRef": {
+                "@id": "_:22d933d9-f585-4264-921a-87bb1e2fea05"
+            },
             "spdx:isOsiApproved": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,9 +39,6 @@
             "rdfs:comment": "This license is similar to HPND but omits the obligation that the copyright notice and this permission notice appear in supporting documentation.",
             "rdfs:seeAlso": "https://core.tcl-lang.org/tk/file?name=compat/unistd.h",
             "spdx:name": "Historical Permission Notice and Disclaimer - University of California variant",
-            "spdx:crossRef": {
-                "@id": "_:73e8113f-613d-4a3f-998b-e4dbf2520d59"
-            },
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"

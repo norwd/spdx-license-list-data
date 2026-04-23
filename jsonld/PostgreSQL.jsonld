@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:c7613d7a-e038-4d5c-ace8-8b2e187d6fc8",
+            "@id": "_:4f4bfd0e-cbea-493c-8775-aa846b992e8f",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.postgresql.org/about/licence",
-            "spdx:timestamp": "2026-04-23T16:01:42Z",
+            "spdx:timestamp": "2026-04-23T17:03:10Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,7 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:11342427-9c8d-49e6-9f2e-58d1367c4d32",
+            "@id": "_:32722f60-1048-422e-8af4-301a3931e52b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -38,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/PostgreSQL",
-            "spdx:timestamp": "2026-04-23T16:01:42Z",
+            "spdx:timestamp": "2026-04-23T17:03:10Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -51,10 +51,10 @@
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": [
                 {
-                    "@id": "_:c7613d7a-e038-4d5c-ace8-8b2e187d6fc8"
+                    "@id": "_:4f4bfd0e-cbea-493c-8775-aa846b992e8f"
                 },
                 {
-                    "@id": "_:11342427-9c8d-49e6-9f2e-58d1367c4d32"
+                    "@id": "_:32722f60-1048-422e-8af4-301a3931e52b"
                 }
             ],
             "spdx:isDeprecatedLicenseId": {
