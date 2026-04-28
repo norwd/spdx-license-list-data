@@ -5,6 +5,7 @@
     xmlns:ptr="http://www.w3.org/2009/pointers#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/EPL-2.0">
+    <rdfs:seeAlso>https://www.eclipse.org/legal/epl-v20.html</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -14,13 +15,12 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://projects.eclipse.org/license/epl-2.0</spdx:url>
-        <spdx:timestamp>2026-04-23T18:26:53Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-28T22:38:02Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >3</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <rdfs:seeAlso>https://www.eclipse.org/legal/epl-v20.html</rdfs:seeAlso>
     <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isFsfLibre>
     <rdfs:comment>Secondary Licenses declared via Exhibit A should be represented using the disjunctive OR operator (See: SPDX spec, section on SPDX License Expressions and https://www.eclipse.org/legal/epl-2.0/faq.php for more info).
@@ -116,7 +116,7 @@ You may add additional accurate notices of copyright ownership.
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://www.opensource.org/license/EPL-2.0</spdx:url>
-        <spdx:timestamp>2026-04-23T18:26:51Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-28T22:38:01Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>true</spdx:match>
@@ -133,11 +133,11 @@ You may add additional accurate notices of copyright ownership.
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://www.eclipse.org/legal/epl-v20.html</spdx:url>
-        <spdx:timestamp>2026-04-23T18:26:53Z</spdx:timestamp>
+        <spdx:url>https://www.eclipse.org/legal/epl-2.0</spdx:url>
+        <spdx:timestamp>2026-04-28T22:38:01Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >2</spdx:order>
-        <spdx:match>true</spdx:match>
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:crossRef>
@@ -148,11 +148,11 @@ You may add additional accurate notices of copyright ownership.
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://www.eclipse.org/legal/epl-2.0</spdx:url>
-        <spdx:timestamp>2026-04-23T18:26:51Z</spdx:timestamp>
+        <spdx:url>https://www.eclipse.org/legal/epl-v20.html</spdx:url>
+        <spdx:timestamp>2026-04-28T22:38:02Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
+        >2</spdx:order>
+        <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <rdfs:seeAlso>https://projects.eclipse.org/license/epl-2.0</rdfs:seeAlso>

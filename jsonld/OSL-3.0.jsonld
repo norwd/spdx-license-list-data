@@ -3,18 +3,18 @@
         {
             "@id": "http://spdx.org/licenses/OSL-3.0",
             "spdx:standardLicenseHeaderTemplate": "Licensed under the Open Software License version 3.0\n\n",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:edd1c6ea-7922-4a58-90af-b52a11c78009"
+                },
+                {
+                    "@id": "_:2f4aea46-5ee0-4991-b45a-514de0cc3dc3"
+                }
+            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:be173133-5401-4fca-880e-5edbc1c172b4"
-                },
-                {
-                    "@id": "_:a61e8326-bc04-4111-a5e6-53250b6a6c5c"
-                }
-            ],
             "spdx:isOsiApproved": {
                 "@value": "true",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
             "spdx:name": "Open Software License 3.0"
         },
         {
-            "@id": "_:be173133-5401-4fca-880e-5edbc1c172b4",
+            "@id": "_:edd1c6ea-7922-4a58-90af-b52a11c78009",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -50,7 +50,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://opensource.org/license/OSL-3.0",
-            "spdx:timestamp": "2026-04-23T18:26:43Z",
+            "spdx:timestamp": "2026-04-28T22:37:53Z",
             "spdx:order": {
                 "@value": "1",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -59,7 +59,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:a61e8326-bc04-4111-a5e6-53250b6a6c5c",
+            "@id": "_:2f4aea46-5ee0-4991-b45a-514de0cc3dc3",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -73,7 +73,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://web.archive.org/web/20120101081418/http://rosenlaw.com:80/OSL3.0.htm",
-            "spdx:timestamp": "2026-04-23T18:26:43Z",
+            "spdx:timestamp": "2026-04-28T22:37:53Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

@@ -6,6 +6,7 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/LPPL-1.3c">
     <spdx:name>LaTeX Project Public License v1.3c</spdx:name>
+    <rdfs:seeAlso>http://www.latex-project.org/lppl/LPPL-1.3c.txt</rdfs:seeAlso>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -13,15 +14,14 @@
         <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>http://www.latex-project.org/lppl/LPPL-1.3c.txt</spdx:url>
-        <spdx:timestamp>2026-04-23T18:29:55Z</spdx:timestamp>
+        >false</spdx:isLive>
+        <spdx:url>https://opensource.org/license/LPPL-1.3c</spdx:url>
+        <spdx:timestamp>2026-04-28T22:40:50Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >0</spdx:order>
-        <spdx:match>false</spdx:match>
+        >1</spdx:order>
+        <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <rdfs:seeAlso>http://www.latex-project.org/lppl/LPPL-1.3c.txt</rdfs:seeAlso>
     <spdx:standardLicenseHeaderTemplate>&lt;&lt;beginOptional&gt;&gt;%%&lt;&lt;endOptional&gt;&gt; &lt;&lt;var;name="filename";original="pig.dtx";match=".+"&gt;&gt;
 &lt;&lt;beginOptional&gt;&gt;%%&lt;&lt;endOptional&gt;&gt; Copyright &lt;&lt;var;name="copyright";original="2005 M. Y. Name";match=".+"&gt;&gt;
 &lt;&lt;beginOptional&gt;&gt;%&lt;&lt;endOptional&gt;&gt;
@@ -569,12 +569,12 @@
         <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://opensource.org/license/LPPL-1.3c</spdx:url>
-        <spdx:timestamp>2026-04-23T18:29:54Z</spdx:timestamp>
+        >true</spdx:isLive>
+        <spdx:url>http://www.latex-project.org/lppl/LPPL-1.3c.txt</spdx:url>
+        <spdx:timestamp>2026-04-28T22:40:50Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>N/A</spdx:match>
+        >0</spdx:order>
+        <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <spdx:licenseText>The LaTeX Project Public License

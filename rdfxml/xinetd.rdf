@@ -101,8 +101,6 @@ So, if you want, you may use any 2.N.* (N &gt;= 3) version string for future xin
     <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >true</spdx:isFsfLibre>
     <spdx:name>xinetd License</spdx:name>
-    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >false</spdx:isOsiApproved>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -112,12 +110,14 @@ So, if you want, you may use any 2.N.* (N &gt;= 3) version string for future xin
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://fedoraproject.org/wiki/Licensing/Xinetd_License</spdx:url>
-        <spdx:timestamp>2026-04-23T18:29:20Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-28T22:40:14Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
     <spdx:licenseText>ORIGINAL LICENSE: This software is
 
 (c) Copyright 1992 by Panagiotis Tsirigotis

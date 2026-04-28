@@ -1,6 +1,29 @@
 {
     "@graph": [
         {
+            "@id": "_:79cee222-2dca-4ea2-a5ef-14b0a92b9f40",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "http://www.codeproject.com/info/cpol10.aspx",
+            "spdx:timestamp": "2026-04-28T22:41:03Z",
+            "spdx:order": {
+                "@value": "0",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "N/A",
+            "@type": "spdx:CrossRef"
+        },
+        {
             "@id": "http://spdx.org/licenses/CPOL-1.02",
             "spdx:isFsfLibre": {
                 "@value": "false",
@@ -18,34 +41,11 @@
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": {
-                "@id": "_:c1bb4080-06c1-4092-9e68-fc36d37fe30b"
-            },
             "spdx:name": "Code Project Open License 1.02",
-            "@type": "spdx:ListedLicense"
-        },
-        {
-            "@id": "_:c1bb4080-06c1-4092-9e68-fc36d37fe30b",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "http://www.codeproject.com/info/cpol10.aspx",
-            "spdx:timestamp": "2026-04-23T18:30:23Z",
-            "spdx:order": {
-                "@value": "0",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "N/A",
-            "@type": "spdx:CrossRef"
+            "@type": "spdx:ListedLicense",
+            "spdx:crossRef": {
+                "@id": "_:79cee222-2dca-4ea2-a5ef-14b0a92b9f40"
+            }
         }
     ],
     "@context": {

@@ -7,12 +7,12 @@
 <http://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014> <http://www.w3.org/2000/01/rdf-schema#comment> "This license has a Oracle copyright notice. It is the same license as BSD-3-Clause-No-Nuclear-License, except it has a different entire disclaimer clause that is the same as BSD-3-Clause." .
 <http://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <http://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014> <http://spdx.org/rdf/terms#name> "BSD 3-Clause No Nuclear License 2014" .
-<http://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014> <http://spdx.org/rdf/terms#crossRef> _:Bd49853d9X2Da3b8X2D43e8X2D99ebX2Da814955ecfad .
-_:Bd49853d9X2Da3b8X2D43e8X2D99ebX2Da814955ecfad <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd49853d9X2Da3b8X2D43e8X2D99ebX2Da814955ecfad <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd49853d9X2Da3b8X2D43e8X2D99ebX2Da814955ecfad <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-_:Bd49853d9X2Da3b8X2D43e8X2D99ebX2Da814955ecfad <http://spdx.org/rdf/terms#url> "https://java.net/projects/javaeetutorial/pages/BerkeleyLicense" .
-_:Bd49853d9X2Da3b8X2D43e8X2D99ebX2Da814955ecfad <http://spdx.org/rdf/terms#timestamp> "2026-04-23T18:30:23Z" .
-_:Bd49853d9X2Da3b8X2D43e8X2D99ebX2Da814955ecfad <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
-_:Bd49853d9X2Da3b8X2D43e8X2D99ebX2Da814955ecfad <http://spdx.org/rdf/terms#match> "N/A" .
-_:Bd49853d9X2Da3b8X2D43e8X2D99ebX2Da814955ecfad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014> <http://spdx.org/rdf/terms#crossRef> _:Bf379d4e1X2Df13bX2D4a83X2D9934X2D2a6b157aca25 .
+_:Bf379d4e1X2Df13bX2D4a83X2D9934X2D2a6b157aca25 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bf379d4e1X2Df13bX2D4a83X2D9934X2D2a6b157aca25 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bf379d4e1X2Df13bX2D4a83X2D9934X2D2a6b157aca25 <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:Bf379d4e1X2Df13bX2D4a83X2D9934X2D2a6b157aca25 <http://spdx.org/rdf/terms#url> "https://java.net/projects/javaeetutorial/pages/BerkeleyLicense" .
+_:Bf379d4e1X2Df13bX2D4a83X2D9934X2D2a6b157aca25 <http://spdx.org/rdf/terms#timestamp> "2026-04-28T22:41:19Z" .
+_:Bf379d4e1X2Df13bX2D4a83X2D9934X2D2a6b157aca25 <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:Bf379d4e1X2Df13bX2D4a83X2D9934X2D2a6b157aca25 <http://spdx.org/rdf/terms#match> "N/A" .
+_:Bf379d4e1X2Df13bX2D4a83X2D9934X2D2a6b157aca25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:af0891fa-adaf-476e-bda1-52b84ffa9574"
+                "@id": "_:1e5a5e16-3a30-4c1f-81c1-0baa2177ccd8"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:af0891fa-adaf-476e-bda1-52b84ffa9574",
+            "@id": "_:1e5a5e16-3a30-4c1f-81c1-0baa2177ccd8",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://paritylicense.com/versions/6.0.0.html",
-            "spdx:timestamp": "2026-04-23T18:26:46Z",
+            "spdx:timestamp": "2026-04-28T22:37:56Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

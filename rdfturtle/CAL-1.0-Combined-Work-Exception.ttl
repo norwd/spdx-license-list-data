@@ -12,18 +12,18 @@ PREFIX spdx: <http://spdx.org/rdf/terms#>
                                         spdx:isValid        true;
                                         spdx:isWayBackLink  false;
                                         spdx:match          "N/A";
-                                        spdx:order          "1"^^<http://www.w3.org/2001/XMLSchema#int>;
-                                        spdx:timestamp      "2026-04-23T18:26:54Z";
-                                        spdx:url            "https://opensource.org/license/CAL-1.0"
+                                        spdx:order          "0"^^<http://www.w3.org/2001/XMLSchema#int>;
+                                        spdx:timestamp      "2026-04-28T22:38:34Z";
+                                        spdx:url            "http://cryptographicautonomylicense.com/license-text.html"
                                       ];
         spdx:crossRef                 [ a                   spdx:CrossRef;
-                                        spdx:isLive         true;
+                                        spdx:isLive         false;
                                         spdx:isValid        true;
                                         spdx:isWayBackLink  false;
-                                        spdx:match          "false";
-                                        spdx:order          "0"^^<http://www.w3.org/2001/XMLSchema#int>;
-                                        spdx:timestamp      "2026-04-23T18:26:54Z";
-                                        spdx:url            "http://cryptographicautonomylicense.com/license-text.html"
+                                        spdx:match          "N/A";
+                                        spdx:order          "1"^^<http://www.w3.org/2001/XMLSchema#int>;
+                                        spdx:timestamp      "2026-04-28T22:38:04Z";
+                                        spdx:url            "https://opensource.org/license/CAL-1.0"
                                       ];
         spdx:isDeprecatedLicenseId    false;
         spdx:isOsiApproved            true;

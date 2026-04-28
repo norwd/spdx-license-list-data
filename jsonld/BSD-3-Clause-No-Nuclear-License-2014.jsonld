@@ -18,11 +18,11 @@
             },
             "spdx:name": "BSD 3-Clause No Nuclear License 2014",
             "spdx:crossRef": {
-                "@id": "_:d49853d9-a3b8-43e8-99eb-a814955ecfad"
+                "@id": "_:f379d4e1-f13b-4a83-9934-2a6b157aca25"
             }
         },
         {
-            "@id": "_:d49853d9-a3b8-43e8-99eb-a814955ecfad",
+            "@id": "_:f379d4e1-f13b-4a83-9934-2a6b157aca25",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -36,7 +36,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://java.net/projects/javaeetutorial/pages/BerkeleyLicense",
-            "spdx:timestamp": "2026-04-23T18:30:23Z",
+            "spdx:timestamp": "2026-04-28T22:41:19Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

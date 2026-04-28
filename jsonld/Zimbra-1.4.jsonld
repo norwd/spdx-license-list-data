@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:d3ad0a69-1d9f-4e5f-8d88-d9b1aa856eb6"
+                "@id": "_:78de1305-6192-4033-994f-9c3c4a07ffe5"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:d3ad0a69-1d9f-4e5f-8d88-d9b1aa856eb6",
+            "@id": "_:78de1305-6192-4033-994f-9c3c4a07ffe5",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.zimbra.com/legal/zimbra-public-license-1-4",
-            "spdx:timestamp": "2026-04-23T18:27:35Z",
+            "spdx:timestamp": "2026-04-28T22:38:47Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

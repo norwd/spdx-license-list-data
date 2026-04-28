@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:51d9b189-82ec-4be7-b371-04ed7520ca56"
+                "@id": "_:6d7fe03c-89ec-4fac-843a-b72aac741bdd"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:51d9b189-82ec-4be7-b371-04ed7520ca56",
+            "@id": "_:6d7fe03c-89ec-4fac-843a-b72aac741bdd",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://ftp.gnu.org/gnu/aspell/dict/ru/aspell6-ru-0.99f7-1.tar.bz2",
-            "spdx:timestamp": "2026-04-23T18:28:05Z",
+            "spdx:timestamp": "2026-04-28T22:39:21Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

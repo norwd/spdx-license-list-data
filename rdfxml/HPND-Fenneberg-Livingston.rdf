@@ -6,21 +6,6 @@
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <spdx:ListedLicense rdf:about="http://spdx.org/licenses/HPND-Fenneberg-Livingston">
     <rdfs:comment>This is similar to HPND but adds an obligation relating notice in supporting documentation.</rdfs:comment>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://github.com/radcli/radcli/blob/master/COPYRIGHT#L34</spdx:url>
-        <spdx:timestamp>2026-04-23T18:27:30Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
-        <spdx:match>false</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isOsiApproved>
     <spdx:standardLicenseTemplate>&lt;&lt;var;name="copyright";original="Copyright &lt;year&gt; &lt;copyright holder&gt;  ";match=".{0,5000}"&gt;&gt;
@@ -56,8 +41,23 @@ Permission to use, copy, modify, and distribute this software for any purpose an
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
+        <spdx:url>https://github.com/radcli/radcli/blob/master/COPYRIGHT#L34</spdx:url>
+        <spdx:timestamp>2026-04-28T22:38:43Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
         <spdx:url>https://github.com/FreeRADIUS/freeradius-client/blob/master/COPYRIGHT#L32</spdx:url>
-        <spdx:timestamp>2026-04-23T18:27:30Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-28T22:38:43Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>false</spdx:match>

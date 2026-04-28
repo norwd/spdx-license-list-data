@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:e1bf21b6-118b-4a1b-a1b6-d9dd1a8f6a66",
+            "@id": "_:ca9360e2-a8f2-4c7b-9572-17bae7029463",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/python-ldap/python-ldap/blob/main/LICENCE",
-            "spdx:timestamp": "2026-04-23T18:26:56Z",
+            "spdx:timestamp": "2026-04-28T22:38:07Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:e1bf21b6-118b-4a1b-a1b6-d9dd1a8f6a66"
+                "@id": "_:ca9360e2-a8f2-4c7b-9572-17bae7029463"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

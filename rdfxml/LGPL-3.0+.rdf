@@ -14,28 +14,13 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://www.gnu.org/licenses/lgpl+gpl-3.0.txt</spdx:url>
-        <spdx:timestamp>2026-04-23T18:27:35Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-28T22:38:51Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
     <rdfs:comment>The identifier "LGPL-3.0+" has been deprecated; LGPL-3.0-or-later is the preferred identifier to indicate version 3.0 or any later version of the LGPL.</rdfs:comment>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isLive>
-        <spdx:url>https://opensource.org/license/LGPL-3.0</spdx:url>
-        <spdx:timestamp>2026-04-23T18:27:35Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >2</spdx:order>
-        <spdx:match>N/A</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <rdfs:seeAlso>https://www.gnu.org/licenses/lgpl+gpl-3.0.txt</rdfs:seeAlso>
     <spdx:deprecatedVersion>2.0rc2</spdx:deprecatedVersion>
     <spdx:name>GNU Lesser General Public License v3.0 or later</spdx:name>
@@ -1771,8 +1756,23 @@ Version 3, 29 June 2007
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
+        <spdx:url>https://opensource.org/license/LGPL-3.0</spdx:url>
+        <spdx:timestamp>2026-04-28T22:38:51Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >2</spdx:order>
+        <spdx:match>N/A</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
         <spdx:url>https://www.gnu.org/licenses/lgpl-3.0-standalone.html</spdx:url>
-        <spdx:timestamp>2026-04-23T18:27:35Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-28T22:38:51Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>

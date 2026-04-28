@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:ba15ed08-c51e-46df-bb06-17fb31d993ad",
+            "@id": "_:fb350094-7b83-4c1a-a8b3-ed9ea3582829",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "http://www.zimbra.com/license/yahoo_public_license_1.0.html",
-            "spdx:timestamp": "2026-04-23T18:26:49Z",
+            "spdx:timestamp": "2026-04-28T22:37:59Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:ba15ed08-c51e-46df-bb06-17fb31d993ad"
+                "@id": "_:fb350094-7b83-4c1a-a8b3-ed9ea3582829"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

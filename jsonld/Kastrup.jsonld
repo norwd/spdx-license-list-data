@@ -11,7 +11,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:85da47d9-3ae0-45ec-859e-1d11ef7a7054"
+                "@id": "_:f57930df-8709-4132-9a1c-d7c59499f75a"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",
@@ -21,7 +21,7 @@
             "@type": "spdx:ListedLicense"
         },
         {
-            "@id": "_:85da47d9-3ae0-45ec-859e-1d11ef7a7054",
+            "@id": "_:f57930df-8709-4132-9a1c-d7c59499f75a",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -35,7 +35,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://ctan.math.utah.edu/ctan/tex-archive/macros/generic/kastrup/binhex.dtx",
-            "spdx:timestamp": "2026-04-23T18:30:54Z",
+            "spdx:timestamp": "2026-04-28T22:41:04Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"

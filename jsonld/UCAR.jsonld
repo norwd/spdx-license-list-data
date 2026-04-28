@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:dcb6dbb7-3c56-4b48-93d7-ed0de50661cc",
+            "@id": "_:485439d0-8b14-46e5-a82b-dce9f53b2f5b",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/Unidata/UDUNITS-2/blob/master/COPYRIGHT",
-            "spdx:timestamp": "2026-04-23T18:29:52Z",
+            "spdx:timestamp": "2026-04-28T22:40:46Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -34,7 +34,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:crossRef": {
-                "@id": "_:dcb6dbb7-3c56-4b48-93d7-ed0de50661cc"
+                "@id": "_:485439d0-8b14-46e5-a82b-dce9f53b2f5b"
             },
             "spdx:isOsiApproved": {
                 "@value": "false",

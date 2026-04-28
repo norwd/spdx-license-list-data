@@ -16,7 +16,7 @@
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://www.gnu.org/licenses/agpl.txt</spdx:url>
-        <spdx:timestamp>2026-04-23T18:31:00Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-28T22:42:40Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>
@@ -41,7 +41,7 @@ You should have received a copy of the GNU Affero General Public License along w
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >false</spdx:isLive>
         <spdx:url>https://opensource.org/license/AGPL-3.0</spdx:url>
-        <spdx:timestamp>2026-04-23T18:31:00Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-28T22:42:40Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>N/A</spdx:match>

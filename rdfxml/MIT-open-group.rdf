@@ -49,7 +49,7 @@ from The Open Group.
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://gitlab.freedesktop.org/xorg/app/iceauth/-/blob/master/COPYING</spdx:url>
-        <spdx:timestamp>2026-04-23T18:28:52Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-28T22:39:45Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>false</spdx:match>
@@ -63,8 +63,23 @@ from The Open Group.
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
+        <spdx:url>https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING</spdx:url>
+        <spdx:timestamp>2026-04-28T22:39:44Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >2</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
         <spdx:url>https://gitlab.freedesktop.org/xorg/app/xsetroot/-/blob/master/COPYING</spdx:url>
-        <spdx:timestamp>2026-04-23T18:28:52Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-28T22:39:45Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >1</spdx:order>
         <spdx:match>false</spdx:match>
@@ -77,21 +92,6 @@ from The Open Group.
     >false</spdx:isOsiApproved>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
-        <spdx:url>https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING</spdx:url>
-        <spdx:timestamp>2026-04-23T18:28:51Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >2</spdx:order>
-        <spdx:match>false</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
     <spdx:licenseTextHtml>
             &lt;div class="replaceable-license-text"&gt;&lt;span title="can be replaced with the pattern .{0,5000}"&gt; 
                 &lt;p&gt;Copyright &amp;lt;yyyy, yyyy&amp;gt; The Open Group&lt;/p&gt;

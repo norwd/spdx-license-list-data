@@ -65,6 +65,21 @@ http://www.apache.org/licenses/LICENSE-2.0
 Unless required by applicable law or agreed to in writing, software distributed under the Apache License with the above modification is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the Apache License for the specific language governing permissions and limitations under the Apache License.
 
 </spdx:standardLicenseHeader>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+        <spdx:url>https://graphics.pixar.com/opensubdiv/docs/license.html</spdx:url>
+        <spdx:timestamp>2026-04-28T22:40:16Z</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:match>false</spdx:match>
+      </spdx:CrossRef>
+    </spdx:crossRef>
     <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
     >false</spdx:isDeprecatedLicenseId>
     <spdx:standardLicenseTemplate>Modified Apache 2.0 License
@@ -309,6 +324,9 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
       of your accepting any such warranty or additional liability.
 
 </spdx:licenseText>
+    <rdfs:comment>This license is essentially Apache-2.0 with modifications to section 6.
+
+</rdfs:comment>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -317,16 +335,13 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://graphics.pixar.com/opensubdiv/docs/license.html</spdx:url>
-        <spdx:timestamp>2026-04-23T18:29:23Z</spdx:timestamp>
+        <spdx:url>https://github.com/PixarAnimationStudios/OpenSubdiv/blob/v3_5_0/opensubdiv/version.cpp#L2-L22</spdx:url>
+        <spdx:timestamp>2026-04-28T22:40:17Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >1</spdx:order>
+        >2</spdx:order>
         <spdx:match>false</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
-    <rdfs:comment>This license is essentially Apache-2.0 with modifications to section 6.
-
-</rdfs:comment>
     <rdfs:seeAlso>https://github.com/PixarAnimationStudios/OpenSubdiv/blob/v3_5_0/opensubdiv/version.cpp#L2-L22</rdfs:seeAlso>
     <rdfs:seeAlso>https://graphics.pixar.com/opensubdiv/docs/license.html</rdfs:seeAlso>
     <spdx:crossRef>
@@ -337,29 +352,14 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
         >true</spdx:isValid>
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
-        <spdx:url>https://github.com/PixarAnimationStudios/OpenSubdiv/blob/v3_5_0/opensubdiv/version.cpp#L2-L22</spdx:url>
-        <spdx:timestamp>2026-04-23T18:29:24Z</spdx:timestamp>
-        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >2</spdx:order>
-        <spdx:match>false</spdx:match>
-      </spdx:CrossRef>
-    </spdx:crossRef>
-    <rdfs:seeAlso>https://github.com/PixarAnimationStudios/OpenSubdiv/raw/v3_5_0/LICENSE.txt</rdfs:seeAlso>
-    <spdx:crossRef>
-      <spdx:CrossRef>
-        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >false</spdx:isWayBackLink>
-        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isValid>
-        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-        >true</spdx:isLive>
         <spdx:url>https://github.com/PixarAnimationStudios/OpenSubdiv/raw/v3_5_0/LICENSE.txt</spdx:url>
-        <spdx:timestamp>2026-04-23T18:29:23Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-28T22:40:17Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>true</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <rdfs:seeAlso>https://github.com/PixarAnimationStudios/OpenSubdiv/raw/v3_5_0/LICENSE.txt</rdfs:seeAlso>
     <spdx:licenseTextHtml>
          &lt;p&gt;
             Modified Apache 2.0 License

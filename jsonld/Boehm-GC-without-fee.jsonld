@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:a3e92b68-f1de-4e34-a228-0d9a6c5bb6f2",
+            "@id": "_:f9acd987-f065-4322-96b3-ac369e1ddd07",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/MariaDB/server/blob/11.6/libmysqld/lib_sql.cc",
-            "spdx:timestamp": "2026-04-23T18:27:28Z",
+            "spdx:timestamp": "2026-04-28T22:38:42Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -25,10 +25,10 @@
         },
         {
             "@id": "http://spdx.org/licenses/Boehm-GC-without-fee",
-            "spdx:crossRef": {
-                "@id": "_:a3e92b68-f1de-4e34-a228-0d9a6c5bb6f2"
-            },
             "@type": "spdx:ListedLicense",
+            "spdx:crossRef": {
+                "@id": "_:f9acd987-f065-4322-96b3-ac369e1ddd07"
+            },
             "spdx:licenseText": "Copyright (c)  2000\nSWsoft  company\n\nModifications copyright (c) 2001, 2013. Oracle and/or its affiliates.\nAll rights reserved.\n\nThis material is provided \"as is\", with absolutely no warranty expressed\nor implied. Any use is at your own risk.\n\nPermission to use or copy this software for any purpose is hereby granted\nwithout fee, provided the above notices are retained on all copies.\nPermission to modify the code and to distribute modified code is granted,\nprovided the above notices are retained, and a notice that the code was\nmodified is included with the above copyright notice.\n",
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",

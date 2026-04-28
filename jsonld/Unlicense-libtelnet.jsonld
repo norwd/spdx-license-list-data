@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:4760813e-fc68-4bd8-9f9c-0a47ec0d4551",
+            "@id": "_:93ef0112-2735-44fa-9363-c1f97284f1e6",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/seanmiddleditch/libtelnet/blob/develop/COPYING",
-            "spdx:timestamp": "2026-04-23T18:27:52Z",
+            "spdx:timestamp": "2026-04-28T22:38:58Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -41,7 +41,7 @@
             },
             "@type": "spdx:ListedLicense",
             "spdx:crossRef": {
-                "@id": "_:4760813e-fc68-4bd8-9f9c-0a47ec0d4551"
+                "@id": "_:93ef0112-2735-44fa-9363-c1f97284f1e6"
             }
         }
     ],

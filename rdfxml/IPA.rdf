@@ -437,9 +437,6 @@ Article 5 (Governing Law)
       
 &lt;/ul&gt;
     </spdx:licenseTextHtml>
-    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
-    >true</spdx:isOsiApproved>
-    <spdx:name>IPA Font License</spdx:name>
     <spdx:crossRef>
       <spdx:CrossRef>
         <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
@@ -449,11 +446,14 @@ Article 5 (Governing Law)
         <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
         >true</spdx:isLive>
         <spdx:url>https://opensource.org/license/IPA</spdx:url>
-        <spdx:timestamp>2026-04-23T18:30:23Z</spdx:timestamp>
+        <spdx:timestamp>2026-04-28T22:41:03Z</spdx:timestamp>
         <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >0</spdx:order>
         <spdx:match>N/A</spdx:match>
       </spdx:CrossRef>
     </spdx:crossRef>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isOsiApproved>
+    <spdx:name>IPA Font License</spdx:name>
   </spdx:ListedLicense>
 </rdf:RDF>

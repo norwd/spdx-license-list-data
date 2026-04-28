@@ -1,7 +1,7 @@
 {
     "@graph": [
         {
-            "@id": "_:c5b748b3-72ae-47cb-8c08-3cfaeaf600f8",
+            "@id": "_:9467d9e9-762e-4c21-842a-83717312e5ce",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -15,7 +15,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/aws/mit-0",
-            "spdx:timestamp": "2026-04-23T18:27:30Z",
+            "spdx:timestamp": "2026-04-28T22:38:43Z",
             "spdx:order": {
                 "@value": "0",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -24,30 +24,7 @@
             "@type": "spdx:CrossRef"
         },
         {
-            "@id": "_:a740399b-8584-4f1e-a372-8036139d7917",
-            "spdx:isWayBackLink": {
-                "@value": "false",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isValid": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:isLive": {
-                "@value": "true",
-                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
-            },
-            "spdx:url": "https://romanrm.net/mit-zero",
-            "spdx:timestamp": "2026-04-23T18:27:31Z",
-            "spdx:order": {
-                "@value": "1",
-                "@type": "http://www.w3.org/2001/XMLSchema#int"
-            },
-            "spdx:match": "true",
-            "@type": "spdx:CrossRef"
-        },
-        {
-            "@id": "_:5c5dfcec-b8b5-45d9-ac10-20d4cf612201",
+            "@id": "_:bb18aeb5-444d-4d02-ae9b-5acbfae966ba",
             "spdx:isWayBackLink": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
@@ -61,7 +38,7 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:url": "https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE",
-            "spdx:timestamp": "2026-04-23T18:27:31Z",
+            "spdx:timestamp": "2026-04-28T22:38:44Z",
             "spdx:order": {
                 "@value": "2",
                 "@type": "http://www.w3.org/2001/XMLSchema#int"
@@ -71,21 +48,21 @@
         },
         {
             "@id": "http://spdx.org/licenses/MIT-0",
+            "spdx:crossRef": [
+                {
+                    "@id": "_:9467d9e9-762e-4c21-842a-83717312e5ce"
+                },
+                {
+                    "@id": "_:bb18aeb5-444d-4d02-ae9b-5acbfae966ba"
+                },
+                {
+                    "@id": "_:7ef99e2f-d872-4bef-a49f-9bd7fb11565e"
+                }
+            ],
             "spdx:isDeprecatedLicenseId": {
                 "@value": "false",
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
-            "spdx:crossRef": [
-                {
-                    "@id": "_:c5b748b3-72ae-47cb-8c08-3cfaeaf600f8"
-                },
-                {
-                    "@id": "_:a740399b-8584-4f1e-a372-8036139d7917"
-                },
-                {
-                    "@id": "_:5c5dfcec-b8b5-45d9-ac10-20d4cf612201"
-                }
-            ],
             "rdfs:seeAlso": [
                 "https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE",
                 "https://github.com/aws/mit-0",
@@ -101,6 +78,29 @@
                 "@type": "http://www.w3.org/2001/XMLSchema#boolean"
             },
             "spdx:licenseTextHtml": "\n      <div class=\"optional-license-text\"> \n        <p><var class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern The MIT-Zero License|MIT No Attribution|\"> MIT No Attribution</span></var></p>\n\n      </div>\n      <div class=\"replaceable-license-text\"><span title=\"can be replaced with the pattern .{0,5000}\"> \n        <p>\n          Copyright &lt;YEAR&gt; &lt;COPYRIGHT HOLDER&gt;\n        </p>\n\n      </span></div>\n\n      <p>\n        Permission is hereby granted, free of charge, to any person obtaining a copy of this\n        software and associated documentation files (the &quot;Software&quot;), to deal in the Software\n        without restriction, including without limitation the rights to use, copy, modify,\n        merge, publish, distribute, sublicense, and/or sell copies of the Software, and to\n        permit persons to whom the Software is furnished to do so.\n      </p>\n\n      <p>\n        THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,\n        INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A\n        PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT\n        HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\n        OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\n        SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n      </p>\n\n    "
+        },
+        {
+            "@id": "_:7ef99e2f-d872-4bef-a49f-9bd7fb11565e",
+            "spdx:isWayBackLink": {
+                "@value": "false",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isValid": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:isLive": {
+                "@value": "true",
+                "@type": "http://www.w3.org/2001/XMLSchema#boolean"
+            },
+            "spdx:url": "https://romanrm.net/mit-zero",
+            "spdx:timestamp": "2026-04-28T22:38:44Z",
+            "spdx:order": {
+                "@value": "1",
+                "@type": "http://www.w3.org/2001/XMLSchema#int"
+            },
+            "spdx:match": "true",
+            "@type": "spdx:CrossRef"
         }
     ],
     "@context": {
